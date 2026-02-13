@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Program Manager |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/GRC-Analyst_R18342-1) |
+| Category | Operations |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/GRC-Analyst_R18379-1) |
 
 ## About This Role
 
-This program manager position at Zoom was posted on 2026-01-30.
+This operations position at Zoom was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

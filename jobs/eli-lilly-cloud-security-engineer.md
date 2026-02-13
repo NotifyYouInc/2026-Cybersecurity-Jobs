@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Cloud Security Engineer at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cork, Munster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82367) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/Ireland-Cork/Cloud-Security-Engineer_R-100563-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-02.
+This cybersecurity engineer position at Eli Lilly was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

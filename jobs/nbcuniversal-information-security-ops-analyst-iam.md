@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Operations |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000106524116-information-security-ops-analyst-iam) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000107377072-information-security-ops-analyst-iam) |
 
 ## About This Role
 
-This operations position at NBCUniversal was posted on 2026-01-30.
+This operations position at NBCUniversal was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

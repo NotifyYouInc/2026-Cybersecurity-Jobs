@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Corporate Security Engineer at Asana
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82367) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7539899?gh_jid=7539899) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-02.
+This cybersecurity engineer position at Asana was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

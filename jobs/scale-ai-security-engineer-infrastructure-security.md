@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Security Engineer, Infrastructure & Security at Scale AI
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82367) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4651559005) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-02.
+This cybersecurity engineer position at Scale AI was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

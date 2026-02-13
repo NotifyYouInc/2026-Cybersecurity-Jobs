@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Cyber Security Engineer IV at SOSi
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Reston, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82367) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011543396-cyber-security-engineer-iv) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-02.
+This cybersecurity engineer position at SOSi was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Cybersecurity Engineer at Netcompany
+# Senior Information Security Engineer - Incident Response at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000107501695-senior-cybersecurity-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000107624756-senior-information-security-engineer-incident-response) |
 
 ## About This Role
 
-This cybersecurity engineer position at Netcompany was posted on 2026-02-05.
+This cybersecurity engineer position at LinkedIn was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

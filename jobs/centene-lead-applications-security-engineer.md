@@ -1,16 +1,16 @@
-# Senior Cybersecurity Engineer at Netcompany
+# Lead Applications Security Engineer at Centene
 
 | Field | Details |
 |-------|---------|
-| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Missouri, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000107501695-senior-cybersecurity-engineer) |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Lead-Applications-Security-Engineer_1629483) |
 
 ## About This Role
 
-This cybersecurity engineer position at Netcompany was posted on 2026-02-05.
+This cybersecurity engineer position at Centene was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

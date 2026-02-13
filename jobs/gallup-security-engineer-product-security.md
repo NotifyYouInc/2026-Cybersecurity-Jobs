@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4114426009) |
+| Posted | 2026-02-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4115528009) |
 
 ## About This Role
 
-This cybersecurity engineer position at Gallup was posted on 2026-01-30.
+This cybersecurity engineer position at Gallup was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

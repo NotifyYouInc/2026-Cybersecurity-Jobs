@@ -1,16 +1,16 @@
-# Senior Cybersecurity Engineer at Netcompany
+# Information Security System Officer (ISSO) at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Fairfax, Virginia, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000107501695-senior-cybersecurity-engineer) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Virginia-Fairfax/Information-Security-System-Officer--ISSO-_JR0280283) |
 
 ## About This Role
 
-This cybersecurity engineer position at Netcompany was posted on 2026-02-05.
+This cybersecurity engineer position at Intel was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

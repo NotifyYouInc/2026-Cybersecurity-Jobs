@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Sr Enterprise Security Engineer at Celonis
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82367) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7621083003?gh_jid=7621083003) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-02.
+This cybersecurity engineer position at Celonis was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

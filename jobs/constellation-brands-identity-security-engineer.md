@@ -1,16 +1,16 @@
-# Senior Cybersecurity Engineer at Netcompany
+# Identity Security Engineer at Constellation Brands
 
 | Field | Details |
 |-------|---------|
-| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000107501695-senior-cybersecurity-engineer) |
+| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Identity-Security-Architect_R-38813-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Netcompany was posted on 2026-02-05.
+This cybersecurity engineer position at Constellation Brands was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
