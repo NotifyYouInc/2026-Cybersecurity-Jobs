@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Senior Security Engineer - Northwest region  at GuidePoint Security
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5796500004?gh_jid=5796500004) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at GuidePoint Security was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Senior Network Systems Engineer at A-TEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
+| Company | [A-TEK](https://scoutify.ai/companies/a-tek?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/atek/jobs/5112167008) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This software engineer position at A-TEK was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

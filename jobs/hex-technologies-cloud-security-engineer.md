@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Cloud Security Engineer at Hex Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Hex Technologies](https://scoutify.ai/companies/hex-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://hex.tech/careers/5796562004/?gh_jid=5796562004) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Hex Technologies was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

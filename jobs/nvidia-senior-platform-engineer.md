@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Senior Platform Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York, US |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Platform-Engineer_JR2007802-1) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This software engineer position at Nvidia was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

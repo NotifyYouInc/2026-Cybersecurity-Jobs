@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Information Security Controls Automation Specialist at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107701120-information-security-controls-automation-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Experian was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Security Operations Manager at Teya
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Operations |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/fa3e19b5-fea6-4231-8967-fec60ffb8c56) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This operations position at Teya was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

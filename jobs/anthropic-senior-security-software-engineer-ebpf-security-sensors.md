@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Senior Security Software Engineer, eBPF & Security Sensors at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Switzerland |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5108521008) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This software engineer position at Anthropic was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

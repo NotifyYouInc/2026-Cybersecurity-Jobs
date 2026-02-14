@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Offensive Security Analyst at Industrial Alliance
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Quebec, CA |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Analyste-Scurit-Offensive_JR10025459) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Industrial Alliance was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Principal AI Security Developer at Verizon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 5 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Cary-North-Carolina/Principal-AI-Security-Developer_R-1090637) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Verizon was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

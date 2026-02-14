@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Infrastructure Engineer at Audax Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
+| Company | [Audax Group](https://scoutify.ai/companies/audaxgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/audaxgroup/jobs/4658654005) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This software engineer position at Audax Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

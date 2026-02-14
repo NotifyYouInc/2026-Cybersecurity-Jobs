@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Assoc Analyst Customer Projects at Medline
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Northfield, Minnesota, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Assoc-Analyst-Customer-Projects_R2602252) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Medline was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

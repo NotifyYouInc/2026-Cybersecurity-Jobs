@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Sr. Manager, Security Engineering at Illumio
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
+| Category | Operations |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/cd88a0ff-0ab8-4a5d-bb84-b03a76075ae8) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This operations position at Illumio was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

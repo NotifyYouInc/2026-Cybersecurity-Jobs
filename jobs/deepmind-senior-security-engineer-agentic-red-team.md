@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Senior Security Engineer, Agentic Red Team at DeepMind
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7596438) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This cybersecurity engineer position at DeepMind was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

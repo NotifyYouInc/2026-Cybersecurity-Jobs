@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Senior Software Engineer, Platform Infrastructure Security | Germany | Remote at Grafana Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
+| Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Germany |
 | Category | Software Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5735475004) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This software engineer position at Grafana Labs was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

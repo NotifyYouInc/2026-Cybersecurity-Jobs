@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Incident Response Analyst at CAE
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Toronto/Incident-Response-Analyst_119766) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This cybersecurity engineer position at CAE was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# Cyber Security Consultant - DevSecOps Champion at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United Kingdom |
+| Category | Devops Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92371) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This devops engineer position at IBM was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

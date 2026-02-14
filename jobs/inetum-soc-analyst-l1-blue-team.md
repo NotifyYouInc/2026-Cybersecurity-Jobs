@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# SOC Analyst L1 (Blue Team) at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Location | Ponta Delgada, Azores, Portugal |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107799436-soc-analyst-l1-blue-team) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This cybersecurity engineer position at Inetum was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

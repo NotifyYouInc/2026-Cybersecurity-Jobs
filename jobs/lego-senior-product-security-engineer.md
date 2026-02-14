@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Senior Product Security Engineer at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Senior-Product-Security-Engineer_0000031240) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at LEGO was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

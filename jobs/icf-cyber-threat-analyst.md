@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Cyber Threat Analyst at ICF
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA/Cyber-Threat-Analyst_R2503398) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at ICF was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Network Security Engineer at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/MDC--Montreal/Network-Security-Engineer_JR1036111-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at Synechron was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

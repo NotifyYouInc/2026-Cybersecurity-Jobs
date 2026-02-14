@@ -1,16 +1,16 @@
-# Network Engineer at Inetum
+# DevSecOps Engineer at Teya
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Devops Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/b7538eee-4d82-48a9-942e-5f03df565af8) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-06.
+This devops engineer position at Teya was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

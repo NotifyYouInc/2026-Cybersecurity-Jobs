@@ -1,16 +1,16 @@
-# Technical Consultant-Application Security at IBM
+# Senior Anti-Abuse Security Engineer at ActiveCampaign
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [ActiveCampaign](https://scoutify.ai/companies/activecampaign-llc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88146) |
+| Apply | [View on company site](https://jobs.lever.co/activecampaign/7baad9cb-5c48-4c93-a465-a36323691784) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-06.
+This cybersecurity engineer position at ActiveCampaign was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
