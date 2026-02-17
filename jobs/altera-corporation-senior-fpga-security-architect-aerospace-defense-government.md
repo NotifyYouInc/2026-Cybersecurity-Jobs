@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Jose, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-FPGA-Security-Architect--Aerospace--Defense---Government_R01967) |
 
 ## About This Role
 
-This solutions architect position at Altera Corporation was posted on 2026-02-03.
+This technical & solutions architect position at Altera Corporation was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

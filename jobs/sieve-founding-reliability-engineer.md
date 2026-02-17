@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Sieve](https://scoutify.ai/companies/sieve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sieve/070b2d5c-ced4-4237-a92f-16cc68b85882) |
 

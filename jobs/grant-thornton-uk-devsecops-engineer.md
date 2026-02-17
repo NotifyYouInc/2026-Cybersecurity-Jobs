@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Grant Thornton UK](https://scoutify.ai/companies/grant-thornton-uk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://ukgrantt.wd3.myworkdayjobs.com/careersgrantthornton/job/London/DevSecOps-Engineer_R1035654) |
 

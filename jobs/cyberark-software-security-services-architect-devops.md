@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107099336-security-services-architect-devops) |
 

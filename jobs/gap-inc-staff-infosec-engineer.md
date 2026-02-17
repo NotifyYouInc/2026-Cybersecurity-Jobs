@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/Spoke---Hyderabad/Staff-Infosec-Engineer_R206585) |
 

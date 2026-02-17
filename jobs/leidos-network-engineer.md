@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | Software Engineer |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Network-Engineer_R-00175099) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-03.
+This technical & solutions architect position at Leidos was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

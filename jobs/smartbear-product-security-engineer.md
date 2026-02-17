@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartBear](https://scoutify.ai/companies/smartbear?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7605483003) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7618556003) |
 
 ## About This Role
 
-This cybersecurity engineer position at SmartBear was posted on 2026-02-03.
+This cybersecurity engineer position at SmartBear was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

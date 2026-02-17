@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Principal-Engineer---Cybersecurity_REQ2025063709) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Principal-Discipline-Engineer_REQ2025066149) |
 
 ## About This Role
 
-This cybersecurity engineer position at Valeo was posted on 2026-02-03.
+This cybersecurity engineer position at Valeo was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

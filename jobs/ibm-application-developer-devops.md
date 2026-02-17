@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85902) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-04.
+This devops engineer position at IBM was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

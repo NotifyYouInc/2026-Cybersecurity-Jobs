@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1209670593889539) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-04.
+This devops engineer position at Meta was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

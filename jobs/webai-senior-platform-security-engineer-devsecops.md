@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [webAI](https://scoutify.ai/companies/webai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/webai/154d6ff6-9241-42a3-ad06-8f3dd827a1a0) |
 

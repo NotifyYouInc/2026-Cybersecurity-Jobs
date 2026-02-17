@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8402591002) |
 
 ## About This Role
 
-This software engineer position at DigiCert was posted on 2026-02-04.
+This devops engineer position at DigiCert was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 
