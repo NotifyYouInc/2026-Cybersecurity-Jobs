@@ -1,12 +1,12 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Chief Security Office– Cybersecurity engineer – AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Singapore, Singapore |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Chief-Security-Office--Cybersecurity-engineer---AVP_R0415881) |
 
 ## About This Role
 

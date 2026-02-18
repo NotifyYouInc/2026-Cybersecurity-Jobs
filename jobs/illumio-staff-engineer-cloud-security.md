@@ -1,16 +1,16 @@
-# Senior Product Security Engineer  at SmartBear
+# Staff Engineer, Cloud Security at Illumio
 
 | Field | Details |
 |-------|---------|
-| Company | [SmartBear](https://scoutify.ai/companies/smartbear?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7593159003) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/54fe5a37-ceb6-4d02-88ae-deb399fde798) |
 
 ## About This Role
 
-This software engineer position at SmartBear was posted on 2026-02-09.
+This software engineer position at Illumio was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Information Security Forensics Analyst at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Pune-Maharashtra-India/Information-Security-Forensics-Analyst_R0069754-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This cybersecurity engineer position at Global Payments was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

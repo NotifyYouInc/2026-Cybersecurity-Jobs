@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Security Technical Lead at PTC
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Security-Technical-Lead_JR111542) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This software engineer position at PTC was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

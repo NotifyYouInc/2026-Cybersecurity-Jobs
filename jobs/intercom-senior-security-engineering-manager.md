@@ -1,16 +1,16 @@
-# Senior Product Security Engineer  at SmartBear
+# Senior Security Engineering Manager at Intercom
 
 | Field | Details |
 |-------|---------|
-| Company | [SmartBear](https://scoutify.ai/companies/smartbear?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7593159003) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7601731) |
 
 ## About This Role
 
-This software engineer position at SmartBear was posted on 2026-02-09.
+This software engineer position at Intercom was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

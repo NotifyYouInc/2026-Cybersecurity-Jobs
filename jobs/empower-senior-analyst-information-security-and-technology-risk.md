@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Senior Analyst Information Security and Technology Risk at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Karnataka, IN |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Analyst-Information-Security-and-Technology-Risk_R0056443) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This cybersecurity engineer position at Empower was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

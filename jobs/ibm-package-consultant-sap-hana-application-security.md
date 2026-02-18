@@ -1,16 +1,16 @@
-# IT Security Architect (m/w/d) at Syntegon Technology
+# Package Consultant - SAP HANA Application Security at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Calgary, Alberta, Canada |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000108583415-it-security-architect-mwd) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92879) |
 
 ## About This Role
 
-This technical & solutions architect position at Syntegon Technology was posted on 2026-02-10.
+This technical & solutions architect position at IBM was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

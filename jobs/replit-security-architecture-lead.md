@@ -1,16 +1,16 @@
-# IT Security Architect (m/w/d) at Syntegon Technology
+# Security Architecture Lead at Replit
 
 | Field | Details |
 |-------|---------|
-| Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Company | [Replit](https://scoutify.ai/companies/replit?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Foster City, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000108583415-it-security-architect-mwd) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/replit/e62af1d6-6cef-465a-80a1-a2e80e1f54a6) |
 
 ## About This Role
 
-This technical & solutions architect position at Syntegon Technology was posted on 2026-02-10.
+This technical & solutions architect position at Replit was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

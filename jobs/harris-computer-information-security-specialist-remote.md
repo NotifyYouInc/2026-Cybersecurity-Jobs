@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Information Security Specialist (Remote) at Harris Computer
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Texas, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Information-Security-Specialist--Remote-_R0039924) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This cybersecurity engineer position at Harris Computer was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

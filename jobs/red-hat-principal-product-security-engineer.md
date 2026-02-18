@@ -1,16 +1,16 @@
-# IT Security Architect (m/w/d) at Syntegon Technology
+# Principal Product Security Engineer at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 3 locations |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000108583415-it-security-architect-mwd) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Principal-Product-Security-Engineer_R-053024-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Syntegon Technology was posted on 2026-02-10.
+This technical & solutions architect position at Red Hat was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

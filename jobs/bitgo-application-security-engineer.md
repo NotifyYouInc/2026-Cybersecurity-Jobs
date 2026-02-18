@@ -1,16 +1,16 @@
-# Product Security Engineer, Programs at Anduril
+# Application Security Engineer at BitGo
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5042721007?gh_jid=5042721007) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/7821447002) |
 
 ## About This Role
 
-This cybersecurity engineer position at Anduril was posted on 2026-02-04.
+This cybersecurity engineer position at BitGo was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

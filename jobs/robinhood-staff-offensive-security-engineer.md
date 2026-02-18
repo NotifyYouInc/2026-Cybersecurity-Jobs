@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Staff Offensive Security Engineer at Robinhood
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7460169?t=gh_src=&gh_jid=7460169) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This cybersecurity engineer position at Robinhood was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

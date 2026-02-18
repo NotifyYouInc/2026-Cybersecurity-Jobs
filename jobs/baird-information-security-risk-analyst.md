@@ -1,16 +1,16 @@
-# Information Security Analyst, AS at Deutsche Bank
+# Information Security Risk Analyst at Baird
 
 | Field | Details |
 |-------|---------|
-| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Technology-Analyst--AVP_R0370989) |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Information-Security-Risk-Analyst_R2026238-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Bank was posted on 2026-02-10.
+This cybersecurity engineer position at Baird was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Network Engineer at Leidos
+# Sr. Security Operations Analyst at OpenGov
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Suitland, Maryland, United States |
+| Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Network-Engineer_R-00175484) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/304536d4-3c8f-43e1-8d6d-69a42d982aff) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-06.
+This operations position at OpenGov was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
