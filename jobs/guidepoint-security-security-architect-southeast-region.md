@@ -1,16 +1,16 @@
-# Application Architect-SAP HANA Application Security at IBM
+# Security Architect - Southeast region  at GuidePoint Security
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88189) |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5800007004?gh_jid=5800007004) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-11.
+This technical & solutions architect position at GuidePoint Security was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

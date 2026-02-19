@@ -1,16 +1,16 @@
-# Application Architect-SAP HANA Application Security at IBM
+# Principal / Senior Principal, Security Architect at Lila Sciences
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88189) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4121314009) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-11.
+This technical & solutions architect position at Lila Sciences was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

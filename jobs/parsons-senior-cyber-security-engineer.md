@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Senior Cyber Security Engineer at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Huntsville, Alabama, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Senior-Cyber-Security-Engineer_R177253-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at Parsons was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

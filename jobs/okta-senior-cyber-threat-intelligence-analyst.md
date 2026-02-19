@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Senior Cyber Threat Intelligence Analyst at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Spain |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7544426?gh_jid=7544426) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at Okta was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Head, Information Security at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Harare, Harare, Zimbabwe |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000108843190-head-information-security) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at Standard Bank was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

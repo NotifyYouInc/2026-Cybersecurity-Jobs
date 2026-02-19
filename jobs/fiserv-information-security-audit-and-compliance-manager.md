@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Information Security Audit and Compliance Manager at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Marietta-Georgia/Information-Security-Audit-and-Compliance-Manager_R-10380931) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at Fiserv was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

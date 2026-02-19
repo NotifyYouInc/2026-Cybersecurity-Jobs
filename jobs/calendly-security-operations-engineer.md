@@ -1,16 +1,16 @@
-# Application Architect-SAP HANA Application Security at IBM
+# Security Operations Engineer at Calendly
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
+| Company | [Calendly](https://scoutify.ai/companies/calendly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
+| Category | Operations |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88189) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8418836002) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-11.
+This operations position at Calendly was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

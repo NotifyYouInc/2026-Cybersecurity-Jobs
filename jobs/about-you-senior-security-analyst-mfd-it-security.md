@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Senior Security Analyst  (m/f/d) - IT Security at About You
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000108697517-senior-security-analyst-mfd-it-security) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at About You was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

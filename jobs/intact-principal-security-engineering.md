@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Principal, Security Engineering at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Principal--Security-Engineering_R151526) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at Intact was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

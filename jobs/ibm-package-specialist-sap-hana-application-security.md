@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Kochi, Kerala, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90438) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90816) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-04.
+This cybersecurity engineer position at IBM was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

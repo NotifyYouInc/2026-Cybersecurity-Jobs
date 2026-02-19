@@ -1,16 +1,16 @@
-# Senior Data Security Engineer at J.S. Held
+# Cloud Security Engineer at SOSi
 
 | Field | Details |
 |-------|---------|
-| Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000108832393-senior-data-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011641106-cloud-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-02-11.
+This cybersecurity engineer position at SOSi was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Architect-SAP HANA Application Security at IBM
+# Senior Application Security Engineer at SoFi
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
+| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York, US |
+| Category | Software Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88189) |
+| Apply | [View on company site](https://sofi.com/careers/job/7628922003?gh_jid=7628922003) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-11.
+This software engineer position at SoFi was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
