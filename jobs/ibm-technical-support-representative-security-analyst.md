@@ -1,16 +1,16 @@
-# Cybersecurity Analyst at Unisys
+# Technical Support Representative-Security Analyst at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Karnataka, IN |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ570975) |
+| Category | Customer Success |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93115) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unisys was posted on 2026-02-09.
+This customer success position at IBM was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

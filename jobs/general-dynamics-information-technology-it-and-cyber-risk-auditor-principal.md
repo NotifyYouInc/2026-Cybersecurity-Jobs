@@ -1,16 +1,16 @@
-# Cybersecurity Engineer at General Dynamics Information Technology
+# IT and Cyber Risk Auditor Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Maryland, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cybersecurity-Engineer_RQ213315) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-La-Plata/IT-and-Cyber-Risk-Auditor-Principal_RQ214745-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-11.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Senior Consultants- Cyber Offensive Security at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mauritius |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630667003) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Moka/Senior-Associate---Cyber-Offensive-Security_682621WD) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sigma Computing was posted on 2026-02-13.
+This cybersecurity engineer position at PwC was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

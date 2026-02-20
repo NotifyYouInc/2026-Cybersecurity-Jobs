@@ -1,16 +1,16 @@
-# Sr Analyst I Information Security at DXC Technology
+# Application Security Engineer at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 10 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Information-Security_51560033) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Application-Security-Engineer_R-784104) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-02-12.
+This cybersecurity engineer position at State Street was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

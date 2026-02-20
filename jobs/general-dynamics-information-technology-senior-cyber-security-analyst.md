@@ -1,16 +1,16 @@
-# Cybersecurity Engineer at General Dynamics Information Technology
+# Senior Cyber Security Analyst at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cybersecurity-Engineer_RQ213315) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Cyber-Security-Analyst_RQ214852-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-11.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

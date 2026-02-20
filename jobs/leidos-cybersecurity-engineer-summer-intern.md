@@ -1,16 +1,16 @@
-# Sr Analyst I Information Security at DXC Technology
+# Cybersecurity Engineer Summer Intern at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Information-Security_51560033) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Engineer-Summer-Intern_R-00175965) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-02-12.
+This cybersecurity engineer position at Leidos was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Analyst I Information Security at DXC Technology
+# Senior Security Engineer, SaaS Protection at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Information-Security_51560033) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/95124702086734534-senior-security-engineer-saas-protection?sort_by=date&page=1) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-02-12.
+This cybersecurity engineer position at Google was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

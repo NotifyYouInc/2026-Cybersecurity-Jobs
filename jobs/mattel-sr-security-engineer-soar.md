@@ -1,16 +1,16 @@
-# Cybersecurity Analyst at Unisys
+#  Sr. Security Engineer -  SOAR at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ570975) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000108925975-sr-security-engineer-soar) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unisys was posted on 2026-02-09.
+This cybersecurity engineer position at Mattel was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

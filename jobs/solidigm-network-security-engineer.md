@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Network Security Engineer at Solidigm
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630667003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000109145535-network-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sigma Computing was posted on 2026-02-13.
+This cybersecurity engineer position at Solidigm was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

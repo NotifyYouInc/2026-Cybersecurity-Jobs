@@ -1,16 +1,16 @@
-# Sr Analyst I Information Security at DXC Technology
+# Network Security Engineer at NorthMark Strategies
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [NorthMark Strategies](https://scoutify.ai/companies/northmark?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Information-Security_51560033) |
+| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Network-Security-Engineer_R12969) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-02-12.
+This cybersecurity engineer position at NorthMark Strategies was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

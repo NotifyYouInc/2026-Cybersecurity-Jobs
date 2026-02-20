@@ -1,16 +1,16 @@
-# Cybersecurity Analyst at Unisys
+# Senior Security Analyst at Gunvor
 
 | Field | Details |
 |-------|---------|
-| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ570975) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Senior-Security-Analyst_JR102498) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unisys was posted on 2026-02-09.
+This cybersecurity engineer position at Gunvor was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

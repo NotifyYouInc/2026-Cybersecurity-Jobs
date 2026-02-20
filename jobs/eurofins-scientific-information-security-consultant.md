@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107516835-information-security-consultant) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107660886-information-security-consultant) |
 
 ## About This Role
 
-This program manager position at Eurofins Scientific was posted on 2026-02-05.
+This program manager position at Eurofins Scientific was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
