@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Senior Security Penetration Tester at Neoris
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brazil |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4781402101) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at Neoris was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

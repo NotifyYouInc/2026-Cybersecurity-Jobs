@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Security Scanning Automation Engineer at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89996) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This devops engineer position at IBM was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

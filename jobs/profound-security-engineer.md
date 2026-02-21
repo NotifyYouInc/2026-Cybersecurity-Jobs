@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Security Engineer at Profound
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Profound](https://scoutify.ai/companies/profound?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/profound/d3063f9e-bfa7-412c-812c-57401a697449) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at Profound was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

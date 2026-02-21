@@ -1,16 +1,16 @@
-# Security Engineer (Penetration Tester) at StraitsX
+# Security Engineer, Penetration Tester at StraitsX
 
 | Field | Details |
 |-------|---------|
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4776114101) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4775041101) |
 
 ## About This Role
 
-This cybersecurity engineer position at StraitsX was posted on 2026-02-06.
+This cybersecurity engineer position at StraitsX was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

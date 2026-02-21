@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Network & Security Engineer at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109162406-network-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at Talan was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# (USA) Principal, Software Engineer, Information Security at Walmart
+# Senior Incident Response Engineer (Purple Team) at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Principal--Software-Engineer--Information-Security_R-2416868) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-HERNDON-VA-TECH-FACILITY-VA-Herndon-Home-Office/Senior-Incident-Response-Engineer--Purple-Team-_R-2414219) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-13.
+This cybersecurity engineer position at Walmart was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

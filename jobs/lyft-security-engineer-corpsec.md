@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Security Engineer, CorpSec at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8421525002?gh_jid=8421525002) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at Lyft was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

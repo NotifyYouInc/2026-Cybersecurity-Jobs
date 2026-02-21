@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Information Security Engineer at IMC Trading
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4742839101) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at IMC Trading was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

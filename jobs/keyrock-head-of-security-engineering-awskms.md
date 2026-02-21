@@ -1,16 +1,16 @@
-# Senior DevSecOps Engineer at Leidos
+# Head of Security Engineering (AWS/KMS) at Keyrock
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lorton, Virginia, United States |
+| Company | [Keyrock](https://scoutify.ai/companies/keyrock?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Senior-DevSecOps-Engineer_R-00176039-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/keyrock/9dc882fb-df74-4142-884a-6dbaac16a0fb) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-13.
+This devops engineer position at Keyrock was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

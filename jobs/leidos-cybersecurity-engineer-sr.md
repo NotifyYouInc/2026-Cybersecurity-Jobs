@@ -1,16 +1,16 @@
-# Package Specialist-SAP HANA Application Security at IBM
+# Cybersecurity Engineer, Sr. at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Maryland, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78537) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Aberdeen-Proving-Ground-MD/Cybersecurity-Engineer--Sr_R-00175859) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-02-10.
+This cybersecurity engineer position at Leidos was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
