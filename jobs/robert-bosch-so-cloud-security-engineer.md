@@ -1,16 +1,16 @@
-# Cyber Threat Intelligence Analyst (f/m/div.) (Salary: ~118.000 EUR p.a.*) at Robert Bosch
+# SO_Cloud_Security_Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108451655-cyber-threat-intelligence-analyst-fmdiv-salary-118000-eur-pa) |
+| Location | India |
+| Category | Security Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109640240-so-cloud-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-02-10.
+This security engineer position at Robert Bosch was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
