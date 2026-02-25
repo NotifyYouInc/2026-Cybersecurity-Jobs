@@ -5,12 +5,12 @@
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Operations |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000107855465-supervisor-security-operations-center) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000109305545-supervisor-security-operations-center) |
 
 ## About This Role
 
-This operations position at Wynn Resorts was posted on 2026-02-07.
+This operations position at Wynn Resorts was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

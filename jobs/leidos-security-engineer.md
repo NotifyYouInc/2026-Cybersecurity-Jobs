@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Ashburn, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Security-Engineer_R-00175416) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Security-Engineer_R-00175837) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-02-10.
+This cybersecurity engineer position at Leidos was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
