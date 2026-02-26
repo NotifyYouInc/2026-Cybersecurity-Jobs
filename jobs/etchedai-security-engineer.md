@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Security Engineer at Etched.ai
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Etched.ai](https://scoutify.ai/companies/etched?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Jose, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/etched/5bbcfd60-5917-4698-a7fc-d7e6bb16da62) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Etched.ai was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Team Lead PAM - Cybersécurité - Toulouse at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Colomiers, Occitanie, France |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109983661-team-lead-pam-cybersecurite-toulouse) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Sopra Steria was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

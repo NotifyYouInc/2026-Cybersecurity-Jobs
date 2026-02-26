@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Cybersecurity Analyst at Amentum
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Norfolk/Cybersecurity-Analyst_R0154249-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Amentum was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

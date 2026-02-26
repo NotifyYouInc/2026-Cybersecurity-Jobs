@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Security Architect at SteerBridge
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [SteerBridge](https://scoutify.ai/companies/steerbridge?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Vienna, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.lever.co/steerbridge/b775691b-9429-4928-a9ef-6034b9462cdc) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at SteerBridge was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

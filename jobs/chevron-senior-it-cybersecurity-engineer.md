@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Senior IT Cybersecurity Engineer at Chevron
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Senior-IT-Cybersecurity-Engineer_R000067753) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Chevron was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

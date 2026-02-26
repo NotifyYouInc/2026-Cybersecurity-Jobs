@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Manager, Identity Access Management at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Manager--Identity-Access-Management_R039635) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Ensemble Health Partners was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

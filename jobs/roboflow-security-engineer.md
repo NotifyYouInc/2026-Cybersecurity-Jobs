@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Security Engineer at Roboflow
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Roboflow](https://scoutify.ai/companies/roboflow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/roboflow/b901822f-46c5-4d03-8e6e-bba36bd1e11f) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Roboflow was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

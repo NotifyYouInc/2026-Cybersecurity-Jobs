@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# DevSecOps Engineer @ING Hubs RO at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/DevSecOps-Engineer--ING-Hubs-RO_REQ-10109440) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at ING was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

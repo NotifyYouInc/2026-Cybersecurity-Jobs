@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Security Specialist at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Security-Specialist_147900-2) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Lloyds Bank was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

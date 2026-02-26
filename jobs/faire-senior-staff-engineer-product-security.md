@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Senior Staff Engineer - Product Security at Faire
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8428258002?gh_jid=8428258002) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Faire was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

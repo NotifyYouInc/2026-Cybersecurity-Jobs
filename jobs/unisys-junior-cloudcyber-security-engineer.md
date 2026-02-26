@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Junior Cloud/Cyber security Engineer at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pennsylvania, US |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Junior-Cloud-Cyber-security-Engineer_REQ571030) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Unisys was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

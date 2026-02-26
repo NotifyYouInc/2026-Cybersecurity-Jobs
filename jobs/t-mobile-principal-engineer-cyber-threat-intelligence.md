@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Principal Engineer, Cyber Threat Intelligence at T-Mobile
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Principal-Engineer--Cyber-Threat-Intelligence_REQ346132) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at T-Mobile was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

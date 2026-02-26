@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Telecom Network Security Architect at Duke Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 4 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Telecom-Network-Security-Architect_R38532) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Duke Energy was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

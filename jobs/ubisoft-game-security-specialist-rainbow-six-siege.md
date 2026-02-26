@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Game Security Specialist - Rainbow Six Siege at Ubisoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000109989491-game-security-specialist-rainbow-six-siege) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Ubisoft was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

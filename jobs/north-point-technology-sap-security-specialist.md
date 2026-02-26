@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# SAP Security Specialist at North Point Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8427485002) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at North Point Technology was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

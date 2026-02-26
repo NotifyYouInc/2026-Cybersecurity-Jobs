@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Contract Identity/Access Management IT Analyst at Ovintiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Ovintiv](https://scoutify.ai/companies/ovintiv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 3 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Calgary-AB-CA/Contract-Identity-Access-Management-IT-Analyst_R2515) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Ovintiv was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

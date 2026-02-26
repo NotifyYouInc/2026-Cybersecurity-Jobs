@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Cyber Cloud Security Lead - Integrated Cloud Consulting (Location Flexible) at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 7 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cloud-Security-Lead_JR117064) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at RSM was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

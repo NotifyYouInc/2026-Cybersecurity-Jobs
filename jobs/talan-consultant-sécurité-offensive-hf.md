@@ -1,16 +1,16 @@
-# Junior Application Security Analyst (SDLC & Containers) at Talan
+# Consultant Sécurité Offensive - H/F at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Spain |
-| Category | Security Engineer |
+| Location | Paris, Île-de-France, France |
+| Category | Offensive Security & Pentesting |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109927265-junior-application-security-analyst-sdlc-containers) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109988225-consultant-securite-offensive-hf) |
 
 ## About This Role
 
-This security engineer position at Talan was posted on 2026-02-18.
+This offensive security & pentesting position at Talan was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Technical Analyst - CyberArk at Shell
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Technical-Analyst---CyberArk_R193693) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Shell was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

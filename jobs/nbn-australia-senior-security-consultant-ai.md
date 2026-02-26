@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Senior Security Consultant AI at NBN Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Melbourne/Senior-Security-Consultant-AI_240209) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at NBN Australia was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

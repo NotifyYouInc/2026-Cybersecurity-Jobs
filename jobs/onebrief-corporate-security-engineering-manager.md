@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Corporate Security Engineering Manager at Onebrief
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Onebrief](https://scoutify.ai/companies/onebrief?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
+| Category | Engineering Manager |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/onebrief/1aee7172-dcd6-4937-bb79-062983fefc5e) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This engineering manager position at Onebrief was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

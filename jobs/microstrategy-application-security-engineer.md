@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Application Security Engineer at MicroStrategy
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000109938141-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at MicroStrategy was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

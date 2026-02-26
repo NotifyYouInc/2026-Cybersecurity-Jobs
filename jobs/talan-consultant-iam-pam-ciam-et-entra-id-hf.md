@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# Consultant IAM, PAM, CIAM et Entra ID - H/F at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109986695-consultant-iam-pam-ciam-et-entra-id-hf) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Talan was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

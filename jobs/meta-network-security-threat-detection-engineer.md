@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Network Security Threat Detection Engineer at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3051510635057449) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Meta was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

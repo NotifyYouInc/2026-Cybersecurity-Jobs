@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Information Security Engineer at Algolia
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Algolia](https://scoutify.ai/companies/algolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/algolia/jobs/5699119004) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Algolia was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

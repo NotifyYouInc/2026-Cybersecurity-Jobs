@@ -1,16 +1,16 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Senior Security Analyst at Ebury
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4779528101) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-17.
+This security engineer position at Ebury was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

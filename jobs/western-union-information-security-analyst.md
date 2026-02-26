@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Ana, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/CRI---Santa-Ana/Information-Security-Analyst_JR0128595) |
+| Location | Pune, Maharashtra, India |
+| Category | Security Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Information-Security-Analyst_JR0128567) |
 
 ## About This Role
 
-This cybersecurity engineer position at Western Union was posted on 2026-02-11.
+This security engineer position at Western Union was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

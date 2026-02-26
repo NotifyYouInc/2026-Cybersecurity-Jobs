@@ -1,16 +1,16 @@
-# Principal AI Security Researcher at Leidos
+# ERP Security Manager at Smith+Nephew
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Wroclaw/ERP-Security-Manager_R88338) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-18.
+This security engineer position at Smith+Nephew was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
