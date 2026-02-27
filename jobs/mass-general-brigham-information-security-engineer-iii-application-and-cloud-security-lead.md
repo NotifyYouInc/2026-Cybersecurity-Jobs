@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Information-Security-Engineer-III---Application-Security-Lead_RQ4009859) |
+| Category | Security Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Information-Security-Engineer-III--Application-and-Cloud-Security-Lead_RQ4052095-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mass General Brigham was posted on 2026-02-09.
+This security engineer position at Mass General Brigham was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

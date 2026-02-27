@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000109651721-head-of-security-advisory) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000109771282-head-of-security-advisory) |
 
 ## About This Role
 

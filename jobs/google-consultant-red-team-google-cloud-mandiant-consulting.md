@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Denmark |
+| Location | Belgium |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137589241310782150-consultant-red-team-google-cloud-mandiant-consulting?sort_by=date&page=1) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/102614291827303110-consultant-red-team-google-cloud-mandiant-consulting?sort_by=date&page=1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Google was posted on 2026-02-17.
+This offensive security & pentesting position at Google was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

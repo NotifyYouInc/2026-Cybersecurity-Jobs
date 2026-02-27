@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | DevOps Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4775900101) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4785912101) |
 
 ## About This Role
 
-This devops engineer position at Ebury was posted on 2026-02-05.
+This security engineer position at Ebury was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

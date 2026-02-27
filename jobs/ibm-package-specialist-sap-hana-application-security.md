@@ -1,12 +1,12 @@
-# Package specialist-SAP HANA Application Security at IBM
+# Package Specialist-SAP HANA Application Security at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Security Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93589) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93827) |
 
 ## About This Role
 

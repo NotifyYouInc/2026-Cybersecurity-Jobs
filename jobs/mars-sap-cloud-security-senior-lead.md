@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Guararema, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/POL-Mazowieckie-Warsaw/SAP-Cloud-Security-Senior-Lead_R149007-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/BRA-Sao-Paulo-Guararema/SAP-Cloud-Security-Senior-Lead_R149004) |
 
 ## About This Role
 
-This security engineer position at Mars was posted on 2026-02-17.
+This security engineer position at Mars was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

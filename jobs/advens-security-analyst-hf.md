@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advens](https://scoutify.ai/companies/advens?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quebec, CA |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000107726438-security-analyst-hf) |
+| Location | Montréal, Quebec, Canada |
+| Category | Security Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000110215014-security-analyst-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Advens was posted on 2026-02-06.
+This security engineer position at Advens was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
