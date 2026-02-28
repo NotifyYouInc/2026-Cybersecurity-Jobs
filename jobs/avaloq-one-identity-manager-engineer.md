@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# One Identity Manager Engineer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Switzerland |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000110426076-one-identity-manager-engineer) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Avaloq was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

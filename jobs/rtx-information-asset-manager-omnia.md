@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Information Asset Manager (OMNIA) at RTX
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Warminster, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Warminster-Wiltshire/Information-Asset-Manager--OMNIA-_01800407-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at RTX was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

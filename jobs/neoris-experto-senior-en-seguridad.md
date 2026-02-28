@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Experto Senior en Seguridad at Neoris
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Lima, Lima Province, Peru |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4785721101) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Neoris was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

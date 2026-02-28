@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Security Engineer at LIV Golf
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [LIV Golf](https://scoutify.ai/companies/liv-golf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/liv-golf/ebf91c7c-9548-4dbd-bd8d-16bf5d36ee0c) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at LIV Golf was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

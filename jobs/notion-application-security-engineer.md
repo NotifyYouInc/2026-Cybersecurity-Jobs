@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Application Security Engineer at Notion
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Notion was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

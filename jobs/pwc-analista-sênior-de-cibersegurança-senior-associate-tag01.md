@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Analista Sênior de Cibersegurança | Senior Associate [tag01] at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brazil |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/So-Paulo/Analista-Snior-de-Cibersegurana---Senior-Associate--tag01-_702313WD) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at PwC was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

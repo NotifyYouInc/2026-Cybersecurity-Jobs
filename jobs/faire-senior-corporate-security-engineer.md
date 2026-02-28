@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Senior Corporate Security Engineer at Faire
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8305507002?gh_jid=8305507002) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Faire was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

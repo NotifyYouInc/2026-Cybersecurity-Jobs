@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Cybersecurity Engineer at Catalent
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Morrisville, North Carolina, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Morrisville-NC/Cybersecurity-Engineer_0092831) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Catalent was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

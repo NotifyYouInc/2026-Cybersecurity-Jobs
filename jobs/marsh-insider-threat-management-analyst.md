@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Insider Threat Management Analyst at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Cluj-Napoca---Decembrie/Insider-Threat-Management-Analyst_R_330445) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Marsh was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Team Lead beheer MLAN at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Amersfoort, Utrecht, The Netherlands |
+| Category | SOC & Incident Response |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110407865-team-lead-beheer-mlan) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This soc & incident response position at KPN was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

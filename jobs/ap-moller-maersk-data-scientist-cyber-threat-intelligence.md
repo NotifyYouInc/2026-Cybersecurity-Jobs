@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Data Scientist – Cyber Threat Intelligence at A.P. Moller - Maersk
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Bangalore/Cyber-Analyst_R173341) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at A.P. Moller - Maersk was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Security Engineer, Cloud Security Operations at Genesys
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Security-Engineer--Cloud-Security-Operations_JR110146-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Genesys was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

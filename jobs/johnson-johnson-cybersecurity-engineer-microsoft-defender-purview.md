@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Cybersecurity Engineer (Microsoft Defender, Purview) at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brazil |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Paulo-Brazil/Sr-Anlst-Sec-Cont_R-056795) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Johnson & Johnson was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

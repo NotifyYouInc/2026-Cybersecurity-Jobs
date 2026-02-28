@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Application Security Engineer at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hawthorne, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8426398002?gh_jid=8426398002) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at SpaceX was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

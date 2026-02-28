@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Product Security Engineer (m/f/x) at Scalable Capital
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000110348863-product-security-engineer-mfx) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Scalable Capital was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

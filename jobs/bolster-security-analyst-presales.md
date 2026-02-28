@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Security Analyst, Presales at Bolster
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Bolster](https://scoutify.ai/companies/bolster?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.lever.co/bolster/ce41ee71-d27c-449b-9f5c-5239699dcaf8) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Bolster was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Systems Engineer - IAM at Replit
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Replit](https://scoutify.ai/companies/replit?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Foster City, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/replit/6fc855ec-0cbe-45a2-9907-71a15c5d188b) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at Replit was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# PKI Consultant at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Apeldoorn, Gelderland, The Netherlands |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110339738-pki-consultant) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This security engineer position at KPN was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

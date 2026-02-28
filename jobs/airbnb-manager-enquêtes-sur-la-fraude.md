@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Manager, Enquêtes sur la fraude at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Alberta, CA |
+| Category | SOC & Incident Response |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7535583?gh_jid=7535583) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-20.
+This soc & incident response position at Airbnb was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

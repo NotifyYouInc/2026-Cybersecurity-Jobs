@@ -1,16 +1,16 @@
-# Intern, Corporate Security at Constellation Brands
+# Manager Insider Threat Operations at TransUnion
 
 | Field | Details |
 |-------|---------|
-| Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | SOC & Incident Response |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Field-Office---CA---San-FranciscoSan-MateoSanta-ClaraMarin/Intern--Corporate-Security_R-39470) |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Manager--Insider-Threat-Operations_19038283) |
 
 ## About This Role
 
-This soc & incident response position at Constellation Brands was posted on 2026-02-20.
+This soc & incident response position at TransUnion was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
