@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Senior OT Cybersecurity Engineer at Chevron
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/OT-Cyber-Technical-Execution-Engineer_R000067702) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-02-23.
+This security engineer position at Chevron was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

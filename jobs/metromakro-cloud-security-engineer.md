@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Cloud Security Engineer  at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000110679128-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-02-23.
+This security engineer position at METRO/MAKRO was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

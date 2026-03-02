@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Senior Manager - Network Security at Altera Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Penang, MY |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-16-Penang-Malaysia/Senior-Manager---Network-Security_R01979) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-02-23.
+This security engineer position at Altera Corporation was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

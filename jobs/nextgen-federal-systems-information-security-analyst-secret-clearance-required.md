@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Information Security Analyst (Secret Clearance Required) at NextGen Federal Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [NextGen Federal Systems](https://scoutify.ai/companies/nextgenfed?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pennsylvania, US |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://jobs.lever.co/nextgenfed/155574d1-3f1f-4596-9456-05a77a66fa34) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-02-23.
+This security engineer position at NextGen Federal Systems was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

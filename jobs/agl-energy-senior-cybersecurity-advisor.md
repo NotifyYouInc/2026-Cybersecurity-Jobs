@@ -1,16 +1,16 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Senior Cybersecurity Advisor at AGL Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Senior-Cybersecurity-Advisor_R-0022206-1) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-02-23.
+This security engineer position at AGL Energy was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

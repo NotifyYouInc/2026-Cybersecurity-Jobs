@@ -1,4 +1,4 @@
-# Security Engineer Graduate Intern (Summer 2026) at Sigma Computing
+# Product Security Graduate Intern (Summer 2026) at Sigma Computing
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639808003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639806003) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Chandler, Arizona, United States |
 | Category | Security Engineer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Classified-Cybersecurity-Analyst---Secret_R10221761) |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Classified-Cybersecurity-Analyst---Secret_R10222975) |
 
 ## About This Role
 
