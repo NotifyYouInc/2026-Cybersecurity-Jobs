@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108237675-red-team-engineer-detection-use-cases) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110827449-red-team-engineer-detection-use-cases) |
 
 ## About This Role
 
-This cybersecurity engineer position at Inetum was posted on 2026-02-09.
+This offensive security & pentesting position at Inetum was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

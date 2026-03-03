@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000109984738-system-analyst-2-cms-mars-e-v22-ssp-development) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000110201676-system-analyst-2-cms-mars-e-v22-ssp-development) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-02-18.
+This security engineer position at VTekis Consulting LLP was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
