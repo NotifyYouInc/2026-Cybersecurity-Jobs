@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=89430) |
+| Category | SOC & Incident Response |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=65947) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-01-30.
+This soc & incident response position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

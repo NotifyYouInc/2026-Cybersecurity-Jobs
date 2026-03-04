@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | France |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000110328857-architecte-iam-cybersecurite-hf) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000111052248-architecte-iam-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Meritis was posted on 2026-02-20.
+This security engineer position at Meritis was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

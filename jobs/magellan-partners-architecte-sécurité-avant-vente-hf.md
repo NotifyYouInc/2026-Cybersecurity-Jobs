@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000109668667-architecte-securite-avant-vente-hf) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000111038916-architecte-securite-avant-vente-hf) |
 
 ## About This Role
 
-This security engineer position at Magellan Partners was posted on 2026-02-17.
+This security engineer position at Magellan Partners was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

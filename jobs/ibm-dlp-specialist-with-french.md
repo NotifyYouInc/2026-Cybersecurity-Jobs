@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94847) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83063) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-02-17.
+This soc & incident response position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

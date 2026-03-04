@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | SOC & Incident Response |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7641207) |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7641658) |
 
 ## About This Role
 

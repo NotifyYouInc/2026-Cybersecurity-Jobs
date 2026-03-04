@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93544) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94987) |
 
 ## About This Role
 
