@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92236477240353478-senior-cybersecurity-advisor-office-of-the-ciso?sort_by=date&page=1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133675593022481094-senior-cybersecurity-advisor-office-of-the-ciso?sort_by=date&page=1) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-02-23.
+This security engineer position at Google was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

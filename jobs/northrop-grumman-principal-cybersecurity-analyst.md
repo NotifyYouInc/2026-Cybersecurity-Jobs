@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Principal-Cybersecurity-Analyst_R10221220) |
+| Location | Huntsville, Alabama, United States |
+| Category | Security Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal-Cybersecurity-Analyst_R10224029) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-02-11.
+This security engineer position at Northrop Grumman was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92213) |
+| Location | Singapore, Singapore |
+| Category | Security Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96872) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-02-09.
+This security engineer position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

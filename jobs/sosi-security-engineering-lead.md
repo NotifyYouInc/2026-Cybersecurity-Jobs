@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011456286-security-engineering-lead) |
+| Category | Security Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011864426-security-engineering-lead) |
 
 ## About This Role
 
-This software engineer position at SOSi was posted on 2026-02-02.
+This security engineer position at SOSi was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
