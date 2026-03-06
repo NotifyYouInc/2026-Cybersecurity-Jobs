@@ -1,16 +1,16 @@
-# Associate Cybersecurity Analyst-Local Candidates Only at Visa International Service Association
+# Associate Cybersecurity Analyst- Local Candidates Only at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108298556-associate-cybersecurity-analyst-local-candidates-only) |
+| Location | Highlands Ranch, Colorado, United States |
+| Category | Security Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111627387-associate-cybersecurity-analyst-local-candidates-only) |
 
 ## About This Role
 
-This cybersecurity engineer position at Visa International Service Association was posted on 2026-02-09.
+This security engineer position at Visa International Service Association was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

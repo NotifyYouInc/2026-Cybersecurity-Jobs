@@ -1,16 +1,16 @@
-# Cybersecurity - Senior Information System Security Manager (ISSM) at Boeing
+# Cybersecurity – Senior Information System Security Manager (ISSM) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fairfax, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026497541-1) |
+| Location | Huntington Beach, California, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026498098-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-02-20.
+This soc & incident response position at Boeing was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

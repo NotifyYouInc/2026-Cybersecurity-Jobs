@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Saudi Arabia |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Engineer---Cyber-Security_R5024108-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Al-Khobar/Lead-Engineer---Cyber-Security_R5026775-2) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-02-24.
+This security engineer position at GE Vernova was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

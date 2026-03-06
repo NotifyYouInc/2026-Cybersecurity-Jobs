@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109649230-senior-cybersecurity-analyst) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111541885-senior-cybersecurity-analyst) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-02-17.
+This security engineer position at Sopra Steria was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
