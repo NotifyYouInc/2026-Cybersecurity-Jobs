@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011768506-senior-security-engineer-i) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011906866-senior-security-engineer-i) |
 
 ## About This Role
 
-This security engineer position at The Nielsen Company was posted on 2026-02-19.
+This security engineer position at The Nielsen Company was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

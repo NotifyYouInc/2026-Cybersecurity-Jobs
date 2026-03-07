@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Cyber-Security-Analyst_R-00174823) |
+| Location | Arlington, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Cyber-Security-Analyst_R-00177205) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-01-30.
+This security engineer position at Leidos was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

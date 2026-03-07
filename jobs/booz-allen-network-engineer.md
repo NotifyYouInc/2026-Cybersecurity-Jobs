@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Hawaii, US |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Network-Engineer_R0234473) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ford-Island-HI/Network-Engineer_R0234903) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-02-23.
+This security engineer position at Booz Allen was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

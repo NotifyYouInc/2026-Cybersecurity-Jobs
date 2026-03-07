@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000110112040-azure-microsoft-365-security-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111774396-azure-microsoft-365-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Netcompany was posted on 2026-02-19.
+This security engineer position at Netcompany was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

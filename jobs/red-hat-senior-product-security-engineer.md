@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Spain |
+| Location | Raleigh, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-India/Senior-Product-Security-Engineer_R-053711-2) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Product-Security-Engineer_R-053025-1) |
 
 ## About This Role
 
-This security engineer position at Red Hat was posted on 2026-02-23.
+This security engineer position at Red Hat was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
