@@ -1,16 +1,16 @@
-# IT Security Lead at Ruby Labs
+# Global Crisis Incident Manager (GCIM) at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ukraine |
-| Category | Security Engineer |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556769434) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-03-02.
+This soc & incident response position at Microsoft was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

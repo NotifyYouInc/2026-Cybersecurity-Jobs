@@ -1,16 +1,16 @@
-# IT Security Lead at Ruby Labs
+# Cyber Engineering - Risk at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ukraine |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Security Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-GE2/Cyber-Engineering---Risk_JR00004497) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-03-02.
+This security engineer position at OCBC was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

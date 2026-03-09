@@ -1,16 +1,16 @@
-# IT Security Lead at Ruby Labs
+# Oracle/Google  Cloud Security Engineer  at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ukraine |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000112082228-oraclegoogle-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-03-02.
+This security engineer position at METRO/MAKRO was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

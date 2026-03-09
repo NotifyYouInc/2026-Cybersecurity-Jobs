@@ -1,16 +1,16 @@
-# Security Engineer at Lendi Group
+# Staff Security Engineer - Detection & Response, open to remote across ANZ at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000112063874-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000903175-staff-security-engineer-detection-response-open-to-remote-across-anz) |
 
 ## About This Role
 
-This security engineer position at Lendi Group was posted on 2026-03-02.
+This security engineer position at Canva was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

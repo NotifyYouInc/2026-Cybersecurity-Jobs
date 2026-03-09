@@ -1,16 +1,16 @@
-# IT Security Lead at Ruby Labs
+# Network Architect (Fluence) at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ukraine |
+| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Bangalore-India/Network-Architect--Fluence-_R241545) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-03-02.
+This security engineer position at Arrow Electronics was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

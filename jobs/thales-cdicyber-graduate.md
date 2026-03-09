@@ -1,16 +1,16 @@
-# IT Security Lead at Ruby Labs
+# CDI/Cyber Graduate at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ukraine |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Canberra/CDI-Cyber-Graduate_R0313659) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-03-02.
+This security engineer position at Thales was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 
