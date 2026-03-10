@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newport, Wales, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Newport-Wales/OMC-Security-Systems-Specialist_R21646) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Newport-Wales/OMC-Security-Systems-Specialist_R21747) |
 
 ## About This Role
 
-This soc & incident response position at Vantage Data Centers was posted on 2026-02-19.
+This soc & incident response position at Vantage Data Centers was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

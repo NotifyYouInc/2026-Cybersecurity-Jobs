@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8438872002) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8439283002) |
 
 ## About This Role
 
-This security engineer position at Qube Research & Technologies was posted on 2026-02-26.
+This security engineer position at Qube Research & Technologies was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

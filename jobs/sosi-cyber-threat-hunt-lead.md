@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011864326-cyber-threat-hunt-lead) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011875627-cyber-threat-hunt-lead) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-02-25.
+This soc & incident response position at SOSi was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

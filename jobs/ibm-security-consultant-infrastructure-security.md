@@ -1,16 +1,16 @@
-# Security Consultant - Infrastructure Security at IBM
+# Security Consultant-Infrastructure Security at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93994) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97676) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-23.
+This security engineer position at IBM was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

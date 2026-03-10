@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alberta, CA |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/109459205903000262-senior-application-security-consultant-mandiant?sort_by=date&page=1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97545069703111366-senior-application-security-consultant-mandiant?sort_by=date&page=1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Google was posted on 2026-02-25.
+This offensive security & pentesting position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

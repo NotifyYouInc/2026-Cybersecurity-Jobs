@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fairfax, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Virginia-Fairfax/Solution-Consultant_JR0037076) |
+| Location | United States |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037111) |
 
 ## About This Role
 
-This security engineer position at Trellix was posted on 2026-02-24.
+This offensive security & pentesting position at Trellix was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

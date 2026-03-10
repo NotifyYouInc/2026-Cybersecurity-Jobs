@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | District of Columbia, US |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7610080925934323973/detail) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7611597644632312117/detail) |
 
 ## About This Role
 
-This security engineer position at TikTok was posted on 2026-02-23.
+This security engineer position at TikTok was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011569296-cloud-security-engineer-remote) |
+| Category | Security Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011926736-cloud-security-engineer-remote) |
 
 ## About This Role
 
-This cybersecurity engineer position at AbbVie was posted on 2026-02-06.
+This security engineer position at AbbVie was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

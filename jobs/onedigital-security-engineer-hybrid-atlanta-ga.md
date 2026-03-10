@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/Security-Engineer---Hybrid--Atlanta--GA-_R8423-1) |
+| Category | Security Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/Security-Engineer---Hybrid--Atlanta--GA-_R8517-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at OneDigital was posted on 2026-02-06.
+This security engineer position at OneDigital was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
