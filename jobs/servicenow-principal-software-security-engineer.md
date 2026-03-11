@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Israel |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108446245-principal-software-security-engineer) |
+| Category | Security Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112358408-principal-software-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-02-10.
+This security engineer position at ServiceNow was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

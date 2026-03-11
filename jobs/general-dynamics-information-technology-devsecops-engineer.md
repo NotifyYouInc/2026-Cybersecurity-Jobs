@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Devops Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/DevSecOps-Engineer_RQ213935-1) |
+| Location | Not specified |
+| Category | Security Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/DevSecOps-Engineer_RQ215990-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-01-30.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

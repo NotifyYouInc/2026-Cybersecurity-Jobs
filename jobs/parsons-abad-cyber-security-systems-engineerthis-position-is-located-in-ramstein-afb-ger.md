@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/ABAD-Cyber-Security-Systems-Engineer--This-position-is-located-in-Ramstein-AFB--Germany--International-Assignment----NO-REMOTE-WORK--_R177937-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/ABAD-Cyber-Security-Systems-Engineer--This-position-is-located-in-Ramstein-AFB--Germany--International-Assignment----NO-REMOTE-WORK--_R178072-1) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-02-25.
+This security engineer position at Parsons was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

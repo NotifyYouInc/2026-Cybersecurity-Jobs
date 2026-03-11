@@ -1,16 +1,16 @@
-# Senior Security Engineer  at Pure Storage
+# Senior Security Engineer at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7584951?gh_jid=7584951) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7646245) |
 
 ## About This Role
 
-This security engineer position at Pure Storage was posted on 2026-02-20.
+This security engineer position at Pure Storage was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

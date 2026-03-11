@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/IT-Security-Engineering-Intern_R-00175812) |
+| Location | Huntsville, Alabama, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/10609-Huntsville-AL-Home-Office/IT-Security-Engineering-Intern_R-00177288) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-02-11.
+This soc & incident response position at Leidos was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

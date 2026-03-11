@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110407865-team-lead-beheer-mlan) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000112386467-team-lead-beheer-mlan) |
 
 ## About This Role
 
-This soc & incident response position at KPN was posted on 2026-02-20.
+This soc & incident response position at KPN was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
