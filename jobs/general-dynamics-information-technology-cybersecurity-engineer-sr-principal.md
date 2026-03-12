@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Cybersecurity-Engineer-Sr-Principal_RQ214373-1) |
+| Category | Security Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Cybersecurity-Engineer-Sr-Principal_RQ215720-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-16.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

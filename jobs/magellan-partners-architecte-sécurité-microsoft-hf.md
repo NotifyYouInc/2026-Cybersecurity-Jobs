@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000112156659-architecte-securite-microsoft-hf) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000112406173-architecte-securite-microsoft-hf) |
 
 ## About This Role
 
-This security engineer position at Magellan Partners was posted on 2026-03-02.
+This security engineer position at Magellan Partners was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

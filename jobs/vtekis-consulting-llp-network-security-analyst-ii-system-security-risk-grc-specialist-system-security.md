@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000111886845-network-security-analyst-ii-system-security-risk-grc-specialist-system-security-plan-ssp) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000112287924-network-security-analyst-ii-system-security-risk-grc-specialist-system-security-plan-ssp) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-02-27.
+This security engineer position at VTekis Consulting LLP was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

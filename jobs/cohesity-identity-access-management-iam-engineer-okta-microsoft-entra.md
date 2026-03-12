@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Pune---Panchshil---India-Office/Identity---Access-Management--IAM--Engineer---Okta---Microsoft-Entra_R02867) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Heredia---Costa-Rica-Office/Identity---Access-Management--IAM--Engineer---Okta---Microsoft-Entra_R02858) |
 
 ## About This Role
 
-This security engineer position at Cohesity was posted on 2026-03-02.
+This security engineer position at Cohesity was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4775041101) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4795324101) |
 
 ## About This Role
 
-This cybersecurity engineer position at StraitsX was posted on 2026-02-10.
+This offensive security & pentesting position at StraitsX was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

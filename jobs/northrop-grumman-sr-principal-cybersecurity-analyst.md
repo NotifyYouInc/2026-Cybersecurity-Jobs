@@ -1,16 +1,16 @@
-# Sr. Principal Cybersecurity Analyst at Northrop Grumman
+# Sr Principal Cybersecurity Analyst at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Cybersecurity-Analyst_R10221789) |
+| Location | Northridge, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Sr-Principal-Cybersecurity-Analyst_R10224575-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-02-11.
+This security engineer position at Northrop Grumman was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

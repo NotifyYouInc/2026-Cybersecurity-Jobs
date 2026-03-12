@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Telangana, IN |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Masovian-Poland/Senior-Manager-Threat-Detection---Response_R-059343-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Senior-Manager-Threat-Detection---Response_R-059340) |
 
 ## About This Role
 
-This soc & incident response position at Johnson & Johnson was posted on 2026-02-20.
+This soc & incident response position at Johnson & Johnson was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000112082228-oraclegoogle-cloud-security-engineer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000112411820-oraclegoogle-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-03-02.
+This security engineer position at METRO/MAKRO was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

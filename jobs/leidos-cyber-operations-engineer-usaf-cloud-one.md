@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Engineer_R-00177199) |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Operations-Engineer--USAF-Cloud-One-_R-00177255) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-27.
+This soc & incident response position at Leidos was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
