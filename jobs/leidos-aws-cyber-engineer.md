@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# AWS Cyber Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AWS-Cyber-Engineer_R-00177479) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Leidos was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

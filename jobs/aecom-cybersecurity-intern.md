@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Cybersecurity Intern at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hunt Valley, Maryland, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113007979-cybersecurity-intern) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at AECOM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

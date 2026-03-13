@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Senior Software Engineer (Security) at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7667849?gh_jid=7667849) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Cloudflare was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

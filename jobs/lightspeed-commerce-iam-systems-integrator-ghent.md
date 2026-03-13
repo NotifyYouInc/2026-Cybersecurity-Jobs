@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# IAM Systems Integrator - Ghent at Lightspeed Commerce
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7682562) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Lightspeed Commerce was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

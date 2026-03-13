@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Director, Enterprise Data Security - USA Remote at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Remote/Director--Enterprise-Data-Security---USA-Remote_R1306169-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Danaher was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

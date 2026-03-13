@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Security & Compliance Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99476) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at IBM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Ingeniero/a Digital Identity at Repsol
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Repsol](https://scoutify.ai/companies/repsol?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://repsol.wd3.myworkdayjobs.com/ref_ext/job/Campus-Repsol-Madrid/Ingeniero-a-Digital-Identity_80440-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Repsol was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

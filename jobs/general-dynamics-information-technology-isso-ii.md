@@ -1,12 +1,12 @@
-# Information Systems Security Manager (ISSM) II at General Dynamics Information Technology
+# ISSO II at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 11 locations |
+| Location | Tucson, Arizona, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Information-Systems-Security-Manager--ISSM--II_RQ216134-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Tucson/ISSO-II_RQ216095-1) |
 
 ## About This Role
 

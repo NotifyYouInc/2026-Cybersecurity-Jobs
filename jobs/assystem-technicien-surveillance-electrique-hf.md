@@ -1,16 +1,16 @@
-# Incident Response Analyst II at Astreya
+# Technicien Surveillance Electrique H/F at Assystem
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | France |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Incident-Response-Analyst-II_R0014914) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000112892222-technicien-surveillance-electrique-hf) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-03-05.
+This soc & incident response position at Assystem was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

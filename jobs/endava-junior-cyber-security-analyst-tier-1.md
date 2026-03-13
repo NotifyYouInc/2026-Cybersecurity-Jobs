@@ -1,16 +1,16 @@
-# Cyber Security Engineer at Auto Club Enterprises
+# Junior Cyber Security Analyst - Tier 1 at Endava
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Cyber-Security-Engineer_JR202635161) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000113088662-junior-cyber-security-analyst-tier-1) |
 
 ## About This Role
 
-This security engineer position at Auto Club Enterprises was posted on 2026-03-06.
+This security engineer position at Endava was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

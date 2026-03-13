@@ -1,16 +1,16 @@
-# Information Systems Security Manager (ISSM) II at General Dynamics Information Technology
+# Information Technology/Assurance (IT/IA) Specialist I (24/7) at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 11 locations |
-| Category | SOC & Incident Response |
+| Location | Colorado Springs, Colorado, United States |
+| Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Information-Systems-Security-Manager--ISSM--II_RQ216134-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Technology-Assurance--IT-IA--Specialist-I--24-7-_RQ216080-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-05.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

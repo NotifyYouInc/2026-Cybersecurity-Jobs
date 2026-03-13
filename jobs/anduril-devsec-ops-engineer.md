@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# DevSec Ops Engineer at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Fort Collins, Colorado, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5070900007?gh_jid=5070900007) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Anduril was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

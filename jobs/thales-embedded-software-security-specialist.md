@@ -1,16 +1,16 @@
-# Cyber Security Engineer at Auto Club Enterprises
+# EMBEDDED SOFTWARE SECURITY SPECIALIST at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Cyber-Security-Engineer_JR202635161) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/EMBEDDED-SOFTWARE-SECURITY-SPECIALIST_R0313750) |
 
 ## About This Role
 
-This security engineer position at Auto Club Enterprises was posted on 2026-03-06.
+This security engineer position at Thales was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

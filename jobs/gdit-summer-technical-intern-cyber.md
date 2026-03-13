@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Summer Technical Intern - Cyber at GDIT
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [GDIT](https://scoutify.ai/companies/gdit?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Virginia, US |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-Technical-Intern---Cyber_RQ216084-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at GDIT was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

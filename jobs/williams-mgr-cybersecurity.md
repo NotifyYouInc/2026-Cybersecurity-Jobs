@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Mgr Cybersecurity at Williams
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Mgr-Cybersecurity_R111626) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Williams was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

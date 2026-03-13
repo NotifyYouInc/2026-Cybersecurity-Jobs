@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Senior Security Engineer II at Credit Karma
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Credit Karma](https://scoutify.ai/companies/creditkarma?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/creditkarma/jobs/7636390003) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Credit Karma was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

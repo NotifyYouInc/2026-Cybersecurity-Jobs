@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Federal Senior Security Assurance Engineer at Databricks
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8435970002) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Databricks was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

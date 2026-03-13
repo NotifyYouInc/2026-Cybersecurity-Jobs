@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108451655-cyber-threat-intelligence-analyst-fmdiv-salary-118000-eur-pa) |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112851299-cyber-threat-intelligence-analyst-fmdiv-salary-118000-eur-pa) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-02-10.
+This soc & incident response position at Robert Bosch was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

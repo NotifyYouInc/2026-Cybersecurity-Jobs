@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Head of Cyber Defence at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Security Engineer |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112995617-head-of-cyber-defence) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This soc & incident response position at H&M Group was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

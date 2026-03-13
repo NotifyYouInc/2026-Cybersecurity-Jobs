@@ -1,16 +1,16 @@
-# Incident Response Analyst II at Astreya
+# Senior Cyber Incident Handling Analyst at SOSi
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Wiesbaden, Hesse, Germany |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Incident-Response-Analyst-II_R0014914) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011993006-senior-cyber-incident-handling-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-03-05.
+This soc & incident response position at SOSi was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

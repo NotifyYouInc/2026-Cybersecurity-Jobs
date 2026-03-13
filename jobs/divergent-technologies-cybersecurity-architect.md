@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Cybersecurity Architect at Divergent Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Divergent Technologies](https://scoutify.ai/companies/divergent?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Torrance, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4667674005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/divergent/jobs/5142860008) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-03-05.
+This security engineer position at Divergent Technologies was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

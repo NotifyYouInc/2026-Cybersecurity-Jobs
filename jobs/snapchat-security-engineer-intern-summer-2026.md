@@ -1,16 +1,16 @@
-# Cyber Security Engineer at Auto Club Enterprises
+# Security Engineer Intern, Summer 2026 at Snapchat
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Cyber-Security-Engineer_JR202635161) |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer-Intern--Summer-2026_R0044499) |
 
 ## About This Role
 
-This security engineer position at Auto Club Enterprises was posted on 2026-03-06.
+This security engineer position at Snapchat was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
