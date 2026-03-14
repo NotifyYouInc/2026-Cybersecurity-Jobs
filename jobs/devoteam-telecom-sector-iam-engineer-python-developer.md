@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000109729280-telecom-sector-iam-engineer-python-developer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113248337-telecom-sector-iam-engineer-python-developer) |
 
 ## About This Role
 
-This security engineer position at Devoteam was posted on 2026-02-17.
+This security engineer position at Devoteam was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

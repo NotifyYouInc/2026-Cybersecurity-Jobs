@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Security Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000112503897-application-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000112522130-application-security-engineer) |
 
 ## About This Role
 

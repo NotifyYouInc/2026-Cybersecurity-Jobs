@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/74c8283c-24d9-411f-be8c-495b59887676) |
+| Category | Security Engineer |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/6cc722d6-175e-424a-a46e-11cb2e9bbf6b) |
 
 ## About This Role
 
-This cybersecurity engineer position at Airwallex was posted on 2026-02-05.
+This security engineer position at Airwallex was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

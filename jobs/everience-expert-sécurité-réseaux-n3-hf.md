@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112506674-expert-securite-reseaux-n3-hf) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112937006-expert-securite-reseaux-n3-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-03-03.
+This security engineer position at Everience was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
