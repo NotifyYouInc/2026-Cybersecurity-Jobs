@@ -1,16 +1,16 @@
-# Lead Cyber Intelligence Analyst - Remote at United Parcel Service (UPS)
+# Lead Cyber Intelligence Analyst - REMOTE at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Georgia, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---LOUISVILLE-TECHNOLGY-AND-LOGISTIC-CENTER-KYLOL/Lead-Cyber-Intelligence-Analyst---Remote_R26005235-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---LOUISVILLE-TECHNOLGY-AND-LOGISTIC-CENTER-KYLOL/Lead-Cyber-Intelligence-Analyst---REMOTE_R25044297-1) |
 
 ## About This Role
 
-This soc & incident response position at United Parcel Service (UPS) was posted on 2026-02-23.
+This soc & incident response position at United Parcel Service (UPS) was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/DCO-Administrator---Cybersecurity-Administrator_RQ215784-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/DCO-Administrator---Cybersecurity-Administrator_RQ216195-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-02.
+This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# L1 Security Analyst (L1安全分析專員) at Logicalis
+# Security Consultant-Security Strategy, Risk & Compliance Services at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Security Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Taipei-TP/L1-Security-Analyst--L1-_JR04957) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100159) |
 
 ## About This Role
 
-This security engineer position at Logicalis was posted on 2026-03-09.
+This security engineer position at IBM was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
