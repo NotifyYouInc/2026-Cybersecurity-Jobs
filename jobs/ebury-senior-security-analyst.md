@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4779528101) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4803088101) |
 
 ## About This Role
 
-This security engineer position at Ebury was posted on 2026-02-18.
+This security engineer position at Ebury was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/134292698218537670-senior-intelligence-analyst-google-threat-intelligence-delivery?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/108485603388990150-senior-intelligence-analyst-google-threat-intelligence-delivery?sort_by=date&page=1) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-03-04.
+This soc & incident response position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

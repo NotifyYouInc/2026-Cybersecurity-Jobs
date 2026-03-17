@@ -1,0 +1,22 @@
+# Senior Security Incident Response & Threat Intelligence Analyst (m/f/d) at Scalable Capital
+
+| Field | Details |
+|-------|---------|
+| Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Munich, Bavaria, Germany |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000113443907-senior-security-incident-response-threat-intelligence-analyst-mfd) |
+
+## About This Role
+
+This soc & incident response position at Scalable Capital was posted on 2026-03-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
