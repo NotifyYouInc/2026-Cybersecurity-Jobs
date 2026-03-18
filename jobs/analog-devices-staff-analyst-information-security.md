@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Analyst--Information-Security_R261158-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Analyst--Information-Security_R261338) |
 
 ## About This Role
 
-This security engineer position at Analog Devices was posted on 2026-03-05.
+This security engineer position at Analog Devices was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

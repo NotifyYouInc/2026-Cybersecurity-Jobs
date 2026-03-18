@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112134542-security-team-lead) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113682468-security-team-lead) |
 
 ## About This Role
 
-This soc & incident response position at Ubisoft was posted on 2026-03-02.
+This soc & incident response position at Ubisoft was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011993006-senior-cyber-incident-handling-analyst) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012028476-senior-cyber-incident-handling-analyst) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-03-05.
+This soc & incident response position at SOSi was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-I--Cybersecurity_JR0304260-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Analyst-I--Cybersecurity_JR0305440) |
 
 ## About This Role
 
-This security engineer position at Fidelity National Information Services was posted on 2026-02-18.
+This security engineer position at Fidelity National Information Services was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Schaumburg, Illinois, United States |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Security-Operations-Technician_R62500) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-York-US-Offsite/Security-Operations-Technician_R62492) |
 
 ## About This Role
 
-This security engineer position at Motorola Solutions was posted on 2026-03-06.
+This security engineer position at Motorola Solutions was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

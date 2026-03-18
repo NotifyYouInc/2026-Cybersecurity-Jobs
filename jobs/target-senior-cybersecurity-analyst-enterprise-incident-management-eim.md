@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Cybersecurity-Analyst---Enterprise-Incident-Management--EIM-_R0000428174) |
+| Category | Security Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Cybersecurity-Analyst---Enterprise-Incident-Management--EIM-_R0000432002) |
 
 ## About This Role
 
-This cybersecurity engineer position at Target was posted on 2026-02-16.
+This security engineer position at Target was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

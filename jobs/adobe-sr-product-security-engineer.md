@@ -1,16 +1,16 @@
-# Sr. Product Security Engineer at Adobe
+# Sr Product Security Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Sr-Product-Security-Engineer_R165839) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sr-Product-Security-Engineer_R165755) |
 
 ## About This Role
 
-This security engineer position at Adobe was posted on 2026-03-02.
+This security engineer position at Adobe was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
