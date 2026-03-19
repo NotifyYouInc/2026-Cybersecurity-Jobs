@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Valencia, Valencia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000111638455-security-engineer-ii) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000114042812-security-engineer-ii) |
 
 ## About This Role
 
-This security engineer position at Flywire was posted on 2026-02-26.
+This security engineer position at Flywire was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

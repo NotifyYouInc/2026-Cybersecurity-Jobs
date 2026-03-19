@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cyber-Security-Lead-Analyst---HIH---Evernorth_26001786) |
+| Category | Security Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Cyber-Security-Lead-Analyst---HIH---Evernorth_26002810) |
 
 ## About This Role
 
-This soc & incident response position at Cigna was posted on 2026-02-18.
+This security engineer position at Cigna was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

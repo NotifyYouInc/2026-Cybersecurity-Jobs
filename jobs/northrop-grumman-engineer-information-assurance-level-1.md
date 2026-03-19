@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Redondo Beach, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Information-Assurance---Level-1_R10224671) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Information-Assurance---Level-1_R10225561) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-06.
+This security engineer position at Northrop Grumman was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Senior Manager Security Architecture at NBN Australia
+
+| Field | Details |
+|-------|---------|
+| Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Security Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Melbourne/Senior-Manager-Security-Architecture_240271-1) |
+
+## About This Role
+
+This security engineer position at NBN Australia was posted on 2026-03-11.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

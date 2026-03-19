@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000110738325-engineer-or-senior-engineer-ot-security) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000114296139-engineer-or-senior-engineer-ot-security) |
 
 ## About This Role
 
-This security engineer position at Ramboll was posted on 2026-02-23.
+This security engineer position at Ramboll was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

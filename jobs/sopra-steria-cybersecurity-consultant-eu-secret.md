@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belgium |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113454127-cybersecurity-consultant-eu-secret) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113517910-cybersecurity-consultant-eu-secret) |
 
 ## About This Role
 

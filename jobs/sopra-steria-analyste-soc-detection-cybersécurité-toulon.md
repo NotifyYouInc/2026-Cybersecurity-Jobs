@@ -6,7 +6,7 @@
 | Location | Six-Fours-les-Plages, Provence-Alpes-Côte d'Azur, France |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113422479-analyste-soc-detection-cybersecurite-toulon) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113551215-analyste-soc-detection-cybersecurite-toulon) |
 
 ## About This Role
 
