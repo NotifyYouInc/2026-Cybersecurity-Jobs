@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/LEAD-CYBER-ARCHITECT_R173356) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/LEAD-CYBER-ARCHITECT_R173357) |
 
 ## About This Role
 
-This security engineer position at A.P. Moller - Maersk was posted on 2026-02-26.
+This security engineer position at A.P. Moller - Maersk was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

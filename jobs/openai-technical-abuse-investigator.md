@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/492ffc24-6b6e-4aa0-b31c-2a29a550b086) |
+| Category | Security Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/31f19fa3-d8c1-4db2-b336-ab046f9cde41) |
 
 ## About This Role
 
-This soc & incident response position at OpenAI was posted on 2026-02-27.
+This security engineer position at OpenAI was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

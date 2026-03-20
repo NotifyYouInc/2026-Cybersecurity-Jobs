@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/OT-Cyber-Technical-Execution-Engineer_R000067702) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-OT-Cybersecurity-Engineer_R000069622) |
 
 ## About This Role
 
-This security engineer position at Chevron was posted on 2026-02-23.
+This security engineer position at Chevron was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

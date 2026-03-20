@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011504386-senior-application-security-engineer-remote) |
+| Category | Security Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012118686-senior-application-security-engineer-remote) |
 
 ## About This Role
 
-This cybersecurity engineer position at AbbVie was posted on 2026-02-04.
+This security engineer position at AbbVie was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Albuquerque, New Mexico, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026498600-2) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026500724-1) |
 
 ## About This Role
 
-This soc & incident response position at Boeing was posted on 2026-03-04.
+This soc & incident response position at Boeing was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

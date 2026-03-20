@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/6cc722d6-175e-424a-a46e-11cb2e9bbf6b) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/57669e71-5a32-46a6-8821-e672bc57c774) |
 
 ## About This Role
 
-This security engineer position at Airwallex was posted on 2026-03-07.
+This security engineer position at Airwallex was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

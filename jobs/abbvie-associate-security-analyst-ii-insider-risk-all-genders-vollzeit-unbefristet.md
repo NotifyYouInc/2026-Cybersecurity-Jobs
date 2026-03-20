@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011531235-associate-security-analyst-ii-insider-risk-all-genders-vollzeit-unbefristet) |
+| Category | Security Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012100915-associate-security-analyst-ii-insider-risk-all-genders-vollzeit-unbefristet) |
 
 ## About This Role
 
-This cybersecurity engineer position at AbbVie was posted on 2026-02-05.
+This security engineer position at AbbVie was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

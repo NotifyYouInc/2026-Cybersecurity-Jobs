@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000113716997-ingenieur-cybersecurite-stage-hf) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000114384048-ingenieur-cybersecurite-stage-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-03-10.
+This security engineer position at Assystem was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Ejecutivo-de-Monitoreo_WD30261518) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Ejecutivo-de-Monitoreo_WD30263847) |
 
 ## About This Role
 
-This soc & incident response position at Johnson Controls was posted on 2026-02-18.
+This soc & incident response position at Johnson Controls was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

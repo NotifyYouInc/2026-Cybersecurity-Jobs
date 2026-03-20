@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ohio, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Sr-Cybersecurity-Engineer-Security-Controls-Assessor-Representative_R2118337) |
+| Category | Security Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Sr-Cybersecurity-Engineer-Security-Controls-Assessor-Representative_R2120346) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-01-30.
+This security engineer position at KBR was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

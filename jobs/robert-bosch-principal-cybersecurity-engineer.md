@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113663377-principal-cybersecurity-engineer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113935760-principal-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-03-10.
+This security engineer position at Robert Bosch was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

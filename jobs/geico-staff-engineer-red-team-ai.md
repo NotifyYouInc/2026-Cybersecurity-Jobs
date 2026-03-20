@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Staff-Engineer---Red-Team--AI-_R0062914) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Staff-Engineer---Red-Team--AI-_R0062913) |
 
 ## About This Role
 
-This offensive security & pentesting position at Geico was posted on 2026-03-09.
+This offensive security & pentesting position at Geico was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

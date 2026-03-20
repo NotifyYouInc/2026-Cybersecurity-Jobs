@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Denmark |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Copenhagen/Lead-Cyber-Security-Steward_0000032082) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Lead-Cyber-Security-Steward_0000032122) |
 
 ## About This Role
 
-This security engineer position at LEGO was posted on 2026-03-06.
+This security engineer position at LEGO was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

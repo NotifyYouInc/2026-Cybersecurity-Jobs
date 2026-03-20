@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Bedford, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Information-Assurance-Engineer--USAF-Cloud-One-_R-00177159-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Information-Assurance-Engineer--USAF-Cloud-One-_R-00178248) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-27.
+This security engineer position at Leidos was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
