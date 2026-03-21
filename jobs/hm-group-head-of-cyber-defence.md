@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112995617-head-of-cyber-defence) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000114577653-head-of-cyber-defence) |
 
 ## About This Role
 
-This soc & incident response position at H&M Group was posted on 2026-03-05.
+This soc & incident response position at H&M Group was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

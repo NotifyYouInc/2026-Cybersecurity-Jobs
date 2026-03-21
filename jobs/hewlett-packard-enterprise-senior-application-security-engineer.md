@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Senior-Application-Security-Engineer_1203876) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Senior-Application-Security-Engineer_1203882) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard Enterprise was posted on 2026-03-10.
+This security engineer position at Hewlett Packard Enterprise was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

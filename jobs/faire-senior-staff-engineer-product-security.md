@@ -5,12 +5,12 @@
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8441930002?gh_jid=8441930002) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8462925002?gh_jid=8462925002) |
 
 ## About This Role
 
-This security engineer position at Faire was posted on 2026-02-27.
+This security engineer position at Faire was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

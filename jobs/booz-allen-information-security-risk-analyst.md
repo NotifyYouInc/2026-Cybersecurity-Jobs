@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warner Robins, Georgia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Information-Security-Risk-Analyst_R0234971) |
+| Category | Security Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Information-Security-Risk-Analyst_R0235842) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-03-06.
+This security engineer position at Booz Allen was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112453120-senior-cybersecurity-engineer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114626017-senior-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-03.
+This security engineer position at Visa International Service Association was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

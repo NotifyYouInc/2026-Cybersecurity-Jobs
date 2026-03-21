@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108541925-cybersecurity-engineer-reverse-antibot-engineering-and-ctfethical-hacking) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Security Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114577098-cybersecurity-engineer-reverse-antibot-engineering-and-ctfethical-hacking) |
 
 ## About This Role
 
-This cybersecurity engineer position at NielsenIQ was posted on 2026-02-10.
+This security engineer position at NielsenIQ was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

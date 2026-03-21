@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110779025-duales-master-studium-cybersecurity-ws-20262027) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114681848-duales-master-studium-cybersecurity-ws-20262027) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-02-23.
+This security engineer position at Sopra Steria was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

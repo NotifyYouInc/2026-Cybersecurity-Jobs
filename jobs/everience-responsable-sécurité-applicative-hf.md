@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000113240817-responsable-securite-applicative-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000114716564-responsable-securite-applicative-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-03-06.
+This security engineer position at Everience was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

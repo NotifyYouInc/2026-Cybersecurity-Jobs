@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Specialist--Cybersecurity-Engineering_R387594) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Cybersecurity-Engineering_R387538-1) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Fort-Belvoir/Red-Team-Senior-Software-Developer_R177386-1) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Fort-Belvoir/Red-Team-Senior-Software-Developer_R178486-1) |
 
 ## About This Role
 
-This software engineer position at Parsons was posted on 2026-02-10.
+This offensive security & pentesting position at Parsons was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

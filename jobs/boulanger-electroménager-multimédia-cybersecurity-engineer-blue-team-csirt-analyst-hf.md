@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | France |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000106862101-cybersecurity-engineer-blue-team-csirt-analyst-hf) |
+| Category | Security Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000114665897-cybersecurity-engineer-blue-team-csirt-analyst-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Boulanger Electroménager & Multimédia was posted on 2026-02-02.
+This security engineer position at Boulanger Electroménager & Multimédia was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
