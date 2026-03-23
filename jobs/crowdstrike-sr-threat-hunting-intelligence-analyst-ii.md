@@ -1,12 +1,12 @@
-# Incident Response Analyst - SkillBridge (Remote) at CrowdStrike
+# Sr. Threat Hunting Intelligence Analyst II at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Incident-Response-Analyst---SkillBridge--Remote-_R27903-1) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Tokyo/Sr-Threat-Hunting-Intelligence-Analyst-II_R27888) |
 
 ## About This Role
 

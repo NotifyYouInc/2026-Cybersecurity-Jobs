@@ -1,16 +1,16 @@
-# Associate Cybersecurity Engineer at Visa International Service Association
+# Cloud Security Technical Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114894187-associate-cybersecurity-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114893822-cloud-security-technical-lead) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-16.
+This security engineer position at Sopra Steria was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

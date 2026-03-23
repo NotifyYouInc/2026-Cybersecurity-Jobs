@@ -1,16 +1,16 @@
-# Security Engineer – GRC  at Wix.com
+# Apprenticeship - Security Engineer at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Security Engineer |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000114845516-security-engineer-grc) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Apprenticeship---Security-Engineer_R34175) |
 
 ## About This Role
 
-This security engineer position at Wix.com was posted on 2026-03-15.
+This security engineer position at Amadeus was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

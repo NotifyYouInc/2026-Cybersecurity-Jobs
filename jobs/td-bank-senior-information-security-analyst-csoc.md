@@ -1,16 +1,16 @@
-# Security Analyst at Goodwin Procter
+# Senior Information Security Analyst (CSOC) at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Goodwin Procter](https://scoutify.ai/companies/goodwin-procter?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/Santa-Monica/Security-Analyst_R04038-1) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Singapore-Singapore/Senior-Information-Security-Analyst--CSOC-_R_1478821) |
 
 ## About This Role
 
-This security engineer position at Goodwin Procter was posted on 2026-03-16.
+This security engineer position at TD Bank was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

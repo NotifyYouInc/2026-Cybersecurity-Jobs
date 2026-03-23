@@ -1,16 +1,16 @@
-# Director, Fraud Risk at Flywire
+# Security Operations Center Analyst L3 at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Philippines |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000114430977-director-fraud-risk) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000114882687-security-operations-center-analyst-l3) |
 
 ## About This Role
 
-This soc & incident response position at Flywire was posted on 2026-03-12.
+This soc & incident response position at SanDisk was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

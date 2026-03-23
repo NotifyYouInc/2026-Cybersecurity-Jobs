@@ -1,16 +1,16 @@
-# Cyber Security Engineer at Leidos
+# Director of Corporate Information Security at Lumentum
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Lumentum](https://scoutify.ai/companies/lumentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Cyber-Security-Engineer_R-00178189) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/United-Kingdom---Towcester-Northamptonshire/Director-of-Corporate-Information-Security_20251761) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-12.
+This security engineer position at Lumentum was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

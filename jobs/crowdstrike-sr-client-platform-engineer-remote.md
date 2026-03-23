@@ -1,16 +1,16 @@
-# Security Analyst at Goodwin Procter
+# Sr. Client Platform Engineer (Remote) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Goodwin Procter](https://scoutify.ai/companies/goodwin-procter?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/Santa-Monica/Security-Analyst_R04038-1) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Client-Platform-Engineer--Remote-_R28004) |
 
 ## About This Role
 
-This security engineer position at Goodwin Procter was posted on 2026-03-16.
+This security engineer position at CrowdStrike was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

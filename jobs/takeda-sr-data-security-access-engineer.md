@@ -1,16 +1,16 @@
-# Associate Cybersecurity Engineer at Visa International Service Association
+# Sr. Data Security & Access Engineer at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114894187-associate-cybersecurity-engineer) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Sr-Data-Security---Access-Engineer_R0161842) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-16.
+This security engineer position at Takeda was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Senior Security Researcher - Cloud Threats at Tenable
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100520) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5132621008) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Tenable was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 
