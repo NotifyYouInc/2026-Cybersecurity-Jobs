@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# NetOps Specialist Mid at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | Security Engineer |
+| Location | North Carolina, US |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Cherry-Point-NC/NetOps-Specialist-Mid_R-00178470-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This soc & incident response position at Leidos was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

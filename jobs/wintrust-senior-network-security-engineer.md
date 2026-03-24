@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# Senior Network Security Engineer at Wintrust
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Senior-Network-Security-Engineer_26434) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This security engineer position at Wintrust was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

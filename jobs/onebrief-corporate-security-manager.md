@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Corporate Security Manager at Onebrief
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Onebrief](https://scoutify.ai/companies/onebrief?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/onebrief/dae7854f-5061-4c69-aa0a-7a8aaa839225) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Onebrief was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

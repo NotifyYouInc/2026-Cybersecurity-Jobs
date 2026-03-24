@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Ingénieur IAM & SSO at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115010689-ingenieur-iam-sso) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at ALTEN was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

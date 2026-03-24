@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# Project Security Specialist at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | Security Engineer |
+| Location | Farnborough, England, United Kingdom |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Project-Security-Specialist_R-00178440) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This soc & incident response position at Leidos was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

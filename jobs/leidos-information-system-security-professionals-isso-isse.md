@@ -1,12 +1,12 @@
-# Field Operations Technician at Leidos
+# Information System Security Professionals ISSO- ISSE at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Bowie, Maryland, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Information-System-Security-Professionals-ISSO--ISSE_R-00177366-1) |
 
 ## About This Role
 

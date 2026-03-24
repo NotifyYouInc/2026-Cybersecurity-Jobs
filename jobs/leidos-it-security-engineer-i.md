@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# IT Security Engineer I at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/IT-Security-Engineer-I_R-00178438) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Leidos was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

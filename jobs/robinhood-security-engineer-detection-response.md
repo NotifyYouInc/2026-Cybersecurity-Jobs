@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Security Engineer, Detection & Response at Robinhood
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Robinhood was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

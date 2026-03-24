@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# Senior Cybersecurity Engineer at Granite Construction
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Company | [Granite Construction](https://scoutify.ai/companies/granite?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://granite.wd1.myworkdayjobs.com/careers/job/The-Woodlands-Texas/Senior-Cybersecurity-Engineer_R0000007124) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This security engineer position at Granite Construction was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

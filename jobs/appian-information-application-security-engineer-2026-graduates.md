@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Information Application Security Engineer (2026 Graduates) at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7722009) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Appian was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# Application Security Engineer at Zuora
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7305366?gh_jid=7305366) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Zuora was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

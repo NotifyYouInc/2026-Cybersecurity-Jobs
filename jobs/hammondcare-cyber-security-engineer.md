@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# Cyber Security Engineer at Hammondcare
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Company | [Hammondcare](https://scoutify.ai/companies/hammondcare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New South Wales, AU |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://hammondcare.wd105.myworkdayjobs.com/external_careers/job/St-Leonards-NSW/Cyber-Security-Engineer_REQ2045) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This security engineer position at Hammondcare was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

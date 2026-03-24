@@ -1,16 +1,16 @@
-# Field Operations Technician at Leidos
+# Lab Lead / Threat Analyst at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Aberdeen, South Dakota, United States |
 | Category | Security Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Field-Operations-Technician_R-00178492) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Lab-Lead---Threat-Analyst_323396) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-16.
+This security engineer position at CACI was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Germany |
 | Category | Security Engineer |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012100915-associate-security-analyst-ii-insider-risk-all-genders-vollzeit-unbefristet) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012100880-associate-security-analyst-ii-insider-risk-all-genders-vollzeit-unbefristet) |
 
 ## About This Role
 

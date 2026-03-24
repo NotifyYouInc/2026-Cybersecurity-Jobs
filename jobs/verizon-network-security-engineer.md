@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Network-Security-Engineer_R-1091914) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Branchburg-New-Jersey/Network-Security-Engineer_R-1092023-1) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-03-11.
+This security engineer position at Verizon was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

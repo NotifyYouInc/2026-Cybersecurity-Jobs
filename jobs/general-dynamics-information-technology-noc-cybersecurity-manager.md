@@ -1,12 +1,12 @@
-# Information Systems Security Manager (ISSM) I at General Dynamics Information Technology
+# NOC Cybersecurity Manager at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Systems-Security-Manager--ISSM--I_RQ216699-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OK-Oklahoma-City/NOC-Cybersecurity-Manager_RQ216548-2) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP Application Security at IBM
+# PKI Engineer at Distro
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100795) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.lever.co/distro/eecbd591-a4bb-41fc-98ba-b158db9f7f7f) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-12.
+This security engineer position at Distro was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
