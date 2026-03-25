@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Product-Security-Architect_J000694641) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Product-Security-Architect_J000695241) |
 
 ## About This Role
 
-This security engineer position at Aptiv was posted on 2026-03-12.
+This security engineer position at Aptiv was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

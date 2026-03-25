@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kodaira, Tokyo, Japan |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113450183-senior-principal-software-security-engineer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115156253-senior-principal-software-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-03-09.
+This security engineer position at Renesas Electronics was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

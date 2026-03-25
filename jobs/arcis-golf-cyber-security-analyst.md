@@ -5,12 +5,12 @@
 | Company | [Arcis Golf](https://scoutify.ai/companies/arcis-golf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://arcis.wd12.myworkdayjobs.com/extna/job/Arcis-Golf---Corporate-Office---Dallas-TX/Cyber-Security-Analyst_R14076) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://arcis.wd12.myworkdayjobs.com/extna/job/Arcis-Golf---Corporate-Office---Dallas-TX/Cyber-Security-Analyst_R14230) |
 
 ## About This Role
 
-This security engineer position at Arcis Golf was posted on 2026-03-10.
+This security engineer position at Arcis Golf was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

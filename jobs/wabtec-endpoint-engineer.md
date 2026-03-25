@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Contagem, Minas Gerais, Brazil |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011781231-endpoint-engineer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012178686-endpoint-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Wabtec was posted on 2026-02-20.
+This it & systems administration position at Wabtec was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

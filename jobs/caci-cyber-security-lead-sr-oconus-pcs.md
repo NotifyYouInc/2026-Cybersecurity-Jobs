@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | South Korea |
+| Location | Japan |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/International---Korea-Republic-of/Cyber-Security-Lead-Sr---OCONUS---PCS_322572) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/International---Japan/Cyber-Security-Lead-Sr---OCONUS---PCS_323341) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-03-02.
+This security engineer position at CACI was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7609220?gh_jid=7609220) |
+| Location | United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7728351?gh_jid=7728351) |
 
 ## About This Role
 
-This operations position at Aya Healthcare was posted on 2026-02-11.
+This soc & incident response position at Aya Healthcare was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000114363602-responsable-cybersecurite-epr2-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000114566227-responsable-cybersecurite-epr2-hf) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-03-12.
+This security engineer position at ALTEN was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

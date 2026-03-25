@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Senior-Information-Systems-Security-Engineer-with-a--15K-sign-on-bonus_R-00177486) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Senior-Information-Systems-Security-Engineer-with-a--15K-sign-on-bonus_R-00178630) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-04.
+This security engineer position at Leidos was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

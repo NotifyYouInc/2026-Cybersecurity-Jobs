@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000114464832-information-security-iv-security-engineer-cryptography-engineering) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000114719273-information-security-iv-security-engineer-cryptography-engineering) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-03-12.
+This security engineer position at VTekis Consulting LLP was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

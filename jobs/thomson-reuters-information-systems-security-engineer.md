@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Information-Systems-Security-Engineer_JREQ198017) |
+| Category | Security Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Information-Systems-Security-Engineer_JREQ198985) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thomson Reuters was posted on 2026-02-09.
+This security engineer position at Thomson Reuters was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

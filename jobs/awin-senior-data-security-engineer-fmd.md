@@ -5,12 +5,12 @@
 | Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 8 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7657452003) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7663959003) |
 
 ## About This Role
 
-This security engineer position at Awin was posted on 2026-03-12.
+This security engineer position at Awin was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

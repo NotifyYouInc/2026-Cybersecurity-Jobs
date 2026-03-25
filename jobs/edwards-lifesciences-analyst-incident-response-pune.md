@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Hybrid/Analyst--Incident-Response---Pune_Req-46173) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Analyst--Incident-Response_Req-44720) |
 
 ## About This Role
 
-This soc & incident response position at Edwards Lifesciences was posted on 2026-03-04.
+This soc & incident response position at Edwards Lifesciences was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

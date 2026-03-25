@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012104586-security-analyst-incident-response) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012195976-security-analyst-incident-response) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-03-12.
+This security engineer position at AbbVie was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
