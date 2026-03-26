@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Six-Fours-les-Plages, Provence-Alpes-Côte d'Azur, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113551215-analyste-soc-detection-cybersecurite-toulon) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115389066-analyste-soc-detection-cybersecurite-toulon) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-09.
+This soc & incident response position at Sopra Steria was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

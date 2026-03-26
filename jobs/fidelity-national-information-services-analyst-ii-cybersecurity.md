@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Analyst-II--Cybersecurity_JR0305333) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Analyst-II--Cybersecurity_JR0304646) |
 
 ## About This Role
 
-This soc & incident response position at Fidelity National Information Services was posted on 2026-03-11.
+This soc & incident response position at Fidelity National Information Services was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Zero-Trust-Information-Systems-Security-Engineer_R0233415) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Zero-Trust-Information-Systems-Security-Engineer_R0236248) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-02-20.
+This security engineer position at Booz Allen was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

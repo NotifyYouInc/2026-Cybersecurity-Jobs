@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Stratgie-de-surveillance-de-la-fraude-interne_R2602533) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-consillere-principale--Modlisation-de-menaces_R2603961) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-03-03.
+This offensive security & pentesting position at Desjardins was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

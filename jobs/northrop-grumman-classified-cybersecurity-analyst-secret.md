@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Palmdale, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Classified-Cybersecurity-Analyst---Secret_R10222975) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Classified-Cybersecurity-Analyst---Secret_R10226417) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-02-18.
+This security engineer position at Northrop Grumman was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

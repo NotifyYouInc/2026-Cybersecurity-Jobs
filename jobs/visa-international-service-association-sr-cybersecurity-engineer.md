@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112442031-sr-cybersecurity-engineer) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115521033-sr-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-03.
+This security engineer position at Visa International Service Association was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
