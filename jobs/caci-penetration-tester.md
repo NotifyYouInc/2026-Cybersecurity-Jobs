@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Penetration-Tester_321708) |
+| Location | Aberdeen, South Dakota, United States |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Penetration-Tester_323567) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-02-03.
+This offensive security & pentesting position at CACI was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

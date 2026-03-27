@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000114135717-information-security-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000115614927-information-security-analyst) |
 
 ## About This Role
 
-This security engineer position at PA Consulting was posted on 2026-03-11.
+This security engineer position at PA Consulting was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Round Rock, Texas, United States |
+| Location | Eldorado do Sul, Rio Grande do Sul, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Privileged-Access-Management-Engineer_R287741) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Eldorado-Do-Sul-Brazil/Privileged-Access-Management-Engineer_R288120) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-12.
+This security engineer position at Dell Technologies was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

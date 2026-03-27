@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Douglas, Douglas, Isle of Man |
+| Location | Jersey |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000112660747-controller-logical-access-management) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000115709040-controller-logical-access-management) |
 
 ## About This Role
 
-This security engineer position at Standard Bank was posted on 2026-03-04.
+This security engineer position at Standard Bank was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

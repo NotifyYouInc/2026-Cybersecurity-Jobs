@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Weapon-Systems-Cybersecurity-Manager-3_R10224613-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Weapon-Systems-Cybersecurity-Manager-3_R10226538) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-10.
+This security engineer position at Northrop Grumman was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

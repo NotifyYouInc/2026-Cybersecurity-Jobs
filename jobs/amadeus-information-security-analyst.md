@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Information-Security-Analyst_R33368) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Information-Security-Analyst_R33698) |
 
 ## About This Role
 
-This security engineer position at Amadeus was posted on 2026-02-25.
+This security engineer position at Amadeus was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

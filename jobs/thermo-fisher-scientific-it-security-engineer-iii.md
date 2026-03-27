@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Costa Rica |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/IT-Security-Engineer-III_R-01343784) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/IT-Security-Engineer-III_R-01343786) |
 
 ## About This Role
 
-This security engineer position at Thermo Fisher Scientific was posted on 2026-03-05.
+This security engineer position at Thermo Fisher Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
