@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Romania |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/9d76bc14-0985-4bcf-bb21-06830293d7ab) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/efb8e1f7-474d-4f5b-89d8-b01366337ac4) |
 
 ## About This Role
 
-This soc & incident response position at Sophos was posted on 2026-02-18.
+This soc & incident response position at Sophos was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Security-Engineer_JR-0000091196-1) |
+| Location | United Kingdom |
+| Category | Security Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Security-Engineer_JR-0000096719) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-12.
+This security engineer position at Barclays was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

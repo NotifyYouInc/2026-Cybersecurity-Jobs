@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CyberSecurity-Software-Engineer_JR-202601728-1) |
+| Location | Warren, Michigan, United States |
+| Category | Security Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CyberSecurity-Software-Engineer_JR-202605408) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-01-30.
+This security engineer position at General Motors was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

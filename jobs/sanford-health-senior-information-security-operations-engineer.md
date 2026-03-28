@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Senior-Information-Security-Operations-Engineer_R-0246148-1) |
+| Location | 4 locations |
+| Category | Security Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Senior-Information-Security-Operations-Engineer_R-0254459) |
 
 ## About This Role
 
-This soc & incident response position at Sanford Health was posted on 2026-02-24.
+This security engineer position at Sanford Health was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

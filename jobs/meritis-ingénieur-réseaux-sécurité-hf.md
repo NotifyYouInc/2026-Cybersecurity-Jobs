@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000115166537-ingenieur-reseaux-securite-hf) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000115422452-ingenieur-reseaux-securite-hf) |
 
 ## About This Role
 
-This soc & incident response position at Meritis was posted on 2026-03-17.
+This soc & incident response position at Meritis was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

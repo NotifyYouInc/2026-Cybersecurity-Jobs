@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Columbia/Sr-Security-Engineer_R0155200) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Columbia/Sr-Security-Engineer_R0156927) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-02-26.
+This security engineer position at Amentum was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

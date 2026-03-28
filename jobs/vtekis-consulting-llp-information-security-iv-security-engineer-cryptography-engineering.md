@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000115277842-information-security-iv-security-engineer-cryptography-engineering) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000115494327-information-security-iv-security-engineer-cryptography-engineering) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-03-17.
+This security engineer position at VTekis Consulting LLP was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

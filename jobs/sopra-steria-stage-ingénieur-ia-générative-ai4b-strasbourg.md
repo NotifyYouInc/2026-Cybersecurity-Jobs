@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Schiltigheim, Grand Est, France |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109950789-stage-ingenieur-ia-generative-ai4b-strasbourg) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115833297-stage-ingenieur-ia-generative-ai4b-strasbourg) |
 
 ## About This Role
 
-This offensive security & pentesting position at Sopra Steria was posted on 2026-02-18.
+This offensive security & pentesting position at Sopra Steria was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

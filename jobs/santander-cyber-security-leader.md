@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Cyber-Security-Leader_Req1550441) |
+| Location | Brazil |
+| Category | Security Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Cyber-Security-Leader_Req1554620) |
 
 ## About This Role
 
-This soc & incident response position at Santander was posted on 2026-03-09.
+This security engineer position at Santander was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

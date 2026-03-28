@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Information-Security-Engineer_R-272642-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Information-Security-Engineer_R-273756-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-03-13.
+This security engineer position at Mastercard was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000109912105-betrugs-und-sicherheitsspezialist) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000116012487-betrugs-und-sicherheitsspezialist) |
 
 ## About This Role
 
-This soc & incident response position at Coolblue was posted on 2026-02-18.
+This soc & incident response position at Coolblue was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 
