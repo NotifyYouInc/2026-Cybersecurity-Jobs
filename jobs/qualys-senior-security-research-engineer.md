@@ -1,16 +1,16 @@
-# Lead Information Security Engineer at Wells Fargo
+# Senior Security Research Engineer at Qualys
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Information-Security-Engineer_R-529872) |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Senior-Security-Research-Engineer_R0004333) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-03-23.
+This security engineer position at Qualys was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

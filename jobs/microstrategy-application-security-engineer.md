@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115310987-application-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115321387-application-security-engineer) |
 
 ## About This Role
 

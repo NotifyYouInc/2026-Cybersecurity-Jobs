@@ -1,12 +1,12 @@
-# DCO Administrator – Cybersecurity Administrator at General Dynamics Information Technology
+# NOSC Battle Captain at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Tampa, Florida, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/DCO-Administrator---Cybersecurity-Administrator_RQ216966-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/NOSC-Battle-Captain_RQ216968-1) |
 
 ## About This Role
 

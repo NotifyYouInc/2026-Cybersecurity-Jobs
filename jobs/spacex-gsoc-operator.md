@@ -1,16 +1,16 @@
-# Security Analyst at Zoom
+# GSOC Operator  at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Security Engineer |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hawthorne, California, United States |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Security-Analyst_R18174-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8473736002?gh_jid=8473736002) |
 
 ## About This Role
 
-This security engineer position at Zoom was posted on 2026-03-23.
+This soc & incident response position at SpaceX was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

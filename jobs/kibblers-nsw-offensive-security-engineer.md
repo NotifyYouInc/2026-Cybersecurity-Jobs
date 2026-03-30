@@ -1,16 +1,16 @@
-# Lead Information Security Engineer at Wells Fargo
+# Offensive Security Engineer at KIBBLERS NSW
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Western Australia, AU |
 | Category | Security Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Information-Security-Engineer_R-529872) |
+| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Offensive-Security-Engineer_R059672-1) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-03-23.
+This security engineer position at KIBBLERS NSW was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

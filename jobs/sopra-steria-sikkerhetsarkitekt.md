@@ -1,16 +1,16 @@
-# Security Analyst at Zoom
+# Sikkerhetsarkitekt at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Kristiansand, Agder, Norway |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Security-Analyst_R18174-1) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116072268-sikkerhetsarkitekt) |
 
 ## About This Role
 
-This security engineer position at Zoom was posted on 2026-03-23.
+This security engineer position at Sopra Steria was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

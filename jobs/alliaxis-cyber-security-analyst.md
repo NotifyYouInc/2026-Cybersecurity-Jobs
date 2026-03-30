@@ -1,16 +1,16 @@
-# Security Analyst at Zoom
+# Cyber Security Analyst at Alliaxis
 
 | Field | Details |
 |-------|---------|
-| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Security-Analyst_R18174-1) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Cyber-Security-Analyst_R-55204-1) |
 
 ## About This Role
 
-This security engineer position at Zoom was posted on 2026-03-23.
+This security engineer position at Alliaxis was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 
