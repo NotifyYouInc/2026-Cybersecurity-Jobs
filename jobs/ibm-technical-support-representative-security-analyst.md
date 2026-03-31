@@ -1,16 +1,16 @@
-# Technical Support Representative-Security Analyst at IBM
+# Technical Support Representative - Security Analyst at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93115) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Security Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105295) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-02-12.
+This security engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

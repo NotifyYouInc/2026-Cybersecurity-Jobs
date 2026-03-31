@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026498604-1) |
+| Location | Berkeley, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026500359-1) |
 
 ## About This Role
 
-This soc & incident response position at Boeing was posted on 2026-03-05.
+This security engineer position at Boeing was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

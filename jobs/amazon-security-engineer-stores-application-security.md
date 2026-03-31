@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207445/security-engineer-stores-application-security) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10374281/security-engineer-stores-application-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-03-18.
+This security engineer position at Amazon was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

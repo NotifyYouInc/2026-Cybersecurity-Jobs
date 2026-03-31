@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | Redmond, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556828229) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843679) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-03-10.
+This security engineer position at Microsoft was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

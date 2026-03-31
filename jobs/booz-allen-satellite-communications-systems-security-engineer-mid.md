@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Satellite-Communications-Systems-Security-Engineer--Mid_R0234755) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Satellite-Communications-Systems-Security-Engineer--Mid_R0236632) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-02-25.
+This security engineer position at Booz Allen was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbia, South Carolina, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Cybersecurity-Engineer---Top-Secret_R177244-1) |
+| Category | Security Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Cybersecurity-Engineer---Top-Secret_R178762-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at Parsons was posted on 2026-02-05.
+This security engineer position at Parsons was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

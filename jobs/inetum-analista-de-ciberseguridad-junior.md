@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huesca, Aragon, Spain |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111577255-analista-de-ciberseguridad-junior) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116127846-analista-de-ciberseguridad-junior) |
 
 ## About This Role
 
-This soc & incident response position at Inetum was posted on 2026-02-26.
+This soc & incident response position at Inetum was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

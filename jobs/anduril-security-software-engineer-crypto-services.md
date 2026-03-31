@@ -1,16 +1,16 @@
-# Security Software Engineer - Crypto Services at Anduril
+# Security Software Engineer - Crypto Services  at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Mesa, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5002794007?gh_jid=5002794007) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5086896007?gh_jid=5086896007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-02-13.
+This security engineer position at Anduril was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

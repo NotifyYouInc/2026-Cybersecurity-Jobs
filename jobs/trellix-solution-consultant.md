@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037161) |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037160) |
 
 ## About This Role
 

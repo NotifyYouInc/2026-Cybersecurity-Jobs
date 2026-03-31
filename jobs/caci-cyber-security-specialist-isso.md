@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Cyber-Security-Specialist--ISSO-_322291) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Cyber-Security-Specialist--ISSO-_310480-1) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-02-19.
+This security engineer position at CACI was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000113809982-engineering-director-information-security) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116270057-engineering-director-information-security) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-03-10.
+This engineering manager position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

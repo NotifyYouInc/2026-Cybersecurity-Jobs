@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000111542456-information-security-engineer) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116160548-information-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MicroStrategy was posted on 2026-02-26.
+This security engineer position at MicroStrategy was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115522196-cyber-security-engineer-ctf-reverse-engineering-anti-bot-ethical-hacker-experience) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115522037-cyber-security-engineer-ctf-reverse-engineering-anti-bot-ethical-hacker-experience) |
 
 ## About This Role
 

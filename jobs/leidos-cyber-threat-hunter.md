@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Cyber-Threat-Hunter_R-00178196) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Cyber-Threat-Hunter_R-00179005) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-12.
+This soc & incident response position at Leidos was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

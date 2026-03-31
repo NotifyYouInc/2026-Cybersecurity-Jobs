@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Engineering-Lead-Analyst---Vice-President_26939703) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Engineering-Lead-Analyst---Vice-President_26945837) |
 
 ## About This Role
 
-This security engineer position at Citigroup was posted on 2026-03-06.
+This security engineer position at Citigroup was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
