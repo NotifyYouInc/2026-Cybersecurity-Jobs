@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Huntsville/Cyber-Security-Analyst_RQ214761-1) |
+| Location | Wiesbaden, Hesse, Germany |
+| Category | Security Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Cyber-Security-Analyst_RQ217133-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-02-11.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

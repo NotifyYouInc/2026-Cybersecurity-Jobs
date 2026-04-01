@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110155966-architect-de-solution-securite-infonuagique-reseau) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000116372592-architect-de-solution-securite-infonuagique-reseau) |
 
 ## About This Role
 
-This security engineer position at Ubisoft was posted on 2026-02-19.
+This security engineer position at Ubisoft was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

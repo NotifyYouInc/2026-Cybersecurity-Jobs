@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000114479601-platform-security-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000116506699-platform-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Lendi Group was posted on 2026-03-12.
+This security engineer position at Lendi Group was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

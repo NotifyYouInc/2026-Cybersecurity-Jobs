@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Mid-level-SailPoint-Identity-Security-Cloud-Platform-Specialist_JR2026497460-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chicago-IL/Mid-level-SailPoint-Identity-Security-Cloud-Platform-Specialist_JR2026502492-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-02-24.
+This security engineer position at Boeing was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

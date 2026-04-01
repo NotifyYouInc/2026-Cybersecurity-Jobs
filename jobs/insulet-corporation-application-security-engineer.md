@@ -1,16 +1,16 @@
-# Application Security  Engineer at Insulet Corporation
+# Application Security Engineer at Insulet Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tijuana, Baja California, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Application-Security--Engineer_REQ-2026-15513) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Application-Security-Engineer_REQ-2026-15865) |
 
 ## About This Role
 
-This security engineer position at Insulet Corporation was posted on 2026-03-09.
+This security engineer position at Insulet Corporation was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

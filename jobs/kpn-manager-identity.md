@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000115670477-manager-identity) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000116159804-manager-identity) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-03-19.
+This security engineer position at KPN was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

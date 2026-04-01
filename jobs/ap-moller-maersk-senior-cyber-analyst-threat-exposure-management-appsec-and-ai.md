@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Portugal-Lisbon-1500-180/Senior-Cyber-Analyst---Threat-Exposure-Management--AppSec-and-AI-_R173060-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Cyber-Analyst---Threat-Exposure-Management--AppSec-and-AI-_R176488) |
 
 ## About This Role
 
-This cybersecurity engineer position at A.P. Moller - Maersk was posted on 2026-02-12.
+This security engineer position at A.P. Moller - Maersk was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

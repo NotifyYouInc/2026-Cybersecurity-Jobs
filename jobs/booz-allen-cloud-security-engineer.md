@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Wiesbaden, Hesse, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Security-Engineer_R0236263) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Cloud-Security-Engineer_R0236555) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-19.
+This security engineer position at Booz Allen was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

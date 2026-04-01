@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000106887255-infrastructure-security-operations-engineer) |
+| Category | Security Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116410918-infrastructure-security-operations-engineer) |
 
 ## About This Role
 
-This operations position at Endava was posted on 2026-02-02.
+This security engineer position at Endava was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
