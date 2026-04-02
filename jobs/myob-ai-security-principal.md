@@ -5,12 +5,12 @@
 | Company | [MYOB](https://scoutify.ai/companies/myob?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/myob-2/cea89dcd-b6b8-4bde-8f56-af9adfabf38e) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.lever.co/myob-2/60b2db90-91d5-4401-84f5-763c74303138) |
 
 ## About This Role
 
-This security engineer position at MYOB was posted on 2026-03-10.
+This security engineer position at MYOB was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

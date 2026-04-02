@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116168792-engineer-product-security) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116366797-engineer-product-security) |
 
 ## About This Role
 
-This security engineer position at NielsenIQ was posted on 2026-03-23.
+This security engineer position at NielsenIQ was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

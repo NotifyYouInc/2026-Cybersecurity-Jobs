@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Texas, US |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8479264002?gh_jid=8479264002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-03-11.
+This security engineer position at SpaceX was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

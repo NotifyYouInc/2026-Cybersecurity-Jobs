@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Cyber-Systems-Engineer---Level-4_R10216239) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Cyber-Systems-Engineer---Level-4_R10227224) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-02-24.
+This security engineer position at Northrop Grumman was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

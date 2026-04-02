@@ -1,16 +1,16 @@
-# Network Engineer, Principal at General Dynamics Information Technology
+# Network Engineer Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Florida, US |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Network-Engineer--Principal_RQ214810-1) |
+| Location | Herndon, Virginia, United States |
+| Category | Security Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Network-Engineer-Principal_RQ216845-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-12.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

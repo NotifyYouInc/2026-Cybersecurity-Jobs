@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Reverse-Engineer_R-00178527) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Reverse-Engineer_R-00179145) |
 
 ## About This Role
 
-This offensive security & pentesting position at Leidos was posted on 2026-03-17.
+This offensive security & pentesting position at Leidos was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

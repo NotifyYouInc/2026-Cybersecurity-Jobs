@@ -1,16 +1,16 @@
-# Sr. Embedded Security Engineer (Starlink) at SpaceX
+# Sr. Embedded Security Engineer (Starlink)  at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Texas, US |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8459986002?gh_jid=8459986002) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8479320002?gh_jid=8479320002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-03-11.
+This security engineer position at SpaceX was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

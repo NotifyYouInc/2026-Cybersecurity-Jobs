@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108731395-security-operations-center-soc-analyst) |
+| Location | Poland |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116693072-security-operations-center-soc-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Arista Networks was posted on 2026-02-11.
+This soc & incident response position at Arista Networks was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

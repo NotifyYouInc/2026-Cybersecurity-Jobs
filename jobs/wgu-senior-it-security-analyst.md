@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Senior-IT-Security-Analyst--overlap-_JR-024407) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-IT-Security-Analyst_JR-024581) |
 
 ## About This Role
 
-This security engineer position at WGU was posted on 2026-02-24.
+This security engineer position at WGU was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

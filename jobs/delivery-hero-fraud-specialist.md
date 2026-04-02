@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114732737-fraud-specialist) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116606327-fraud-specialist) |
 
 ## About This Role
 
-This security engineer position at Delivery Hero was posted on 2026-03-13.
+This security engineer position at Delivery Hero was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

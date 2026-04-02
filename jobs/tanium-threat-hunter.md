@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.tanium.com/careers/7665691?gh_jid=7665691) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7722934) |
 
 ## About This Role
 
-This soc & incident response position at Tanium was posted on 2026-03-09.
+This soc & incident response position at Tanium was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7615745?t=gh_src=&gh_jid=7615745) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7615747?t=gh_src=&gh_jid=7615747) |
 
 ## About This Role
 
-This security engineer position at Robinhood was posted on 2026-02-19.
+This security engineer position at Robinhood was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

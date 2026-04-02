@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5086967007?gh_jid=5086967007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5086962007?gh_jid=5086962007) |
 
 ## About This Role
 

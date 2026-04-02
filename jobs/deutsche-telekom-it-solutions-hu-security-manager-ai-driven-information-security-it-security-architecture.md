@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000115866213-security-manager-ai-driven-information-security-it-security-architecture) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000116426164-security-manager-ai-driven-information-security-it-security-architecture) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-03-20.
+This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Indianapolis, Indiana, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Senior-Threat-Detection-Engineer_JR324282-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Threat-Detection-Engineer_JR335784) |
 
 ## About This Role
 
-This soc & incident response position at Salesforce was posted on 2026-02-19.
+This soc & incident response position at Salesforce was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

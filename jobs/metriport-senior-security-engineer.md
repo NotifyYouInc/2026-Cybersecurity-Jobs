@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/cbfd68c7-7d16-4338-bbc2-d9f36e39240c) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/metriport/jobs/jIQWnMr-senior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Metriport was posted on 2026-03-05.
+This security engineer position at Metriport was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
