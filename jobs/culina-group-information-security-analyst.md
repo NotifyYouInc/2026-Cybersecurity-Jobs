@@ -5,12 +5,12 @@
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000110206564-information-security-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000116920124-information-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Culina Group was posted on 2026-02-19.
+This security engineer position at Culina Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Envigado, Antioquia, Colombia |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000111092221-network-perimeter-security-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000116916223-network-perimeter-security-engineer) |
 
 ## About This Role
 
-This security engineer position at O-I Glass was posted on 2026-02-24.
+This security engineer position at O-I Glass was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

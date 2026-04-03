@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000113684538-security-analyst-mfx) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000117004239-security-analyst-mfx) |
 
 ## About This Role
 
-This security engineer position at Scalable Capital was posted on 2026-03-10.
+This security engineer position at Scalable Capital was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

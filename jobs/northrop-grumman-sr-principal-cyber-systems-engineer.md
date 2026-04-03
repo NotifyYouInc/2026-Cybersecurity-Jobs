@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aurora, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Cyber-Systems-Engineer_R10226203) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Cyber-Systems-Engineer_R10226453) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-18.
+This security engineer position at Northrop Grumman was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

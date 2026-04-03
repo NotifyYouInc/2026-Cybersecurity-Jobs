@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114574914-cybersecurity-forensics-specialist) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116932358-cybersecurity-forensics-specialist) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-13.
+This soc & incident response position at Sopra Steria was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

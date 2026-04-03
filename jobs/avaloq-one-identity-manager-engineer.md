@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000110426076-one-identity-manager-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000116921667-one-identity-manager-engineer) |
 
 ## About This Role
 
-This security engineer position at Avaloq was posted on 2026-02-20.
+This security engineer position at Avaloq was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

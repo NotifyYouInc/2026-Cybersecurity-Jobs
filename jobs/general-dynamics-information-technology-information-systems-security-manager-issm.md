@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Miami, Florida, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Miami/Information-Systems-Security-Manager--ISSM-_RQ214131-1) |
+| Location | Germany |
+| Category | Security Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/Information-Systems-Security-Manager--ISSM-_RQ217289-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-02-19.
+This security engineer position at General Dynamics Information Technology was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Mateo, California, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5830744004) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838749004) |
 
 ## About This Role
 
-This security engineer position at Sony Interactive Entertainment was posted on 2026-03-17.
+This security engineer position at Sony Interactive Entertainment was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

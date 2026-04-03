@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4194223009) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4201985009) |
 
 ## About This Role
 
-This security engineer position at Gallup was posted on 2026-03-24.
+This security engineer position at Gallup was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

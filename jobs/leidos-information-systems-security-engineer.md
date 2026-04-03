@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Information-Systems-Security-Engineer_R-00177797) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Information-Systems-Security-Engineer_R-00179316) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-09.
+This security engineer position at Leidos was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

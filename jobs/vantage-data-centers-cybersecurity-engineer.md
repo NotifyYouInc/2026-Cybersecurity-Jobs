@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Singapore-Singapore/Cybersecurity-Engineer_R21728-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Singapore-Singapore/Cybersecurity-Engineer_R22241) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-03-11.
+This security engineer position at Vantage Data Centers was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

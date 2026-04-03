@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Texas Roadhouse](https://scoutify.ai/companies/texas-roadhouse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Cloud---Application-Security-Engineer--Hybrid-_JR003377) |
+| Category | Security Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Cloud---Application-Security-Engineer--Hybrid-_JR003577) |
 
 ## About This Role
 
-This cybersecurity engineer position at Texas Roadhouse was posted on 2026-02-06.
+This security engineer position at Texas Roadhouse was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Work-From-Home-USA/Lead-CIAM-Engineer_R20060804) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Lead-CIAM-Engineer_R20061103) |
 
 ## About This Role
 
-This security engineer position at Transamerica was posted on 2026-02-18.
+This security engineer position at Transamerica was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
