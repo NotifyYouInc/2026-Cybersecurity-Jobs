@@ -5,12 +5,12 @@
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.esri.com/careers/5070352007?gh_jid=5070352007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5091605007?gh_jid=5091605007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-03-06.
+This security engineer position at Esri was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

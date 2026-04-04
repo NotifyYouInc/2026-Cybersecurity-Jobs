@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forward Financing](https://scoutify.ai/companies/forward-financing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dominican Republic |
+| Location | Ontario, CA |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/forward%20financing/9c11c4b4-38fb-4fb2-b8f8-067f3c6c1973) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/forward%20financing/2b139c0d-3866-4f94-ad7b-8bfb83fcdef2) |
 
 ## About This Role
 
-This security engineer position at Forward Financing was posted on 2026-02-27.
+This security engineer position at Forward Financing was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

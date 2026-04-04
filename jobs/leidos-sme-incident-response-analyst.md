@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Incident-Response-Analyst_R-00177671) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Incident-Response-Analyst_R-00179466) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-06.
+This soc & incident response position at Leidos was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

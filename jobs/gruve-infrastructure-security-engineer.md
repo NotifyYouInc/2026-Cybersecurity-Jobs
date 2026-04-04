@@ -1,16 +1,16 @@
-# Infrastructure Security Engineer at Gruve
+# Infrastructure Security Engineer  at Gruve
 
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5155758008) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5164858008) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-03-20.
+This security engineer position at Gruve was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Devops Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000107034468-senior-devsecops-engineer-aerospace-and-defence) |
+| Category | Security Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000117253647-senior-devsecops-engineer-aerospace-and-defence) |
 
 ## About This Role
 
-This devops engineer position at Sigma Software was posted on 2026-02-03.
+This security engineer position at Sigma Software was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

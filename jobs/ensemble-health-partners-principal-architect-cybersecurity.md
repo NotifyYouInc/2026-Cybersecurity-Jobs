@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Principal-Architect--Cybersecurity_R041861) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Principal-Architect--Cybersecurity_R040768) |
 
 ## About This Role
 
-This security engineer position at Ensemble Health Partners was posted on 2026-02-25.
+This security engineer position at Ensemble Health Partners was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

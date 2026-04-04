@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000112892222-technicien-surveillance-electrique-hf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000117342207-technicien-surveillance-electrique-hf) |
 
 ## About This Role
 
-This soc & incident response position at Assystem was posted on 2026-03-05.
+This soc & incident response position at Assystem was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

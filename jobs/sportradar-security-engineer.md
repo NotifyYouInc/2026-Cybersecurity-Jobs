@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000114013367-security-engineer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117254647-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Sportradar was posted on 2026-03-11.
+This security engineer position at Sportradar was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
