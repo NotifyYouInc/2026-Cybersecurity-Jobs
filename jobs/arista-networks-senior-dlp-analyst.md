@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116548511-senior-dlp-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116616147-senior-dlp-analyst) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# IAM Operations Engineer at Dell Technologies
+# PKI/Certificate Management Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/IAM-Operations-Engineer_R286052-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/PKI---Certificate-Management-Engineer_ATCP-1257121-S408048) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-30.
+This security engineer position at Accenture was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

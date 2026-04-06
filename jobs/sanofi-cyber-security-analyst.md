@@ -1,16 +1,16 @@
-# IAM Operations Engineer at Dell Technologies
+# Cyber security analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/IAM-Operations-Engineer_R286052-1) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/Cyber-security-analyst_R2846746-1) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-30.
+This security engineer position at Sanofi was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

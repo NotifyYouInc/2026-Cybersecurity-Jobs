@@ -1,16 +1,16 @@
-# IAM Operations Engineer at Dell Technologies
+# Senior Security Engineer at Telstra
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Australia |
 | Category | Security Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/IAM-Operations-Engineer_R286052-1) |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/Senior-Security-Engineer_JR-10165120-1) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-30.
+This security engineer position at Telstra was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

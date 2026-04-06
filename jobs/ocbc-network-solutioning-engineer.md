@@ -1,16 +1,16 @@
-# IAM Operations Engineer at Dell Technologies
+# Network Solutioning Engineer at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/IAM-Operations-Engineer_R286052-1) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Network-Solutioning-Engineer_JR00006702) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-30.
+This security engineer position at OCBC was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

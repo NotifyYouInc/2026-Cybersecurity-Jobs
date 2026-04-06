@@ -1,16 +1,16 @@
-# IAM Operations Engineer at Dell Technologies
+# Active Directory Engineer at Dell Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
+| Location | Cyberjaya, Selangor, Malaysia |
+| Category | IT & Systems Administration |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/IAM-Operations-Engineer_R286052-1) |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Cyberjaya-Malaysia/Active-Directory-Engineer_R286038-1) |
 
 ## About This Role
 
-This security engineer position at Dell Technologies was posted on 2026-03-30.
+This it & systems administration position at Dell Technologies was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
