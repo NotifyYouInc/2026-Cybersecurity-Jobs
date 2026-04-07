@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7706765) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7742324) |
 
 ## About This Role
 
-This security engineer position at Pure Storage was posted on 2026-03-19.
+This security engineer position at Pure Storage was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

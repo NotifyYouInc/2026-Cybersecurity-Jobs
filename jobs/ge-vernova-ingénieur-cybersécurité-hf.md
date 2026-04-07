@@ -1,16 +1,16 @@
-# Ingénieur Cybersécurité H/F at GE Vernova
+# Ingénieur Cybersécurité - H/F at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Montpellier/Ingnieur-Cyberscurit-H-F_R5033722-3) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Massy/Ingnieur-Cyberscurit---H-F_R5036941) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-03-25.
+This security engineer position at GE Vernova was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

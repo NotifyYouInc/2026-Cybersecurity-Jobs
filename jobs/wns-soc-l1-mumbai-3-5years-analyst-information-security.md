@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000113655432-soc-l1-mumbai-3-5years-analyst-information-security) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000117625659-soc-l1-mumbai-3-5years-analyst-information-security) |
 
 ## About This Role
 
-This security engineer position at WNS was posted on 2026-03-10.
+This security engineer position at WNS was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

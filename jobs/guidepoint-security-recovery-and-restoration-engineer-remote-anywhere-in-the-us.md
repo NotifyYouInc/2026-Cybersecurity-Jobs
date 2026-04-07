@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5819145004?gh_jid=5819145004) |
+| Location | United States |
+| Category | Security Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5839954004?gh_jid=5839954004) |
 
 ## About This Role
 
-This soc & incident response position at GuidePoint Security was posted on 2026-03-05.
+This security engineer position at GuidePoint Security was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

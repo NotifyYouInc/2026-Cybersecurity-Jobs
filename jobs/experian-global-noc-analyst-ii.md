@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112241359-global-noc-analyst-ii) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117660318-global-noc-analyst-ii) |
 
 ## About This Role
 
-This soc & incident response position at Experian was posted on 2026-03-02.
+This soc & incident response position at Experian was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
