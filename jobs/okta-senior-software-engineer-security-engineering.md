@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7744352?gh_jid=7744352) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7744350?gh_jid=7744350) |
 
 ## About This Role
 
-This security engineer position at Okta was posted on 2026-03-27.
+This security engineer position at Okta was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

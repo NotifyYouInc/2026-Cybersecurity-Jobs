@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado, US |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Cyber-Sys-Engineer-4--26-125-and-26-126-_R10227251) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Cyber-Sys-Engineer-4--26-125-and-26-126-_R10227947) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-25.
+This security engineer position at Northrop Grumman was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

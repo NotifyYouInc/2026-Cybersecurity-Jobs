@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-IT-Security-Analyst_R0055754-2) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-IT-Security-Analyst_R0055322) |
 
 ## About This Role
 
-This security engineer position at Wolters Kluwer was posted on 2026-03-26.
+This security engineer position at Wolters Kluwer was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

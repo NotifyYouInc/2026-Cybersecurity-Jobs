@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/CloudOne-Cybersecurity-Engineering---DPaaS_R-00177751) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/CloudOne-Cybersecurity-Engineering---DPaaS_R-00179680) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-09.
+This security engineer position at Leidos was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
