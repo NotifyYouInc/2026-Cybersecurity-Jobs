@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Thessaloníki, Central Macedonia, Greece |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Sr-Manager--Identity-Lifecycle-Management_4952380-2) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Sr-Manager--Identity-Lifecycle-Management_4954588) |
 
 ## About This Role
 
-This security engineer position at Pfizer was posted on 2026-03-03.
+This security engineer position at Pfizer was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

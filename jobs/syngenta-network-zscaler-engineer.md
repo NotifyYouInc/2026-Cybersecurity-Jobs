@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000115137592-network-zscaler-engineer) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000118322607-network-zscaler-engineer) |
 
 ## About This Role
 
-This security engineer position at Syngenta was posted on 2026-03-17.
+This security engineer position at Syngenta was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Universal City, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Information-Systems-Security-Engineer--ISSE-_R-00177160) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Universal-City-TX/Information-Systems-Security-Engineer--ISSE-_R-00179776-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-27.
+This security engineer position at Leidos was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

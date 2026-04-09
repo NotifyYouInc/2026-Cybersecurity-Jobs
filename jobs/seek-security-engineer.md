@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | New South Wales, AU |
 | Category | Security Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000116011977-security-engineer) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000118312911-security-engineer) |
 
 ## About This Role
 
-This security engineer position at SEEK was posted on 2026-03-21.
+This security engineer position at SEEK was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Incident-Response-Analyst_R0009395) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Sao-Paulo/Incident-Response-Analyst_R0009432) |
 
 ## About This Role
 
-This soc & incident response position at Trend Micro was posted on 2026-03-27.
+This soc & incident response position at Trend Micro was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

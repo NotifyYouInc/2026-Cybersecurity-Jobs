@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Senior-Cybersecurity-Threat-Analyst_R0135248-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Senior-Cybersecurity-Threat-Analyst_R0135903-1) |
 
 ## About This Role
 
-This soc & incident response position at PayPal was posted on 2026-03-09.
+This soc & incident response position at PayPal was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

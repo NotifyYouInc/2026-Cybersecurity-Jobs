@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Redlands, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.esri.com/careers/5091605007?gh_jid=5091605007) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.esri.com/careers/5096382007?gh_jid=5096382007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-03-27.
+This security engineer position at Esri was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

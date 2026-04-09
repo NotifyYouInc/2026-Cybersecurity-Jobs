@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Cork, Munster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Security-Analyst_R0009396) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Cork/Security-Analyst_R0009430) |
 
 ## About This Role
 
-This security engineer position at Trend Micro was posted on 2026-03-27.
+This security engineer position at Trend Micro was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
