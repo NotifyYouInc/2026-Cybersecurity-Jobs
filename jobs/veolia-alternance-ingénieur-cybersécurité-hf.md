@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mulhouse, Grand Est, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117706370-alternance-ingenieur-cybersecurite-hf) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118218229-alternance-ingenieur-cybersecurite-hf) |
 
 ## About This Role
 
-This soc & incident response position at Veolia was posted on 2026-03-30.
+This soc & incident response position at Veolia was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

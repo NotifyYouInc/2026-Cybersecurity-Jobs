@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Bogota-Colombia/Security-Analyst--Tier-1---Alert-Analyst-_JR00018716) |
+| Location | Slovakia |
+| Category | Security Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Remote-Slovakia/Security-Analyst--Tier-1---Alert-Analyst-_JR00019662) |
 
 ## About This Role
 
-This cybersecurity engineer position at ConvaTec Group was posted on 2026-02-11.
+This security engineer position at ConvaTec Group was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

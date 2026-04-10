@@ -1,16 +1,16 @@
-# Associate Cybersecurity Analyst- local candidates only at Visa International Service Association
+# Associate Cybersecurity Analyst- Local Candidates Only at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112704037-associate-cybersecurity-analyst-local-candidates-only) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118404947-associate-cybersecurity-analyst-local-candidates-only) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-04.
+This security engineer position at Visa International Service Association was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
