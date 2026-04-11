@@ -1,12 +1,12 @@
-# Cybersecurity Analyst at Leidos
+# Information Systems Security Engineer (ISSE) SME at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00179974) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Information-Systems-Security-Engineer--ISSE--SME_R-00179082) |
 
 ## About This Role
 

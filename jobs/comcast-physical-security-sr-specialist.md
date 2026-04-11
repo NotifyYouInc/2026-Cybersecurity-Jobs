@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Physical Security Sr. Specialist at Comcast
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Norcross, Georgia, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666798005) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Norcross-6200-The-Corners-Pkwy/Physical-Security-Sr-Specialist_R434705) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-04-03.
+This security engineer position at Comcast was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

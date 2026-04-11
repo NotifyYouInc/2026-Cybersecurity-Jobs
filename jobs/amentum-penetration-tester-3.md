@@ -1,16 +1,16 @@
-# Digital Network Exploitation Analyst at Booz Allen
+# Penetration Tester 3 at Amentum
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Georgia, US |
+| Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Maryland, US |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Gordon-GA/Digital-Network-Exploitation-Analyst_R0237144) |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Linthicum/Penetration-Tester-3_R0158103) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-04-03.
+This offensive security & pentesting position at Amentum was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Workday Security Admin Sr at Advocate Health
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666798005) |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/Workday-Security-Admin-Sr_R218562) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-04-03.
+This security engineer position at Advocate Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

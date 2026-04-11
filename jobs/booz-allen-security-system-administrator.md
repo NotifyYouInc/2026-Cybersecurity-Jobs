@@ -1,16 +1,16 @@
-# Digital Network Exploitation Analyst at Booz Allen
+# Security System Administrator at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Georgia, US |
-| Category | Offensive Security & Pentesting |
+| Location | Atlanta, Georgia, United States |
+| Category | IT & Systems Administration |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Gordon-GA/Digital-Network-Exploitation-Analyst_R0237144) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Security-System-Administrator_R0237153) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-04-03.
+This it & systems administration position at Booz Allen was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

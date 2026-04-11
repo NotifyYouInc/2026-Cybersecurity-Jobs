@@ -1,12 +1,12 @@
-# Digital Network Exploitation Analyst at Booz Allen
+# Language-Enabled Analyst at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Georgia, US |
+| Location | McLean, Virginia, United States |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Gordon-GA/Digital-Network-Exploitation-Analyst_R0237144) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Language-Enabled-Analyst_R0237131) |
 
 ## About This Role
 

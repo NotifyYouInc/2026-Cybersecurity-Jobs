@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Cybersecurity Engineer SME at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666798005) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-SME_R-00180010-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-04-03.
+This security engineer position at Leidos was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

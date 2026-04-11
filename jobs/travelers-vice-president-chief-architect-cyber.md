@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# Vice President, Chief Architect- Cyber at Travelers
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hartford, Connecticut, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666798005) |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Vice-President--Chief-Architect--Cyber_R-50013-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-04-03.
+This security engineer position at Travelers was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

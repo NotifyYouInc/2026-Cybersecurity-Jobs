@@ -1,16 +1,16 @@
-# Security Analyst II at ConnectWise
+# IN_Manager_Process Mining_Risk Analytics - GRC_Advisory_Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666798005) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/IN-Manager-DevSecOps-Emerging-Technology-Security-Advisory-Bangalore_706678WD-1) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-04-03.
+This security engineer position at PwC was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

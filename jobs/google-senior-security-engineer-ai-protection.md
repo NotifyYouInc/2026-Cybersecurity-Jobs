@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/143174145125819078-senior-security-engineer-ai-protection?sort_by=date&page=1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/88961130348585670-senior-security-engineer-ai-protection?sort_by=date&page=2) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-02-18.
+This security engineer position at Google was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

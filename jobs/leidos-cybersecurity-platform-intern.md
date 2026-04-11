@@ -1,16 +1,16 @@
-# Cybersecurity Analyst at Leidos
+# Cybersecurity Platform Intern at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
-| Category | Security Engineer |
+| Location | United States |
+| Category | SOC & Incident Response |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00179974) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-03.
+This soc & incident response position at Leidos was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

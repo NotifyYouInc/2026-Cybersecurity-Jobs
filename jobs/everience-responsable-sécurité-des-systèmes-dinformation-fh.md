@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000115815327-responsable-securite-des-systemes-dinformation-fh) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118592510-responsable-securite-des-systemes-dinformation-fh) |
 
 ## About This Role
 
-This soc & incident response position at Everience was posted on 2026-03-20.
+This soc & incident response position at Everience was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
