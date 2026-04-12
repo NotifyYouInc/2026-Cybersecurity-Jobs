@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Bossier City, Louisiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Cybersecurity-Analyst-Senior_RQ216054) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Cybersecurity-Analyst-Senior_RQ217435) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-04.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

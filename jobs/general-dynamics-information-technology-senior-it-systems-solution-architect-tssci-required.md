@@ -1,12 +1,12 @@
-# Data Security Engineer - ACAS Task Lead at General Dynamics Information Technology
+# Senior IT Systems Solution Architect– TS/SCI Required at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arizona, US |
+| Location | Virginia, US |
 | Category | Security Engineer |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Fort-Huachuca/Data-Security-Engineer---ACAS-Task-Lead_RQ217687) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Belvoir/Senior-IT-Systems-Solution-Architect--TS-SCI-Required_RQ217641-2) |
 
 ## About This Role
 
