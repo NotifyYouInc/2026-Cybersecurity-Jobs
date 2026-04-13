@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Threat Detection & Response at Sigma Computing
+# Security Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690387003) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Security-Engineer_R167438) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-04-06.
+This security engineer position at Adobe was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

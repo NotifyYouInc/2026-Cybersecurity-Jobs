@@ -1,16 +1,16 @@
-# GSOC Senior Analyst at Novartis
+# Security Operations Engineer - Program Operations at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | SOC & Incident Response |
+| Category | Security Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/GSOC-Senior-Analyst_REQ-10067986) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856048) |
 
 ## About This Role
 
-This soc & incident response position at Novartis was posted on 2026-04-06.
+This security engineer position at Microsoft was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

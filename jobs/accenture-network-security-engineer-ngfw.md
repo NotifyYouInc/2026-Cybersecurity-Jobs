@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Network Security Engineer (NGFW) at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5497204-S2009060-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Network-Security-Engineer--NGFW-_ATCP-1336154-S420887-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-01.
+This security engineer position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

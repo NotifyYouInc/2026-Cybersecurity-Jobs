@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Threat Detection & Response at Sigma Computing
+# Cybersecurity Engineer at PayPal
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690387003) |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0134390-1) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-04-06.
+This security engineer position at PayPal was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

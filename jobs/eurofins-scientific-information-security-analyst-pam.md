@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Threat Detection & Response at Sigma Computing
+# Information Security Analyst- PAM at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690387003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118828487-information-security-analyst-pam) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-04-06.
+This security engineer position at Eurofins Scientific was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
