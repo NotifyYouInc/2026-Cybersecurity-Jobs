@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Plano, Texas, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Information-Security-Office--ISO--Consultant_R237071-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Information-Security-Office--ISO--Consultant_R239694-1) |
 
 ## About This Role
 
-This security engineer position at Capital One was posted on 2026-03-02.
+This security engineer position at Capital One was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

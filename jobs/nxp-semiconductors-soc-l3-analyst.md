@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Bucharest, București, Romania |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Guadalajara/SOC-L3-Analyst_R-10061880) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/SOC-L3-Analyst_R-10061886-1) |
 
 ## About This Role
 
-This soc & incident response position at NXP Semiconductors was posted on 2026-02-27.
+This soc & incident response position at NXP Semiconductors was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
