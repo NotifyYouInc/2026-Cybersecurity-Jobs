@@ -1,16 +1,16 @@
-# Lead Information Security Engineer at Wells Fargo
+# Executive Director Security Infrastructure Engineering Senior Manager (Data at Rest Encryption) at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Security Engineer |
+| Location | 2 locations |
+| Category | Engineering Manager |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/102462-AZ-B-Building-Chandler-Campus/Lead-Information-Security-Engineer_R-533337) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Executive-Director-Security-Infrastructure-Engineering-Senior-Manager--Data-at-Rest-Encryption-_R-530777) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-04-07.
+This engineering manager position at Wells Fargo was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/Security-Engineering-Senior-Engineer_JR-10165819-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/Security-Engineering-Senior-Engineer_JR-10165899-1) |
 
 ## About This Role
 
-This security engineer position at Telstra was posted on 2026-04-02.
+This security engineer position at Telstra was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

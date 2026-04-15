@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Sr. Manager, Application Security at Prosper
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Prosper](https://scoutify.ai/companies/prosper?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://jobs.lever.co/prosper/ffd85453-1899-4797-9c19-3edfd606592a) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Prosper was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

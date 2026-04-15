@@ -1,16 +1,16 @@
-# Datacenter Security Operations Manager at Microsoft
+# Principal, Cyber Security - Risk and Controls at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856491) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Principal--IT-Risk-and-Controls_R138703-1) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-04-07.
+This security engineer position at Northern Trust was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

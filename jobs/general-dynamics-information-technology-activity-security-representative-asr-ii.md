@@ -1,12 +1,12 @@
-# Information Assurance System Security Engineer (ISSE) III at General Dynamics Information Technology
+# Activity Security Representative (ASR) II at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | Ogden, Utah, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Information-Assurance-System-Security-Engineer--ISSE--III_RQ217988) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Activity-Security-Representative--ASR--II_RQ217921-1) |
 
 ## About This Role
 

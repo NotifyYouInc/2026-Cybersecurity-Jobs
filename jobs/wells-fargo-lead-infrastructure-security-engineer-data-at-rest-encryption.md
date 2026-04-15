@@ -1,12 +1,12 @@
-# Lead Information Security Engineer at Wells Fargo
+# Lead Infrastructure Security Engineer Data at Rest Encryption at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/102462-AZ-B-Building-Chandler-Campus/Lead-Information-Security-Engineer_R-533337) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Infrastructure-Security-Engineer-Data-at-Rest-Encryption_R-530800) |
 
 ## About This Role
 

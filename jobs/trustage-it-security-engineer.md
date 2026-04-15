@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# IT Security Engineer at TruStage
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [TruStage](https://scoutify.ai/companies/trustage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Madison, Wisconsin, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT-Security-Engineer_R-011819) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at TruStage was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

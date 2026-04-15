@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Senior Systems Engineer at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Senior-Systems-Engineer_R179059-1) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Parsons was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

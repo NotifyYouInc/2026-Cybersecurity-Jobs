@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-San-Antonio/Information-System-Security-Engineer---Senior_R0156743) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-San-Antonio/Information-System-Security-Engineer---Senior_R0158592) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-03-19.
+This security engineer position at Amentum was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# SC Security Specialist at Lowe's
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Newnan, Georgia, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Newnan-GA-BDC-3375/SC-Security-Specialist_JR-02461962) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Lowe's was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

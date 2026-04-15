@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Security Analyst at Mondelez International
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mexico |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Salinas-Mexico/Security-Analyst_R-159045-1) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Mondelez International was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

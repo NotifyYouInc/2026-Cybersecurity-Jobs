@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Cybersecurity Manager - MDMC at SteerBridge
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [SteerBridge](https://scoutify.ai/companies/steerbridge?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Albany, New York, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://jobs.lever.co/steerbridge/342a3ba2-aabb-4a73-accc-753f0357c655) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at SteerBridge was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# ALTERNANCE - Ingénieur Sécurité Réseau Firewalling - F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | France |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Ingnieur-Scurit-Rseau-Firewalling---F-H_R0323747-1) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Thales was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

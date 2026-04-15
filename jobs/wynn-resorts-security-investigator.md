@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Security Investigator at Wynn Resorts
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Everett, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000119186797-security-investigator) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Wynn Resorts was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

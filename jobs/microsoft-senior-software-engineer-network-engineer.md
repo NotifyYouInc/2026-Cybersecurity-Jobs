@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Senior Software Engineer - Network Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556855901) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Microsoft was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

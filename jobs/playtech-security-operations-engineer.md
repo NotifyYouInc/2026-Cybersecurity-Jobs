@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Security Operations Engineer at Playtech
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000119112593-security-operations-engineer) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Playtech was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Security Operations Associate at Saronic
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [Saronic](https://scoutify.ai/companies/saronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://jobs.lever.co/saronic/f9b362cc-4013-40f4-8519-5c46efc917ac) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at Saronic was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

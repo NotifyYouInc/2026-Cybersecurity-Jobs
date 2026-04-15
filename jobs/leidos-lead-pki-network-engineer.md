@@ -1,16 +1,16 @@
-# Cyber Security Engineer at Leidos
+# Lead PKI Network Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Security Engineer |
+| Location | Virginia, US |
+| Category | IT & Systems Administration |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Cyber-Security-Engineer_R-00179681) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Quantico-VA/Lead-PKI-Network-Engineer_R-00179786) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-07.
+This it & systems administration position at Leidos was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

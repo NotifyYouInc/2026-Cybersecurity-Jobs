@@ -1,16 +1,16 @@
-# Associate Cyber Security Analyst at McKesson
+# Security Lead Engineer at MFS
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cork, Munster, Ireland |
+| Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Associate-Cyber-Security-Analyst_JR0145242) |
+| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Security-Lead-Engineer_MFS-231699) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-07.
+This security engineer position at MFS was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
