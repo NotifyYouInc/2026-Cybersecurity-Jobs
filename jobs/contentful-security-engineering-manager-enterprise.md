@@ -1,0 +1,22 @@
+# Security Engineering Manager (Enterprise)  at Contentful
+
+| Field | Details |
+|-------|---------|
+| Company | [Contentful](https://scoutify.ai/companies/contentful?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
+| Category | Engineering Manager |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/contentful/jobs/7536576) |
+
+## About This Role
+
+This engineering manager position at Contentful was posted on 2026-03-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

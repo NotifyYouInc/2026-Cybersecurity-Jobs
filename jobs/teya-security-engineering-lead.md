@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teya/75fc1628-c2c1-4033-82d0-113677240a7d) |
+| Category | Engineering Manager |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/77f34cd1-2695-4707-80cf-4a87814d6298) |
 
 ## About This Role
 
-This security engineer position at Teya was posted on 2026-03-10.
+This engineering manager position at Teya was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

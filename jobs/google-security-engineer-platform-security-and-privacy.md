@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/72146489614181062-security-engineer-platform-security-and-privacy?sort_by=date&page=1) |
+| Category | Security Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY1xh78u9UnfhjUYrjE2KOmqR3kmKCvxFkRSk6UP_0RCEjsACxwdTF9JeTWzvdnDqPUnF_7zEqfolSpOBXAxft-N8mEeEr_DvavaRxAsZjkq9UDBQnMBzEuykaVdtw%3D%3D_V2&loc=US&title=Security+Engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-02-12.
+This security engineer position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

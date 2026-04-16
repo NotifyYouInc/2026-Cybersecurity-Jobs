@@ -1,16 +1,16 @@
-# ALTERNANCE – Ingénieur Cybersécurité – F/H at Thales
+# ALTERNANCE - Ingénieur Cybersécurité - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | France |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lille/ALTERNANCE---Ingnieur-Cyberscurit---F-H_R0321843) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sophia-Antipolis/ALTERNANCE---Ingnieur-Cyberscurit---F-H_R0321611) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-03-23.
+This security engineer position at Thales was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

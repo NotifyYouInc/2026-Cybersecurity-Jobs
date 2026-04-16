@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843679) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556639483) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-03-23.
+This security engineer position at Microsoft was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

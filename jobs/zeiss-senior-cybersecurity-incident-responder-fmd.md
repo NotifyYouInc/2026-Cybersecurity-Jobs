@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Germany |
+| Location | 3 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Process-Owner-for-Information-Security-Incident-Management--m-f-x-_JR_1041333-1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Senior-Cybersecurity-Incident-Responder--f-m-d-_JR_1048110-1) |
 
 ## About This Role
 
-This soc & incident response position at Zeiss was posted on 2026-03-04.
+This soc & incident response position at Zeiss was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

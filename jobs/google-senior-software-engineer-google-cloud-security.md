@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ramat Gan, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/91749542839362246-senior-software-engineer-google-cloud-security?sort_by=date&page=1) |
+| Category | Security Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfXvU8JBQjmpgZ3aCUpQWkkvGJ_J5JP4Zj-zxbinSNKVEjsACxwdTEFlgI7A2AuIWvmqwwgBtYwoxXfh0BRh4WWB1KYTIlFmA2n24FKyCwGZUHGeQAUEyz7p_E4Vqw%3D%3D_V2&loc=IL&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-02.
+This security engineer position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

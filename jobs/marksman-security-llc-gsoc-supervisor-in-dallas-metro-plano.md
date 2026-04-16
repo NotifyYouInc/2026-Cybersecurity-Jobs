@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marksman Security LLC](https://scoutify.ai/companies/marksman-security-llc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Richardson, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/marksman/jobs/4209223009) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marksman/jobs/4211228009) |
 
 ## About This Role
 
-This security engineer position at Marksman Security LLC was posted on 2026-04-06.
+This security engineer position at Marksman Security LLC was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

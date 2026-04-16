@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Austin, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7578913?gh_jid=7578913) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7792817?gh_jid=7792817) |
 
 ## About This Role
 
-This soc & incident response position at Cloudflare was posted on 2026-02-20.
+This soc & incident response position at Cloudflare was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
