@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Albuquerque, New Mexico, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Information-Technology-Assurance--IT-IA--Specialist-II_RQ215271-1) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Information-Technology-Assurance--IT-IA--Specialist-II_RQ218112-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-02-18.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

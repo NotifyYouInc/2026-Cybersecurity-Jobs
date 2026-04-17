@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/Cyber-Network-Engineer_R-10376750) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/Cyber-Network-Engineer_R-10365503) |
 
 ## About This Role
 
-This security engineer position at Fiserv was posted on 2026-03-11.
+This security engineer position at Fiserv was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

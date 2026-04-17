@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000117409328-local-information-security-advisory) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000119697837-local-information-security-advisory) |
 
 ## About This Role
 
-This security engineer position at Aumovio was posted on 2026-03-27.
+This security engineer position at Aumovio was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

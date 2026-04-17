@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644469-3337/principal-security-software-engineer?team=SFTWR) |
+| Location | Not specified |
+| Category | Security Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644326/principal-security-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-06.
+This security engineer position at Apple was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

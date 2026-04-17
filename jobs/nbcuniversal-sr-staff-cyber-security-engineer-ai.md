@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000106908831-sr-staff-cyber-security-engineer-ai) |
+| Location | New York, US |
+| Category | Security Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000119692647-sr-staff-cyber-security-engineer-ai) |
 
 ## About This Role
 
-This cybersecurity engineer position at NBCUniversal was posted on 2026-02-02.
+This security engineer position at NBCUniversal was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
