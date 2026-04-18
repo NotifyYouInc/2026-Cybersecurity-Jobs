@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Poland |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000118475647-cybersecurity-software-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000119956932-cybersecurity-software-engineer) |
 
 ## About This Role
 
-This security engineer position at Arista Networks was posted on 2026-04-02.
+This security engineer position at Arista Networks was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

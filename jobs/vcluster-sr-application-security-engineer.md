@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vcluster](https://scoutify.ai/companies/vcluster?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Munich, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/83c81a73-973f-406c-8482-64b09a968307) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/6cbaf9b0-02a5-4abb-beb9-1425a84f1eae) |
 
 ## About This Role
 
-This security engineer position at Vcluster was posted on 2026-02-11.
+This security engineer position at Vcluster was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

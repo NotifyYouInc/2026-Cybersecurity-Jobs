@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7641503) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7798149) |
 
 ## About This Role
 
-This soc & incident response position at Fastly was posted on 2026-02-24.
+This soc & incident response position at Fastly was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-USA-Remote/Security-Architect_R-101615) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-Remote/Security-Architect_R-104178) |
 
 ## About This Role
 
-This security engineer position at Eli Lilly was posted on 2026-03-03.
+This security engineer position at Eli Lilly was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

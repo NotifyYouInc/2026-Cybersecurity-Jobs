@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lookout](https://scoutify.ai/companies/lookout?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Germany |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.lookout.com/careers/job-post?gh_jid=7700538) |
+| Apply | [View on company site](https://www.lookout.com/careers/job-post?gh_jid=7699955) |
 
 ## About This Role
 

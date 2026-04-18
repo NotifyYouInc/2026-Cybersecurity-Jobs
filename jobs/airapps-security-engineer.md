@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/383087c5-180e-4dbe-98f2-7b26dc420f52) |
+| Posted | 2025-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/7357703e-79c4-4e66-8a0e-3c29a371e672) |
 
 ## About This Role
 
-This security engineer position at Airapps was posted on 2026-02-17.
+This security engineer position at Airapps was posted on 2025-03-27.
 
 ## Get Real-Time Alerts
 

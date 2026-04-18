@@ -1,16 +1,16 @@
-# TDY Cleared Security Escort - Multi-state at Amentum
+# TDY Cleared Security Escort-Multi-State at Amentum
 
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Alexandria/TDY-Cleared-Security-Escort---Multi-state_R0158182) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-GA-Atlanta/TDY-Cleared-Security-Escort-Multi-State_R0158959) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-04-06.
+This security engineer position at Amentum was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

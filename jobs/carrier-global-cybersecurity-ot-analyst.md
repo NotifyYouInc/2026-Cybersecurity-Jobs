@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Palm Beach Gardens, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Visionary-Office-Plynrn-161710-170-00-Prague-7-Czech-Republic/Cybersecurity-OT-Analyst_30201987) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Cybersecurity-OT-Analyst_30201801-2) |
 
 ## About This Role
 
-This security engineer position at Carrier Global was posted on 2026-03-23.
+This security engineer position at Carrier Global was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
