@@ -1,12 +1,12 @@
-# NCIS Cyber Security Analyst | Active TS/SCI clearance at General Dynamics Information Technology
+# Splunk/SIEM Administrator – Senior Cybersecurity Administrator at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Florida, US |
 | Category | Security Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Cyber-Security-Analyst---Active-TS-SCI-clearance_RQ218233-2) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Splunk-SIEM-Administrator---Senior-Cybersecurity-Administrator_RQ218133-1) |
 
 ## About This Role
 
