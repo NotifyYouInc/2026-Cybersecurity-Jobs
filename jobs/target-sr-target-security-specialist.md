@@ -1,16 +1,16 @@
-# Insurance Assurance Engineer at Leidos
+# Sr Target Security Specialist at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Fontana, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180604) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/14750-Miller-Avenue-FontanaCA-92336-1685/Sr-Target-Security-Specialist_R0000435064) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-12.
+This security engineer position at Target was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

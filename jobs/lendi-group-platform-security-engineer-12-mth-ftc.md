@@ -1,16 +1,16 @@
-# Insurance Assurance Engineer at Leidos
+# Platform Security Engineer | 12 Mth FTC at Lendi Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Security Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180604) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000120274591-platform-security-engineer-12-mth-ftc) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-12.
+This security engineer position at Lendi Group was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

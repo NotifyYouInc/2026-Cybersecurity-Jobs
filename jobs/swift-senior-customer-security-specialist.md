@@ -1,16 +1,16 @@
-# Insurance Assurance Engineer at Leidos
+# Senior Customer Security Specialist at Swift
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180604) |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Brussels-area-Belgium/Senior-Customer-Security-Specialist_2025-15196) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-12.
+This security engineer position at Swift was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

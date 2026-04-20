@@ -1,16 +1,16 @@
-# Staff Application Security Engineer at thumbtack
+# Staff Security Engineer (Fintech Information Security Engineering) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Security Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/cd68f84d-c802-46e9-aebd-60067e6a7c80) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7809766) |
 
 ## About This Role
 
-This security engineer position at thumbtack was posted on 2026-01-22.
+This security engineer position at Coupang was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

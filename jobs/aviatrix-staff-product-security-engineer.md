@@ -1,16 +1,16 @@
-# Staff Application Security Engineer at thumbtack
+# Staff Product Security Engineer at Aviatrix
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Aviatrix](https://scoutify.ai/companies/aviatrix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/cd68f84d-c802-46e9-aebd-60067e6a7c80) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://aviatrix.com/careers/?gh_jid=4683429005) |
 
 ## About This Role
 
-This security engineer position at thumbtack was posted on 2026-01-22.
+This security engineer position at Aviatrix was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

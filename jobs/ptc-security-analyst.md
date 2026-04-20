@@ -1,16 +1,16 @@
-# Staff Application Security Engineer at thumbtack
+# Security Analyst at PTC
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/cd68f84d-c802-46e9-aebd-60067e6a7c80) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Security-Analyst_JR111917) |
 
 ## About This Role
 
-This security engineer position at thumbtack was posted on 2026-01-22.
+This security engineer position at PTC was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

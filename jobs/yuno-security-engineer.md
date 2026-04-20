@@ -1,16 +1,16 @@
-# Staff Application Security Engineer at thumbtack
+# Security Engineer at Yuno
 
 | Field | Details |
 |-------|---------|
-| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Company | [Yuno](https://scoutify.ai/companies/yuno?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Argentina |
 | Category | Security Engineer |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/cd68f84d-c802-46e9-aebd-60067e6a7c80) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.lever.co/yuno/f67be624-8969-4967-baec-1d924213a482) |
 
 ## About This Role
 
-This security engineer position at thumbtack was posted on 2026-01-22.
+This security engineer position at Yuno was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

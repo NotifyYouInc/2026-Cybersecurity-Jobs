@@ -1,16 +1,16 @@
-# Insurance Assurance Engineer at Leidos
+# Cloud Security Engineer (f/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Portugal |
 | Category | Security Engineer |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180604) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120265737-cloud-security-engineer-fmdiv) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-12.
+This security engineer position at Robert Bosch was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 
