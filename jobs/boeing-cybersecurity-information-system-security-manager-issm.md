@@ -1,16 +1,16 @@
-# Cybersecurity – Information System Security Manager (ISSM) at Boeing
+# Cybersecurity - Information System Security Manager (ISSM) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026503498-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026505212-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-04-08.
+This security engineer position at Boeing was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

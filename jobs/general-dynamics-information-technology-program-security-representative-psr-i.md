@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ogden, Utah, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Program-Security-Representative--PSR--I_RQ217127-1) |
+| Location | Washington, District of Columbia, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Program-Security-Representative--PSR--I_RQ218306-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-24.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

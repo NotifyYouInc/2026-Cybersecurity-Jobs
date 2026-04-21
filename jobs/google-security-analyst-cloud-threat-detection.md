@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115734625568858822-security-analyst-cloud-threat-detection?sort_by=date&page=1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSfyjnifQE6FFOOXrxxVmBRgJlmWqoOwkhAh8QYYES9aEjsACxwdTKO_4Sfzgmo0_kd6Mjhp2NoD6mdo0l6aWxx5c374VFdoN1ky3FaLcJEGVPO-yr2awtCv9ZjoTA%3D%3D_V2&loc=IN&title=Security+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-03-02.
+This security engineer position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Clarksville, Tennessee, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/77443033619931846-data-center-security-manager-csrm?sort_by=date&page=1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke0ZJMQlaudVxWgYfBQNSk4Ti2MYBxt-zZ-VmLTdhsHuEjsACxwdTLxNd9EQwIf-up5hVj58jg_YK60SqHJpiAcdXVSfi4ZIRP4nQgMII5fko-ZprntT4RiSOS0CUw%3D%3D_V2&loc=US&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-03-02.
+This security engineer position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

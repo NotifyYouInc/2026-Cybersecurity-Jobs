@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Israel |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Security-Software-Engineer--SPE_JR2013841) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Security-Software-Engineer--SPE_JR2016334) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-03-02.
+This security engineer position at Nvidia was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

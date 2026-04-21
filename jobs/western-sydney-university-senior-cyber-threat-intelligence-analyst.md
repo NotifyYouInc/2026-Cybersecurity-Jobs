@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Parramatta, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000000989664-senior-cyber-threat-intelligence-analyst) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000000990850-senior-cyber-threat-intelligence-analyst) |
 
 ## About This Role
 
-This security engineer position at Western Sydney University was posted on 2026-04-10.
+This security engineer position at Western Sydney University was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

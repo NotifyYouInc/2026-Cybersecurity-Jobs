@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2025-08-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200615349/soc-test-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657328/soc-test-engineer) |
 
 ## About This Role
 
-This soc & incident response position at Apple was posted on 2025-08-08.
+This soc & incident response position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

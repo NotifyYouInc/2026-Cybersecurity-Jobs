@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Preply](https://scoutify.ai/companies/preply?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/preply/3c30ae7f-dff5-4e1a-bd71-8ab82969bc7b) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/preply/c34b2e52-8e45-4ea2-87bd-4231885b2752) |
 
 ## About This Role
 
-This security engineer position at Preply was posted on 2026-03-12.
+This security engineer position at Preply was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

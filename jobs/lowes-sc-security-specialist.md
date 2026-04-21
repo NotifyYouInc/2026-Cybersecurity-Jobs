@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Newnan, Georgia, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Newnan-GA-BDC-3375/SC-Security-Specialist_JR-02461962) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Oklahoma-City-OK-XDT-3889/SC-Security-Specialist_JR-02483251-1) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-04-07.
+This security engineer position at Lowe's was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

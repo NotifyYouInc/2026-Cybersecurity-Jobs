@@ -1,16 +1,16 @@
-# STAFF, SOFTWARE ENGINEER, INFORMATION SECURITY at Walmart
+# Staff, Software Engineer, Information Security at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/STAFF--SOFTWARE-ENGINEER--INFORMATION-SECURITY_R-2404033) |
+| Location | Dallas, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/Staff--Software-Engineer--Information-Security_R-2468138) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-12.
+This security engineer position at Walmart was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

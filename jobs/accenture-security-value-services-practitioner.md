@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Value-Services-Practitioner_ATCI-5378741-S1960986-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Value-Services-Practitioner_ATCI-5504841-S2013463) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-09.
+This security engineer position at Accenture was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
