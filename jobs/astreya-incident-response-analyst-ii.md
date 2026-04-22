@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Jose, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Jose-CA/Incident-Response-Analyst-II_R0015194) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Dublin-Ireland/Incident-Response-Analyst-II_R0015202) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-04-02.
+This soc & incident response position at Astreya was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

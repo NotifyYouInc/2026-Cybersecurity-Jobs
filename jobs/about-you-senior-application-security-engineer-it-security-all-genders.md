@@ -1,4 +1,4 @@
-# Senior Application Security Engineer - IT Security (all genders) at About You
+# Senior Application Security Engineer- IT Security (all genders) at About You
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hamburg, Hamburg, Germany |
 | Category | Security Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120355460-senior-application-security-engineer-it-security-all-genders) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120455069-senior-application-security-engineer-it-security-all-genders) |
 
 ## About This Role
 

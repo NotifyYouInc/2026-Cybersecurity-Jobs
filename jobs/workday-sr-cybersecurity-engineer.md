@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Sr-Cybersecurity-Engineer_JR-0103718) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Cybersecurity-Engineer_JR-0104504) |
 
 ## About This Role
 
-This cybersecurity engineer position at Workday was posted on 2026-02-10.
+This security engineer position at Workday was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

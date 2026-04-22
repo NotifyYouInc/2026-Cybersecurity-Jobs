@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | South Bend, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/USA-AL-Madison-Palmer-Plaza/Security-Commercial-Offerings-Sys-Technician_WD30265013-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/South-Bend-Indiana-United-States-of-America/Security-Installer_WD30266002) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-10.
+This security engineer position at Johnson Controls was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

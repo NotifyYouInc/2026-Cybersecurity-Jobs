@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | North Charleston, South Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/North-Charleston-South-Carolina/RMF-Cybersecurity-ISSO-SME-3_R2120960) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/North-Charleston-South-Carolina/RMF-Cybersecurity-ISSO-SME-3_R2120965) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-03-25.
+This security engineer position at KBR was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

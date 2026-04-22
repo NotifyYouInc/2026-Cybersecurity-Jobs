@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austria |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5110452008) |
+| Location | Queensland, AU |
+| Category | Security Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5188571008) |
 
 ## About This Role
 
-This sales position at Tenable was posted on 2026-02-06.
+This security engineer position at Tenable was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

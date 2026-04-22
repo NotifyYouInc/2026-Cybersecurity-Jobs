@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Cloud-Security-Engineer_R0237458) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Cloud-Security-Engineer_R0237805) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-09.
+This security engineer position at Booz Allen was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

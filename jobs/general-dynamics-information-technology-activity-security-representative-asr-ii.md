@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ogden, Utah, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Activity-Security-Representative--ASR--II_RQ217921-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Activity-Security-Representative--ASR--II_RQ218412-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-07.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

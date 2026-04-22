@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Cyber-Systems-Engineer_R10221338) |
+| Location | San Antonio, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/Staff-Cyber-Systems-Engineer_R10229386) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-02-03.
+This security engineer position at Northrop Grumman was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

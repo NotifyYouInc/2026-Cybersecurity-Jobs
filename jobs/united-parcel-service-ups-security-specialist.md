@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CL---AEROPUERTO-INTL-ARTURO-MERINO-CLSCL/Security-Specialist_R26011877) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/ES---BARCELONA-ESBCA/Security-Specialist_R26009520) |
 
 ## About This Role
 
-This security engineer position at United Parcel Service (UPS) was posted on 2026-04-09.
+This security engineer position at United Parcel Service (UPS) was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

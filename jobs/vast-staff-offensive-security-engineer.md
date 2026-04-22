@@ -5,12 +5,12 @@
 | Company | [VAST](https://scoutify.ai/companies/vast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/vast/jobs/4659203006?gh_jid=4659203006) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/vast/jobs/4673335006?gh_jid=4673335006) |
 
 ## About This Role
 
-This offensive security & pentesting position at VAST was posted on 2026-03-03.
+This offensive security & pentesting position at VAST was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

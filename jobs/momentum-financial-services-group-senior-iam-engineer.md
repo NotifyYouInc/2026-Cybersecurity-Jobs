@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Momentum Financial Services Group](https://scoutify.ai/companies/momentum-financial-services-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5180514008) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5187965008) |
 
 ## About This Role
 
-This security engineer position at Momentum Financial Services Group was posted on 2026-04-13.
+This security engineer position at Momentum Financial Services Group was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

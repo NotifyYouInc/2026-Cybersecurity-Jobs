@@ -6,7 +6,7 @@
 | Location | Hamburg, Hamburg, Germany |
 | Category | Security Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120358447-it-security-analyst-it-security-all-genders) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120452093-it-security-analyst-it-security-all-genders) |
 
 ## About This Role
 
