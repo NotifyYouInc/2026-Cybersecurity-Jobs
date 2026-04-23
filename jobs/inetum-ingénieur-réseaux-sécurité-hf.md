@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116897003-ingenieur-reseaux-securite-hf) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120879404-ingenieur-reseaux-securite-hf) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-03-26.
+This security engineer position at Inetum was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

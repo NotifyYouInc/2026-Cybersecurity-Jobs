@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Layton, Utah, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Classified-Cybersecurity-Analyst---Secret_R10225452) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Principal-Classified-Cybersecurity-Analyst---Secret_R10229146-1) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-10.
+This security engineer position at Northrop Grumman was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

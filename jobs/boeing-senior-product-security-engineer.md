@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | North Charleston, South Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Senior-Product-Security-Engineer_JR2026497630) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Product-Security-Engineer_JR2026503253-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-02-23.
+This security engineer position at Boeing was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

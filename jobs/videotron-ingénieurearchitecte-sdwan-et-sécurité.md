@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000112268848-ingenieurearchitecte-sdwan-et-securite) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000120982219-ingenieurearchitecte-sdwan-et-securite) |
 
 ## About This Role
 
-This security engineer position at Videotron was posted on 2026-03-02.
+This security engineer position at Videotron was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

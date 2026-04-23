@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000997378-security-engineer-trust-safety) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000997900-security-engineer-trust-safety) |
 
 ## About This Role
 
-This security engineer position at Canva was posted on 2026-04-14.
+This security engineer position at Canva was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

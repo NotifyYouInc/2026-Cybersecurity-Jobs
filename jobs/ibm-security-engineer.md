@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York, US |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95519) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107948) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-02-18.
+This security engineer position at IBM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

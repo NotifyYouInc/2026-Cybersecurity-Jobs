@@ -5,12 +5,12 @@
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hanover, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990011900810-senior-systems-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990012615423-senior-systems-engineer) |
 
 ## About This Role
 
-This security engineer position at MAXISIQ was posted on 2026-02-27.
+This security engineer position at MAXISIQ was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

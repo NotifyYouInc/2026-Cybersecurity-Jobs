@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Cybersecurity-Engineer_R-00177501) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Engineer_R-00179168-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-04.
+This security engineer position at Leidos was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

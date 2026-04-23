@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Karnataka, IN |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Engineer---Zero-Trust_WD30265738-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Engineer---Zero-Trust_WD30265819) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-14.
+This security engineer position at Johnson Controls was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

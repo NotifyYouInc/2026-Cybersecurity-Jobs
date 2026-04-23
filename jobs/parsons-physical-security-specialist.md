@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Mclean/Physical-Security-Specialist_R178512-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Bethesda/Physical-Security-Specialist_R175228-1) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-04-13.
+This security engineer position at Parsons was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

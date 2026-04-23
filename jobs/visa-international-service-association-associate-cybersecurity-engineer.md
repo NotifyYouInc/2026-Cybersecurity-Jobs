@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114894187-associate-cybersecurity-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121062268-associate-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Visa International Service Association was posted on 2026-03-16.
+This security engineer position at Visa International Service Association was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

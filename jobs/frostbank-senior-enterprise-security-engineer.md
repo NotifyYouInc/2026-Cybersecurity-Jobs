@@ -5,12 +5,12 @@
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Senior-Enterprise-Security-Engineer_R260539) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Senior-Enterprise-Security-Engineer_R260621) |
 
 ## About This Role
 
-This security engineer position at Frostbank was posted on 2026-04-01.
+This security engineer position at Frostbank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

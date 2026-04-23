@@ -1,16 +1,16 @@
-# Specialist - Product security - IN at TIAA
+# Specialist, Product Security – IN at TIAA
 
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Pune-India/Specialist---Product-security---IN_R260400130) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Pune-India/Specialist--Product-Security---IN_R260400261) |
 
 ## About This Role
 
-This security engineer position at TIAA was posted on 2026-04-13.
+This security engineer position at TIAA was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

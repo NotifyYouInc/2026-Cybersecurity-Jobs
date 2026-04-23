@@ -5,12 +5,12 @@
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Plymouth, Minnesota, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990012565476-cybersecurity-engineer-security-operations-specialist-entry-level-focus-korean-bilingual-preferred) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990012627786-cybersecurity-engineer-security-operations-specialist-entry-level-focus-korean-bilingual-preferred) |
 
 ## About This Role
 
-This security engineer position at SBT Global, Inc. was posted on 2026-04-12.
+This security engineer position at SBT Global, Inc. was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

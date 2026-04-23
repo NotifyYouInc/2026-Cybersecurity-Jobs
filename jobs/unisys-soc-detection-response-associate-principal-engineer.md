@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Karnataka, IN |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/SOC-Detection---Response---Associate-Principal-Engineer_REQ572061) |
+| Category | Security Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/SOC-Detection---Response---Associate-Principal-Engineer_REQ572549) |
 
 ## About This Role
 
-This soc & incident response position at Unisys was posted on 2026-03-20.
+This security engineer position at Unisys was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
