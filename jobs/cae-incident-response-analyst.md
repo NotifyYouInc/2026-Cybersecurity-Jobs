@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Toronto/Incident-Response-Analyst_119766) |
+| Location | Montréal, Quebec, Canada |
+| Category | SOC & Incident Response |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Incident-Response-Analyst_121201) |
 
 ## About This Role
 
-This cybersecurity engineer position at CAE was posted on 2026-02-06.
+This soc & incident response position at CAE was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

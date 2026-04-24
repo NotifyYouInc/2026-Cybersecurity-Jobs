@@ -1,16 +1,16 @@
-# Concepteur Sécurité des Produits at Wabtec
+# Concepteur sécurité des produits at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Security Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012399336-concepteur-securite-des-produits) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012636217-concepteur-securite-des-produits) |
 
 ## About This Role
 
-This security engineer position at Wabtec was posted on 2026-03-31.
+This security engineer position at Wabtec was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

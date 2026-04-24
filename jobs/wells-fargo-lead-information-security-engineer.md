@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/102462-AZ-B-Building-Chandler-Campus/Lead-Information-Security-Engineer_R-533337) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Information-Security-Engineer_R-536214) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-04-07.
+This security engineer position at Wells Fargo was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

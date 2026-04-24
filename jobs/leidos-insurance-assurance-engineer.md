@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180604) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00181103) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-12.
+This security engineer position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

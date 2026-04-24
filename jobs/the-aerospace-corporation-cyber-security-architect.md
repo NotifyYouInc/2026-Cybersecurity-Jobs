@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Houston-TX/Cyber-Security-Architect-_R014829-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Cleveland-OH/Cyber-Security-Architect-_R015134) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-03-19.
+This security engineer position at The Aerospace Corporation was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

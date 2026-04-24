@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000120326508-security-mwd-fur-burgeramt-in-neukolln) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000121346577-security-mwd-fur-burgeramt-in-neukolln) |
 
 ## About This Role
 
-This security engineer position at flash-security was posted on 2026-04-13.
+This security engineer position at flash-security was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
