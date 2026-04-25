@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108621240-cybersecurity-analyst) |
+| Location | Foster City, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121414183-cybersecurity-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Visa International Service Association was posted on 2026-02-10.
+This security engineer position at Visa International Service Association was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

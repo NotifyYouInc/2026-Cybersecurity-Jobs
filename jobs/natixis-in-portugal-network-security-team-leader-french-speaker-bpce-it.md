@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000116232817-network-security-team-leader-french-speaker-bpce-it) |
+| Category | Security Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000121457728-network-security-team-leader-french-speaker-bpce-it) |
 
 ## About This Role
 
-This soc & incident response position at natixis-in-portugal was posted on 2026-03-23.
+This security engineer position at natixis-in-portugal was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

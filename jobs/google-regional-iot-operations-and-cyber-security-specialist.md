@@ -1,16 +1,16 @@
-# Regional IoT Operations and Cyber Security Specialist at Google
+# Regional IoT Operations and Cyber security Specialist at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdyNBe1ZAv07BusdBgk_bQgDOhvLifWLwRFtBHtv86BeEjsACxwdTN7FrY38weTVOQ3p1-FBrDR9Rn2wtIbD6DXDRVy_owNTVEUyz6Rwn6qCiZ2rnLEElPhCSpDOlg%3D%3D_V2&loc=GB&title=Regional+IoT+Operations+and+Cyber+Security+Specialist) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQCMc2fxMMye_pAfYqvbbWuDXjN8JZGtK17iCw-CmdNnEjsACxwdTBQ_VtP1Wp4RiW8cLCsa0smitkA-tWD09ZxSi-SS-7zdMUfPLbCC766Jsnu8ZV7MwCRNQxzmmg%3D%3D_V2&loc=US&title=Regional+IoT+Operations+and+Cyber+security+Specialist) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-15.
+This security engineer position at Google was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

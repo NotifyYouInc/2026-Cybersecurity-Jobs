@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Cyber-Manager---Threat-Exposure-Management_R176485) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Cyber-Manager---Threat-Exposure-Management_R176490) |
 
 ## About This Role
 
-This security engineer position at A.P. Moller - Maersk was posted on 2026-03-24.
+This security engineer position at A.P. Moller - Maersk was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Security-Engineer_R0114720-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Security-Engineer_R0118429-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at LSEG was posted on 2026-02-09.
+This security engineer position at LSEG was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

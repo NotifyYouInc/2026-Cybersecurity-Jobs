@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Information-Systems-Security-Manager_R-00176520) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Information-Systems-Security-Manager_R-00181184) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-20.
+This security engineer position at Leidos was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

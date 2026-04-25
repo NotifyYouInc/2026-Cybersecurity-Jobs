@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120346987-infrastructure-security-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121404846-infrastructure-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Wix.com was posted on 2026-04-13.
+This security engineer position at Wix.com was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

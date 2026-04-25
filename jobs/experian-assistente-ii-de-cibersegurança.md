@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121045759-assistente-ii-de-ciberseguranca) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121289068-assistente-ii-de-ciberseguranca) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-04-15.
+This security engineer position at Experian was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

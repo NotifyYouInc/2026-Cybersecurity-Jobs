@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012622026-associate-director-cybersecurity-posture-hygiene-and-ai-remote) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012632786-associate-director-cybersecurity-posture-hygiene-and-ai-remote) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-04-15.
+This security engineer position at AbbVie was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
