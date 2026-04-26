@@ -1,4 +1,4 @@
-# NCIS Cyber Security Analyst | Active TS/SCI clearance at General Dynamics Information Technology
+# SOC Cyber Security Analyst - Secret Clearance Required at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Security Engineer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Cyber-Security-Analyst---Active-TS-SCI-clearance_RQ218539-2) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/SOC-Cyber-Security-Analyst---Secret-Clearance-Required_RQ218320-1) |
 
 ## About This Role
 
