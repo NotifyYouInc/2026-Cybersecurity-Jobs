@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# Security Engineer, Product Security - Global Security Organisation at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7629740489301903621/detail) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at TikTok was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Cloud-Security-Engineer-I_R-13206) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Cloud-Security-Engineer-I_R-13431) |
 
 ## About This Role
 
-This security engineer position at Invesco was posted on 2026-03-20.
+This security engineer position at Invesco was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

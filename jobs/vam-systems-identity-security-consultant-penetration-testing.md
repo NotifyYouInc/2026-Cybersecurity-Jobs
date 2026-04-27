@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000120261657-identity-security-consultant-penetration-testing) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000121622857-identity-security-consultant-penetration-testing) |
 
 ## About This Role
 
-This offensive security & pentesting position at VAM Systems was posted on 2026-04-12.
+This offensive security & pentesting position at VAM Systems was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer, Transaction Security at Fireblocks
+# SOC Engineer - London at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4674476006?gh_jid=4674476006) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/SOC---Security-Content-Engineer_R00305756) |
 
 ## About This Role
 
-This security engineer position at Fireblocks was posted on 2026-04-19.
+This security engineer position at Accenture was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

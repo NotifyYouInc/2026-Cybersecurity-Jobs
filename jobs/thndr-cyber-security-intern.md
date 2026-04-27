@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# Cyber Security Intern  at Thndr
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/66cb3c05-9458-42a0-8e9a-5eaee8cb730b) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at Thndr was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

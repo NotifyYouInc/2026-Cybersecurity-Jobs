@@ -1,16 +1,16 @@
-# Security Associate at PNC Financial
+# Security Associate - at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Security-Associate_R213902-2) |
+| Category | Security Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Security-Associate--_R217919-1) |
 
 ## About This Role
 
-This soc & incident response position at PNC Financial was posted on 2026-03-19.
+This security engineer position at PNC Financial was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

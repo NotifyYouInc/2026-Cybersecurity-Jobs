@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# Application Security Specialist at Entain
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000121627917-application-security-specialist) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at Entain was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

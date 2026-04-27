@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# Security Lead ANZ at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Docklands, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Australia---Docklands/Security-Lead-ANZ_RQ108888) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at BP was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

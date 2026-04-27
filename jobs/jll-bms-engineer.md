@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# BMS Engineer at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/BMS-Engineer_REQ499254-1) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at JLL was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

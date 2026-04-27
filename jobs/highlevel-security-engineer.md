@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Delhi, Delhi, India |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/gohighlevel/2030b7fe-ee77-4ebc-bc86-4d55eeeb0e9e) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/6ea8aa6e-9887-48b7-8137-634738b2d2ee) |
 
 ## About This Role
 
-This security engineer position at HighLevel was posted on 2026-04-15.
+This security engineer position at HighLevel was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# 資安治理人員 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Security Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR7293) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at CTBC Financial Holding was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

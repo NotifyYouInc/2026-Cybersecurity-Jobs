@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# AI Expert Security Operations Team Lead  at Fireblocks
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Israel |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position/4655907006?gh_jid=4655907006) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at Fireblocks was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

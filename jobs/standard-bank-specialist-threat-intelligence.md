@@ -1,16 +1,16 @@
-# Endpoint Security Analyst at METRO/MAKRO
+# Specialist, Threat Intelligence at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Security Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000121685196-endpoint-security-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000121679687-specialist-threat-intelligence) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-20.
+This security engineer position at Standard Bank was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
