@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Value-Services-Practitioner_ATCI-5504841-S2013463) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ahmedabad/Security-Value-Services-Practitioner_ATCI-5464278-S2015591-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-13.
+This security engineer position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

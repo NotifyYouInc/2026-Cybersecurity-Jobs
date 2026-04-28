@@ -5,12 +5,12 @@
 | Company | [Prologis](https://scoutify.ai/companies/prologis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Security-Engineer_R6481) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Security-Engineer_R6519-1) |
 
 ## About This Role
 
-This security engineer position at Prologis was posted on 2026-03-31.
+This security engineer position at Prologis was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

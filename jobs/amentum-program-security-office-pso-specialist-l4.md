@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Program-Security-Office--PSO--Specialist-L4_R0158422) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Program-Security-Office--PSO--Specialist-L4_R0159663) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-04-06.
+This security engineer position at Amentum was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

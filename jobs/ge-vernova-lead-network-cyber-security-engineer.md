@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Stafford, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Network---Cyber-Security-Engineer_R5036241-2) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Stafford/Lead-Network---Cyber-Security-Engineer_R5039412-2) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-03-26.
+This security engineer position at GE Vernova was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

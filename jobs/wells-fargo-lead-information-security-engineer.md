@@ -1,16 +1,16 @@
-# Lead Information Security Engineer at Wells Fargo
+# Lead Information security engineer at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Information-Security-Engineer_R-536214) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Information-security-engineer_R-530544) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-04-16.
+This security engineer position at Wells Fargo was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

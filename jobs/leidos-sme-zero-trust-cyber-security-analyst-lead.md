@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Alexandria, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Zero-Trust-Cyber-Security-Analyst-Lead_R-00177668) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Zero-Trust-Cyber-Security-Analyst-Lead_R-00181137) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-06.
+This security engineer position at Leidos was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

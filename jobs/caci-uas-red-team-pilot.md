@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_324934) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_324936-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at CACI was posted on 2026-04-15.
+This offensive security & pentesting position at CACI was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

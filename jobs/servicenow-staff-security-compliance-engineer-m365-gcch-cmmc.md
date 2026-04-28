@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112533467-staff-security-compliance-engineer-m365-gcch-cmmc) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121841367-staff-security-compliance-engineer-m365-gcch-cmmc) |
 
 ## About This Role
 
-This security engineer position at ServiceNow was posted on 2026-03-03.
+This security engineer position at ServiceNow was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

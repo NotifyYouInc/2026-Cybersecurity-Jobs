@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Engineer---Security-Research--Hybrid-_R27146) |
+| Category | Security Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Sr-Engineer--Hybrid-_R27152) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-02-23.
+This security engineer position at CrowdStrike was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

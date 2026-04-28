@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | North Carolina, US |
+| Location | Spring, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-North-Carolina-United-States-of-America/Senior-Application-Security-Engineer_1203879) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Senior-Application-Security-Engineer_1203881) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard Enterprise was posted on 2026-04-03.
+This security engineer position at Hewlett Packard Enterprise was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

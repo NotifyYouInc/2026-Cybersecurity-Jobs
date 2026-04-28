@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Sunnyvale, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Manager-Industrial-Security-3_R10229423) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Manager-Industrial-Security-3_R10230114) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-16.
+This security engineer position at Northrop Grumman was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

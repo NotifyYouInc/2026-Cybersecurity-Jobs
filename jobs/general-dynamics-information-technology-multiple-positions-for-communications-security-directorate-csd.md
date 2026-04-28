@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arizona, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Fort-Huachuca/Multiple-Positions-for-Communications-Security-Directorate--CSD-_RQ217973) |
+| Category | Security Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Fort-Huachuca/Multiple-Positions-for-Communications-Security-Directorate--CSD-_RQ218686) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-07.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

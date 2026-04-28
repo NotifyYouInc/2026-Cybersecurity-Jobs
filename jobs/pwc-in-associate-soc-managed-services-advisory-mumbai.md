@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Airoli, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Associate-SOC-Managed-Services--Advisory--Mumbai_718230WD-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Associate-SOC-Managed-Services--Advisory--Mumbai_722492WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-17.
+This soc & incident response position at PwC was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

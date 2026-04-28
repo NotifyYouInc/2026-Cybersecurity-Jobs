@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ivalua](https://scoutify.ai/companies/ivalua?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | New York City, New York, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/ivalua/jobs/7735822?gh_jid=7735822) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/ivalua/jobs/7834018?gh_jid=7834018) |
 
 ## About This Role
 
-This soc & incident response position at Ivalua was posted on 2026-03-25.
+This soc & incident response position at Ivalua was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
