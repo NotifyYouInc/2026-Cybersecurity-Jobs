@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Information-Security-Engineering-Manager_R-524895) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Information-Security-Engineering-Manager_R-534804-1) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-03-27.
+This engineering manager position at Wells Fargo was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

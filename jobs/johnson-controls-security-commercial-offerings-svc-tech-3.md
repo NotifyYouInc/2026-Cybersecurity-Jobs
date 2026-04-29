@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Capelle aan den IJssel, South Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sunbury/Security-Commercial-Offerings-Svc-Tech-3_WD30266504-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Capelle-aan-den-Ijssel-South-Holland-Netherlands/Security-Commercial-Offerings-Svc-Tech-3_WD30267145-1) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-13.
+This security engineer position at Johnson Controls was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

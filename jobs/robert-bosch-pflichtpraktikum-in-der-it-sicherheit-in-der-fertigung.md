@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121126067-pflichtpraktikum-in-der-it-sicherheit-in-der-fertigung) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121999347-pflichtpraktikum-in-der-it-sicherheit-in-der-fertigung) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-16.
+This security engineer position at Robert Bosch was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

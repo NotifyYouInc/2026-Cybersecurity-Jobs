@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115321387-application-security-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000122037583-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MicroStrategy was posted on 2026-03-17.
+This security engineer position at MicroStrategy was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

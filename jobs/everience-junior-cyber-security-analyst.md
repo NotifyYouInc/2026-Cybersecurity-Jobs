@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rome, Lazio, Italy |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121198807-junior-cyber-security-analyst) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122002357-junior-cyber-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-04-16.
+This security engineer position at Everience was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

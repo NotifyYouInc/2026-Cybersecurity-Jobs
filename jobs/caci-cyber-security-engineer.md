@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Sterling, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Oklahoma-City/Cyber-Security-Engineer_324325) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Cyber-Security-Engineer_325115) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-03.
+This security engineer position at CACI was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

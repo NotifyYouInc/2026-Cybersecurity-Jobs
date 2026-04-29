@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Attack-Monitoring-Analyst--GSOC_R0118912) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Singapore/Senior-Attack-Monitoring-Analyst--GSOC_R0118595) |
 
 ## About This Role
 
-This soc & incident response position at LSEG was posted on 2026-04-16.
+This soc & incident response position at LSEG was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

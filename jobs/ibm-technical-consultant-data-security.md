@@ -6,7 +6,7 @@
 | Location | Karnataka, IN |
 | Category | Security Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110214) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110822) |
 
 ## About This Role
 

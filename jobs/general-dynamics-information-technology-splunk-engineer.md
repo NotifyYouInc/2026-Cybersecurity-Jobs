@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florida, US |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Splunk-Engineer_RQ217129) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Splunk-Engineer_RQ218593) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-24.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

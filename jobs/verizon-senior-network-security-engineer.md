@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Southlake, Texas, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Southlake-Texas/Senior-Network-Security-Engineer_R-1093033) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Southlake-Texas/Senior-Network-Security-Engineer_R-1093806-1) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-04-17.
+This security engineer position at Verizon was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Blagnac, Occitanie, France |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Blagnac-Airbus-Protect/Architecte-Cyberscurit-d-Entreprise-Senior_JR10327410-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Blagnac-Airbus-Protect/Architecte-Cyberscurit-Produit-Confirm--H-F-_JR10408481) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-03-02.
+This security engineer position at Airbus was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

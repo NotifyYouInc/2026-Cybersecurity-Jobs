@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114666386-consultante-senior-soc-cert-pilotage-de-la-performance-cyber-hf-cybersecurite-toulouse) |
+| Category | Security Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121987656-consultante-senior-soc-cert-pilotage-de-la-performance-cyber-hf-cybersecurite-toulouse) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-13.
+This security engineer position at Sopra Steria was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

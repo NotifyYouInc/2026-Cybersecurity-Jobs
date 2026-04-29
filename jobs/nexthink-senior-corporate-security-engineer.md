@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000121193372-senior-corporate-security-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000121975753-senior-corporate-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Nexthink was posted on 2026-04-16.
+This security engineer position at Nexthink was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Spain |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barcelona-La-Rotonda/Security-Hacking-Expert---CL11_14290827) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/La-Coruna/Security-Hacking-Expert---CL11_14319821) |
 
 ## About This Role
 
-This offensive security & pentesting position at Accenture was posted on 2026-04-20.
+This offensive security & pentesting position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
