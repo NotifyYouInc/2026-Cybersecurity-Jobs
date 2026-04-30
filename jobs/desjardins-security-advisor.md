@@ -1,16 +1,16 @@
-# Security Advisor at Desjardins
+# Security advisor at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Scurit_R2605250) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-spcialis-ou-conseillre-spcialise--Fraude-et-protection-des-renseignements-personnels_R2605486) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-04-17.
+This security engineer position at Desjardins was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

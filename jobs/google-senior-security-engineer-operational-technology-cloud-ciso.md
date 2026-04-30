@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Switzerland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/142262542612210374-senior-security-engineer-operational-technology-cloud-ciso?sort_by=date&page=1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX0YtvJN5WqTSIYLrM3LGtcviXs3ya6BPdy7RqCyuJgnEjsACxwdTEKdxaMW4fhWhFDq4t5LlBZnYKBT60Okztx8OsJOo5CIevyP7u_UpM6KyaC85xHoLeMZXJzwMQ%3D%3D_V2&loc=CH&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-03-02.
+This security engineer position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

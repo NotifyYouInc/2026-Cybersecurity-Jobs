@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cybersecurity-Analyst--Mid_R0238162) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cybersecurity-Analyst--Mid_R0238466) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-20.
+This security engineer position at Booz Allen was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

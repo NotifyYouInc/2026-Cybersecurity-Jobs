@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8515327002) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8516108002) |
 
 ## About This Role
 
-This security engineer position at Jane Street was posted on 2026-04-20.
+This security engineer position at Jane Street was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

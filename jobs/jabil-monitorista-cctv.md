@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Monitorista-CCTV_J2444321) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Monitorista-CCTV_J2444298) |
 
 ## About This Role
 
-This security engineer position at Jabil was posted on 2026-04-13.
+This security engineer position at Jabil was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

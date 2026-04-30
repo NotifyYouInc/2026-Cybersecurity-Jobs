@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quincy, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Architecture-VP_R-788678-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Architecture-VP_R-788680) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-04-17.
+This security engineer position at State Street was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

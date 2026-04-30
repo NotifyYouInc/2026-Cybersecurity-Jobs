@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000111100745-security-specialist-soc-ir) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000122251969-security-specialist-soc-ir) |
 
 ## About This Role
 
-This soc & incident response position at ASOS was posted on 2026-02-24.
+This soc & incident response position at ASOS was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

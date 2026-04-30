@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/95124702086734534-senior-security-engineer-saas-protection?sort_by=date&page=1) |
+| Location | New York City, New York, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckboEjxqIi4HpvkWFZb6HTb1m-qcO_Q66c5V-pJsgyR5MEjsACxwdTLsbWHmbJZDjRigrUyB4gNrNnCjaQahRwyfMFiWI4zweZFQyD4Wf7L_1rZbaafoXy8m1MwD05g%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-02-12.
+This security engineer position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

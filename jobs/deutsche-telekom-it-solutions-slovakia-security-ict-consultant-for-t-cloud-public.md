@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Slovakia |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000120604254-security-ict-consultant-for-t-cloud-public) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000122246967-security-ict-consultant-for-t-cloud-public) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-14.
+This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

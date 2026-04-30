@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00179974) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/Cybersecurity-Analyst_R-00181470) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-03.
+This security engineer position at Leidos was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

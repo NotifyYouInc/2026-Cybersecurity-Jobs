@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florida, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/Cybersecurity-System-Administrator_R0157192) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/Cybersecurity-System-Administrator_R0159804) |
 
 ## About This Role
 
-This it & systems administration position at Amentum was posted on 2026-03-24.
+This it & systems administration position at Amentum was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lima, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckarOh90JyBqJiY3l6R3xPBfr6sg6h4EqJEM3HzZxadKTEjsACxwdTBXgcH4AQBRlwQAzTeG7TJ_E_oJtKuwSjptECODI_6nRWb_J8CQD4Mgkg_hY_Zsuo5DE3FeJsw%3D%3D_V2&loc=US&title=Data+Center+Security+Manager) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeyorjnBqjsXlGoht3nLdBlNs_nO4tgHNA8e60Mgd17hEjsACxwdTI-pJWCyzBirW6BSLQLOC-VF_-Kn07v2as-G0IyHLoCWFC68GR-HePXzhBSUI4wTbadmqycTTg%3D%3D_V2&loc=US&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-10.
+This security engineer position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
