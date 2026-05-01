@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Virginia-Reston/Senior-Solution-Consultant_JR0037149) |
+| Location | United States |
+| Category | Security Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Senior-Solution-Consultant_JR0037344) |
 
 ## About This Role
 
-This soc & incident response position at Trellix was posted on 2026-03-17.
+This security engineer position at Trellix was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_721486WD-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_723038WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-20.
+This security engineer position at PwC was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

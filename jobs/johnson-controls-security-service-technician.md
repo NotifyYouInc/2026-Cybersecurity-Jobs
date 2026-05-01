@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canton, Michigan, United States |
+| Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Canton-Massachusetts-United-States-of-America/Security-Service-Technician_WD30267364) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/Security-Service-Technician_WD30267700) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-20.
+This security engineer position at Johnson Controls was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

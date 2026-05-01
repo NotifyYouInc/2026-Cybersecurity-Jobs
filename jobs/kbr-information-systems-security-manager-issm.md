@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Information-Systems-Security-Manager--ISSM-_R2122345) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Information-Systems-Security-Manager--ISSM-_R2122578) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-04-21.
+This security engineer position at KBR was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/PTLIS05---Lisbon---Edificio-Colombo-Torre-Oriente/Senior-Active-Directory-Specialist---Cyber_R172305) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Senior-Active-Directory-Specialist---Cyber_R177668) |
 
 ## About This Role
 
-This security engineer position at A.P. Moller - Maersk was posted on 2026-02-23.
+This it & systems administration position at A.P. Moller - Maersk was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

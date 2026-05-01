@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tukwila, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Lead-Software-Engineer---Secure-Networks-and-Protocols_JR2026496810) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Lead-Software-Engineer---Secure-Networks-and-Protocols_JR2026507282-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-04-07.
+This security engineer position at Boeing was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

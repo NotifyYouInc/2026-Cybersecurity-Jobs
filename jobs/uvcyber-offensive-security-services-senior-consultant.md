@@ -5,12 +5,12 @@
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/uvcyber/eb4e90bb-16db-49a2-9442-6bdbb0222d82) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.lever.co/uvcyber/02a57876-0c17-4b37-a7e6-31bf489b25f2) |
 
 ## About This Role
 
-This offensive security & pentesting position at Uvcyber was posted on 2026-04-16.
+This offensive security & pentesting position at Uvcyber was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

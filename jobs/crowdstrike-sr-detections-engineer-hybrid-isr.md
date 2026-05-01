@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Detections-Engineer--Hybrid--ISR-_R27187) |
+| Category | Security Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Detections-Engineer--Hybrid--ISR-_R27183) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-04-01.
+This security engineer position at CrowdStrike was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

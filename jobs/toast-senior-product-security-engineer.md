@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7823103) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7826090) |
 
 ## About This Role
 
-This security engineer position at Toast was posted on 2026-04-21.
+This security engineer position at Toast was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

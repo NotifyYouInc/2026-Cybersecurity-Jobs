@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York, US |
+| Location | Budapest, Budapest, Hungary |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Information-Security-Lead---Institutional-Securities-Data-Group---Vice-President_JR034757) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Budapest-Hungary/Information-Security-Lead---Institutional-Securities-Data-Group---Vice-President_JR035772) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-04-14.
+This security engineer position at Morgan Stanley was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

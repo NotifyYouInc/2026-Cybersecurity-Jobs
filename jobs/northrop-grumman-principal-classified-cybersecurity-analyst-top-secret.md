@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gilbert, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Principal-Classified-Cybersecurity-Analyst---Top-Secret_R10204463) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Principal-Classified-Cybersecurity-Analyst---Top-Secret_R10229887) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-09.
+This security engineer position at Northrop Grumman was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

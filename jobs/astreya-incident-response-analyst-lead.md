@@ -1,16 +1,16 @@
-# Incident Response Analyst - Lead at Astreya
+# Incident Response Analyst Lead at Astreya
 
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Jose, California, United States |
+| Location | Austin, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Jose-CA/Incident-Response-Analyst---Lead_R0015200) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Incident-Response-Analyst-Lead_R0015407) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-04-03.
+This soc & incident response position at Astreya was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
