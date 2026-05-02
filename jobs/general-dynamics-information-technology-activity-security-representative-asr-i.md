@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Rapid City, South Dakota, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Activity-Security-Representative--ASR--I_RQ218607-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-SD-Rapid-CIty/Activity-Security-Representative--ASR--I_RQ218957-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-17.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

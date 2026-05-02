@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Managing-Engineer---Security_R29177-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Managing-Engineer---Security_R29718) |
 
 ## About This Role
 
-This security engineer position at Allstate was posted on 2026-04-13.
+This security engineer position at Allstate was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

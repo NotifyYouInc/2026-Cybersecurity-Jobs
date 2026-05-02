@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Automated-Records-Check--ARC--Security-Specialist-II_R0158852) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Automated-Records-Check--ARC--Security-Specialist-II_R0159996) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-04-09.
+This security engineer position at Amentum was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

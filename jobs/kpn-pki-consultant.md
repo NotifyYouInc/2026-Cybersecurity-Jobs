@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Apeldoorn, Gelderland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110339738-pki-consultant) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000122628998-pki-consultant) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-02-20.
+This security engineer position at KPN was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

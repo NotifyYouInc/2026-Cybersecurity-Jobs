@@ -5,12 +5,12 @@
 | Company | [Bitpanda](https://scoutify.ai/companies/bitpanda?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4838261101) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4849606101) |
 
 ## About This Role
 
-This security engineer position at Bitpanda was posted on 2026-04-10.
+This security engineer position at Bitpanda was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

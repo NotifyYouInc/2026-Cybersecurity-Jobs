@@ -1,16 +1,16 @@
-# ​Cloud Cyber Security Engineer at Leidos
+# Cloud Cyber Security Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/XMLNAME--Cloud-Cyber-Security-Engineer_R-00177315) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cloud-Cyber-Security-Engineer_R-00181693) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-03.
+This security engineer position at Leidos was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

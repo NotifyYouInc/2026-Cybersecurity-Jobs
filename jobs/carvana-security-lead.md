@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tracy, California, United States |
+| Location | Delanco, New Jersey, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7843285) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7852652) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-04-22.
+This security engineer position at Carvana was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

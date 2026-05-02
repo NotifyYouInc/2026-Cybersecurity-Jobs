@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121367552-ingenieur-cybersecurite-siemsplunk-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122716724-ingenieur-cybersecurite-siemsplunk-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-04-17.
+This security engineer position at Everience was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

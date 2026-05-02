@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hampton, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Moffett-Field-CA/Security-Control-Assessor_R0235627) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Hampton-VA/Security-Control-Assessor_R0238624) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-24.
+This security engineer position at Booz Allen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

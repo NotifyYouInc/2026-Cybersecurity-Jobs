@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000120603607-senior-purple-team-analyst) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000122620799-senior-purple-team-analyst) |
 
 ## About This Role
 
-This security engineer position at IQ-EQ was posted on 2026-04-14.
+This security engineer position at IQ-EQ was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Risques-spcialiss-en-scurit-de-l-information_R2602829) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Surveillance-des-contrles-de-scurit_R2605488) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-03-03.
+This security engineer position at Desjardins was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

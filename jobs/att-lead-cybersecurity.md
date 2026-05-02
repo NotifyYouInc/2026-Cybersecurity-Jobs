@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Cybersecurity_R-93208) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Cybersecurity_R-106070) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-03-19.
+This security engineer position at AT&T was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Architect_ATCI-5466805-S1996409-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Architect_ATCI-5114743-S1900384-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-22.
+This security engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

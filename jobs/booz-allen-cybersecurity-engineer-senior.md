@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warner Robins, Georgia, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Cybersecurity-Engineer--Senior_R0237231-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Engineer--Senior_R0238665-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-10.
+This security engineer position at Booz Allen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

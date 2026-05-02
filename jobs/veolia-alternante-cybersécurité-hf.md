@@ -1,16 +1,16 @@
-# Alternant(e) - Cybersécurité- H/F at Veolia
+# Alternant(e) Cybersécurité (H/F) at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aubervilliers, Île-de-France, France |
+| Location | Mauguio, Occitanie, France |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120996766-alternante-cybersecurite-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122676220-alternante-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Veolia was posted on 2026-04-15.
+This security engineer position at Veolia was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

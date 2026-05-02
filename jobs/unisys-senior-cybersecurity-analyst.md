@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Sr-Analyst_REQ572598) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Cybersecurity-Analyst_REQ572666-1) |
 
 ## About This Role
 

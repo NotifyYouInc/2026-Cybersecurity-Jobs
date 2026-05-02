@@ -5,12 +5,12 @@
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Cyber-Security-Manager_DT-15569-2) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Cyber-Security-Manager_DT-17730) |
 
 ## About This Role
 
-This security engineer position at Daimler Truck was posted on 2026-02-17.
+This security engineer position at Daimler Truck was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

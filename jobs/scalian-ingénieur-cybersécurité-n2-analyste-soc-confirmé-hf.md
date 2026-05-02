@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Issy-les-Moulineaux, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000121204339-ingenieur-cybersecurite-n2-analyste-soc-confirme-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000122638230-ingenieur-cybersecurite-n2-analyste-soc-confirme-hf) |
 
 ## About This Role
 
-This security engineer position at Scalian was posted on 2026-04-16.
+This security engineer position at Scalian was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

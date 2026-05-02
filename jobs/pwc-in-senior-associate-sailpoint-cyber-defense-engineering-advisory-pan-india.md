@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_723038WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Sailpoint-Cyber-Defense---Engineering-Advisory-Pan-India_723054WD-1) |
 
 ## About This Role
 

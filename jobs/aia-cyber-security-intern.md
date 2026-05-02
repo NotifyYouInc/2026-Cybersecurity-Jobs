@@ -5,12 +5,12 @@
 | Company | [Aia](https://scoutify.ai/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Cyber-Security-Intern_JR-65195) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Cyber-Security-Intern_JR-66173) |
 
 ## About This Role
 
-This security engineer position at Aia was posted on 2026-04-17.
+This security engineer position at Aia was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
