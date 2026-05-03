@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Threat Detection & Response at Sigma Computing
+# Security and Compliance Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714483003) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111861) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-04-25.
+This security engineer position at IBM was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
