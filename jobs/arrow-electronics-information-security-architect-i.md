@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# Information Security Architect I at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Information-Security-Architect-I_R230818-1) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at Arrow Electronics was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Managed Services Senior Analyst at Accenture
+# IT Security Engineer at Transmit Security
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Transmit Security](https://scoutify.ai/companies/transmit-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Israel |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://www.transmitsecurity.com/about/careers/job?gh_jid=8524210002) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-26.
+This security engineer position at Transmit Security was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

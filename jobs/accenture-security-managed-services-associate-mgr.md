@@ -1,4 +1,4 @@
-# Security Managed Services Senior Analyst at Accenture
+# Security Managed Services Associate Mgr at Accenture
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Delivery-Lead---Saudi-Nationals-Only_13708016) |
 
 ## About This Role
 

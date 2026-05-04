@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# Copilot AI Security Consultant at Concentrix
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Portugal |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PRT-Work-at-Home/Copilot-AI-Security-Consultant_R1714232-1) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at Concentrix was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

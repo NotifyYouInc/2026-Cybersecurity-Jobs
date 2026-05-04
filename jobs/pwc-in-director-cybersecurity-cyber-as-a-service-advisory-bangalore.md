@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# IN-Director_Cybersecurity _ Cyber as a Service_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Director-Cybersecurity---Cyber-as-a-Service-Advisory-Bangalore_724077WD) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at PwC was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

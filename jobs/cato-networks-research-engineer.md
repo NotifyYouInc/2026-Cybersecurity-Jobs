@@ -1,16 +1,16 @@
-# Security Managed Services Senior Analyst at Accenture
+# Research Engineer  at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Israel |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4850403101?gh_jid=4850403101) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-26.
+This security engineer position at Cato Networks was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

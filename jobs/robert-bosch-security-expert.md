@@ -1,4 +1,4 @@
-# Senior Security Engineer at Robert Bosch
+# Security Expert at Robert Bosch
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112229-security-expert) |
 
 ## About This Role
 

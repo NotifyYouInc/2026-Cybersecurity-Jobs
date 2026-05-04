@@ -1,16 +1,16 @@
-# Security Managed Services Senior Analyst at Accenture
+# Lead IAM Security Expert (m/f/d) at Sportradar
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Vienna, Vienna, Austria |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000123072349-lead-iam-security-expert-mfd) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-26.
+This security engineer position at Sportradar was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Managed Services Senior Analyst at Accenture
+# Information Security Analyst at Scribe
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Scribe](https://scoutify.ai/companies/scribe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scribe/6cb7e6ef-fe71-4dad-b1bb-ebeedce349bd) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-26.
+This security engineer position at Scribe was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN-Senior Manager_Cybersecurity _Cyber as a Service_Advisory_Mumbai NXS at PwC
+# IN-Manager_Cybersecurity_Emerging Tech_ Advisory _Chennai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Manager-Cybersecurity--Cyber-as-a-Service-Advisory-Mumbai-NXS_723034WD) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Chennai---Menon-Eternity/IN-Manager-Cybersecurity-Emerging-Tech--Advisory--Chennai_723144WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-23.
+This security engineer position at PwC was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

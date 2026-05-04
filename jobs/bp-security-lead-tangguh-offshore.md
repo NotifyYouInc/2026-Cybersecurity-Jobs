@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# Security Lead - Tangguh Offshore at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Indonesia |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Indonesia---Onshore/Security-Lead---Tangguh-Offshore_RQ109611) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at BP was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

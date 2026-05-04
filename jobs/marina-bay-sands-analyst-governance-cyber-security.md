@@ -1,16 +1,16 @@
-# Senior Associate, Cyber Risk Assurance at Ensigninfosecurity
+# Analyst, Governance - Cyber Security at Marina Bay Sands
 
 | Field | Details |
 |-------|---------|
-| Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Marina Bay Sands](https://scoutify.ai/companies/marina-bay-sands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Senior-Associate--Cyber-Risk-Assurance_JOBREQ-0003420) |
+| Apply | [View on company site](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Analyst--Governance---Cyber-Security_JR10007066) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-04-27.
+This security engineer position at Marina Bay Sands was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

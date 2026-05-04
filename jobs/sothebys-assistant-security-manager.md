@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# Assistant Security Manager at Sotheby's
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Sotheby's](https://scoutify.ai/companies/sothebys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sothebys/jobs/5982318004) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at Sotheby's was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

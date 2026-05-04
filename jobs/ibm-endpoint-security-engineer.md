@@ -1,16 +1,16 @@
-# Senior Associate, Cyber Risk Assurance at Ensigninfosecurity
+# Endpoint Security Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Senior-Associate--Cyber-Risk-Assurance_JOBREQ-0003420) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109627) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-04-27.
+This security engineer position at IBM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

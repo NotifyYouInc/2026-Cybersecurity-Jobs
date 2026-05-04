@@ -1,16 +1,16 @@
-# Senior Security Engineer at Robert Bosch
+# Security Improvement Specialist at WPP
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123112109-senior-security-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8507872002) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-27.
+This security engineer position at WPP was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

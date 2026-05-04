@@ -1,4 +1,4 @@
-# Senior Associate, Cyber Risk Assurance at Ensigninfosecurity
+# Security Risk Management Specialist at Ensigninfosecurity
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Senior-Associate--Cyber-Risk-Assurance_JOBREQ-0003420) |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Security-Risk-Management-Specialist_JOBREQ-0003455) |
 
 ## About This Role
 

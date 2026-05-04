@@ -1,16 +1,16 @@
-# Security Managed Services Senior Analyst at Accenture
+# Networking Security Engineer at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Israel |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000123067988-networking-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-26.
+This security engineer position at Wix.com was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

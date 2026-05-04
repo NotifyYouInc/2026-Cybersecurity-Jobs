@@ -1,12 +1,12 @@
-# Security Managed Services Senior Analyst at Accenture
+# Security Engineer (IAM) - Saudi Nationals Only at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
 | Category | Security Engineer |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/IAM---PAM-Consultant_12961628) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jeddah-Al-Murjanah-Tower/Security-Engineer--IAM-_13595568) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000122434745-zero-trust-architect) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000122601759-zero-trust-architect) |
 
 ## About This Role
 
-This security engineer position at Syntegon Technology was posted on 2026-04-23.
+This security engineer position at Syntegon Technology was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
