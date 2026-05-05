@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pessac, Nouvelle-Aquitaine, France |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000121712817-architecte-reseau-et-securite-hf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123215986-architecte-reseau-et-securite-hf) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-04-20.
+This security engineer position at Inetum was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

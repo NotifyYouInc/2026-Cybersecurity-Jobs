@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Vice-President--Security-Threat-and-Response-Management_R-275955) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Vice-President--Security-Threat-and-Response-Management_R-276743) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-04-23.
+This security engineer position at Mastercard was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

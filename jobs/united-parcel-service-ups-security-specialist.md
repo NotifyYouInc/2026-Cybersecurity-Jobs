@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Bristol, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/ES---BARCELONA-ESBCA/Security-Specialist_R26009520) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---BRISTOL-GBBTL/Security-Specialist_R26012860) |
 
 ## About This Role
 
-This security engineer position at United Parcel Service (UPS) was posted on 2026-04-14.
+This security engineer position at United Parcel Service (UPS) was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

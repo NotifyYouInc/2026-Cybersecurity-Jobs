@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/Security-Service-Technician_WD30267700) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jacksonville-Florida-United-States-of-America/Security-Service-Technician_WD30267761) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-23.
+This security engineer position at Johnson Controls was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

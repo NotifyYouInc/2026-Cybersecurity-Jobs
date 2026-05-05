@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Doha/Security-Consulting-Practitioner_14160277-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Consulting-Practitioner_ATCI-5178193-S1913383-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-22.
+This security engineer position at Accenture was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

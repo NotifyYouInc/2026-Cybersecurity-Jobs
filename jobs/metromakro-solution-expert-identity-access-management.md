@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000114027367-solution-expert-identity-access-management) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000123130629-solution-expert-identity-access-management) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-03-11.
+This security engineer position at METRO/MAKRO was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

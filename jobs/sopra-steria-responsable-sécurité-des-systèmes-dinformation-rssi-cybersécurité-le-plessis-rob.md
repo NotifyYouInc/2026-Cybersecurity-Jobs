@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121433307-responsable-securite-des-systemes-dinformation-rssi-cybersecurite-le-plessis-robinson) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123155670-responsable-securite-des-systemes-dinformation-rssi-cybersecurite-le-plessis-robinson) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-17.
+This security engineer position at Sopra Steria was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

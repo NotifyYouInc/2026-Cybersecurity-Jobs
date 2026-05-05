@@ -5,12 +5,12 @@
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/69005641-e9e4-4179-bd0f-8d82755f239e) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/1458efaa-fd65-494e-828a-fc8859f14b70) |
 
 ## About This Role
 
-This security engineer position at Deel was posted on 2026-04-08.
+This security engineer position at Deel was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

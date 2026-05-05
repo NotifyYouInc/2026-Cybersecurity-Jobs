@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Redmond, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8521794002?gh_jid=8521794002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-04-21.
+This security engineer position at SpaceX was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

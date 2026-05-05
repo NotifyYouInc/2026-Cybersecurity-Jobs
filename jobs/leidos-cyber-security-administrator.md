@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Cyber-Security-Administrator_R-00179702) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Cyber-Security-Administrator_R-00180104) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-31.
+This security engineer position at Leidos was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

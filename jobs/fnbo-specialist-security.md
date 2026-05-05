@@ -5,12 +5,12 @@
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tech-Ctr/Specialist--Security_R-20260629-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---Child-Development-Center/Specialist--Security_R-20260715) |
 
 ## About This Role
 
-This security engineer position at FNBO was posted on 2026-04-13.
+This security engineer position at FNBO was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

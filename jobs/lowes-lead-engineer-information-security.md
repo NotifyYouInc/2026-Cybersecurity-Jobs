@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Engineer--Information-Security_JR-02375411) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Engineer--Information-Security_JR-02494587) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-03-25.
+This security engineer position at Lowe's was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
