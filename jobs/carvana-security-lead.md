@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Delanco, New Jersey, United States |
+| Location | Rocklin, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7852652) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7858901) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-04-24.
+This security engineer position at Carvana was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

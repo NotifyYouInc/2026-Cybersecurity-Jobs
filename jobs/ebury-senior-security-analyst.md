@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4841043101) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4853481101) |
 
 ## About This Role
 
-This security engineer position at Ebury was posted on 2026-04-14.
+This security engineer position at Ebury was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#   Senior Incident Response Analyst at Coalition, Inc.
+# Senior Incident Response Analyst at Coalition, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Coalition, Inc.](https://scoutify.ai/companies/coalition-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
+| Location | United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4683263005) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4688849005) |
 
 ## About This Role
 
-This soc & incident response position at Coalition, Inc. was posted on 2026-04-15.
+This soc & incident response position at Coalition, Inc. was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7836928?gh_jid=7836928) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7861823?gh_jid=7861823) |
 
 ## About This Role
 
-This security engineer position at Ripple was posted on 2026-04-21.
+This security engineer position at Ripple was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

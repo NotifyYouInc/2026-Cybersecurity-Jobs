@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hungary |
+| Location | Telangana, IN |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Hungary/GRC-Engineer_JR110619) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/GRC-Engineer_JR110524-1) |
 
 ## About This Role
 
-This security engineer position at Genesys was posted on 2026-04-16.
+This security engineer position at Genesys was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

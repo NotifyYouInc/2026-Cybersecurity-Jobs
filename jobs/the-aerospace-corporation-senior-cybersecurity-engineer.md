@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Senior-Cybersecurity-Engineer_R014651) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Senior-Cybersecurity-Engineer_R015256) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-03-02.
+This security engineer position at The Aerospace Corporation was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

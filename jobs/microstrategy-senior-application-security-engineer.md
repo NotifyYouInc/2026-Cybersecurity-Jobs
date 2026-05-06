@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Nagpur, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000122195697-senior-application-security-engineer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000123409290-senior-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MicroStrategy was posted on 2026-04-22.
+This security engineer position at MicroStrategy was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

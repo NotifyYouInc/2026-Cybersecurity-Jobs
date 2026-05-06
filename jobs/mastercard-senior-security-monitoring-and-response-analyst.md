@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterloo, Wallonia, Belgium |
+| Location | O'Fallon, Missouri, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Senior-Security-Monitoring-and-Response--Analyst_R-269071) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Security-Monitoring-and-Response--Analyst_R-272916-1) |
 
 ## About This Role
 
-This soc & incident response position at Mastercard was posted on 2026-03-31.
+This soc & incident response position at Mastercard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

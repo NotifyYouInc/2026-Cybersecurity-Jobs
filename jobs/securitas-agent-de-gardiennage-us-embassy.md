@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000120996424-agent-de-gardiennage-us-embassy) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000123433589-agent-de-gardiennage-us-embassy) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-15.
+This security engineer position at Securitas was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

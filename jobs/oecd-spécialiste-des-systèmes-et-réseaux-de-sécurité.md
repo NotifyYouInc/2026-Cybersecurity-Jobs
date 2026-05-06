@@ -5,12 +5,12 @@
 | Company | [OECD](https://scoutify.ai/companies/oecd?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000120753347-specialiste-des-systemes-et-reseaux-de-securite) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000123467888-specialiste-des-systemes-et-reseaux-de-securite) |
 
 ## About This Role
 
-This security engineer position at OECD was posted on 2026-04-14.
+This security engineer position at OECD was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

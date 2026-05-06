@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Didcot, England, United Kingdom |
+| Location | Pontypridd, Wales, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Didcot-Oxfordshire-United-Kingdom/Service-Engineer---Security_WD30265956) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pontypridd---United-Kingdom/Service-Engineer---Security_WD30267862) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-14.
+This security engineer position at Johnson Controls was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

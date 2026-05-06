@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Security-Analyst_R214785-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Security-Analyst_R217731-2) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-03-18.
+This security engineer position at PNC Financial was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

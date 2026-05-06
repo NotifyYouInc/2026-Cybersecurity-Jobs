@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Delivery-Lead_ATCI-5394039-S1976521-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Delivery-Lead_ATCI-5015946-S1867857) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-15.
+This security engineer position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

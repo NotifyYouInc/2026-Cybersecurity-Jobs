@@ -5,12 +5,12 @@
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Minnesota, US |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Remote-Minnesota-United-States-of-America/Application-Security-Architect_J26812) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Remote-Minnesota-United-States-of-America/Application-Security-Architect_J26816-1) |
 
 ## About This Role
 
-This security engineer position at RGA Reinsurance Company was posted on 2026-04-02.
+This security engineer position at RGA Reinsurance Company was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

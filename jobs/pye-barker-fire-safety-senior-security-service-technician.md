@@ -5,12 +5,12 @@
 | Company | [Pye-Barker Fire & Safety](https://scoutify.ai/companies/pye-barker-fire-safety?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/Lifeline-Fire--Security/Senior-Security-Service-Technician_JR113008-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2/job/Lifeline-Fire--Security/Senior-Security-Service-Technician_JR113764) |
 
 ## About This Role
 
-This security engineer position at Pye-Barker Fire & Safety was posted on 2026-04-22.
+This security engineer position at Pye-Barker Fire & Safety was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

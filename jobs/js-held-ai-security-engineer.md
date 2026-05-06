@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000120494187-ai-security-engineer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000123448820-ai-security-engineer) |
 
 ## About This Role
 
-This security engineer position at J.S. Held was posted on 2026-04-13.
+This security engineer position at J.S. Held was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

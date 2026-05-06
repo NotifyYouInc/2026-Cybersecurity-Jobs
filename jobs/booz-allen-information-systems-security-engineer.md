@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fayetteville, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Information-Systems-Security-Engineer_R0236348) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Information-Systems-Security-Engineer_R0238801) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-19.
+This security engineer position at Booz Allen was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
