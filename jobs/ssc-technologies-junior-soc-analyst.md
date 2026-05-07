@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote-Australia/Junior-SOC-Analyst_R40721) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Junior-SOC-Analyst_R40732) |
 
 ## About This Role
 
-This soc & incident response position at SS&C Technologies was posted on 2026-03-11.
+This soc & incident response position at SS&C Technologies was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

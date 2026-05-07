@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7620231003) |
+| Location | New Delhi, Delhi, India |
+| Category | Security Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7626464003) |
 
 ## About This Role
 
-This soc & incident response position at Careers at Tide was posted on 2026-03-11.
+This security engineer position at Careers at Tide was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Myrtle Beach, South Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Nashville-Tennessee-United-States-of-America/Security-Alarm-Installer_WD30266943) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Myrtle-Beach-South-Carolina-United-States-of-America/Security-Alarm-Installer_WD30268123) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-17.
+This security engineer position at Johnson Controls was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

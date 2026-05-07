@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5149451008) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5155784008) |
 
 ## About This Role
 
-This offensive security & pentesting position at Commvault was posted on 2026-03-12.
+This security engineer position at Commvault was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

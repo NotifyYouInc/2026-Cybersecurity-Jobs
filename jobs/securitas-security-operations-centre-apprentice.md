@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
+| Location | Waterlooville, England, United Kingdom |
 | Category | SOC & Incident Response |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000123445225-security-operations-centre-apprentice) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000123446924-security-operations-centre-apprentice) |
 
 ## About This Role
 

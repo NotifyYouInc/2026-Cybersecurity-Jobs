@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dresden, Saxony, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dresden/Senior-IT-Security-Architect--m-w-x-_JR_1048785-3) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Berlin/Senior-IT-Security-Architect--m-w-x-_JR_1049135) |
 
 ## About This Role
 
-This security engineer position at Zeiss was posted on 2026-04-10.
+This security engineer position at Zeiss was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

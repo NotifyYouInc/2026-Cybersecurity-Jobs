@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115208593-analyste-soc-detection-cybersecurite-toulouse) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123730358-analyste-soc-detection-cybersecurite-toulouse) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-17.
+This soc & incident response position at Sopra Steria was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

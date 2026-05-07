@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montigny-le-Bretonneux, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000113102578-ingenieur-en-securite-de-linformation-alternance-hf) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000123621190-ingenieur-en-securite-de-linformation-alternance-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-03-06.
+This security engineer position at Assystem was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

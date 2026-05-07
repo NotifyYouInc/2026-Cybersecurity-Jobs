@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Remote---Canada/Senior-Infrastructure-Security-Engineer_REQ-4607) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Remote---USA/Senior-Infrastructure-Security-Engineer_REQ-4934) |
 
 ## About This Role
 
-This security engineer position at Clio was posted on 2026-04-15.
+This security engineer position at Clio was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

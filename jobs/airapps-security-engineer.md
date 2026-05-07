@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Munich, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/894d2fbd-1cae-4c3c-a79e-67a123811af4) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/533bf4aa-bcee-43f0-afec-ad1db5d84e53) |
 
 ## About This Role
 
-This security engineer position at Airapps was posted on 2026-04-27.
+This security engineer position at Airapps was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

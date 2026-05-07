@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000123305775-principal-platform-security-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000123725604-principal-platform-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Red Bull was posted on 2026-04-27.
+This security engineer position at Red Bull was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

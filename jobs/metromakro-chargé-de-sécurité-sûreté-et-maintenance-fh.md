@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120749912-charge-de-securite-surete-et-maintenance-fh) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000123650304-charge-de-securite-surete-et-maintenance-fh) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-04-14.
+This security engineer position at METRO/MAKRO was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

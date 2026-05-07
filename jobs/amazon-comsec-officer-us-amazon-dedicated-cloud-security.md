@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203984/comsec-officer-us-amazon-dedicated-cloud-security) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407463/comsec-officer-us-amazon-dedicated-cloud-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-03-13.
+This security engineer position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

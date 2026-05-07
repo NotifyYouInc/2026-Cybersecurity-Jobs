@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doral, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-FL-Doral/Cyber-Advisor-Team-Lead---SOUTHCOM-Joint-CCMD-Cyber-Assessment-Team_324538) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-FL-Doral/Cyber-Advisor-Team-Lead---SOUTHCOM-Joint-CCMD-Cyber-Assessment-Team_325488) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-07.
+This security engineer position at CACI was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
