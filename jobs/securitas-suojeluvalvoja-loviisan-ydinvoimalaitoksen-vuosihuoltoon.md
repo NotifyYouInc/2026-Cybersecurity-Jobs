@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000121945357-suojeluvalvoja-loviisan-ydinvoimalaitoksen-vuosihuoltoon) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000123924704-suojeluvalvoja-loviisan-ydinvoimalaitoksen-vuosihuoltoon) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-21.
+This security engineer position at Securitas was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

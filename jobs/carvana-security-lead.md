@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rocklin, California, United States |
+| Location | University Park, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7858901) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7871484) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-04-27.
+This security engineer position at Carvana was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

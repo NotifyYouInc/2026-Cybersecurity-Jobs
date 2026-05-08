@@ -5,12 +5,12 @@
 | Company | [Pt78](https://scoutify.ai/companies/pt78?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.lever.co/pt78/2bd42549-bed9-454e-8e43-308a796dbbda) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/pt78/d9024a48-7d08-4d54-b73a-3b3180cdc7d4) |
 
 ## About This Role
 
-This security engineer position at Pt78 was posted on 2026-04-21.
+This security engineer position at Pt78 was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

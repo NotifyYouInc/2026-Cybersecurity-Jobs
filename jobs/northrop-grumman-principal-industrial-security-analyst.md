@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Industrial-Security-Analyst_R10227150) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Industrial-Security-Analyst_R10231204) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-26.
+This security engineer position at Northrop Grumman was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

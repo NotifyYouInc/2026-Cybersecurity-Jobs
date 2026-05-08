@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000117006847-product-security-engineer-mfx) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000123902179-product-security-engineer-mfx) |
 
 ## About This Role
 
-This security engineer position at Scalable Capital was posted on 2026-03-26.
+This security engineer position at Scalable Capital was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

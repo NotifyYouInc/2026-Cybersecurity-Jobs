@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000122010979-analyste-securite-n3-l3-hf) |
+| Category | Security Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000123865780-analyste-securite-n3-l3-hf) |
 
 ## About This Role
 
-This soc & incident response position at Assystem was posted on 2026-04-21.
+This security engineer position at Assystem was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

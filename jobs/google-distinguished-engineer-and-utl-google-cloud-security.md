@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXUJsFMwxtnU_9wF_nQitJbnx8xividum_7xJwvdJln4EjsACxwdTLno-RKLZjdWfef5Zk4NUWOaM7bWreWmO5JNAOB1EvbbtVoy56JWlpXQbo7ZPNatRYKoXdUc0Q%3D%3D_V2&loc=US&title=Distinguished+Engineer+and+UTL) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU_NspoA3WweRJTwMwDAWrrNsPehMeNkKX3sHFTE94LyEjsACxwdTBPyDo5IdDrQ6Ec49h5re3PVdwmM4kA2gNKPhavZL0di2MvvzqJpNwaktlJ16qHVpl-R_yoVnQ%3D%3D_V2&loc=US&title=Distinguished+Engineer+and+UTL) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-09.
+This security engineer position at Google was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

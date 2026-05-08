@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Senior-Cybersecurity-Engineer_R015256) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Senior-Cybersecurity-Engineer_R015261) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-04-29.
+This security engineer position at The Aerospace Corporation was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

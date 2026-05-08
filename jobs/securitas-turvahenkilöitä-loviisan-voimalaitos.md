@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Finland |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000121945554-turvahenkiloita-loviisan-voimalaitos) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000123921821-turvahenkiloita-loviisan-voimalaitos) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-21.
+This security engineer position at Securitas was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

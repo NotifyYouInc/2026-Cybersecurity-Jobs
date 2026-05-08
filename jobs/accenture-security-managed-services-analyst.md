@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Analyst_14291320) |
+| Location | 2 locations |
+| Category | SOC & Incident Response |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Analyst_14206785) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-16.
+This soc & incident response position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

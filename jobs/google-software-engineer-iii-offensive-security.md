@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS91x73y9ygL2Kkh2jUWbLKenqm_FfsaB-51PV-8A3auEjsACxwdTGxInHaxUwy6lkO4qSzDXRTcfREJePYTKf4H-aBp_K_-Y3UTVN0ywDA36r30PQKnmf1iaC4RGA%3D%3D_V2&loc=CH&title=Software+Engineer+III) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU3BZ1E083zgzs36eMpAEOZYVniHSOWKjdVbsIrciTTTEjsACxwdTBAkezXQ0ZK6EEnM1Z-HYoeJi3e5ftxmHMYyDIoV2WOCCRw0hiASL5XzrTNcletFdt0jmT2GEw%3D%3D_V2&loc=CH&title=Software+Engineer+III) |
 
 ## About This Role
 
-This offensive security & pentesting position at Google was posted on 2026-04-17.
+This offensive security & pentesting position at Google was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

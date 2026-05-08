@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Manchester, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7634284?gh_jid=7634284) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/7870777?gh_jid=7870777) |
 
 ## About This Role
 
-This soc & incident response position at Roku was posted on 2026-04-14.
+This soc & incident response position at Roku was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | Valenton, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120737281-alternance-ingenieur-securite-industrielle-hf) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123865009-alternance-ingenieur-securite-industrielle-hf) |
 
 ## About This Role
 
-This security engineer position at Veolia was posted on 2026-04-14.
+This security engineer position at Veolia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

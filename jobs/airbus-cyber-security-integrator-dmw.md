@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bavaria, DE |
+| Location | Manching, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Cyber-Security-Integrator--d-m-w-_JR10392089-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Cyber-Security-Integrator--d-m-w-_JR10396313-1) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-03-23.
+This security engineer position at Airbus was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

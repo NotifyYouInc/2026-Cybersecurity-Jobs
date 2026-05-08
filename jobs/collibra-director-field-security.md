@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Raleigh, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7711263) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7872878) |
 
 ## About This Role
 
-This security engineer position at Collibra was posted on 2026-04-08.
+This security engineer position at Collibra was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
