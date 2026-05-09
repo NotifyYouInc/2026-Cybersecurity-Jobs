@@ -1,16 +1,16 @@
-# Security analyst at Desjardins
+# Security Analyst at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Risques-spcialiss-en-Scurit-de-l-information_R2602915) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Expert-ou-experte-matire-spcialise_R2606043) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-03-03.
+This security engineer position at Desjardins was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

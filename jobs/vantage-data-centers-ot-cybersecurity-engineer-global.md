@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Denver-Colorado/OT-Cybersecurity-Engineer--Global_R21816) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/London-England/OT-Cybersecurity-Engineer--Global_R22876) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-03-24.
+This security engineer position at Vantage Data Centers was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Insider-Threat-Program-Hunt-Team-Analyst_R-00177414) |
+| Category | Security Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Insider-Threat-Program-Hunt-Team-Analyst_R-00181995) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-03.
+This security engineer position at Leidos was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

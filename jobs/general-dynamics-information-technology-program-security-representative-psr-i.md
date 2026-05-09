@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Ogden, Utah, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Palmdale/Program-Security-Representative--PSR--I_RQ219224-2) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Program-Security-Representative--PSR--I_RQ219266-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-29.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

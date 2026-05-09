@@ -5,12 +5,12 @@
 | Company | [Teecom](https://scoutify.ai/companies/teecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/teecom/8e89d149-d9ec-4c33-96e9-56bc153c7872) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/teecom/40bf622f-b0ab-42e2-b9f1-f943d2903dad) |
 
 ## About This Role
 
-This security engineer position at Teecom was posted on 2026-04-17.
+This security engineer position at Teecom was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

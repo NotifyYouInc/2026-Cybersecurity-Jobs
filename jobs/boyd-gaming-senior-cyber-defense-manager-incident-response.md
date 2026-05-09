@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012253686-senior-cyber-defense-manager-incident-response) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012933046-senior-cyber-defense-manager-incident-response) |
 
 ## About This Role
 
-This soc & incident response position at Boyd Gaming was posted on 2026-03-20.
+This soc & incident response position at Boyd Gaming was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
