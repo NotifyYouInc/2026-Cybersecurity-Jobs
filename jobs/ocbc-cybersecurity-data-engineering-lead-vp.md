@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Cybersecurity Data Engineering Lead (VP) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Cybersecurity-Data-Engineering-Lead--VP-_JR00007618) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at OCBC was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

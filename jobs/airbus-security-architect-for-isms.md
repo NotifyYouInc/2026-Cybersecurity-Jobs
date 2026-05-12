@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Security Architect for ISMS at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Getafe, Madrid, Spain |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Security-Architect-for-ISMS_JR10405205-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Airbus was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

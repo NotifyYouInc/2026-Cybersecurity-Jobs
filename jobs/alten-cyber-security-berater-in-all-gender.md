@@ -6,7 +6,7 @@
 | Location | Jena, Thuringia, Germany |
 | Category | Security Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123856094-cyber-security-berater-in-all-gender) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123856551-cyber-security-berater-in-all-gender) |
 
 ## About This Role
 

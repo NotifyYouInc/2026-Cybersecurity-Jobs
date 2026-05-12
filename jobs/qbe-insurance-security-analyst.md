@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Security Analyst at QBE Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Sun Prairie, Wisconsin, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Security-Analyst_352833) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at QBE Insurance was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

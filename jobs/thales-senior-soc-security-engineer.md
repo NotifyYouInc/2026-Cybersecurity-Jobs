@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Senior SOC Security Engineer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Australia |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/NSW---Barangaroo/Senior-SOC-Security-Engineer_R0320699-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Thales was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Sr. Security Consultant SIOC & XIAM at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113298) |
 
 ## About This Role
 

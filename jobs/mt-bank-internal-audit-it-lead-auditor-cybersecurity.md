@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Internal Audit: IT Lead Auditor - Cybersecurity at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Buffalo, New York, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Internal-Audit--IT-Lead-Auditor---Cybersecurity_R85473-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at M&T Bank was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

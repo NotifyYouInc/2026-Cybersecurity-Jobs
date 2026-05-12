@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Manager Corporate Security (m/w/d) at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HAMBURG/Manager-Corporate-Security--m-w-d-_JR128402-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Richemont was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

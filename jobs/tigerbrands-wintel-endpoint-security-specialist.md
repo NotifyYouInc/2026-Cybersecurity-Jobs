@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Wintel Endpoint Security Specialist at Tigerbrands
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | South Africa |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Bryanston/Wintel-Endpoint-Security-Specialist_JR002088) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Tigerbrands was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

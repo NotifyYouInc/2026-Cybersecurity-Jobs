@@ -1,16 +1,16 @@
-# Cyber Threat Senior Analyst at Accenture
+# Sr. Qualys Administrator at Axos Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1331712-S409872) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Qualys-Administrator_JR4540) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-30.
+This security engineer position at Axos Bank was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

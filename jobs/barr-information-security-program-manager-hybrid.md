@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Information Security Program Manager (Hybrid) at Barr
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Barr](https://scoutify.ai/companies/barr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Information-Security-Program-Manager--Hybrid-_R-102103) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Barr was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

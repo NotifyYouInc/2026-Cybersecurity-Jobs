@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Information Security Operations Lead at Brooksauto
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Brooksauto](https://scoutify.ai/companies/brooksauto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Malaysia |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/Malaysia---Johor/Information-Security-Operations-Lead_R8996-1) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Brooksauto was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

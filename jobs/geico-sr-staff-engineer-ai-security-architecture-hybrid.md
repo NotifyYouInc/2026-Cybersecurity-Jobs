@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Sr Staff Engineer — AI Security Architecture (HYBRID) at Geico
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Seattle-WA/Sr-Staff-Engineer--Operations-Engineer--HYBRID-_R0062321) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Geico was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

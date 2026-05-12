@@ -1,16 +1,16 @@
-# Security Consultant-Identity & Access Management Services at IBM
+# Sr. IAM (Ping) Engineer at Mondelez International
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111786) |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/India-Remote/Sr-IAM--Ping--Engineer_R-157306) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at Mondelez International was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

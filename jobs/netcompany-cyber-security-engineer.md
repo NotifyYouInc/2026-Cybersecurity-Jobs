@@ -1,16 +1,16 @@
-# Senior Product Security Engineer (Active Clearance)  at Anduril
+# Cyber Security Engineer  at Netcompany
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Mesa, California, United States |
+| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5128090007?gh_jid=5128090007) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000124479766-cyber-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-05-04.
+This security engineer position at Netcompany was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

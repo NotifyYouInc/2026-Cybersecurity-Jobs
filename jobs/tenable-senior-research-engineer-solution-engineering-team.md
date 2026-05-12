@@ -1,16 +1,16 @@
-# Senior Product Security Engineer (Active Clearance)  at Anduril
+# Senior Research Engineer - Solution Engineering Team at Tenable
 
 | Field | Details |
 |-------|---------|
-| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Mesa, California, United States |
+| Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Columbia, South Carolina, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5128090007?gh_jid=5128090007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5208799008) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-05-04.
+This security engineer position at Tenable was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

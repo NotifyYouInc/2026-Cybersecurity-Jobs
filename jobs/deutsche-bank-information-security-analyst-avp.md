@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Program Manager |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-ISC/Information-Security-Analyst--AVP_R0402118-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Senior-Tech-Analyst----Assistant-Vice-President_R0352146) |
 
 ## About This Role
 
-This program manager position at Deutsche Bank was posted on 2026-01-30.
+This security engineer position at Deutsche Bank was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
