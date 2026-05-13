@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/VAFA09GC/Sr-Principal-Cyber-Systems---Network-Engineer_R10224808) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/VAFA09GC/Sr-Principal-Cyber-Systems---Network-Engineer_R10231962) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-04.
+This security engineer position at Northrop Grumman was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

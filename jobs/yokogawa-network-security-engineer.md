@@ -1,16 +1,16 @@
-# Network Security Engineer at Yokogawa
+# *Network Security Engineer at Yokogawa
 
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Abu-Dhabi/Network-Security-Engineer_R-10059) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bangalore/XMLNAME--Network-Security-Engineer_R-3288) |
 
 ## About This Role
 
-This cybersecurity engineer position at Yokogawa was posted on 2026-02-02.
+This security engineer position at Yokogawa was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

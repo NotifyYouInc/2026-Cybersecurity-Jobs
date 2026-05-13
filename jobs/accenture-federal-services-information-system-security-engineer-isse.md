@@ -1,16 +1,16 @@
-# Information System Security Engineer (ISSE) at Accenture Federal Services
+#  Information System Security Engineer (ISSE) at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4679230006?gh_jid=4679230006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-04-24.
+This security engineer position at Accenture Federal Services was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

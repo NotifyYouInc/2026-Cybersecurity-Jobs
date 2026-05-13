@@ -5,12 +5,12 @@
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sweden |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8445251002) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8535861002) |
 
 ## About This Role
 
-This security engineer position at Recorded Future was posted on 2026-04-02.
+This security engineer position at Recorded Future was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ​​Information System Security Engineer​ at Leidos
+# Information System Security Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/XMLNAME---Information-System-Security-Engineer-_R-00175532) |
+| Location | Lorton, Virginia, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Information-System-Security-Engineer_R-00182533) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-02-09.
+This security engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

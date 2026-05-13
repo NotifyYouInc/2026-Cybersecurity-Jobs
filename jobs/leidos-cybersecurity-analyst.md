@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Analyst_R-00181515) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Whitehall-OH/Cybersecurity-Analyst_R-00182507) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-27.
+This security engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

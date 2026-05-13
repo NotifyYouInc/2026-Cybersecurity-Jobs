@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Salt-Lake-City-Utah-Holladay/Lead-Information-Security-Engineer_R-270711) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Information-Security-Engineer_R-277007-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-04-27.
+This security engineer position at Mastercard was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

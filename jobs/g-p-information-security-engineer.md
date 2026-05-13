@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Ireland |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7681933003) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.globalization-partners.com/careers/7681929003?gh_jid=7681929003) |
 
 ## About This Role
 
-This security engineer position at G-P was posted on 2026-04-29.
+This security engineer position at G-P was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

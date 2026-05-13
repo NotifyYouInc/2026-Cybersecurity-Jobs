@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cybersecurity-Engineer_R0238313) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Cybersecurity-Engineer--Senior_R0227450) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-21.
+This security engineer position at Booz Allen was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

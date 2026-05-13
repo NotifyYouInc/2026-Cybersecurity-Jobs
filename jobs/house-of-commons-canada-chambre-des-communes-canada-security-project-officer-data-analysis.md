@@ -5,12 +5,12 @@
 | Company | [House of Commons (Canada) / Chambre des communes (Canada)](https://scoutify.ai/companies/houseofcommonscanadachambredescommunescanada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000123972280-security-project-officer-data-analysis) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000124128939-security-project-officer-data-analysis) |
 
 ## About This Role
 
-This security engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-04-30.
+This security engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

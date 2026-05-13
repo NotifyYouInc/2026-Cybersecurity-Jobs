@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | North Carolina, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Threat-Hunting-Investigator_2011295) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Threat-Hunting-Investigator_1450538) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-04-23.
+This security engineer position at Cisco was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

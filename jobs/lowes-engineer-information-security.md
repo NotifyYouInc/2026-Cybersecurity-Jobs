@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Engineer--Information-Security_JR-02493430) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Engineer--Information-Security_JR-02515213) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-04-28.
+This security engineer position at Lowe's was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

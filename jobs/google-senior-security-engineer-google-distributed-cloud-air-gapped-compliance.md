@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111236347405968070-senior-security-engineer-google-distributed-cloud-airgapped-compliance?sort_by=date&page=1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdG8gO7ihzxd_QBdTZv6jXEUzLn3nMyu4jhGJ4NsAd8QEjsACxwdTD6NerIX5Hg0VUaGzngINzdnl1WP5ru6MafV9ccrMSfxsXZJU5DaDkP65PrxsnlFN_rD_EwnTQ%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-02-24.
+This security engineer position at Google was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

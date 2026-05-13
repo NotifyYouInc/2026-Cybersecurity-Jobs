@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/SETA-Cybersecurity---RMF-Advisor_R2122077) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Albuquerque-New-Mexico/SETA-Cybersecurity---RMF-Advisor_R2123174) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-04-15.
+This security engineer position at KBR was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

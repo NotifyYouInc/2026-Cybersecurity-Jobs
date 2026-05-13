@@ -1,16 +1,16 @@
-# Senior Engineer, Cybersecurity at NielsenIQ
+# Senior Engineer - Cybersecurity at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123954819-senior-engineer-cybersecurity) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124703112-senior-engineer-cybersecurity) |
 
 ## About This Role
 
-This security engineer position at NielsenIQ was posted on 2026-04-30.
+This security engineer position at NielsenIQ was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

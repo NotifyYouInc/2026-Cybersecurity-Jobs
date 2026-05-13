@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000119112593-security-operations-engineer) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000124604736-security-operations-engineer) |
 
 ## About This Role
 
-This security engineer position at Playtech was posted on 2026-04-07.
+This security engineer position at Playtech was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

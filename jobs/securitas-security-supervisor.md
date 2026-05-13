@@ -1,16 +1,16 @@
-# Security supervisor  at Securitas
+# Security Supervisor at Securitas
 
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Southampton, England, United Kingdom |
+| Location | Reading, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000118125038-security-supervisor) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000124572579-security-supervisor) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-01.
+This security engineer position at Securitas was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7770900) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7816429) |
 
 ## About This Role
 
-This security engineer position at Pinterest was posted on 2026-04-07.
+This security engineer position at Pinterest was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
