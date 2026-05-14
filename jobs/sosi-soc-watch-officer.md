@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012892536-soc-watch-officer) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013005306-soc-watch-officer) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-04-30.
+This soc & incident response position at SOSi was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

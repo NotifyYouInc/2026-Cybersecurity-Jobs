@@ -6,7 +6,7 @@
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000124604736-security-operations-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000124622155-security-operations-engineer) |
 
 ## About This Role
 

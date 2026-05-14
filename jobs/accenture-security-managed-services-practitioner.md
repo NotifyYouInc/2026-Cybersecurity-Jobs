@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Practitioner_ATCI-5547699-S2020431-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Practitioner_ATCI-5547700-S2020437-1) |
 
 ## About This Role
 

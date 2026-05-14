@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/CARBR11/Manager-Industrial-Security-2_R10231515) |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Manager-Industrial-Security-2_R10231594-2) |
 
 ## About This Role
 

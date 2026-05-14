@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7748863) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7882099) |
 
 ## About This Role
 
-This security engineer position at Appian was posted on 2026-04-22.
+This security engineer position at Appian was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

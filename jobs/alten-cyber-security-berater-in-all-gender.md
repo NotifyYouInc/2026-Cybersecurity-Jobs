@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jena, Thuringia, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123856551-cyber-security-berater-in-all-gender) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124837460-cyber-security-berater-in-all-gender) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-04-30.
+This security engineer position at ALTEN was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Site Security and Automation Lead -Viana (Cerca de Logroño) at Mondelez International
+
+| Field | Details |
+|-------|---------|
+| Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Viana, Navarre, Spain |
+| Category | Security Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Viana-Spain/Site-Security-and-Automation-Lead--Viana--Cerca-de-Logroo-_R-166151-2) |
+
+## About This Role
+
+This security engineer position at Mondelez International was posted on 2026-05-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

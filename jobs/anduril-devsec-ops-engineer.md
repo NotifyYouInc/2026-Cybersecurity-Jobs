@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Collins, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5070900007?gh_jid=5070900007) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5101329007?gh_jid=5101329007) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-03-05.
+This security engineer position at Anduril was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Panama |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122338044-ingenieroa-especialista-senior-en-seguridad-operativa-y-ciberseguridad) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124931494-ingenieroa-especialista-senior-en-seguridad-operativa-y-ciberseguridad) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-04-22.
+This security engineer position at AECOM was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

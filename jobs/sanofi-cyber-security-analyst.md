@@ -1,16 +1,16 @@
-# Cyber security analyst at Sanofi
+# Cyber Security Analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/Cyber-security-analyst_R2846746-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/Cyber-Security-Analyst_R2856229-1) |
 
 ## About This Role
 
-This security engineer position at Sanofi was posted on 2026-03-30.
+This security engineer position at Sanofi was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

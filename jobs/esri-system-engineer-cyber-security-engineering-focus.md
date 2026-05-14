@@ -1,16 +1,16 @@
-# System Engineer- Cyber Security Engineering Focus at Esri
+# System Engineer- Cyber Security Engineering Focus    at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redlands, California, United States |
+| Location | Vienna, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5096382007?gh_jid=5096382007) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.esri.com/careers/5130567007?gh_jid=5130567007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-04-01.
+This security engineer position at Esri was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

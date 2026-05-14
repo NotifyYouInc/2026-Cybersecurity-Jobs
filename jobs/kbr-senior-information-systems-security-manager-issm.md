@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Senior-Information-Systems-Security-Manager--ISSM-_R2119785) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Senior-Information-Systems-Security-Manager--ISSM-_R2123231-1) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-03-02.
+This security engineer position at KBR was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | North Carolina, US |
+| Location | Guangzhou, Guangdong, China |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer_2010905-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guangzhou-China/Security-Engineer_2013685) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-04-20.
+This security engineer position at Cisco was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

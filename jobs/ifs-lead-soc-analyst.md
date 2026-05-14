@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000113817122-lead-soc-analyst) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000124910289-lead-soc-analyst) |
 
 ## About This Role
 
-This soc & incident response position at IFS was posted on 2026-03-10.
+This soc & incident response position at IFS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

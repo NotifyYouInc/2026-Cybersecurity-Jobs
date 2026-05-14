@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/SOC-Analyst--L1-_578217-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/SOC-Analyst--L1-_581158-1) |
 
 ## About This Role
 
-This soc & incident response position at Philips was posted on 2026-03-06.
+This soc & incident response position at Philips was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000119948077-built-asset-security-advisor) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000124863859-built-asset-security-advisor) |
 
 ## About This Role
 
-This security engineer position at Turner & Townsend was posted on 2026-04-10.
+This security engineer position at Turner & Townsend was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

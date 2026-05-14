@@ -1,16 +1,16 @@
-# Cyber Security Analyst - Emiratization & UAE Talent Development at Accenture
+# Cyber Security Analyst -  Emiratization & UAE Talent Development at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dubai-Arenco-Tower/Cyber-Security-Analyst---Emiratization---UAE-Talent-Development_R00307786) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Cyber-Security-Analyst----Emiratization---UAE-Talent-Development_R00327861) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-03-30.
+This security engineer position at Accenture was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

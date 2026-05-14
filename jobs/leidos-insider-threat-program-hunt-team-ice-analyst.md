@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Insider-Threat-Program-Hunt-Team-ICE-Analyst_R-00182285) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Insider-Threat-Program-Hunt-Team-ICE-Analyst_R-00178024) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-01.
+This security engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

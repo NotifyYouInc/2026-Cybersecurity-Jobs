@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | IT & Systems Administration |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000124577231-it-architect-endpoint-management-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000124645900-it-architect-endpoint-management-wmd) |
 
 ## About This Role
 
