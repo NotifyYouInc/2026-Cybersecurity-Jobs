@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0239072) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0239068) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-30.
+This security engineer position at Booz Allen was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

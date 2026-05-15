@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ireland |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Remote-Ireland/Senior-Threat-Detection-Engineer_J25880) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Senior-Threat-Detection-Engineer_J27484) |
 
 ## About This Role
 
-This security engineer position at RGA Reinsurance Company was posted on 2026-02-26.
+This security engineer position at RGA Reinsurance Company was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

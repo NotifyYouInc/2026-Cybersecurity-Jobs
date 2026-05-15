@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Warner Robins, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-San-Antonio/Program-Security-Representative--PSR--III_RQ219306-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GA-Warner-Robins/Program-Security-Representative--PSR--III_RQ219804-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-30.
+This security engineer position at General Dynamics Information Technology was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

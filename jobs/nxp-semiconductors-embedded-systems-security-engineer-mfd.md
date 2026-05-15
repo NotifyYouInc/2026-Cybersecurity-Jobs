@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Embedded-Systems-Security-Engineer--m-f-d-_R-10063034-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Embedded-Systems-Security-Engineer--m-f-d-_R-10063012) |
 
 ## About This Role
 
-This security engineer position at NXP Semiconductors was posted on 2026-05-05.
+This security engineer position at NXP Semiconductors was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

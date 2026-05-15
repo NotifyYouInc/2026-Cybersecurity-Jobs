@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Katowice-Zabrska-19/Enterprise-Security-Architect---Security-Detection-and-Response_REQ-10113963) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Enterprise-Security-Architect---Security-Detection-and-Response_REQ-10114477) |
 
 ## About This Role
 
-This security engineer position at ING was posted on 2026-04-29.
+This security engineer position at ING was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

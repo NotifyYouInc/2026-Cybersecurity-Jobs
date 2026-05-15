@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Cybersecurity-Senior-Engineer--ASM-_R0112929-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Cybersecurity-Senior-Engineer--ASM-_R0113836) |
 
 ## About This Role
 
-This security engineer position at Truist was posted on 2026-04-01.
+This security engineer position at Truist was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

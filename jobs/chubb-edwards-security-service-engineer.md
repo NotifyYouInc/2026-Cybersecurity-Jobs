@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chubb Edwards](https://scoutify.ai/companies/chubb-edwards?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Middlesbrough, England, United Kingdom |
+| Location | Luton, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Middlesbrough/Security-Service-Engineer_JR40003292) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Chubb-Luton-Unit-14-Dencora-Way-Sundon-Business-Park-Luton-Beds-LU3-3HP-UK/Security-Service-Engineer_JR40004916) |
 
 ## About This Role
 
-This security engineer position at Chubb Edwards was posted on 2026-04-16.
+This security engineer position at Chubb Edwards was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

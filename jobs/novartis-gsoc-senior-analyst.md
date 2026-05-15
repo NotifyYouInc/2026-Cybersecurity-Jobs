@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/GSOC-Senior-Analyst_REQ-10067986) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/GSOC-Senior-Analyst_REQ-10077325) |
 
 ## About This Role
 
-This soc & incident response position at Novartis was posted on 2026-04-06.
+This soc & incident response position at Novartis was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

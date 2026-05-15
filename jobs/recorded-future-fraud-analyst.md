@@ -5,12 +5,12 @@
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8486011002) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8539331002) |
 
 ## About This Role
 
-This security engineer position at Recorded Future was posted on 2026-04-03.
+This security engineer position at Recorded Future was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

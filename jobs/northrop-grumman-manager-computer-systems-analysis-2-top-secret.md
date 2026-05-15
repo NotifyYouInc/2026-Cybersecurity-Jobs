@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Rolling Meadows, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Manager-Computer-Systems-Analysis-2---Top-Secret_R10225498-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Manager-Computer-Systems-Analysis-2---Top-Secret_R10232346) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-28.
+This security engineer position at Northrop Grumman was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

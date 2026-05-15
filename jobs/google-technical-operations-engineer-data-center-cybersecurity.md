@@ -1,16 +1,16 @@
-# Technical Operations Engineer, Data Center Cybersecurity at Google
+# Technical Operations Engineer, Data Center, Cybersecurity at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVCUAF13oVazZHC2IBZ2rieye2yUUb5xh8n5VYaAqVPkEjsACxwdTL25r4AHVWe18gvjIkFXP_bjZ14LN5xz2vvAzPnaJ-ZAJf2Y2xX0UGaSwiHvWG7yoAYkeSlonA%3D%3D_V2&loc=US&title=Technical+Operations+Engineer) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcbjAYWZNKrwcgAsomsHlj7yawn6qgXGRjwDZeSeorFoEjsACxwdTFbz1xIUdakdwlanlfhHnphUFAwmZbyNOV2asG2SaSFnzLN7sjmfNfYTkk_pnr71QRRjHFavcg%3D%3D_V2&loc=BE&title=Technical+Operations+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-20.
+This security engineer position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

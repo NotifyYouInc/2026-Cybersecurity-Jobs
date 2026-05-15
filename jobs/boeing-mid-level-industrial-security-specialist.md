@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mesa, Arizona, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Industrial-Security-Spec--Industrial-Security-_JR2026508326-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Mid-Level-Industrial-Security-Specialist_JR2026509258-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-05.
+This security engineer position at Boeing was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

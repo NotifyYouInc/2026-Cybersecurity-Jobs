@@ -1,16 +1,16 @@
-# Senior Application Security Engineer at AbbVie
+# Senior Application Security Engineer  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011436116-senior-application-security-engineer) |
+| Location | Butler, Pennsylvania, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013023936-senior-application-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at AbbVie was posted on 2026-01-30.
+This security engineer position at AbbVie was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

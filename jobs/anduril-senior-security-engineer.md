@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Seattle, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5090401007?gh_jid=5090401007) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5132454007?gh_jid=5132454007) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-03-26.
+This security engineer position at Anduril was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

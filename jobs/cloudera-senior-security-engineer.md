@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Canada--Ontario--Toronto/Senior-Security-Engineer_260457-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore-Remote/Senior-Security-Engineer_260662) |
 
 ## About This Role
 
-This security engineer position at Cloudera was posted on 2026-03-12.
+This security engineer position at Cloudera was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000116634937-senior-detection-engineer) |
+| Category | Security Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000125065194-senior-detection-engineer) |
 
 ## About This Role
 
-This soc & incident response position at FCTB (nu: Deloitte Consulting) was posted on 2026-03-25.
+This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

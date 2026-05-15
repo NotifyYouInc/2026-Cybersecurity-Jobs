@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R28232) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R28668) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-04-17.
+This soc & incident response position at CrowdStrike was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
