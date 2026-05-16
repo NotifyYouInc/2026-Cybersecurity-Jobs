@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Olivos, Buenos Aires, Argentina |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Cyber-Defense---Engineering---Network-Security--Senior-Associate-_720265WD-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Argentina-AC-Olivos/Cyber-Defense---Engineering---Network-Security--Senior-Associate-_727756WD-3) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-29.
+This security engineer position at PwC was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

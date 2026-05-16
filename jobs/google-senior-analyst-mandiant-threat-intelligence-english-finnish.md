@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Finland |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85491871052112582-senior-analyst-mandiant-threat-intelligence-english-finnish?sort_by=date&page=1) |
+| Category | Security Engineer |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcuwttsVJBFalUyie1waD__uc4nmTua-RZDkWAkHhy4XEjsACxwdTKSF8hnoNikiW5-CmCNdlRZ4WdOlZXIeoNi9ngwwoV3wgd0lFyUU3vn1vOtgoeOfYzlpuH3I6A%3D%3D_V2&loc=FI&title=Senior+Analyst) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-03-03.
+This security engineer position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

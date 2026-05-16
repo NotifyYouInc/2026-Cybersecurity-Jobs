@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Myrtle Beach, South Carolina, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Myrtle-Beach-South-Carolina-United-States-of-America/Security-Alarm-Installer_WD30268123) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chantilly-Virginia-United-States-of-America/Security-Alarm-Installer_WD30269005) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-29.
+This security engineer position at Johnson Controls was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-FL-ORLANDO-05997-WM-ON-CAMPUSRX-FACILITIES/Specialist--Physical-Security_R-2493351) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AZ-Phoenix-02489-WM-ON-CAMPUSRX-FACILITIES/Specialist--Physical-Security_R-2495754) |
 
 ## About This Role
 
-This security engineer position at Walmart was posted on 2026-04-29.
+This security engineer position at Walmart was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

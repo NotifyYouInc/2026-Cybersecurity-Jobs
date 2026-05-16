@@ -1,16 +1,16 @@
-# Staff+ Security Engineer, IT and Corporate Security at Verkada
+# Staff+ Security Engineer, IT and Corporate Security  at Verkada
 
 | Field | Details |
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5094828007) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5094827007) |
 
 ## About This Role
 
-This security engineer position at Verkada was posted on 2026-04-08.
+This security engineer position at Verkada was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

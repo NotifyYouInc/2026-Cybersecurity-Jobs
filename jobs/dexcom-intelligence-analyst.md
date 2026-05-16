@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Intelligence-Analyst_JR118216) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Intelligence-Analyst_JR118388) |
 
 ## About This Role
 
-This security engineer position at Dexcom was posted on 2026-04-23.
+This security engineer position at Dexcom was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

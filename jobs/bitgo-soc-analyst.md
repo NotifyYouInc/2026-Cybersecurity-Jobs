@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Palo Alto, California, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8527761002) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/7600882002) |
 
 ## About This Role
 
-This soc & incident response position at BitGo was posted on 2026-05-01.
+This soc & incident response position at BitGo was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

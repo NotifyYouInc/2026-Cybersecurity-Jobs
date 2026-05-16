@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000124920345-soc-tech-lead) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000125057299-soc-tech-lead) |
 
 ## About This Role
 
-This security engineer position at Wix.com was posted on 2026-05-06.
+This security engineer position at Wix.com was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

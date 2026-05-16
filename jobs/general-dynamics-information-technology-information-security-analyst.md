@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Texas, US |
+| Location | Kansas, US |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Fort-Hood---Fort-Hood-TXC002/Information-Security-Analyst_RQ219051-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-KS-Fort-Riley/Information-Security-Analyst_RQ219074-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-27.
+This security engineer position at General Dynamics Information Technology was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

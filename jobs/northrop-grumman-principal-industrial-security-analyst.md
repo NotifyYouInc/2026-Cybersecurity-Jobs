@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Industrial-Security-Analyst_R10231204) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Principal-Industrial-Security-Analyst_R10232241) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-30.
+This security engineer position at Northrop Grumman was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Associate-Identity---Access-Management---Cybersecurity--US-Client-_678353WD-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Associate-Identity---Access-Management---Cybersecurity--US-Client-_727760WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-23.
+This security engineer position at PwC was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
