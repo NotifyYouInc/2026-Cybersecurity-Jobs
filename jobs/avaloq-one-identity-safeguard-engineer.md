@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# One Identity Safeguard Engineer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000125698134-one-identity-safeguard-engineer) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at Avaloq was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

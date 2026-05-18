@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# Manager - Cybersecurity Advisory at KordaMentha
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001061655-manager-cybersecurity-advisory) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at KordaMentha was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

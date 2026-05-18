@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# Controls Testing Governance at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Controls-Testing-Governance_JR-0000106370-1) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

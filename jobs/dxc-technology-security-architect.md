@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# Security Architect at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Security-Architect_51580228) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at DXC Technology was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

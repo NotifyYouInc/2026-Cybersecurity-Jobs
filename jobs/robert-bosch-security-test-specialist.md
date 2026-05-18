@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# Security Test Specialist at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125752029-security-test-specialist) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at Robert Bosch was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10390618/data-center-security-specialist-data-center-security) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415670/data-center-security-specialist-data-center-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-14.
+This security engineer position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

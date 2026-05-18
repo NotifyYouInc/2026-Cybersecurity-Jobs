@@ -1,16 +1,16 @@
-# Security Solution Architect at JFrog
+# Cyber Security Apprentice at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7895917&gh_jid=7895917) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Cyber-Security-Apprentice_R-00277990) |
 
 ## About This Role
 
-This security engineer position at JFrog was posted on 2026-05-10.
+This security engineer position at NatWest Group was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

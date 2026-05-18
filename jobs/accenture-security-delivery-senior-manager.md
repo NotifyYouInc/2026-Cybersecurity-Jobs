@@ -1,16 +1,16 @@
-# Security Managed Services Practitioner at Accenture
+# Security Delivery Senior Manager at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1240651-S421059) |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
+| Category | SOC & Incident Response |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jeddah/Security-Delivery-Senior-Manager_13627907) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-11.
+This soc & incident response position at Accenture was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

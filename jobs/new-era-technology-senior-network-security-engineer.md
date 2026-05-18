@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Cloud & Data Security at Sigma Computing
+# Senior Network Security Engineer at New Era Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [New Era Technology](https://scoutify.ai/companies/new-era-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729895003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8525896002) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-11.
+This security engineer position at New Era Technology was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
