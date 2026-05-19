@@ -1,16 +1,16 @@
-# (Senior) Director, Research and Detection at Human
+# Senior Director, Research and Detection at Human
 
 | Field | Details |
 |-------|---------|
 | Company | [Human](https://scoutify.ai/companies/human?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/human/94422641-9d7f-4cd3-b7e7-ef3d01d7a4b0) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/human/ab6effac-83d4-43fa-a1d6-6dad365e78be) |
 
 ## About This Role
 
-This security engineer position at Human was posted on 2026-03-31.
+This security engineer position at Human was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

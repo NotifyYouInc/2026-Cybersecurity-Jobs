@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mulhouse, Grand Est, France |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000121373237-alternance-ingenieur-cybersecurite-hf) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125997959-alternance-ingenieur-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Veolia was posted on 2026-04-17.
+This security engineer position at Veolia was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

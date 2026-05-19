@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/1025b4ab-3365-40af-a8e1-bd4383b6158d) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/a463ae60-e812-45be-abb7-23842103c07c) |
 
 ## About This Role
 
-This security engineer position at Writer was posted on 2026-04-16.
+This security engineer position at Writer was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

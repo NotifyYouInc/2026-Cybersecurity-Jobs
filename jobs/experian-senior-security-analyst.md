@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121353898-senior-security-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125806619-senior-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-04-17.
+This security engineer position at Experian was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

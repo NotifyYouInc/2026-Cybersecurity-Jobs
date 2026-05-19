@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Indaiatuba, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123442318-privileged-access-management-operator) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125883880-privileged-access-management-operator) |
 
 ## About This Role
 
-This security engineer position at Eurofins Scientific was posted on 2026-04-28.
+This security engineer position at Eurofins Scientific was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

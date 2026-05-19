@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Technology-Support-Engineer_ATCI-5527136-S2015406-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Technology-Support-Engineer_ATCI-5550030-S2021297-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-17.
+This security engineer position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

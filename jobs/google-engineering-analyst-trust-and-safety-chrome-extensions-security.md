@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kirkland, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75743704039465670-engineering-analyst-trust-and-safety-chrome-extensions-security?sort_by=date&page=1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY1t87l5B1E91bCw097HPsMAEEA8wQv6PF_UJ296AV0uEjsACxwdTGiAgV57wZK53O15-Z-EPx3Djc2-Bd1Epwp6PlEUDJXdarHke5v95QySKfgUe9CFjjrp3yWZVA%3D%3D_V2&loc=US&title=Engineering+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-03-04.
+This security engineer position at Google was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

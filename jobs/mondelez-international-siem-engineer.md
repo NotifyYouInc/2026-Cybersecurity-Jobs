@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---New-Jersey-USA/SIEM-Engineer_R-163701-1) |
+| Category | Security Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/United-States-Remote/SIEM-Engineer_R-167391) |
 
 ## About This Role
 
-This soc & incident response position at Mondelez International was posted on 2026-04-02.
+This security engineer position at Mondelez International was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

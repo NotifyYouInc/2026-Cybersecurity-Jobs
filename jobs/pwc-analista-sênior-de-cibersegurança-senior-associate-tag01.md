@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/So-Paulo/Analista-Snior-de-Cibersegurana---Senior-Associate--tag01-_702313WD) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Barueri/Engenheiro-de-Segurana-Snior---Senior-Associate--tag01-_704850WD) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-02-20.
+This security engineer position at PwC was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

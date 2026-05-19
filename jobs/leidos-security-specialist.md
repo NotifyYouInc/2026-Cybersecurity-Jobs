@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Security-Specialist_R-00182202) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Security-Specialist_R-00182999) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-30.
+This security engineer position at Leidos was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

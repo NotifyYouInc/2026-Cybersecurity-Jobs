@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4672095006) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4677810006) |
 
 ## About This Role
 
-This security engineer position at Gong.io was posted on 2026-04-13.
+This security engineer position at Gong.io was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

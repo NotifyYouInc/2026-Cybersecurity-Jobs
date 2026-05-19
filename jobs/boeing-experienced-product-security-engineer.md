@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Product-Security-Engineer_JR2026500796-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-04-10.
+This security engineer position at Boeing was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

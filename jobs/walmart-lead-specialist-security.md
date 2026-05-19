@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Lead-Specialist--Security_R-2471920) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Purpose-Building-AR-Bentonville-Home-Office/Lead-Specialist--Security_R-2500860) |
 
 ## About This Role
 
-This security engineer position at Walmart was posted on 2026-04-17.
+This security engineer position at Walmart was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

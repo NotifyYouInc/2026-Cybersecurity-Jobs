@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000115524363-iam-engineer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000125923949-iam-engineer) |
 
 ## About This Role
 
-This security engineer position at The Wonderful Company was posted on 2026-03-18.
+This security engineer position at The Wonderful Company was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Cyber-Info-Assurance-Analyst_R61128-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Cyber-Info-Assurance-Analyst_R66599-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-03-10.
+This security engineer position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

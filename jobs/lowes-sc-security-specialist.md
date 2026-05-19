@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Bessemer, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Oklahoma-City-OK-XDT-3889/SC-Security-Specialist_JR-02483251-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Bessemer-AL-BDC-3468/SC-Security-Specialist_JR-02513712) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-04-13.
+This security engineer position at Lowe's was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Consulting-Principal-Security-Engineer_R113064-2) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Consulting-Principal-Security-Engineer_R113112) |
 
 ## About This Role
 
-This security engineer position at LexisNexis Risk Solutions was posted on 2026-05-06.
+This security engineer position at LexisNexis Risk Solutions was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

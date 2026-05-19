@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Senior-Cyberspace-Operations-Planner--Site-Lead_R-00182807) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Senior-Cyberspace-Operations-Planner--Site-Lead_R-00182971) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-07.
+This security engineer position at Leidos was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
