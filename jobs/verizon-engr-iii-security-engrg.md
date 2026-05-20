@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Engr-III-Security-Engrg_R-1090753) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Security-Engrg_R-1094024-1) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-02-20.
+This security engineer position at Verizon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

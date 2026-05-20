@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125116119-alternance-analyste-threat-intelligence-science-politique-cybersecurite-ile-de-france) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126038381-alternance-analyste-threat-intelligence-science-politique-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-07.
+This security engineer position at Sopra Steria was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

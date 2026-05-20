@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-sensibilisation--la-scurit_R2606030) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-sensibilisation--la-scurit_R2605795-1) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-04-30.
+This security engineer position at Desjardins was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

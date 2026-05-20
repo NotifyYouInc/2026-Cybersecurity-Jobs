@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Plano, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000121851902-security-operations-center-manager) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000126113189-security-operations-center-manager) |
 
 ## About This Role
 
-This soc & incident response position at Public Storage was posted on 2026-04-20.
+This soc & incident response position at Public Storage was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

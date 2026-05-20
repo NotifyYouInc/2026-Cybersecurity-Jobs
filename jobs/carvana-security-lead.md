@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | University Park, Florida, United States |
+| Location | Trenton, New Jersey, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7871484) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7917693) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-04-30.
+This security engineer position at Carvana was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

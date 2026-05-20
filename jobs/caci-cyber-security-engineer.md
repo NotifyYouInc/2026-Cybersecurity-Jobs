@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cyber-Security-Engineer_325289) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NE-Omaha/Cyber-Security-Engineer_325965) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-27.
+This security engineer position at CACI was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

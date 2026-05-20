@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Greenfield, Wisconsin, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7867208) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7917916) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-04-29.
+This security engineer position at Carvana was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

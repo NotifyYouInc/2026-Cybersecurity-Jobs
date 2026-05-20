@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056566-summer-intern-information-security) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013083106-summer-intern-information-security) |
 
 ## About This Role
 
-This security engineer position at City of New York was posted on 2026-05-09.
+This security engineer position at City of New York was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

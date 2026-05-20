@@ -1,0 +1,22 @@
+# Model Policy, Frontier Cyber Risk at OpenAI
+
+| Field | Details |
+|-------|---------|
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/5664d2d6-639d-4696-9dab-0d703f1d9c5d) |
+
+## About This Role
+
+This security engineer position at OpenAI was posted on 2026-05-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

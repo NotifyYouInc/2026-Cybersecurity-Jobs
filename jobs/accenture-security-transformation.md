@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Security-Transformation_14151981) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Security-Transformation_14324374) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-10.
+This security engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

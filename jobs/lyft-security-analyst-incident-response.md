@@ -5,12 +5,12 @@
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8427518002?gh_jid=8427518002) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8544635002?gh_jid=8544635002) |
 
 ## About This Role
 
-This security engineer position at Lyft was posted on 2026-02-19.
+This security engineer position at Lyft was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

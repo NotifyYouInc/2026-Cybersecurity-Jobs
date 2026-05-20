@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Edinburgh-WRS---United-Kingdom/Senior-Security-Architect_REQ-16735) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Pune-Job-Posting-Location---India/Senior-Security-Architect_REQ-16739-1) |
 
 ## About This Role
 
-This security engineer position at Fnz was posted on 2026-05-01.
+This security engineer position at Fnz was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

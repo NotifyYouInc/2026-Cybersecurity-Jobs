@@ -5,12 +5,12 @@
 | Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPOLKRKDKKRKDKKrakw/Information-Security-Analyst_RC775292) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPOLKRKDKKRKDKKrakw/Information-Security-Analyst_RC776901-1) |
 
 ## About This Role
 
-This security engineer position at FedEx was posted on 2026-04-30.
+This security engineer position at FedEx was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

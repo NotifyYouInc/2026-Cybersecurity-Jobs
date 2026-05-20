@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Clients-Site/EPP-Operator_JOBREQ-0003444) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/EPP-Operator_JOBREQ-0003477) |
 
 ## About This Role
 
-This soc & incident response position at Ensigninfosecurity was posted on 2026-04-23.
+This soc & incident response position at Ensigninfosecurity was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

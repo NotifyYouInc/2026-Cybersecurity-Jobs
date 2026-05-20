@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000123551209-iam-analyst-cybersecurity) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000126155301-iam-analyst-cybersecurity) |
 
 ## About This Role
 
-This security engineer position at H&M Group was posted on 2026-04-28.
+This security engineer position at H&M Group was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

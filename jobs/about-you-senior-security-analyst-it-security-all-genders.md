@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120454937-senior-security-analyst-it-security-all-genders) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000126053879-senior-security-analyst-it-security-all-genders) |
 
 ## About This Role
 
-This security engineer position at About You was posted on 2026-04-13.
+This security engineer position at About You was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

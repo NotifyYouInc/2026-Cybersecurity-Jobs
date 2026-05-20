@@ -5,12 +5,12 @@
 | Company | [Sonar Source](https://scoutify.ai/companies/sonar-source?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/sonarsource/0ec158e8-8f9a-472f-a260-afc4f40f8e0f) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.lever.co/sonarsource/a245e1bd-27b9-4c1a-b5d1-bfaeed1e6d5e) |
 
 ## About This Role
 
-This security engineer position at Sonar Source was posted on 2026-04-14.
+This security engineer position at Sonar Source was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

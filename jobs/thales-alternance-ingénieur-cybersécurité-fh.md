@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | La Ferté-Saint-Aubin, Centre-Val de Loire, France |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sophia-Antipolis/ALTERNANCE---Ingnieur-Cyberscurit---F-H_R0321611) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Fert-Saint-Aubin/ALTERNANCE---Ingnieur-Cyberscurit---F-H_R0322093-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-04-08.
+This security engineer position at Thales was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
