@@ -1,16 +1,16 @@
-# STAGE - Audits techniques et tests d’intrusion : réaliser et détecter une attaque en milieu industriel ?  at Wavestone
+# Stage - Audits techniques et tests d’intrusion : réaliser et détecter une attaque en milieu industriel ?  at Wavestone
 
 | Field | Details |
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000110108635-stage-audits-techniques-et-tests-dintrusion-realiser-et-detecter-une-attaque-en-milieu-industriel) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000126246319-stage-audits-techniques-et-tests-dintrusion-realiser-et-detecter-une-attaque-en-milieu-industriel) |
 
 ## About This Role
 
-This offensive security & pentesting position at Wavestone was posted on 2026-02-19.
+This offensive security & pentesting position at Wavestone was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

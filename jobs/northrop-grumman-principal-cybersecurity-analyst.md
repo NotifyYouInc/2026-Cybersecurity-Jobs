@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Cybersecurity-Analyst_R10228520) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Principal-Cybersecurity-Analyst_R10232506) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-08.
+This security engineer position at Northrop Grumman was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

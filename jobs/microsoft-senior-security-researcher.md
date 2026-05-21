@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834940) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866260) |
 
 ## About This Role
 
-This offensive security & pentesting position at Microsoft was posted on 2026-03-25.
+This offensive security & pentesting position at Microsoft was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

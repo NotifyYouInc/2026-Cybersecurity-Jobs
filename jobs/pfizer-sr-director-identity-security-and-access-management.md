@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Greece |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Sr-Director--Identity-Security-and-Access-Management_4954951) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Director--Identity-Security-and-Access-Management_4956415-1) |
 
 ## About This Role
 
-This security engineer position at Pfizer was posted on 2026-04-27.
+This security engineer position at Pfizer was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

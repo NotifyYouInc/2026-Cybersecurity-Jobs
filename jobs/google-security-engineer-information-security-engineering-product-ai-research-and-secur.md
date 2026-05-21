@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUNhyagOr-NfKAlcpl7IuiDEm9514qZUYGqi225oH1LjEjsACxwdTOVu942B5xM211-0u7BlGOQRt1qMQbdMgfgWM6SETxyq8ND75u2oXdD6dAPBrzFdTPfBUjyEaA%3D%3D_V2&loc=CH&title=Security+Engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZRZl8h45s1f5amLuNPzqYtBm0StAnn-H8g1it3Jm5G0EjsACxwdTGyYVjR2BINinv_jVhwdv2uIuMzQr0yDxAqJdJN76p6PvRIo8kShGQytvpLElzZoa_A1_bMFEQ%3D%3D_V2&loc=CH&title=Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-10.
+This security engineer position at Google was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

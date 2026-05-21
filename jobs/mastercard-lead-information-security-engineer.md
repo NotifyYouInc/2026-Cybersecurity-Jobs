@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Information-Security-Engineer_R-277007-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Information-Security-Engineer_R-274442) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-05-05.
+This security engineer position at Mastercard was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

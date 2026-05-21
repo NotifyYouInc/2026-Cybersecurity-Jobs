@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Illinois, US |
+| Location | Brisbane, Queensland, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Manager-Cybersecurity_R0000365937) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Manager-Cybersecurity_R0000368083) |
 
 ## About This Role
 
-This security engineer position at Caterpillar was posted on 2026-04-24.
+This security engineer position at Caterpillar was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

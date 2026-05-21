@@ -5,12 +5,12 @@
 | Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Pune-Job-Posting-Location---India/Data-Loss-Prevention_REQ-16686) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Pune-Job-Posting-Location---India/Data-Loss-Prevention_REQ-16886) |
 
 ## About This Role
 
-This security engineer position at Fnz was posted on 2026-05-08.
+This security engineer position at Fnz was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

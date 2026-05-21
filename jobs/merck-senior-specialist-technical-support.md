@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Technical-Support_R395114-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Technical-Support_R395108-2) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-05-05.
+This security engineer position at Merck was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

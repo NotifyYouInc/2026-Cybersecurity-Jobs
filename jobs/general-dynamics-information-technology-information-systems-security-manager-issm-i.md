@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Systems-Security-Manager--ISSM--I_RQ216699-1) |
+| Category | Security Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Systems-Security-Manager--ISSM--I_RQ220111-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-16.
+This security engineer position at General Dynamics Information Technology was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

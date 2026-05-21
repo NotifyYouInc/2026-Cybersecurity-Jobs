@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rugby, England, United Kingdom |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/ICS---OT-Cyber-Security-Engineer_R5031863) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/ICS---OT-Cyber-Security-Engineer_R5042074-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at GE Vernova was posted on 2026-02-11.
+This security engineer position at GE Vernova was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

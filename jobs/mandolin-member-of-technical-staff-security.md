@@ -5,12 +5,12 @@
 | Company | [Mandolin](https://scoutify.ai/companies/mandolin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mandolin/bd80c3c1-19fd-47ca-9ae0-638b30ac903b) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mandolin/c892f077-812b-464f-8e70-efa94aaf50e3) |
 
 ## About This Role
 
-This security engineer position at Mandolin was posted on 2026-04-22.
+This security engineer position at Mandolin was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

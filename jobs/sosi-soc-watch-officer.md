@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Chandler, Arizona, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013005306-soc-watch-officer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013116006-soc-watch-officer) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-05-06.
+This soc & incident response position at SOSi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

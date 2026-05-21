@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Colorado, US |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Cyber-Systems-Engineer_R10230571) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sr-Principal-Cyber-Systems-Engineer_R10232413) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-22.
+This security engineer position at Northrop Grumman was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

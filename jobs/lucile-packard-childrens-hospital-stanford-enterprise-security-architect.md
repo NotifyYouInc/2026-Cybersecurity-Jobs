@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013076326-enterprise-security-architect) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013091936-enterprise-security-architect) |
 
 ## About This Role
 
-This security engineer position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-11.
+This security engineer position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

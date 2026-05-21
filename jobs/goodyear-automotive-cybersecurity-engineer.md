@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/IN-Hyderabad/Automotive-Cybersecurity-Engineer_GY70030377) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/IN-Hyderabad/Automotive-Cybersecurity-Engineer_JR-40108287) |
 
 ## About This Role
 
-This security engineer position at Goodyear was posted on 2026-04-09.
+This security engineer position at Goodyear was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

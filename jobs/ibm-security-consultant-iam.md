@@ -1,16 +1,16 @@
-# SECURITY CONSULTANT - IAM at IBM
+# Security Consultant - IAM at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110755) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115182) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-04-20.
+This security engineer position at IBM was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

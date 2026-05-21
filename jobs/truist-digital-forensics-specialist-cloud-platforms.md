@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Wilson-NC/Digital-Forensics-Specialist---Cloud-Platforms_R0112931) |
+| Category | Security Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Wilson-NC/Digital-Forensics-Specialist---Cloud-Platforms_R0114569) |
 
 ## About This Role
 
-This soc & incident response position at Truist was posted on 2026-04-03.
+This security engineer position at Truist was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

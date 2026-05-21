@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Industrial-Security-Analyst-2-3_R10212508) |
+| Location | Melbourne, Florida, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Industrial-Security-Analyst-2-3_R10232544) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-02-11.
+This security engineer position at Northrop Grumman was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

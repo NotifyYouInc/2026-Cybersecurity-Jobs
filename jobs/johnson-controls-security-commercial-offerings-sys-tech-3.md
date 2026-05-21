@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Fort Myers, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jacksonville-Florida-United-States-of-America/Security-Commercial-Offerings-Sys-Tech-3_WD30265817) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Fort-Myers-Florida-United-States-of-America/Security-Commercial-Offerings-Sys-Tech-3_WD30269363) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-07.
+This security engineer position at Johnson Controls was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

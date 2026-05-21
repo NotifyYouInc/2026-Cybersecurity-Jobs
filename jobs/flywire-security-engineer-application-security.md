@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000126112256-security-engineer-application-security) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000126338218-security-engineer-application-security) |
 
 ## About This Role
 
-This security engineer position at Flywire was posted on 2026-05-12.
+This security engineer position at Flywire was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

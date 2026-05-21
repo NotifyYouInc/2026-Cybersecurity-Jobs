@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ford Island, Hawaii, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ford-Island-HI/Data-Security-Engineer_R0238742) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Security-Engineer_R0239982) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-27.
+This security engineer position at Booz Allen was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

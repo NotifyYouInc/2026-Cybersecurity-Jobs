@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Enterprise-Classified-Information-Technology--IT--Infrastructure-Services-Senior-Manager_JR2026509325-2) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Enterprise-Classified-Information-Technology--IT--Infrastructure-Services-Senior-Manager_JR2026509318-2) |
 
 ## About This Role
 

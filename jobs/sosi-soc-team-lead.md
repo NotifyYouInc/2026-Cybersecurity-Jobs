@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Chandler, Arizona, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012771807-soc-team-lead) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013115956-soc-team-lead) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-04-22.
+This soc & incident response position at SOSi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
