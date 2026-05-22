@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013018727-senior-security-analyst-i-identity-access-management) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013146386-senior-security-analyst-i-identity-access-management) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-05-07.
+This security engineer position at AbbVie was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

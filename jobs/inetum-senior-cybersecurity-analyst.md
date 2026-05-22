@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115630071-senior-cybersecurity-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126501019-senior-cybersecurity-analyst) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-03-19.
+This security engineer position at Inetum was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

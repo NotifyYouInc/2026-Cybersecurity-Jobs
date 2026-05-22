@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DPD UK](https://scoutify.ai/companies/dpduk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Smethwick, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000119970736-cctv-security-investigator-maternity-cover) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000126488309-cctv-security-investigator-maternity-cover) |
 
 ## About This Role
 
-This security engineer position at DPD UK was posted on 2026-04-10.
+This security engineer position at DPD UK was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

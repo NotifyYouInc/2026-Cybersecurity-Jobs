@@ -5,12 +5,12 @@
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000116271963-global-security-operations-center-operator) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000126547469-global-security-operations-center-operator) |
 
 ## About This Role
 
-This soc & incident response position at SIBYLLINE was posted on 2026-03-23.
+This soc & incident response position at SIBYLLINE was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2025-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000039702282-staff-firmware-engineer-security) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000126410669-staff-firmware-engineer-security) |
 
 ## About This Role
 
-This security engineer position at Axiado was posted on 2025-01-30.
+This security engineer position at Axiado was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

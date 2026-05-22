@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer--Security---Evisort_JR-0104021) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Security Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer--Security---Evisort_JR-0106975) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-10.
+This security engineer position at Workday was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

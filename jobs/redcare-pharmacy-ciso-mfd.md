@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Venlo, Limburg, The Netherlands |
+| Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000121467747-ciso-mfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126479449-ciso-mfd) |
 
 ## About This Role
 
-This security engineer position at Redcare Pharmacy was posted on 2026-04-17.
+This security engineer position at Redcare Pharmacy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

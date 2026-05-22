@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | McLean, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Information-Security-Office-Consultant_R242233-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Information-Security-Office-Consultant_R242695-1) |
 
 ## About This Role
 
-This security engineer position at Capital One was posted on 2026-05-08.
+This security engineer position at Capital One was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

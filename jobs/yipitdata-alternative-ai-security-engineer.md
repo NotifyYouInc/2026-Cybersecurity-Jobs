@@ -5,12 +5,12 @@
 | Company | [YipitData (Alternative)](https://scoutify.ai/companies/yipitdata-alternative?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7909501) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7927163) |
 
 ## About This Role
 
-This security engineer position at YipitData (Alternative) was posted on 2026-05-08.
+This security engineer position at YipitData (Alternative) was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

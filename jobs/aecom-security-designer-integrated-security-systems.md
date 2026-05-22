@@ -1,16 +1,16 @@
-# Security Designer - Integrated Security Systems  at AECOM
+# Security Designer - Integrated Security Systems at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Durban, KwaZulu-Natal, South Africa |
+| Location | Bucharest, București, Romania |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123297709-security-designer-integrated-security-systems) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126499919-security-designer-integrated-security-systems) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-04-27.
+This security engineer position at AECOM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

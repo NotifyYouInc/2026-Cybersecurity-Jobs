@@ -5,12 +5,12 @@
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000125191860-associate-threat-intelligence-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000126538479-associate-threat-intelligence-analyst) |
 
 ## About This Role
 
-This security engineer position at SIBYLLINE was posted on 2026-05-07.
+This security engineer position at SIBYLLINE was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

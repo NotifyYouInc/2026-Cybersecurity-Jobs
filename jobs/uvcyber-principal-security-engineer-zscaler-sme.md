@@ -5,12 +5,12 @@
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/uvcyber/e55775d9-c3d3-4426-a1a8-aba9e5401b9f) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.lever.co/uvcyber/75ee91b6-ed84-45ed-baf6-d697fca43c81) |
 
 ## About This Role
 
-This security engineer position at Uvcyber was posted on 2026-04-17.
+This security engineer position at Uvcyber was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Surveillance-des-contrles-de-scurit_R2605488) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Scurit-physique_R2606654) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-04-24.
+This security engineer position at Desjardins was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

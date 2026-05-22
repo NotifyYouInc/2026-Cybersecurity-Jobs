@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Trenton, New Jersey, United States |
+| Location | Belton, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7917693) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7927145) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-05-12.
+This security engineer position at Carvana was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

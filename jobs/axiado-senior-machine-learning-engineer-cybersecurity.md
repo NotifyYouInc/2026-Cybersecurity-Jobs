@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | San Jose, California, United States |
 | Category | Security Engineer |
-| Posted | 2025-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000066034185-senior-machine-learning-engineer-cybersecurity) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000123801729-senior-machine-learning-engineer-cybersecurity) |
 
 ## About This Role
 
-This security engineer position at Axiado was posted on 2025-06-18.
+This security engineer position at Axiado was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
