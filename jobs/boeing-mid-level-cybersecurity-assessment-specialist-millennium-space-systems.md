@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Boulder-CO/Mid-Level-Cybersecurity-Assessment-Specialist---Millennium-Space-Systems_JR2026506924) |
+| Category | Security Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Boulder-CO/Mid-Level-Cybersecurity-Assessment-Specialist---Millennium-Space-Systems_JR2026510736-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Boeing was posted on 2026-04-23.
+This security engineer position at Boeing was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

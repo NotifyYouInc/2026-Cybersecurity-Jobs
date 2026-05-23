@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Knox, Kentucky, United States |
+| Location | North Carolina, US |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Knox-KY/Security-Specialist_R0239634-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Security-Specialist_R0240193) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-08.
+This security engineer position at Booz Allen was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

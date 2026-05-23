@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Limerick, Munster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Sr-Analyst--Information-Security_R261157) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Sr-Analyst--Information-Security_R262219) |
 
 ## About This Role
 
-This security engineer position at Analog Devices was posted on 2026-03-05.
+This security engineer position at Analog Devices was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

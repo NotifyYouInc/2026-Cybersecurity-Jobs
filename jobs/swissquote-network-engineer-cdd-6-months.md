@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swissquote](https://scoutify.ai/companies/swissquote?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Switzerland |
+| Location | Gland, Vaud, Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000114001818-network-engineer-cdd-6-months) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000126699092-network-engineer-cdd-6-months) |
 
 ## About This Role
 
-This security engineer position at Swissquote was posted on 2026-03-11.
+This security engineer position at Swissquote was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

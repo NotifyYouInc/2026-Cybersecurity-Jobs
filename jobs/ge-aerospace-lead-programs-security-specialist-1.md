@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ohio, US |
+| Location | Evendale, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Edwards-AFB/Lead-Programs-Security-Specialist-1_R5032289-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Programs-Security-Specialist-1_R5034513-1) |
 
 ## About This Role
 
-This security engineer position at GE Aerospace was posted on 2026-04-13.
+This security engineer position at GE Aerospace was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

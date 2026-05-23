@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123365069-security-designer-integrated-security-systems-data-centers) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126660390-security-designer-integrated-security-systems-data-centers) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-04-28.
+This security engineer position at AECOM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

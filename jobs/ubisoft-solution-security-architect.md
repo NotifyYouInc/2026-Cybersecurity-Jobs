@@ -1,16 +1,16 @@
-#  Solution Security Architect at Ubisoft
+# Solution Security Architect  at Ubisoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000109732236-solution-security-architect) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000126649469-solution-security-architect) |
 
 ## About This Role
 
-This security engineer position at Ubisoft was posted on 2026-02-17.
+This security engineer position at Ubisoft was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

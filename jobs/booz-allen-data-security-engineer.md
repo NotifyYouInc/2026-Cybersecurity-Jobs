@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Security-Engineer_R0239982) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Security-Engineer_R0240137) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-13.
+This security engineer position at Booz Allen was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

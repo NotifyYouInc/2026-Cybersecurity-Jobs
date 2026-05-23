@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckboEjxqIi4HpvkWFZb6HTb1m-qcO_Q66c5V-pJsgyR5MEjsACxwdTLsbWHmbJZDjRigrUyB4gNrNnCjaQahRwyfMFiWI4zweZFQyD4Wf7L_1rZbaafoXy8m1MwD05g%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRQFLPUQWjjhfA4RBblrt7CMqgaG1DKoUp3JNVGPV8C-EjsACxwdTIw-0j7lGWLfc0BirVpXVZSF-hFTX0KkxMmF8LfdzAz-RTRLwHwKBsO3ctResL0r4_FHeMTLGQ%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-22.
+This security engineer position at Google was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

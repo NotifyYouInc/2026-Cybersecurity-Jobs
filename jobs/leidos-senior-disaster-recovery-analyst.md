@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Disaster-Recovery-Analyst_R-00183163) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Disaster-Recovery-Analyst_R-00183259) |
 
 ## About This Role
 

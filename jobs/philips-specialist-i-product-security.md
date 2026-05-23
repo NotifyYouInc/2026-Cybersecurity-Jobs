@@ -1,16 +1,16 @@
-# Specialist I - Product Security at Philips
+# Specialist I, Product Security. at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Specialist-I---Product-Security_577740-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Specialist-I--Product-Security_578584-1) |
 
 ## About This Role
 
-This security engineer position at Philips was posted on 2026-04-30.
+This security engineer position at Philips was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

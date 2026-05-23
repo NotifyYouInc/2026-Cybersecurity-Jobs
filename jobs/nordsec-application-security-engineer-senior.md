@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nordsec](https://scoutify.ai/companies/nordsec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.lever.co/nordsec/1553e0d3-61dc-4c33-88bd-7de36b6f9cbf) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/nordsec/f6294d93-0735-4239-8246-5d662ba8cd7b) |
 
 ## About This Role
 
-This security engineer position at Nordsec was posted on 2026-05-13.
+This security engineer position at Nordsec was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

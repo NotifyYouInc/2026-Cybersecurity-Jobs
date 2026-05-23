@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lucid](https://scoutify.ai/companies/lucidsoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidsoftware/jobs/5994809004) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidsoftware/jobs/5997142004) |
 
 ## About This Role
 
-This security engineer position at Lucid was posted on 2026-05-13.
+This security engineer position at Lucid was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

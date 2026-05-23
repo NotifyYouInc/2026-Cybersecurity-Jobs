@@ -5,12 +5,12 @@
 | Company | [Levio](https://scoutify.ai/companies/levio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8539286002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/levio/jobs/8551805002) |
 
 ## About This Role
 
-This security engineer position at Levio was posted on 2026-05-07.
+This security engineer position at Levio was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

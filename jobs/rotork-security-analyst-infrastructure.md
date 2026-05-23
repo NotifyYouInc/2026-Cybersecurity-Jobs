@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bath, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000117016480-security-analyst-infrastructure) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000126690594-security-analyst-infrastructure) |
 
 ## About This Role
 
-This security engineer position at Rotork was posted on 2026-03-26.
+This security engineer position at Rotork was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

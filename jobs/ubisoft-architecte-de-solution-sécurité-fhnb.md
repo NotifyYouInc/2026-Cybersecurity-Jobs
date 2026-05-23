@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | Saint-Mandé, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000111036838-architecte-de-solution-securite-fhnb) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000126649359-architecte-de-solution-securite-fhnb) |
 
 ## About This Role
 
-This security engineer position at Ubisoft was posted on 2026-02-24.
+This security engineer position at Ubisoft was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
