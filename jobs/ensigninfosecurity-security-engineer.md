@@ -1,16 +1,16 @@
-# Privilege Identity Administrator at OCBC
+# Security Engineer at Ensigninfosecurity
 
 | Field | Details |
 |-------|---------|
-| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | IT & Systems Administration |
+| Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Privilege-Identity-Administrator_JR00007953) |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Security-Engineer_JOBREQ-0003462) |
 
 ## About This Role
 
-This it & systems administration position at OCBC was posted on 2026-05-18.
+This security engineer position at Ensigninfosecurity was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

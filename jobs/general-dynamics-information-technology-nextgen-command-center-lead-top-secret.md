@@ -1,16 +1,16 @@
-# Information Systems Security Manager (ISSM) I at General Dynamics Information Technology
+# NextGen Command Center Lead, Top Secret at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 12 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Information-Systems-Security-Manager--ISSM--I_RQ220200-1) |
+| Location | Herndon, Virginia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/NextGen-Command-Center-Lead--Top-Secret_RQ220004) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-05-14.
+This soc & incident response position at General Dynamics Information Technology was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

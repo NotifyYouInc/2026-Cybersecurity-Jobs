@@ -1,16 +1,16 @@
-# Application Security Intern at Manulife
+# Cyber Security Associate - Penetration Tester at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Application-Security-Intern_JR26051165) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Cyber-Security-Associate---Penetration-Tester_659699WD) |
 
 ## About This Role
 
-This offensive security & pentesting position at Manulife was posted on 2026-05-18.
+This offensive security & pentesting position at PwC was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

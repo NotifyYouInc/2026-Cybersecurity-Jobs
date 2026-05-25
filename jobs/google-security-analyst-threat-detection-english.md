@@ -1,12 +1,12 @@
-# Security Analyst I at Google
+# Security Analyst, Threat Detection (English) at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU7XInOHehePbI6ZbkWyITL7FXftu6iKPzlIlxjtvbTWEjsACxwdTMcars5L5mNiEN8o_Wf-jtjH_IeDEcpgfnO9A9yPEQroTV1R88RoSQayl8_OjtCaS6IXQklDSA%3D%3D_V2&loc=IE&title=Security+Analyst+I) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckaq5tzbYHIieuUyax92UrpLUunl6Y5oBPWsyT38DxIS9EjsACxwdTI1_N8BB9gDPa0KQ79uBKTAmR4cJIP7EJ4Zqz92AymWCNwBN_4p4UgVnL_9iOZgBmx4Dq2303Q%3D%3D_V2&loc=SG&title=Security+Analyst) |
 
 ## About This Role
 

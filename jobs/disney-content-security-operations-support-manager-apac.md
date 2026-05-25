@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# Content Security, Operations & Support, Manager, APAC at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seoul-South-Korea/Content-Security--Operations---Support--Manager--APAC_10151134) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at Disney was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

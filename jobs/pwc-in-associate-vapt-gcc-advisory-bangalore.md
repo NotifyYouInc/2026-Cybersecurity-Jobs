@@ -1,16 +1,16 @@
-# Sr. Engineer | - VMS| Onsite, Bangalore at FishNet Security
+# IN_Associate_VAPT_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Sr-Engineer---VMS_2025-13200) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-VAPT-GCC-Advisory-Bangalore_729580WD-1) |
 
 ## About This Role
 
-This security engineer position at FishNet Security was posted on 2026-05-18.
+This security engineer position at PwC was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

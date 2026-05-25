@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# CSPM Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne/CSPM-Engineer_13582968-1) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

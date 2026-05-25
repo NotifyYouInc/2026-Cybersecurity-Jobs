@@ -1,16 +1,16 @@
-# ETIC, Cyber Risk Senior Associate at PwC
+# AI Security Researcher    at Wiz, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Risk-Senior-Associate_708849WD) |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-05-17.
+This security engineer position at Wiz, Inc. was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# IT Security Analyst at NCS Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001081243-it-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at NCS Australia was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

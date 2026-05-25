@@ -1,16 +1,16 @@
-# ETIC, Cyber Risk Senior Associate at PwC
+# Senior Director Analyst, AI Cybersecurity, Remote EMEA at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Spain |
 | Category | Security Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Risk-Senior-Associate_708849WD) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---United-Kingdom/Senior-Director-Analyst--AI-Cybersecurity--Remote-EMEA_109785) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-05-17.
+This security engineer position at Gartner was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

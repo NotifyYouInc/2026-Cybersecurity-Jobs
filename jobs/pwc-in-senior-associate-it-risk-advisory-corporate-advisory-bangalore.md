@@ -1,12 +1,12 @@
-# ETIC, Cyber Risk Senior Associate at PwC
+# IN_Senior Associate_ IT Risk_ Advisory Corporate_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Risk-Senior-Associate_708849WD) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--IT-Risk--Advisory-Corporate-Advisory-Bangalore_729513WD) |
 
 ## About This Role
 

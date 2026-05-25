@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# Cybersecurity Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Cybersecurity-Engineer_R0131015) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# Business Information Security Office at Absa
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Randburg, Gauteng, South Africa |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Business-Information-Security-Office_R-15984737) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at Absa was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

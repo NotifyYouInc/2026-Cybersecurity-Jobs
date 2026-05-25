@@ -1,16 +1,16 @@
-# Sr. Engineer | - VMS| Onsite, Bangalore at FishNet Security
+# Threat Response Analyst II-1 at Mimecast
 
 | Field | Details |
 |-------|---------|
-| Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Sr-Engineer---VMS_2025-13200) |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Threat-Response-Analyst-II-1_R6416-1) |
 
 ## About This Role
 
-This security engineer position at FishNet Security was posted on 2026-05-18.
+This security engineer position at Mimecast was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

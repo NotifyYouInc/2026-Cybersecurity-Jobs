@@ -1,16 +1,16 @@
-# ETIC, Cyber Risk Senior Associate at PwC
+# Hardware Security Architect at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Risk-Senior-Associate_708849WD) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Hardware-Security-Architect_R-10063528) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-05-17.
+This security engineer position at NXP Semiconductors was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

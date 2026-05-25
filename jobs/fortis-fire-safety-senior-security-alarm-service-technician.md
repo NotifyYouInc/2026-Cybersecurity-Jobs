@@ -5,12 +5,12 @@
 | Company | [Fortis Fire & Safety](https://scoutify.ai/companies/fortis-fire--safety?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Coral Springs, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fortisfiresafety/jobs/4157492009) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fortisfiresafety/jobs/4250653009) |
 
 ## About This Role
 
-This security engineer position at Fortis Fire & Safety was posted on 2026-02-27.
+This security engineer position at Fortis Fire & Safety was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Security Expert at Wix.com
+# Delivery Lead - Cybersecurity at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000126854288-application-security-expert) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91876) |
 
 ## About This Role
 
-This security engineer position at Wix.com was posted on 2026-05-17.
+This security engineer position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

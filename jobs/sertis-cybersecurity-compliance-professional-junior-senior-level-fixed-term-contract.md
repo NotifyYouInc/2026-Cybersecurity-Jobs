@@ -1,16 +1,16 @@
-# Blockchain Security AI Application Support Engineer at Crypto
+# Cybersecurity & Compliance Professional (Junior-Senior Level / Fixed-Term Contract) at Sertis
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Security Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/78be9e4f-cf4b-40e3-8b1e-77520abe48d4) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8554312002) |
 
 ## About This Role
 
-This security engineer position at Crypto was posted on 2026-05-18.
+This security engineer position at Sertis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
