@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Czechia |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Network-Operations-Engineer_WD30268186) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Praha-Czechia-Czechia/Network-Operations-Engineer_WD30269839) |
 
 ## About This Role
 
-This it & systems administration position at Johnson Controls was posted on 2026-05-07.
+This it & systems administration position at Johnson Controls was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

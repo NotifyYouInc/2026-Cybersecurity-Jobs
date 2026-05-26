@@ -1,16 +1,16 @@
-# Security Consultant -  STUDENT CONVERSION at IBM
+# Security Consultant - STUDENT CONVERSION at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113017) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114407) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-05.
+This security engineer position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

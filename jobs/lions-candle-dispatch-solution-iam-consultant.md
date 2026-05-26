@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000125794314-iam-consultant) |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000126953989-iam-consultant) |
 
 ## About This Role
 
-This security engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-11.
+This it & systems administration position at Lions Candle-Dispatch Solution was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

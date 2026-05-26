@@ -2,7 +2,7 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Fortis Fire & Safety](https://scoutify.ai/companies/fortis-fire--safety?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Fortis Fire & Safety](https://scoutify.ai/companies/fortis-fire-safety?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Coral Springs, Florida, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-17 |

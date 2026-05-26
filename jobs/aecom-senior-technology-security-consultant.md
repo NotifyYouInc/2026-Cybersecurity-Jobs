@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120495447-senior-technology-security-consultant) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127081679-senior-technology-security-consultant) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-04-13.
+This security engineer position at AECOM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

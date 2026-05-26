@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Mill, South Carolina, United States |
+| Location | Santa Ana, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Information-Security-Analyst_R055843) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Information-Security-Analyst_R056610) |
 
 ## About This Role
 
-This security engineer position at First American was posted on 2026-04-20.
+This security engineer position at First American was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

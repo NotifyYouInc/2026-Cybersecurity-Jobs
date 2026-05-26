@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Layton, Utah, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Principal-Classified-Cybersecurity-Analyst---Secret_R10229146-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Classified-Cybersecurity-Analyst---Secret_R10233030) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-15.
+This security engineer position at Northrop Grumman was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

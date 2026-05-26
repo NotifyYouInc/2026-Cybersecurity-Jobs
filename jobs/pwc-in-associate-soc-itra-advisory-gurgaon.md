@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Associate-SOC-Managed-Services--Advisory--Mumbai_718220WD-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/IN-Associate-SOC-Managed-Services--Advisory--Mumbai_717950WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-20.
+This security engineer position at PwC was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

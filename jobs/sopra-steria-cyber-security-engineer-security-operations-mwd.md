@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125856630-cyber-security-engineer-security-operations-mwd) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126998719-cyber-security-engineer-security-operations-mwd) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-11.
+This security engineer position at Sopra Steria was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

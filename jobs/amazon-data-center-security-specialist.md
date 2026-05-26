@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419407/data-center-security-specialist) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422175/data-center-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-14.
+This security engineer position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

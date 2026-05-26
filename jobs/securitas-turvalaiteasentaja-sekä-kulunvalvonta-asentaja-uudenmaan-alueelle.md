@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Helsinki, Uusimaa, Finland |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000120696398-turvalaiteasentaja-seka-kulunvalvonta-asentaja-uudenmaan-alueelle) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000126946848-turvalaiteasentaja-seka-kulunvalvonta-asentaja-uudenmaan-alueelle) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-14.
+This security engineer position at Securitas was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

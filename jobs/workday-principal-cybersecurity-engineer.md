@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Reston, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Principal-Cybersecurity-Engineer_JR-0102469) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer_JR-0106961) |
 
 ## About This Role
 
-This security engineer position at Workday was posted on 2026-02-26.
+This security engineer position at Workday was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

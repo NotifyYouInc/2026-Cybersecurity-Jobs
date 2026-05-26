@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toulouse, Occitanie, France |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Spcialiste-Dtection-Cyberscurit---QRadar--H-F-_R0296038) |
+| Location | France |
+| Category | Security Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Spcialiste-Dtection-Cyberscurit---QRadar--H-F-_R0327982) |
 
 ## About This Role
 
-This soc & incident response position at Thales was posted on 2026-02-19.
+This security engineer position at Thales was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

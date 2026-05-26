@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/ICAM-Engineer_R0239990) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/ICAM-Engineer_R0240341) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-13.
+This security engineer position at Booz Allen was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

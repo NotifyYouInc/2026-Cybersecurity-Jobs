@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Lorton, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Cybersecurity-Engineer_R-00177178) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Senior-Cybersecurity-Engineer_R-00183547) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-27.
+This security engineer position at Leidos was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

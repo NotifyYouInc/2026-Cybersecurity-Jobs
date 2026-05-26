@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Delhi, Delhi, India |
+| Location | India |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8531008002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8555888002) |
 
 ## About This Role
 
-This security engineer position at AlphaSense was posted on 2026-04-30.
+This security engineer position at AlphaSense was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

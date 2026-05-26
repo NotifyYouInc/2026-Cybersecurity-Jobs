@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Giza, Giza, Egypt |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99766) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115457) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-26.
+This security engineer position at IBM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

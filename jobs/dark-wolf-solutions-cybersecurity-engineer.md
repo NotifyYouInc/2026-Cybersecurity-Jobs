@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7656173003) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7737956003) |
 
 ## About This Role
 
-This security engineer position at Dark Wolf Solutions was posted on 2026-03-06.
+This security engineer position at Dark Wolf Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

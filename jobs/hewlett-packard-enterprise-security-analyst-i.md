@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Wisconsin, US |
+| Location | Chippewa Falls, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Security-Analyst-I_1201419-2) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Security-Analyst-I_1201421) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard Enterprise was posted on 2026-03-02.
+This security engineer position at Hewlett Packard Enterprise was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

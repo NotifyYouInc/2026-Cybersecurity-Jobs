@@ -5,12 +5,12 @@
 | Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cluses, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000124930689-alternance-cybersecurite-hf) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000126922795-alternance-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Somfy was posted on 2026-05-06.
+This security engineer position at Somfy was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

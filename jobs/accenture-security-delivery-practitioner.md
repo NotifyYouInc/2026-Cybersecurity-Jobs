@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Delivery-Practitioner_ATCI-5354258-S1953111) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Delivery-Practitioner_ATCI-5558788-S2024369-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-29.
+This security engineer position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

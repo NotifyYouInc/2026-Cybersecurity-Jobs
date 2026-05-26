@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Suzhou, Jiangsu, China |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013060236-cybersecurity-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013175256-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Wabtec was posted on 2026-05-11.
+This security engineer position at Wabtec was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

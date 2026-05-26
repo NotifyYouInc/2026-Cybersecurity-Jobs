@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Reston, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Principle-Industrial-Security-Representative_R-00181624) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Principle-Industrial-Security-Representative_R-00183477) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-24.
+This security engineer position at Leidos was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

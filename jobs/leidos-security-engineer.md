@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ashburn, Virginia, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Security-Engineer_R-00175837) |
+| Location | Reston, Virginia, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Security-Engineer_R-00177113-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-02-11.
+This security engineer position at Leidos was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
