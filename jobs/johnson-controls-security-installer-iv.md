@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Doraville, Georgia, United States |
+| Location | New Castle, Pennsylvania, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Doraville-Georgia-United-States-of-America/Security-Installer-IV_WD30267639-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Castle-Delaware-United-States-of-America/Security-Installer-IV_WD30269641) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-28.
+This security engineer position at Johnson Controls was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

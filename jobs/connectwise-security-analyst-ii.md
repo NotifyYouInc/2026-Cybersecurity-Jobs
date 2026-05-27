@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConnectWise](https://scoutify.ai/companies/connectwise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4666800005) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/connectwise/jobs/4689667005) |
 
 ## About This Role
 
-This security engineer position at ConnectWise was posted on 2026-05-14.
+This security engineer position at ConnectWise was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

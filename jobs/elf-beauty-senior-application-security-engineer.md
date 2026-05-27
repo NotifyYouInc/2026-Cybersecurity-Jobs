@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elf Beauty](https://scoutify.ai/companies/elfbeauty?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.lever.co/elfbeauty/74a2805b-7fdd-446c-892a-0d64d1ce215e) |
+| Location | India |
+| Category | Security Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.lever.co/elfbeauty/b0045c3c-47de-49a5-a5ba-be6f2d9567ce) |
 
 ## About This Role
 
-This cybersecurity engineer position at Elf Beauty was posted on 2026-01-30.
+This security engineer position at Elf Beauty was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

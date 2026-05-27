@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001081243-it-security-analyst) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001089091-it-security-analyst) |
 
 ## About This Role
 
-This security engineer position at NCS Australia was posted on 2026-05-18.
+This security engineer position at NCS Australia was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

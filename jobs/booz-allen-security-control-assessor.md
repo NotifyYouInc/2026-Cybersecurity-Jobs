@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oak Ridge, Tennessee, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oak-Ridge-TN/Security-Control-Assessor_R0239490) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oak-Ridge-TN/Security-Control-Assessor_R0240462-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-06.
+This security engineer position at Booz Allen was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

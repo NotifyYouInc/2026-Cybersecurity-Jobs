@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012963526-associate-director-cybersecurity-posture-hygiene-and-ai-remote) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013213797-associate-director-cybersecurity-posture-hygiene-and-ai-remote) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-05-04.
+This security engineer position at AbbVie was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

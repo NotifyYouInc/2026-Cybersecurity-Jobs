@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Belgium |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/355e94ff-301c-404a-aa8f-9012a114d940) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/b7eaef18-5f3b-4794-957f-72dc2abd07ac) |
 
 ## About This Role
 
-This security engineer position at Alan was posted on 2026-04-14.
+This security engineer position at Alan was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

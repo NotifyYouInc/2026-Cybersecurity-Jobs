@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hutchins, Texas, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7899395) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7944075) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-05-06.
+This security engineer position at Carvana was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

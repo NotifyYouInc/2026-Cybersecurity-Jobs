@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berkeley, California, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Industrial-Security-Specialist_JR2026508537) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Industrial-Security-Specialist_JR2026507510-2) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-12.
+This security engineer position at Boeing was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

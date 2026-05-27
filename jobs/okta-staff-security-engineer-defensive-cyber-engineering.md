@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7923030?gh_jid=7923030) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7943397?gh_jid=7943397) |
 
 ## About This Role
 
-This security engineer position at Okta was posted on 2026-05-14.
+This security engineer position at Okta was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

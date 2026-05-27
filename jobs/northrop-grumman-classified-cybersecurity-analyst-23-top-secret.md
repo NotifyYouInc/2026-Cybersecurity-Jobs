@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palmdale, California, United States |
+| Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Classified-Cybersecurity-Analyst-2-3---Top-Secret_R10223407) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Classified-Cybersecurity-Analyst-2-3---Top-Secret_R10233435) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-02-23.
+This security engineer position at Northrop Grumman was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

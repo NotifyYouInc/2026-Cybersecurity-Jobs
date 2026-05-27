@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
+| Location | Japan |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYkAXgzxfsRNjF8iKRJfNfjqomU7zjXFsIx10XbTF_L3EjsACxwdTEJ3AQG5XunQeOwcwe-F5MLgHhAaysUkpxcQKej7XbcuhtaAqGri9355zWiGos4blfTitQnjlw%3D%3D_V2&loc=US&title=Senior+Intelligence+Analyst) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcDZ1DH_eyJrL9rtTanX5H8n6j7Y28TH46Hzs3ySTuLXEjsACxwdTJMgxsVQLqb60lafcnnCp4NR2ABnsxoP5IF1P6ZF3KS40Xiyqs9789g9PP9cuQs66vVWVNm5PQ%3D%3D_V2&loc=US&title=Senior+Intelligence+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-20.
+This security engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115611227-ingenieur-cybersecurite-hf) |
+| Location | Échirolles, Rhône-Alpes, France |
+| Category | Security Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127137229-ingenieur-cybersecurite-hf) |
 
 ## About This Role
 
-This offensive security & pentesting position at ALTEN was posted on 2026-03-19.
+This security engineer position at ALTEN was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

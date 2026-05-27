@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120746592-manager-investigation-cybersecurite-ile-de-france) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127189813-manager-investigation-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-14.
+This security engineer position at Sopra Steria was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

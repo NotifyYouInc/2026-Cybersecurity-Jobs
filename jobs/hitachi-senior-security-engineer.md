@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Naples, Campania, Italy |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Bangalore---Office/Senior-Security-Engineer_R0095969) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Naples-Campania-Italy/Senior-Security-Engineer_R0125366) |
 
 ## About This Role
 
-This security engineer position at Hitachi was posted on 2026-03-13.
+This security engineer position at Hitachi was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

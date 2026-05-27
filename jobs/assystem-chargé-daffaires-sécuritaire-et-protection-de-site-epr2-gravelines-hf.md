@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | Gravelines, Hauts-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000121216452-charge-daffaires-securitaire-et-protection-de-site-epr2-gravelines-hf) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000127231692-charge-daffaires-securitaire-et-protection-de-site-epr2-gravelines-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-04-16.
+This security engineer position at Assystem was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

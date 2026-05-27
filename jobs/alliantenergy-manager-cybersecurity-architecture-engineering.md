@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliantenergy](https://scoutify.ai/companies/alliantenergy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Manager-Cybersecurity-Architecture---Engineering_JR-9384) |
+| Category | Engineering Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Manager-Cybersecurity-Architecture---Engineering_JR-9754) |
 
 ## About This Role
 
-This security engineer position at Alliantenergy was posted on 2026-03-10.
+This engineering manager position at Alliantenergy was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

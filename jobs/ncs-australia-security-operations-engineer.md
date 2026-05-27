@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001081393-security-operations-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001089165-security-operations-engineer) |
 
 ## About This Role
 
-This security engineer position at NCS Australia was posted on 2026-05-18.
+This security engineer position at NCS Australia was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
