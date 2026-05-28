@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Cyber-Systems-Engineer---Level-4_R10229677) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Cyber-Systems-Engineer---Level-4_R10233699) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-15.
+This security engineer position at Northrop Grumman was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Evendale, Ohio, United States |
+| Location | Lynn, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Programs-Security-Specialist-1_R5034513-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Lead-Programs-Security-Specialist-1_R5034732) |
 
 ## About This Role
 
-This security engineer position at GE Aerospace was posted on 2026-05-15.
+This security engineer position at GE Aerospace was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

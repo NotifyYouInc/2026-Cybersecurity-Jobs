@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122171717-senior-cybersecurity-operation) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127570609-senior-cybersecurity-operation) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-22.
+This security engineer position at Sopra Steria was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

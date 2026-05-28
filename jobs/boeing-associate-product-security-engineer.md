@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hazelwood, Missouri, United States |
+| Location | Berkeley, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Product-Security-Engineer_JR2026507799) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Product-Security-Engineer_JR2026509139) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-18.
+This security engineer position at Boeing was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

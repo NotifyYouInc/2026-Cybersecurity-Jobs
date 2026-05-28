@@ -5,12 +5,12 @@
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7727987003) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 
 ## About This Role
 
-This security engineer position at Rocket Lab was posted on 2026-05-08.
+This security engineer position at Rocket Lab was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

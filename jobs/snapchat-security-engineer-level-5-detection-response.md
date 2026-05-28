@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Switzerland |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Zurich---Switzerland/Security-Engineer--Level-5--Detection---Response_R0045209) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer--Level-5--Detection---Response_R0045495) |
 
 ## About This Role
 
-This security engineer position at Snapchat was posted on 2026-05-18.
+This security engineer position at Snapchat was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

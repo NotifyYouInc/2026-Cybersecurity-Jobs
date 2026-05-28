@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001071067-enterprise-security-team-lead) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001092467-enterprise-security-team-lead) |
 
 ## About This Role
 
-This security engineer position at Canva was posted on 2026-05-14.
+This engineering manager position at Canva was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

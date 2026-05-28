@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belton, Missouri, United States |
+| Location | Portland, Oregon, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7927145) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7947743) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-05-14.
+This security engineer position at Carvana was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

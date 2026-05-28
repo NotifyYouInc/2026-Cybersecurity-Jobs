@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
+| Location | Yokosuka, Kanagawa, Japan |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Cyber-Security-Specialist_R-00181824) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Yokosuka-Japan/Cyber-Security-Specialist_R-00183571-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-27.
+This security engineer position at Leidos was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

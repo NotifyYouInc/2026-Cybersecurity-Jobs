@@ -5,12 +5,12 @@
 | Company | [Defense Unicorns](https://scoutify.ai/companies/defense-unicorns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/4658125007) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5143652007) |
 
 ## About This Role
 
-This security engineer position at Defense Unicorns was posted on 2026-04-13.
+This security engineer position at Defense Unicorns was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

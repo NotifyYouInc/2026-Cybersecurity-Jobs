@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Carlow, Leinster, Ireland |
+| Location | Dorking, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Carlow-Carlow-IRE/Security-Analyst_834835) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Dorking-Surrey-UK/Security-Analyst_835293) |
 
 ## About This Role
 
-This security engineer position at Unum Group was posted on 2026-03-20.
+This security engineer position at Unum Group was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

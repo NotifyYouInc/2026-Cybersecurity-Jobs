@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quito, Pichincha, Ecuador |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4841435101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4870972101) |
 
 ## About This Role
 
-This security engineer position at Neoris was posted on 2026-04-29.
+This security engineer position at Neoris was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

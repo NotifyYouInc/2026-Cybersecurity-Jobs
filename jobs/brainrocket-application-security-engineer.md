@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainRocket](https://scoutify.ai/companies/brainrocket?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4777050101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4871773101) |
 
 ## About This Role
 
-This security engineer position at BrainRocket was posted on 2026-03-26.
+This security engineer position at BrainRocket was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

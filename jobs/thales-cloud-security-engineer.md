@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Cloud-Security-Engineer_R0321542-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Cloud-Security-Engineer_R0328986-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-03-18.
+This security engineer position at Thales was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

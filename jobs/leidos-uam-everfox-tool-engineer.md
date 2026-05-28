@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/UAM-Everfox-Tool-Engineer_R-00182397) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/UAM-Everfox-Tool-Engineer_R-00182393) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-05.
+This security engineer position at Leidos was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

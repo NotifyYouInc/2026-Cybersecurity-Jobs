@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5055312007?gh_jid=5055312007) |
+| Category | Security Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5124512007?gh_jid=5124512007) |
 
 ## About This Role
 
-This soc & incident response position at Anduril was posted on 2026-02-18.
+This security engineer position at Anduril was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

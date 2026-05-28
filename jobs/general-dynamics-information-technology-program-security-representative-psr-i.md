@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Program-Security-Representative--PSR--I_RQ220371-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Program-Security-Representative--PSR--I_RQ220372-1) |
 
 ## About This Role
 

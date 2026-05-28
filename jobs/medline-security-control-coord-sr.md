@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nuevo Laredo, Tamaulipas, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Nuevo-Laredo-Tamaulipas/Security-Control-Coord-Sr_R2603071) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Nuevo-Laredo-Tamaulipas/Security-Control-Coord-Sr_R2603073) |
 
 ## About This Role
 
-This security engineer position at Medline was posted on 2026-05-11.
+This security engineer position at Medline was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

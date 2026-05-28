@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Cybersecurity-Engineer_JR-0104504) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Sr-Cybersecurity-Engineer_JR-0107316) |
 
 ## About This Role
 
-This security engineer position at Workday was posted on 2026-04-14.
+This security engineer position at Workday was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
