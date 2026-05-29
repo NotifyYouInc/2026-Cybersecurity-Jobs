@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Rennes/Architecte-cyberscurit--h-f-_JR10357371-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Architecte-cyberscurit--h-f-_JR10410000-1) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-04-28.
+This security engineer position at Airbus was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

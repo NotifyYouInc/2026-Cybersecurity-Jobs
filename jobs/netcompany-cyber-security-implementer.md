@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000126364179-cyber-security-implementer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000127623019-cyber-security-implementer) |
 
 ## About This Role
 
-This security engineer position at Netcompany was posted on 2026-05-13.
+This security engineer position at Netcompany was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

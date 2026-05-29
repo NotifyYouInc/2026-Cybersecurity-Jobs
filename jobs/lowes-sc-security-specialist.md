@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bessemer, Alabama, United States |
+| Location | North Wilkesboro, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Bessemer-AL-BDC-3468/SC-Security-Specialist_JR-02513712) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/North-Wilkesboro-NC-Import-Consolidation-Program-0964/SC-Security-Specialist_JR-02533119) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-05-11.
+This security engineer position at Lowe's was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

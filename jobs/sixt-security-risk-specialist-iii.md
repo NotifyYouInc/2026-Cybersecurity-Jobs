@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126663314-security-risk-specialist-iii) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127815480-security-risk-specialist-iii) |
 
 ## About This Role
 
-This security engineer position at Sixt was posted on 2026-05-15.
+This security engineer position at Sixt was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

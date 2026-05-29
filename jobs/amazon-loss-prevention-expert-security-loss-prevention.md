@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Erfurt, Thuringia, Germany |
+| Location | Raunheim, Hesse, Germany |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389444/loss-prevention-expert-security-loss-prevention) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426343/loss-prevention-expert-security-loss-prevention) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-13.
+This security engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

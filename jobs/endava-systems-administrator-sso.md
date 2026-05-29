@@ -6,7 +6,7 @@
 | Location | Tennessee, US |
 | Category | IT & Systems Administration |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127440669-systems-administrator-sso) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127440530-systems-administrator-sso) |
 
 ## About This Role
 

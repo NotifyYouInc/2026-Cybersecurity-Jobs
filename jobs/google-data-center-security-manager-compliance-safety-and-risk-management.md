@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXMGWFW6AprL4JrfPyEZEr2VDrU6atwikmFLT3REi9YvEjsACxwdTBBCAMR1vGIW_FwJenLxgwPXS2W4WGFf-oYOMMcvKsQxQCFbPjd60JT1ofdE7T9WSXkR2sdihg%3D%3D_V2&loc=ID&title=Data+Center+Security+Manager) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckezOKax2m6ITTsUxCPz4Hzm9FPxS0uVl4RKkF7sPadnBEjsACxwdTIHwmfJvX6_lyLWcr7_Q0RSD8t8EOgHeqeO9Du_0TLT3In-5iW_3VIBOQjUNunxw7einLXkKng%3D%3D_V2&loc=MY&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-19.
+This security engineer position at Google was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

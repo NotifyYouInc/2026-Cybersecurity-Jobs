@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012754386-senior-threat-hunter) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013261206-senior-threat-hunter) |
 
 ## About This Role
 
-This security engineer position at SOSi was posted on 2026-04-21.
+This security engineer position at SOSi was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

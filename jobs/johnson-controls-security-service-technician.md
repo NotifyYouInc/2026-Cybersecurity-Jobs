@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Lenexa, Kansas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/Security-Service-Technician_WD30268355) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lenexa-Kansas-United-States-of-America/Security-Service-Technician_WD30270213) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-05.
+This security engineer position at Johnson Controls was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sevilla/SAP-Security-Consultant_R00325290) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/SAP-Security-Consultant_ATCP-1383516-S424212) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-15.
+This security engineer position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

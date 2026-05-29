@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127313729-manager-executive-protection) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127761759-manager-executive-protection) |
 
 ## About This Role
 
-This security engineer position at Mattel was posted on 2026-05-19.
+This security engineer position at Mattel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

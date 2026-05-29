@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Security-Architect_R0021214) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Krakow-Poland/Security-Architect_R0021270) |
 
 ## About This Role
 
-This security engineer position at Aristocrat Leisure was posted on 2026-05-01.
+This security engineer position at Aristocrat Leisure was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

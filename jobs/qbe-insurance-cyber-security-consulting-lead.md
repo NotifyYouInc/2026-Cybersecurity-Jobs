@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Peachtree-Atlanta-GA-USA/Cyber-Security-Consulting-Lead_353938) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Cyber-Security-Consulting-Lead_355524) |
 
 ## About This Role
 
-This security engineer position at QBE Insurance was posted on 2026-04-16.
+This security engineer position at QBE Insurance was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

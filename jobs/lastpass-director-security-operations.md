@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LastPass](https://scoutify.ai/companies/lastpass?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Ireland |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lastpass/jobs/4696843005) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lastpass/jobs/4698295005) |
 
 ## About This Role
 
-This soc & incident response position at LastPass was posted on 2026-05-19.
+This soc & incident response position at LastPass was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

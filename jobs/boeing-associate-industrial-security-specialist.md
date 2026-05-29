@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Industrial-Security-Specialist_JR2026507510-2) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Industrial-Security-Specialist_JR2026511442-2) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-20.
+This security engineer position at Boeing was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
