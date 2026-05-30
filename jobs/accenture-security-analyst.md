@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Recife, Pernambuco, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Analyst_13740638) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pernambuco---Recife/Security-Analyst_14402788) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-27.
+This security engineer position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

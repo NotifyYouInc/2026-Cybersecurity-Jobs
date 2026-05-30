@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Bristol, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Global-Security-Intelligence-Analyst_JR2026510408-2) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Global-Security-Intelligence-Analyst_JR2026511490-2) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-14.
+This security engineer position at Boeing was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

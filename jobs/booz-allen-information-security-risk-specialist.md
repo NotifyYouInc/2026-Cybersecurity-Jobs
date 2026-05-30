@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lexington Park, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Information-Security-Risk-Specialist_R0240168-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Information-Security-Risk-Specialist_R0240701) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-15.
+This security engineer position at Booz Allen was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

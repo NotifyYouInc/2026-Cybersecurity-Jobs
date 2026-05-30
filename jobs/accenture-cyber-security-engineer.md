@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bristol, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Cyber-Security-Engineer_R00309391) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Cyber-Security-Engineer_R00287101) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-01.
+This security engineer position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

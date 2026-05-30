@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyneham, Australian Capital Territory, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Lyneham-Australia/Junior-Network-Security-Engineer_R-1094401) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Lyneham-Australia/Junior-Network-Security-Engineer_R-1094905-1) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-05-01.
+This security engineer position at Verizon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

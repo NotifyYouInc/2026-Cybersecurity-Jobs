@@ -6,7 +6,7 @@
 | Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Industrial-Security-Specialist_JR2026511442-2) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Industrial-Security-Specialist_JR2026511607) |
 
 ## About This Role
 

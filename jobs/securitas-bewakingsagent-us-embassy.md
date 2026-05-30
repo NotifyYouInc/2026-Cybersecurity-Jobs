@@ -1,16 +1,16 @@
-# Bewakingsagent - US Embassy at Securitas
+# Bewakingsagent US Embassy at Securitas
 
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000120996954-bewakingsagent-us-embassy) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000127870784-bewakingsagent-us-embassy) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-15.
+This security engineer position at Securitas was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

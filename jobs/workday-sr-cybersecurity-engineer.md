@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Sr-Cybersecurity-Engineer_JR-0107316) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Cybersecurity-Engineer_JR-0106976) |
 
 ## About This Role
 

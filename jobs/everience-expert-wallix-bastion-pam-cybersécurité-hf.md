@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000126947330-expert-wallix-bastion-pam-cybersecurite-hf) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000127890749-expert-wallix-bastion-pam-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-05-18.
+This security engineer position at Everience was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

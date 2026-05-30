@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | North Carolina, US |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Workday-Security-Administrator-II--Full-Time----United-States_2013460) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Workday-Security-Administrator-II--Full-Time----United-States_2015304) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-05-19.
+This security engineer position at Cisco was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

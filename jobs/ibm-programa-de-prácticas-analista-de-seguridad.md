@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109588) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116963) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-04-16.
+This security engineer position at IBM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | San Mateo, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/4441764007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
 
 ## About This Role
 

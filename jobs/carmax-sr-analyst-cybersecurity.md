@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Cybersecurity_JR-177246) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Cybersecurity_JR-178076) |
 
 ## About This Role
 
-This security engineer position at CarMax was posted on 2026-05-12.
+This security engineer position at CarMax was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

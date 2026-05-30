@@ -5,12 +5,12 @@
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/4870926007) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5143763007) |
 
 ## About This Role
 
-This security engineer position at Verkada was posted on 2026-05-20.
+This security engineer position at Verkada was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

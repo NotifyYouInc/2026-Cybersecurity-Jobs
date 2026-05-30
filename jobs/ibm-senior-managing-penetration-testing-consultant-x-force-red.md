@@ -1,16 +1,16 @@
-# Senior Managing Penetration Testing Consultant - X-Force Red at IBM
+# Senior Managing Penetration Testing Consultant - X - Force Red at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115131) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115143) |
 
 ## About This Role
 
-This offensive security & pentesting position at IBM was posted on 2026-05-19.
+This offensive security & pentesting position at IBM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
