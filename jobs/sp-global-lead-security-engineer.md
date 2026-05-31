@@ -1,16 +1,16 @@
-# Identity Security - PKI Engineer at Intel
+# Lead Security Engineer at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Security Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284294) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gdansk-POL/Lead-Security-Engineer_328289-2) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-05-23.
+This security engineer position at S&P Global was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

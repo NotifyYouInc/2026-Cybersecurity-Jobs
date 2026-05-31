@@ -1,4 +1,4 @@
-# Staff Security Engineer at Delivery Hero
+# Security Governance, Risk & Compliance (GRC) Lead  at Delivery Hero
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127994579-staff-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127994089-security-governance-risk-compliance-grc-lead) |
 
 ## About This Role
 

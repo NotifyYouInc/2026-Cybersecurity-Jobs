@@ -1,16 +1,16 @@
-# Identity Security - PKI Engineer at Intel
+# Software Engineer - Secret, Cryptographic and Identity Infrastructure at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284294) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/eb704210-4c4a-4ab7-8838-8ba7abd55af3) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-05-23.
+This security engineer position at Snowflake was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

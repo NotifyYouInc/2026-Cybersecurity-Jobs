@@ -1,16 +1,16 @@
-# Staff Security Engineer at Delivery Hero
+# Security Operations Analyst  at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
-| Category | Security Engineer |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | SOC & Incident Response |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127994579-staff-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127993349-security-operations-analyst) |
 
 ## About This Role
 
-This security engineer position at Delivery Hero was posted on 2026-05-23.
+This soc & incident response position at Delivery Hero was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

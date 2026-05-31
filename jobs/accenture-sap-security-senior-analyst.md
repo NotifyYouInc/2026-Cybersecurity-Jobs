@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# SAP Security Senior Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Architect_ATCI-5565688-S2025247-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/SAP-Security-Senior-Analyst_ATCP-1383517-S424210) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-22.
+This security engineer position at Accenture was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

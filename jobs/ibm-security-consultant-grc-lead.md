@@ -1,16 +1,16 @@
-# Identity Security - PKI Engineer at Intel
+# Security Consultant - GRC Lead at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284294) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117139) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-05-23.
+This security engineer position at IBM was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

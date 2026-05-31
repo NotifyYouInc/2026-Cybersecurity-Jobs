@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reliaquest](https://scoutify.ai/companies/reliaquest?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Pune-India-Office/GreyMatter-Specialist_R14897) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Dublin/GreyMatter-Specialist_R14895) |
 
 ## About This Role
 
-This security engineer position at Reliaquest was posted on 2026-03-25.
+This security engineer position at Reliaquest was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
