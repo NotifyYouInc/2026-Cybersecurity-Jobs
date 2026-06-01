@@ -1,16 +1,16 @@
-# Senior Security Engineer II – Threat Detection & Response at Sigma Computing
+# CISO - Python Security Software Engineer (Security Context Tools) at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747572003) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/CISO-Python-Security-Software-Engineer-Security-Context-Tools/19692) |
 
 ## About This Role
 
-This security engineer position at Sigma Computing was posted on 2026-05-25.
+This security engineer position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Security Engineering Specialist at BP
+# Cyber Security Engineer at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Security Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Security-Engineering-Specialist_RQ108116) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Cyber-Security-Engineer_R5042507-2) |
 
 ## About This Role
 
-This security engineer position at BP was posted on 2026-05-25.
+This security engineer position at GE Vernova was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

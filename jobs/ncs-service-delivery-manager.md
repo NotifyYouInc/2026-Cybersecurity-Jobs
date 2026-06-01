@@ -1,16 +1,16 @@
-# Data Security Engineering Specialist at BP
+# Service Delivery Manager at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Security-Engineering-Specialist_RQ108116) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001100094-service-delivery-manager) |
 
 ## About This Role
 
-This security engineer position at BP was posted on 2026-05-25.
+This security engineer position at NCS was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

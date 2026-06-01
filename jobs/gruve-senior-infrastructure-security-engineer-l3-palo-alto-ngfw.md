@@ -1,16 +1,16 @@
-# Data Security Engineering Specialist at BP
+# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Security-Engineering-Specialist_RQ108116) |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5228808008) |
 
 ## About This Role
 
-This security engineer position at BP was posted on 2026-05-25.
+This security engineer position at Gruve was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

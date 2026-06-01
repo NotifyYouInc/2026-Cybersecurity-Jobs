@@ -1,16 +1,16 @@
-# Cyberspace Operations Planner, Senior at Leidos
+# Information Systems Security Engineer Exopert at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Odenton, Maryland, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyberspace-Operations-Planner--Senior_R-00183785) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Information-Systems-Security-Engineer-Exopert_R-00183994) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-21.
+This security engineer position at Leidos was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

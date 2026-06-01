@@ -1,16 +1,16 @@
-# Data Security Engineering Specialist at BP
+# Security analyst Intern at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Security-Engineering-Specialist_RQ108116) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore-Suntec-2-Temasek-Blv/Security-analyst-Intern_R0328869) |
 
 ## About This Role
 
-This security engineer position at BP was posted on 2026-05-25.
+This security engineer position at Thales was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
