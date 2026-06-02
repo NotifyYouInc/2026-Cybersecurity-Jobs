@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000120903542-meewerk-of-afstudeerstage-cyber-security-analist) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000128235230-meewerk-of-afstudeerstage-cyber-security-analist) |
 
 ## About This Role
 
-This security engineer position at Lely was posted on 2026-04-15.
+This security engineer position at Lely was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

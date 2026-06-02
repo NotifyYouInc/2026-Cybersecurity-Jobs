@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS-x1JQ7h9ASmaaVp04NStsk3CBn7lBNtRw3VA_VFY-iEjsACxwdTA9zBcJBOpHKD9EramcDXV7YYhXSgUxSrml0JiYv9rHCFDHwS7yUX111-xKyH9wROOfcSirqoQ%3D%3D_V2&loc=US&title=Research+Engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaMXQiuz6w_lVsdfzK1MHtrGAH3F04TGcYFTnKHbzV0vEjsACxwdTEpxEtHT621pbq9mvd_wUfxCEQxvHYZ5wO4qBBSSV7QRPMy7oxsLLx8dHom6WpC0W6XYYo0pOA%3D%3D_V2&loc=US&title=Research+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-19.
+This security engineer position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

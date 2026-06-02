@@ -5,12 +5,12 @@
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.lever.co/uvcyber/09ca5489-9aa1-483a-856e-bcf8e0ac184d) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.lever.co/uvcyber/15ea24ab-ae4e-4201-a9ab-9aa6d5d0b16f) |
 
 ## About This Role
 
-This security engineer position at Uvcyber was posted on 2026-05-21.
+This security engineer position at Uvcyber was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

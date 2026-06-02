@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000127167490-regional-security-manager-datacenter-120k-130k-pa-mwd) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000128404220-regional-security-manager-datacenter-120k-130k-pa-mwd) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-05-19.
+This security engineer position at Securitas was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

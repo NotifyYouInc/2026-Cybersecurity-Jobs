@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000125267620-ingeniero-seguridad-cloud-azure-aws-gcp-modalidad-hibrida-madrid) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000128194061-ingeniero-seguridad-cloud-azure-aws-gcp-modalidad-hibrida-madrid) |
 
 ## About This Role
 
-This security engineer position at Devoteam was posted on 2026-05-08.
+This security engineer position at Devoteam was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

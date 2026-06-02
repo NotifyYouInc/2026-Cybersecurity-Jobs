@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000123922572-soc-l0l1-1-2-years-experience-mumbai-thane) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000128396519-soc-l0l1-1-2-years-experience-mumbai-thane) |
 
 ## About This Role
 
-This soc & incident response position at WNS was posted on 2026-04-30.
+This soc & incident response position at WNS was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
