@@ -5,12 +5,12 @@
 | Company | [Rest](https://scoutify.ai/companies/rest?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000122393090-privileged-access-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000128634999-privileged-access-engineer) |
 
 ## About This Role
 
-This security engineer position at Rest was posted on 2026-04-23.
+This security engineer position at Rest was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

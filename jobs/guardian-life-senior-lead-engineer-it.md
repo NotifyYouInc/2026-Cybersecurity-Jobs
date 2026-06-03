@@ -5,12 +5,12 @@
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Lead-Engineer---IT_R000109269) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Information-Security-Governance-Leader_R000108794-2) |
 
 ## About This Role
 
-This security engineer position at Guardian Life was posted on 2026-05-22.
+This security engineer position at Guardian Life was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

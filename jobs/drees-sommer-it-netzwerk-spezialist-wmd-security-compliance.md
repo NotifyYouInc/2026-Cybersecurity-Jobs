@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000127391471-it-netzwerk-spezialist-wmd-security-compliance) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Security Engineer |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000128421930-it-netzwerk-spezialist-wmd-security-compliance) |
 
 ## About This Role
 
-This it & systems administration position at Drees & Sommer was posted on 2026-05-20.
+This security engineer position at Drees & Sommer was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

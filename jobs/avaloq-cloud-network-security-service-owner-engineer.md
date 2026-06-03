@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Switzerland |
+| Location | Bioggio, Ticino, Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000123675219-cloud-network-security-service-owner-engineer) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000128413180-cloud-network-security-service-owner-engineer) |
 
 ## About This Role
 
-This security engineer position at Avaloq was posted on 2026-04-29.
+This security engineer position at Avaloq was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

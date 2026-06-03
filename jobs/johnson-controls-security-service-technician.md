@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lenexa, Kansas, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lenexa-Kansas-United-States-of-America/Security-Service-Technician_WD30270213) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Toronto-Ontario-Canada/Security-Service-Technician_WD30266198) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-21.
+This security engineer position at Johnson Controls was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

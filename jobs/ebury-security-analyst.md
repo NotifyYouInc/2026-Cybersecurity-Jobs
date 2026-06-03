@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | León, Castille and León, Spain |
+| Location | Málaga, Andalusia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4779304101) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4875112101) |
 
 ## About This Role
 
-This security engineer position at Ebury was posted on 2026-02-17.
+This security engineer position at Ebury was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

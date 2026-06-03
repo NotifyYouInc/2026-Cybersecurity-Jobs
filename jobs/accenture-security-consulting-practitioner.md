@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Security-Consulting-Practitioner_14378084) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Advisor_ATCI-4741689-S1830227-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-11.
+This security engineer position at Accenture was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
