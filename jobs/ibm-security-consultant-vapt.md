@@ -1,16 +1,16 @@
-# Security Consultant - VAPT at IBM
+# Security Consultant- VAPT at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Not specified |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109338) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117841) |
 
 ## About This Role
 
-This offensive security & pentesting position at IBM was posted on 2026-04-10.
+This offensive security & pentesting position at IBM was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

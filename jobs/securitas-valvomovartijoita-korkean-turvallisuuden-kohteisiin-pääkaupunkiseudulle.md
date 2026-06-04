@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Helsinki, Uusimaa, Finland |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000126952230-valvomovartijoita-korkean-turvallisuuden-kohteisiin-paakaupunkiseudulle) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000128875381-valvomovartijoita-korkean-turvallisuuden-kohteisiin-paakaupunkiseudulle) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-05-18.
+This security engineer position at Securitas was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

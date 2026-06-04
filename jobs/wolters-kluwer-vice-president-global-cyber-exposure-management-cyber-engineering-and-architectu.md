@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | 4 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/GBR---Kingston/Vice-President--Global-Cyber-Exposure-Management---Cyber-Engineering-and-Architecture_R0056768-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Chicago-IL-South-LaSalle-St/Vice-President--Global-Cyber-Exposure-Management---Cyber-Engineering-and-Architecture_R0057809) |
 
 ## About This Role
 
-This engineering manager position at Wolters Kluwer was posted on 2026-05-22.
+This engineering manager position at Wolters Kluwer was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

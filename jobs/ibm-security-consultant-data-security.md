@@ -1,16 +1,16 @@
-# Security Consultant - Data Security at IBM
+# Security Consultant-Data Security at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | India |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116234) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117529) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-22.
+This security engineer position at IBM was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000124140690-senior-security-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000128775664-senior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at SanDisk was posted on 2026-05-01.
+This security engineer position at SanDisk was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kodaira, Tokyo, Japan |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128053742-linux-oss) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128395264-linux-oss) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-05-25.
+This security engineer position at Renesas Electronics was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

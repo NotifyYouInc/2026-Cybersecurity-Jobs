@@ -5,12 +5,12 @@
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lesquin, Hauts-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000123160265-cybersecurity-engineer-blue-team-csirt-analyst-hf) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000128662719-cybersecurity-engineer-blue-team-csirt-analyst-hf) |
 
 ## About This Role
 
-This security engineer position at Boulanger Electroménager & Multimédia was posted on 2026-04-27.
+This security engineer position at Boulanger Electroménager & Multimédia was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

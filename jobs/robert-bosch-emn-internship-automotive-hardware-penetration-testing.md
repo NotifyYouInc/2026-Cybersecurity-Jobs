@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vietnam |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110629030-emn-internship-automotive-hardware-penetration-testing) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128676080-emn-internship-automotive-hardware-penetration-testing) |
 
 ## About This Role
 
-This offensive security & pentesting position at Robert Bosch was posted on 2026-02-23.
+This offensive security & pentesting position at Robert Bosch was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mansfield, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000120630243-cyber-security-operations-manager) |
+| Category | Security Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000128767124-cyber-security-operations-manager) |
 
 ## About This Role
 
-This soc & incident response position at SportsDirect.com Retail was posted on 2026-04-14.
+This security engineer position at SportsDirect.com Retail was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

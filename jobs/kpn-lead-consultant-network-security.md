@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000125883560-lead-consultant-network-security) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000128673192-lead-consultant-network-security) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-05-11.
+This security engineer position at KPN was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

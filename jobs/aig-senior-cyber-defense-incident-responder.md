@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/VA-Reston/Senior-Cyber-Defense-Incident-Responder_JR2601660) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/Senior-Cyber-Defense-Incident-Responder_JR2601661) |
 
 ## About This Role
 
-This soc & incident response position at AIG was posted on 2026-04-27.
+This soc & incident response position at AIG was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

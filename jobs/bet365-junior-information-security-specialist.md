@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000108229594-junior-information-security-specialist) |
+| Category | Security Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000128693048-junior-information-security-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at bet365 was posted on 2026-02-09.
+This security engineer position at bet365 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

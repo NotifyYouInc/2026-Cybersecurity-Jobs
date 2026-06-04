@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tukwila, Washington, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mid-Level-Industrial-Security-Specialist_JR2026510166-2) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Mid-Level-Industrial-Security-Specialist_JR2026511957) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-21.
+This security engineer position at Boeing was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

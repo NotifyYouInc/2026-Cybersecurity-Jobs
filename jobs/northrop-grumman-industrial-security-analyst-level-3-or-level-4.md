@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Industrial-Security-Analyst---Level-3-or-Level-4_R10229712) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Industrial-Security-Analyst---Level-3-or-Level-4_R10233850) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-16.
+This security engineer position at Northrop Grumman was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
