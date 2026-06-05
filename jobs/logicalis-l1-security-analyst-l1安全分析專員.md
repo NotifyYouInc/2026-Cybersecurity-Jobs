@@ -5,12 +5,12 @@
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Taipei-TP/L1-Security-Analyst--L1-_JR04957) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Taipei-TP/L1-Security-Analyst--L1-_JR05155) |
 
 ## About This Role
 
-This security engineer position at Logicalis was posted on 2026-03-09.
+This security engineer position at Logicalis was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

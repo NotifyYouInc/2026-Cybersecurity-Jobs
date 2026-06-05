@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | Pontypridd, Wales, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Cambridge-Cambridgeshire-United-Kingdom/Security-Service-Engineer_WD30268848) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pontypridd---United-Kingdom/Security-Service-Engineer_WD30269614) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-15.
+This security engineer position at Johnson Controls was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

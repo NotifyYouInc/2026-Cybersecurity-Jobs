@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Cyber-Threat-Intelligence-Analyst_JR00006577-1) |
+| Category | Security Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Cyber-Threat-Intelligence-Analyst_JR00008255) |
 
 ## About This Role
 
-This soc & incident response position at OCBC was posted on 2026-03-25.
+This security engineer position at OCBC was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

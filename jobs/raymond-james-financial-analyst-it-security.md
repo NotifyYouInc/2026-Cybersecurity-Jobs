@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florida, US |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Analyst--IT-Security_R-0010856) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Analyst--IT-Security_R-0011337) |
 
 ## About This Role
 
-This security engineer position at Raymond James Financial was posted on 2026-04-28.
+This security engineer position at Raymond James Financial was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7902355) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7882542) |
 
 ## About This Role
 
-This security engineer position at Pure Storage was posted on 2026-05-07.
+This security engineer position at Pure Storage was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

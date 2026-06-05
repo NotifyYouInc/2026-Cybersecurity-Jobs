@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tampa/Cybersecurity-Analyst_R0155279) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Norfolk/Cybersecurity-Analyst_R0162413) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-02-26.
+This security engineer position at Amentum was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

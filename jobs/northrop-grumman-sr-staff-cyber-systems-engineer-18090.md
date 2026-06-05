@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Roy, Utah, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Staff-Cyber-Systems-Engineer--18090_R10225203) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Staff-Cyber-Systems-Engineer--18090_R10234471) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-09.
+This security engineer position at Northrop Grumman was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

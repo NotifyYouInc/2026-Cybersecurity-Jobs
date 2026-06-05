@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dahlgren, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00183238-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00184280) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-13.
+This security engineer position at Leidos was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

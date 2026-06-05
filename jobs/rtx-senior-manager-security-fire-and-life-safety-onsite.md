@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Asheville, North Carolina, United States |
+| Location | Midland, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/Senior-Manager--Security--Fire--and-Life-Safety--Onsite-_01839776) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-AB1--88018987-Macon-Rd--BLDG-AB1/Senior-Manager--Security--Fire--and-Life-Safety--Onsite-_01848098) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-22.
+This security engineer position at RTX was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

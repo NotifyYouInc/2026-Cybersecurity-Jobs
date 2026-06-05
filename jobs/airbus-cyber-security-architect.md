@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Getafe, Madrid, Spain |
+| Location | Newport, Wales, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Cyber-Security-Architect_JR10308447-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Cyber-Security-Architect_JR10402527) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-03-13.
+This security engineer position at Airbus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

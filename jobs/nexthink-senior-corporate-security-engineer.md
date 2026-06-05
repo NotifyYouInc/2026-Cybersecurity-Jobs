@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000126056619-senior-corporate-security-engineer) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000128894202-senior-corporate-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Nexthink was posted on 2026-05-12.
+This security engineer position at Nexthink was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

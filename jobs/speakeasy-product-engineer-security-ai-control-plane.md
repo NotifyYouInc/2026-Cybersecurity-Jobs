@@ -5,12 +5,12 @@
 | Company | [Speakeasy](https://scoutify.ai/companies/speakeasy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/speakeasy/1e2a2f6d-e91e-48fb-8fd4-5b5736ceaaff) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/speakeasy/7994e807-4a8f-4f2b-b16e-f1147a396a7b) |
 
 ## About This Role
 
-This security engineer position at Speakeasy was posted on 2026-05-22.
+This security engineer position at Speakeasy was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7722059003) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7751124003) |
 
 ## About This Role
 
-This offensive security & pentesting position at Dark Wolf Solutions was posted on 2026-05-04.
+This offensive security & pentesting position at Dark Wolf Solutions was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

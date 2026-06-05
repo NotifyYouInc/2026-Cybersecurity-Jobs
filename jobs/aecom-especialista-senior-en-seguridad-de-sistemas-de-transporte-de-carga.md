@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126523421-especialista-senior-en-seguridad-de-sistemas-de-transporte-de-carga) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129010819-especialista-senior-en-seguridad-de-sistemas-de-transporte-de-carga) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-05-14.
+This security engineer position at AECOM was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

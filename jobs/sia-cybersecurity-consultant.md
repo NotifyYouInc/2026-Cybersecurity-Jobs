@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127906421-cybersecurity-consultant) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000128965625-cybersecurity-consultant) |
 
 ## About This Role
 
-This security engineer position at SIA was posted on 2026-05-22.
+This security engineer position at SIA was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

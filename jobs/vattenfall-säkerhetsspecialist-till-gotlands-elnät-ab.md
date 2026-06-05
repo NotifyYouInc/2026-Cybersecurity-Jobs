@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Visby, Gotland, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127850342-sakerhetsspecialist-till-gotlands-elnat-ab) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000128866229-sakerhetsspecialist-till-gotlands-elnat-ab) |
 
 ## About This Role
 
-This security engineer position at Vattenfall was posted on 2026-05-22.
+This security engineer position at Vattenfall was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
