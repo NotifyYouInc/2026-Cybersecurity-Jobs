@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7728351?gh_jid=7728351) |
+| Category | Security Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7968135?gh_jid=7968135) |
 
 ## About This Role
 
-This soc & incident response position at Aya Healthcare was posted on 2026-03-17.
+This security engineer position at Aya Healthcare was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

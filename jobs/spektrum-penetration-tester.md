@@ -1,16 +1,16 @@
-# Penetration tester at Spektrum
+# Penetration Tester at Spektrum
 
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mons, Wallonia, Belgium |
+| Location | Braine-l'Alleud, Wallonia, Belgium |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4858712101) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4878499101) |
 
 ## About This Role
 
-This offensive security & pentesting position at Spektrum was posted on 2026-05-05.
+This offensive security & pentesting position at Spektrum was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

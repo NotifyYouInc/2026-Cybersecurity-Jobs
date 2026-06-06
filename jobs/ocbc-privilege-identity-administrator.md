@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Privilege-Identity-Administrator_JR00007953) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Privilege-Identity-Administrator_JR00008303) |
 
 ## About This Role
 
-This it & systems administration position at OCBC was posted on 2026-05-18.
+This it & systems administration position at OCBC was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

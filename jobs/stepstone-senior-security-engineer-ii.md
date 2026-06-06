@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000115895711-senior-security-engineer-ii) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000129128956-senior-security-engineer-ii) |
 
 ## About This Role
 
-This security engineer position at StepStone was posted on 2026-03-20.
+This security engineer position at StepStone was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

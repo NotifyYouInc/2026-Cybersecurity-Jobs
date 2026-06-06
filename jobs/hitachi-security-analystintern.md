@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Texas, US |
+| Location | Dallas, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/Security-Analyst-Intern_R0130573) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/Security-Analyst-Intern_R0128812-1) |
 
 ## About This Role
 
-This security engineer position at Hitachi was posted on 2026-05-13.
+This security engineer position at Hitachi was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rockville, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Rockville-MD/Sr-Identity-and-Access-Management--ICAM--Engineer_R-00177098) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Rockville-MD/Sr-Identity-and-Access-Management--ICAM--Engineer_R-00184356) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-02-26.
+This security engineer position at Leidos was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000121217037-anti-cheat-programmer-march-of-giant) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000129250807-anti-cheat-programmer-march-of-giant) |
 
 ## About This Role
 
-This security engineer position at Ubisoft was posted on 2026-04-16.
+This security engineer position at Ubisoft was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

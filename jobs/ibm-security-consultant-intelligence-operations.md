@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Karnataka, IN |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114240) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106042) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-08.
+This security engineer position at IBM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

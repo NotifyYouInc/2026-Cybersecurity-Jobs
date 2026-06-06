@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BitMEX](https://scoutify.ai/companies/bitmex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitmex/jobs/8371618002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitmex/jobs/8371566002) |
 
 ## About This Role
 
-This offensive security & pentesting position at BitMEX was posted on 2026-04-28.
+This offensive security & pentesting position at BitMEX was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

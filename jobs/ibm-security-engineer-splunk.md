@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Romania |
+| Location | Budapest, Budapest, Hungary |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111615) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118066) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-04-29.
+This security engineer position at IBM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

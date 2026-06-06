@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado, US |
+| Location | Suffolk, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Range-Engineer_R0240191) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Suffolk-VA/Cyber-Range-Engineer_R0240971) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-15.
+This security engineer position at Booz Allen was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

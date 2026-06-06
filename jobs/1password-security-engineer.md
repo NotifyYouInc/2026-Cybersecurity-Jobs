@@ -5,12 +5,12 @@
 | Company | [1Password](https://scoutify.ai/companies/1password?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/1password/50daaf34-05a1-4e4e-920d-69dd34854f5b) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/1password/2e35e0cc-52b5-4dc6-a672-f98f491184fd) |
 
 ## About This Role
 
-This security engineer position at 1Password was posted on 2026-05-27.
+This security engineer position at 1Password was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Poland |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4873475101?gh_jid=4873475101) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4873471101?gh_jid=4873471101) |
 
 ## About This Role
 
-This security engineer position at N-iX was posted on 2026-05-27.
+This security engineer position at N-iX was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

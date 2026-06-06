@@ -5,12 +5,12 @@
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7743469) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7967018) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-05-20.
+This security engineer position at Carvana was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

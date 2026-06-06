@@ -1,16 +1,16 @@
-# Cybersecurity – Senior Information System Security Manager (ISSM) at Boeing
+# Cybersecurity - Senior Information System Security Manager (ISSM) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntington Beach, California, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026507104-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026511323-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-04-22.
+This security engineer position at Boeing was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

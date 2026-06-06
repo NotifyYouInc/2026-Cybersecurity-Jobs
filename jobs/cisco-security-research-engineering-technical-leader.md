@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fulton, Missouri, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Fulton-Maryland-US/Security-Research-Engineering-Technical-Leader_2012857-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Sydney-Australia/Security-Research-Engineering-Technical-Leader_2014484) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-05-22.
+This security engineer position at Cisco was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
