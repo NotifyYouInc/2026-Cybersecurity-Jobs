@@ -1,16 +1,16 @@
-# Senior Security Architect at Nvidia
+# Security Engineer - Microsoft 365 Security Administration    at Truveta
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Truveta](https://scoutify.ai/companies/truveta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truveta/jobs/6009890004) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This security engineer position at Truveta was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

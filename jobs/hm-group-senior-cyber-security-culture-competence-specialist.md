@@ -1,16 +1,16 @@
-# Senior Security Architect at Nvidia
+# Senior Cyber Security Culture & Competence Specialist at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129413050-senior-cyber-security-culture-competence-specialist) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This security engineer position at H&M Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

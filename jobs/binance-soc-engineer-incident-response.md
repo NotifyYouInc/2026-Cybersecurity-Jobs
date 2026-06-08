@@ -1,16 +1,16 @@
-# Senior Security Architect at Nvidia
+# SOC Engineer (Incident Response) at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
 | Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Apply | [View on company site](https://jobs.lever.co/binance/d364b698-90b3-4a32-ae97-653dd2735e51) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This security engineer position at Binance was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

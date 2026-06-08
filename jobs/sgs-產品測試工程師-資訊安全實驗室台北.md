@@ -1,16 +1,16 @@
-# Senior Security Architect at Nvidia
+# 產品測試工程師-資訊安全實驗室(台北) at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Taiwan |
 | Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129375019-) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This security engineer position at SGS was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

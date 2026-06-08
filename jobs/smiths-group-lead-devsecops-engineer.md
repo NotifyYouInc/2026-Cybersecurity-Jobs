@@ -1,16 +1,16 @@
-# Senior Security Architect at Nvidia
+# Lead DevSecOps Engineer at Smiths Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129388401-lead-devsecops-engineer) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This security engineer position at Smiths Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Villingen-Schwenningen, Baden-Wurttemberg, Germany |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000113169432-pflichtpraktikum-production-it-und-cybersecurity-ref7484y) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000129403383-pflichtpraktikum-production-it-und-cybersecurity-ref7484y) |
 
 ## About This Role
 
-This security engineer position at Aumovio was posted on 2026-03-06.
+This it & systems administration position at Aumovio was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

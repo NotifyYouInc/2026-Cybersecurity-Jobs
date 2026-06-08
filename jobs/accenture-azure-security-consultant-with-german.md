@@ -1,16 +1,16 @@
-# SAP Security Specialist at North Point Technology
+# Azure Security Consultant with German at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572390002) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Azure-Security-Consultant-with-German_R00318170) |
 
 ## About This Role
 
-This security engineer position at North Point Technology was posted on 2026-05-31.
+This security engineer position at Accenture was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

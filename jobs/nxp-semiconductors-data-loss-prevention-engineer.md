@@ -1,16 +1,16 @@
-# SAP Security Specialist at North Point Technology
+# Data Loss Prevention Engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572390002) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Data-Loss-Prevention-Engineer_R-10063667) |
 
 ## About This Role
 
-This security engineer position at North Point Technology was posted on 2026-05-31.
+This security engineer position at NXP Semiconductors was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

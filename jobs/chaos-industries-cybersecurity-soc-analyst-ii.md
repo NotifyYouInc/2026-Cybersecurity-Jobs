@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | San Francisco, California, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5148478007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5148477007) |
 
 ## About This Role
 
