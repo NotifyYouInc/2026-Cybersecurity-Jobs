@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tsc](https://scoutify.ai/companies/tsc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Silver Spring, Maryland, United States |
+| Location | Sierra Vista, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Silver-Spring-MD/ISSM_JR2506) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Sierra-Vista-AZ/Information-System-Security-Manager--ISSM-_JR2603) |
 
 ## About This Role
 
-This security engineer position at Tsc was posted on 2026-04-10.
+This security engineer position at Tsc was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

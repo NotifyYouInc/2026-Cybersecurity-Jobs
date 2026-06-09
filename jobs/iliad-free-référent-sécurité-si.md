@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000127672173-referent-securite-si) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000129405624-referent-securite-si) |
 
 ## About This Role
 
-This security engineer position at Iliad-Free was posted on 2026-05-21.
+This security engineer position at Iliad-Free was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

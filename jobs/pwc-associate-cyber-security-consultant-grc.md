@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Ho-Chi-Minh-City/Associate---Cyber-Security-Consultant--GRC-_719419WD) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hanoi/Associate---Cyber-Security-Consultant--GRC-_733310WD) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-09.
+This security engineer position at PwC was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

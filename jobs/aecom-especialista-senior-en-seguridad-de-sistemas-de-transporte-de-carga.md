@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129010819-especialista-senior-en-seguridad-de-sistemas-de-transporte-de-carga) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129170019-especialista-senior-en-seguridad-de-sistemas-de-transporte-de-carga) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-05-28.
+This security engineer position at AECOM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

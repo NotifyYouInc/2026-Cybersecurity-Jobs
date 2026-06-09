@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Senior-Cybersecurity-Assessment-Engineer---Lead-Assessor_39519) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CO-Boulder/Senior-Cybersecurity-Assessment-Engineer---Lead-Assessor_39974) |
 
 ## About This Role
 
-This security engineer position at Guidehouse was posted on 2026-05-20.
+This security engineer position at Guidehouse was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

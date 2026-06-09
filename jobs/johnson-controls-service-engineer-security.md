@@ -1,16 +1,16 @@
-# Service Engineer -Security at Johnson Controls
+# Service Engineer - Security at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Sunbury-on-Thames, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/London-London-UK/Service-Engineer--Security_WD30267441) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sunbury-on-Thames-Surrey-United-Kingdom/Service-Engineer---Security_WD30270587) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-29.
+This security engineer position at Johnson Controls was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

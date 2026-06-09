@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012188116-security-compliance-administrator-wo-004) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013401686-security-compliance-administrator-wo-004) |
 
 ## About This Role
 
-This security engineer position at SOSi was posted on 2026-03-17.
+This security engineer position at SOSi was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

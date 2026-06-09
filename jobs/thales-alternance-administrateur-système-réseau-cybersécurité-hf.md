@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Administrateur-systme--Rseau---Cyberscurit-H-F_R0322549-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Administrateur-systme--Rseau---Cyberscurit-H-F_R0327614-1) |
 
 ## About This Role
 
-This it & systems administration position at Thales was posted on 2026-04-08.
+This it & systems administration position at Thales was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

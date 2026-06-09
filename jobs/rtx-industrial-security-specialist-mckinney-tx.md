@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Industrial-Security-Specialist---McKinney--TX_01837255) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Industrial-Security-Specialist---McKinney--TX_01845321) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-23.
+This security engineer position at RTX was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

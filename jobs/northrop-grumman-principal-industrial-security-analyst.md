@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal-Industrial-Security-Analyst_R10234477) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Industrial-Security-Analyst_R10234174) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-28.
+This security engineer position at Northrop Grumman was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

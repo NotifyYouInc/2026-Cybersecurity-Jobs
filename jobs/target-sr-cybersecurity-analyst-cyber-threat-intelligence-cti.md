@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Nationwide/Sr-Cybersecurity-Analyst---Cyber-Threat-Intelligence--CTI-_R0000438134) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Nationwide/Sr-Cybersecurity-Analyst---Cyber-Threat-Intelligence--CTI-_R0000439287-1) |
 
 ## About This Role
 
-This security engineer position at Target was posted on 2026-05-11.
+This security engineer position at Target was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

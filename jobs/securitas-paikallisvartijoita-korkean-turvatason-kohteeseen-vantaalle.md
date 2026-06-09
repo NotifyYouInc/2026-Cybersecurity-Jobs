@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vantaa, Uusimaa, Finland |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000128650318-paikallisvartijoita-korkean-turvatason-kohteeseen-vantaalle) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000129455819-paikallisvartijoita-korkean-turvatason-kohteeseen-vantaalle) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-05-27.
+This security engineer position at Securitas was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

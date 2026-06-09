@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4671138006) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4685060006) |
 
 ## About This Role
 
-This security engineer position at Chainguard was posted on 2026-04-07.
+This security engineer position at Chainguard was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Czech-Republic---Prague/Security-Engineer-II_R-103097) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Czech-Republic---Prague/Security-Engineer-II_R-103099-1) |
 
 ## About This Role
 
-This security engineer position at Expedia was posted on 2026-03-13.
+This security engineer position at Expedia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

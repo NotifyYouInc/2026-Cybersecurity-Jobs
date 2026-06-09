@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SOC-Design-Verification-Engineer_JR0284247) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/SOC-Design-Verification-Engineer_JR0284077) |
 
 ## About This Role
 
-This soc & incident response position at Intel was posted on 2026-05-21.
+This soc & incident response position at Intel was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

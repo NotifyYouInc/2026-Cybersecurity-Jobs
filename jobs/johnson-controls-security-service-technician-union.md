@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Chantilly-Virginia-United-States-of-America/Security-Service-Technician--union-_WD30269725) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Winnipeg-Manitoba-Canada/Security-Service-Technician--union-_WD30270891) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-18.
+This security engineer position at Johnson Controls was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
