@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Limassol, Limassol, Cyprus |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000122505091-junior-associate-director-it-application-security-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129757799-junior-associate-director-it-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MUFG Investor Services was posted on 2026-04-23.
+This security engineer position at MUFG Investor Services was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

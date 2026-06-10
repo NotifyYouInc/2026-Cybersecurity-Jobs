@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Facility-and-Security-Technology_20178404) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Facility-and-Security-Technology_20178406) |
 
 ## About This Role
 
-This security engineer position at Cardinal Health was posted on 2026-04-23.
+This security engineer position at Cardinal Health was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5850291004) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6011912004) |
 
 ## About This Role
 
-This security engineer position at Sony Interactive Entertainment was posted on 2026-04-10.
+This security engineer position at Sony Interactive Entertainment was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Four Hands](https://scoutify.ai/companies/fourhands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fourhands/jobs/4179312009) |
+| Category | Security Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fourhands/jobs/4267718009) |
 
 ## About This Role
 
-This soc & incident response position at Four Hands was posted on 2026-03-10.
+This security engineer position at Four Hands was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trupanion](https://scoutify.ai/companies/trupanion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000125201252-cybersecurity-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000129821799-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Trupanion was posted on 2026-05-07.
+This security engineer position at Trupanion was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

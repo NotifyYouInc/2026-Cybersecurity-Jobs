@@ -5,12 +5,12 @@
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000129268979-engineer-infosec-grc-governance-risk-and-compliance) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000129533569-engineer-infosec-grc-governance-risk-and-compliance) |
 
 ## About This Role
 
-This security engineer position at Wynn Resorts was posted on 2026-05-29.
+This security engineer position at Wynn Resorts was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

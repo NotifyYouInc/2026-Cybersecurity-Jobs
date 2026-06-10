@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126116479-cloud-security-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129786191-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-05-12.
+This security engineer position at Renesas Electronics was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

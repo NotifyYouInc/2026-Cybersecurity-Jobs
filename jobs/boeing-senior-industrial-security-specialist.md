@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | 10 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Industrial-Security-Specialist_JR2026510182) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Industrial-Security-Specialist_JR2026512154-2) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-29.
+This security engineer position at Boeing was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

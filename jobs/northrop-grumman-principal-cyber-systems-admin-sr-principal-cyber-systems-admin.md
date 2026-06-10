@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/VACH06/Principal-Cyber-Systems-Admin---Sr-Principal-Cyber-Systems-Admin_R10234651) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/VACH06/Principal-Cyber-Systems-Admin---Sr-Principal-Cyber-Systems-Admin_R10234887) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-06-01.
+This it & systems administration position at Northrop Grumman was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

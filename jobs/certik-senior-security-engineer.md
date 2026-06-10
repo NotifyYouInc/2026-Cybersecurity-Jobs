@@ -5,12 +5,12 @@
 | Company | [Certik](https://scoutify.ai/companies/certik?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.lever.co/certik/d2917cb0-3aaa-4fdf-b03a-22d2f16a0b5c) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/certik/43d12aff-699d-4c7b-9622-b0da11416576) |
 
 ## About This Role
 
-This security engineer position at Certik was posted on 2026-05-27.
+This security engineer position at Certik was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

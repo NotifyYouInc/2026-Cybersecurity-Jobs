@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000122102957-senior-product-security-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000129732129-senior-product-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Nexthink was posted on 2026-04-21.
+This security engineer position at Nexthink was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

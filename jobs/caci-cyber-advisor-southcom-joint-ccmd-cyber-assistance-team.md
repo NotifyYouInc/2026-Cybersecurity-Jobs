@@ -1,16 +1,16 @@
-# Cyber Advisor – SOUTHCOM Joint CCMD Cyber Assistance Team at CACI
+# Cyber Advisor - SOUTHCOM Joint CCMD Cyber Assistance Team at CACI
 
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doral, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-FL-Doral/Cyber-Advisor---SOUTHCOM-Joint-CCMD-Cyber-Assistance-Team_325292-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Doral-FL-US/Cyber-Advisor---SOUTHCOM-Joint-CCMD-Cyber-Assistance-Team_327263) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-23.
+This security engineer position at CACI was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

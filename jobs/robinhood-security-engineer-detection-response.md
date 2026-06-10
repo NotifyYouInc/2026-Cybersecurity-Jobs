@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Security Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7724380?t=gh_src=&gh_jid=7724380) |
 
 ## About This Role
 
-This security engineer position at Robinhood was posted on 2026-03-16.
+This security engineer position at Robinhood was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

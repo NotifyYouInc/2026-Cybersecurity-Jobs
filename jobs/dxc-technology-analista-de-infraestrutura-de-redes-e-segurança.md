@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAO-PAULO/Analista-de-Infraestrutura-de-Redes-e-Segurana_51577953) |
+| Location | São Bernardo do Campo, São Paulo, Brazil |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAOBERNARDO-DOCAMPO/Analista-de-Infraestrutura-de-Redes-e-Segurana_51581319) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-04-15.
+This it & systems administration position at DXC Technology was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/10160-Washington-DC/AntiVirus-Engineer---Senior_R-00183912) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/10160-Washington-DC/AntiVirus-Engineer---Senior_R-00184674) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-01.
+This security engineer position at Leidos was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

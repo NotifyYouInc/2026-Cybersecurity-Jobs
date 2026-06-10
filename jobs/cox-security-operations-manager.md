@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riverside, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Riverside-CA/Security-Operations-Manager_R202677670) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Dallas-TX/Security-Operations-Manager-II_R202677958-1) |
 
 ## About This Role
 
-This security engineer position at Cox was posted on 2026-05-27.
+This security engineer position at Cox was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Laval, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC1--Based-DC/Agent-e----Centrale-Tlsurveillance-et-Support_R582797) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC1--Based-DC/Agent-e----Centrale-Tlsurveillance-et-Support_R594057) |
 
 ## About This Role
 
-This security engineer position at Alimentation Couche-Tard was posted on 2026-04-23.
+This security engineer position at Alimentation Couche-Tard was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

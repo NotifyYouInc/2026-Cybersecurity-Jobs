@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1420797-S423574) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Managed-Services-Practitioner_ATCI-5552527-S2027011) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-01.
+This security engineer position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Product Security Engineer at Medtronic
+# Sr. Product Security Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Product-Security-Engineer_R63958-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Product-Security-Engineer_R68528-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-04-21.
+This security engineer position at Medtronic was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

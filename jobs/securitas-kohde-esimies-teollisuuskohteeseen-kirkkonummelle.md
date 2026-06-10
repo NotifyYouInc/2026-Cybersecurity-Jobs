@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kirkkonummi, Uusimaa, Finland |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000126927808-kohde-esimies-teollisuuskohteeseen-kirkkonummelle) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000129706248-kohde-esimies-teollisuuskohteeseen-kirkkonummelle) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-05-18.
+This security engineer position at Securitas was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
