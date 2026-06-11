@@ -5,12 +5,12 @@
 | Company | [Beyond Finance](https://scoutify.ai/companies/beyond-finance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beyondfinance/jobs/7930592) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beyondfinance/jobs/7980382) |
 
 ## About This Role
 
-This security engineer position at Beyond Finance was posted on 2026-05-15.
+This security engineer position at Beyond Finance was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

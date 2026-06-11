@@ -1,16 +1,16 @@
-# Regional IoT Operations and Cyber Security Specialist at Google
+# Regional IoT Operations and Cyber security Specialist at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcLUJiCHQsEw3pMlTbcsxbsJDOlS19KucU7wxPWFSRk_EjsACxwdTIMHOuQc-Fz4tZ3JCRolV-nRHiZZAaxf_6w98Rl8E5sY4Whboc4aPUsuxAz8hrVH_AYH6UD2nQ%3D%3D_V2&loc=IN&title=Regional+IoT+Operations+and+Cyber+Security+Specialist) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRn6dLOXNZRiO8JZ_gKxOrrwO8Ad2Ah62RKHysYRxUnoEjsACxwdTJigBABn_XIw2DCuhi6EZ4WWGocVDPbwgGgRcBpMS3sR2s4DtjpDddnAQGh1YTE3U0Xszf6X5w%3D%3D_V2&loc=US&title=Regional+IoT+Operations+and+Cyber+security+Specialist) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-30.
+This security engineer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

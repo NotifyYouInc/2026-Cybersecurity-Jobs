@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Data-Security-Engineer--DRM-Specialist-_R-00178666) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Data-Security-Engineer--DRM-Specialist-_R-00184680-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-18.
+This security engineer position at Leidos was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

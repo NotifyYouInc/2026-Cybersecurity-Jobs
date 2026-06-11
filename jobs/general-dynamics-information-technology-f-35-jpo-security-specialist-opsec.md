@@ -1,0 +1,22 @@
+# F-35 JPO Security Specialist - OPSEC at General Dynamics Information Technology
+
+| Field | Details |
+|-------|---------|
+| Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Arlington, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/F-35-JPO-Security-Specialist---OPSEC_RQ221579) |
+
+## About This Role
+
+This security engineer position at General Dynamics Information Technology was posted on 2026-06-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

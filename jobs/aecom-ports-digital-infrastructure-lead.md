@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Lima, Lima Province, Peru |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129840274-ports-digital-infrastructure-lead) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130033580-ports-digital-infrastructure-lead) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-06-02.
+This security engineer position at AECOM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

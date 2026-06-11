@@ -1,16 +1,16 @@
-# ALTERNANCE – Ingénieur Réseau et Sécurité  (F/H) at Thales
+# ALTERNANCE - Ingénieur Réseau et Sécurité- F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palaiseau, Île-de-France, France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Palaiseau/ALTERNANCE---Ingnieur-Rseau-et-Scurit---F-H-_R0320766-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Ingnieur-Rseau-et-Scurit--F-H_R0329423-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-04-01.
+This security engineer position at Thales was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

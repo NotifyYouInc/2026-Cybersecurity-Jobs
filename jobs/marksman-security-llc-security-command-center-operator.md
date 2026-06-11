@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marksman Security LLC](https://scoutify.ai/companies/marksman-security-llc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Deerfield Beach, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/marksman/jobs/4224710009) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marksman/jobs/4272561009) |
 
 ## About This Role
 
-This security engineer position at Marksman Security LLC was posted on 2026-04-17.
+This soc & incident response position at Marksman Security LLC was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

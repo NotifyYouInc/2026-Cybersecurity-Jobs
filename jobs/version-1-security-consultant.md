@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000123495430-security-consultant) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130042689-security-consultant) |
 
 ## About This Role
 
-This security engineer position at Version 1 was posted on 2026-04-28.
+This security engineer position at Version 1 was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

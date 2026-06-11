@@ -1,16 +1,16 @@
-# Staff Product Security Engineer, Reviews  at Okta
+# Staff Product Security Engineer, Reviews at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7648938?gh_jid=7648938) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7979890?gh_jid=7979890) |
 
 ## About This Role
 
-This security engineer position at Okta was posted on 2026-02-25.
+This security engineer position at Okta was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

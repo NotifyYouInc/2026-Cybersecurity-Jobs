@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 7 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Industrial-Security-Specialist--Mid_R0240515) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Industrial-Security-Specialist--Mid_R0241381) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-19.
+This security engineer position at Booz Allen was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

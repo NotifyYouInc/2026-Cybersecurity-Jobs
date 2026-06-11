@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb3vgDT3l_ZpD7WjscUADPoPlSYryhrqnL8vtwQ38jn9EjsACxwdTE8P0PkyOmTalzvMAcqo_1ENPYxO-MtnZKo1_EIC9JhvmyJx0YiCQ_gpx22xp8M6fKvRHXuanw%3D%3D_V2&loc=QA&title=Cyber+Defense+Principal+Analyst) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUcfVffAgbVIKm9xmOlY4qloDvYbZWHvsrSrZtAg6-13EjsACxwdTExQLszB2UQffvBW8NfXpXm5lVc-rAQ7w31J0Hu1RUFJxR1xhZodNpZR-WQbvd4JI0KFuS_Drw%3D%3D_V2&loc=QA&title=Cyber+Defense+Principal+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-25.
+This security engineer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

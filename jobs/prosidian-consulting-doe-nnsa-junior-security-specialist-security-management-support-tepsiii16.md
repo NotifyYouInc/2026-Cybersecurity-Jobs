@@ -1,0 +1,22 @@
+# DOE - NNSA Junior Security Specialist - Security Management Support (TEPSIII16) at Prosidian Consulting
+
+| Field | Details |
+|-------|---------|
+| Company | [Prosidian Consulting](https://scoutify.ai/companies/prosidianconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Washington, District of Columbia, United States |
+| Category | Security Engineer |
+| Posted | 2022-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/prosidianconsulting/743999821516806-doe-nnsa-junior-security-specialist-security-management-support-tepsiii16) |
+
+## About This Role
+
+This security engineer position at Prosidian Consulting was posted on 2022-04-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

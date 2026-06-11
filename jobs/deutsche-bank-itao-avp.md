@@ -1,16 +1,16 @@
-# ITAO-AVP at Deutsche Bank
+# ITAO, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/ITAO-AVP_R0409269-2) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/ITAO--AVP_R0424179) |
 
 ## About This Role
 
-This security engineer position at Deutsche Bank was posted on 2026-02-18.
+This it & systems administration position at Deutsche Bank was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

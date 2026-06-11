@@ -1,16 +1,16 @@
-# Sr. Consultant - Cloud Red Team Blue Team (Remote) at CrowdStrike
+# Sr Consultant - Cloud Red Team Blue Team (Remote) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Consultant---Cloud-Red-Team-Blue-Team--Remote-_R27569) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Consultant---Cloud-Red-Team-Blue-Team--Remote-_R28192) |
 
 ## About This Role
 
-This offensive security & pentesting position at CrowdStrike was posted on 2026-02-27.
+This offensive security & pentesting position at CrowdStrike was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

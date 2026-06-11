@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR5r4YQHtDVy4NKw8s-j9QmtpNUFFn5zWHVXebO0fee5EjsACxwdTAXhgtZppdjdVxKUpmjEpXfMIwldRK2KdBFVF36tCPJzLeQ4lIrp7BpMBL58eqci89YdPqAQCA%3D%3D_V2&loc=SG&title=Regional+IoT+Operations+and+Cyber+security+specialist) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf-TsjwstOvokhg5mpsfKGGOY9utQGVTYvqHOqJ9WwhuEjsACxwdTI-roLsuQNouGYgoozbw5YXhZ6LNGOXm723vkIhqvk6wj8jTT9Tggz2l_3fHhAah2tR4hBJD-A%3D%3D_V2&loc=SG&title=Regional+IoT+Operations+and+Cyber+security+specialist) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-16.
+This security engineer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

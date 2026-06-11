@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Southampton, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4816443101?gh_jid=4816443101) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4874270101?gh_jid=4874270101) |
 
 ## About This Role
 
-This security engineer position at NiCE was posted on 2026-03-24.
+This security engineer position at NiCE was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

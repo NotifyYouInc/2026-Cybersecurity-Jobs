@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013405776-it-security-specialist-mwd-schwerpunkt-cyber-resilience-act-cra-product-cybersecurity) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013444256-it-security-specialist-mwd-schwerpunkt-cyber-resilience-act-cra-product-cybersecurity) |
 
 ## About This Role
 
-This security engineer position at Wabtec was posted on 2026-06-01.
+This security engineer position at Wabtec was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

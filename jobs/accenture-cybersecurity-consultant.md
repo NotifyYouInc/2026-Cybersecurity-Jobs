@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Oslo, Oslo, Norway |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Copenhagen/Cybersecurity-Consultant_R00332779) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Cybersecurity-Consultant_R00333100) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-28.
+This security engineer position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

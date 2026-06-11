@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberVadis](https://scoutify.ai/companies/cybervadis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mauritius |
+| Location | Ebene, Plaines Wilhems, Mauritius |
 | Category | Security Engineer |
-| Posted | 2024-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cybervadis/743999987627354-information-security-analyst) |
+| Posted | 2024-01-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cybervadis/743999960156517-information-security-analyst) |
 
 ## About This Role
 
-This security engineer position at CyberVadis was posted on 2024-05-15.
+This security engineer position at CyberVadis was posted on 2024-01-17.
 
 ## Get Real-Time Alerts
 

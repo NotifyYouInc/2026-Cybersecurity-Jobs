@@ -5,12 +5,12 @@
 | Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cyprus |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5103108008&gh_jid=5103108008) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5240028008&gh_jid=5240028008) |
 
 ## About This Role
 
-This security engineer position at Plata Card was posted on 2026-04-15.
+This security engineer position at Plata Card was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

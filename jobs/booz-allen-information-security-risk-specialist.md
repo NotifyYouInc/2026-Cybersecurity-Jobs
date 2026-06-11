@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Information-Security-Risk-Specialist_R0241356) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Information-Security-Risk-Specialist_R0241402) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-02.
+This security engineer position at Booz Allen was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

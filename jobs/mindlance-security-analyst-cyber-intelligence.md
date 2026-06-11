@@ -1,0 +1,22 @@
+# Security Analyst-Cyber Intelligence at Mindlance
+
+| Field | Details |
+|-------|---------|
+| Company | [Mindlance](https://scoutify.ai/companies/mindlance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Security Engineer |
+| Posted | 2016-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mindlance2/91813279-security-analyst-cyber-intelligence) |
+
+## About This Role
+
+This security engineer position at Mindlance was posted on 2016-04-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
