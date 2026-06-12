@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/AI-Security-Platform-Engineer--Global-Security-_R-0000166177-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/AI-Security-Platform-Engineer--Global-Security-_R-0000174829-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-04-07.
+This security engineer position at Royal Bank of Canada was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

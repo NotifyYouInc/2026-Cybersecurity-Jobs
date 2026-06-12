@@ -1,16 +1,16 @@
-# Reverse Engineer (TS/SCI) at Parsons
+# Reverse Engineer TS/SCI at Parsons
 
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Reverse-Engineer--TS-SCI-_R177537-1) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Reverse-Engineer-TS-SCI_R175643-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Parsons was posted on 2026-02-18.
+This security engineer position at Parsons was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

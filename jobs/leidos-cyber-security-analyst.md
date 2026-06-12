@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Cyber-Security-Analyst_R-00184602) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Cyber-Security-Analyst_R-00184801) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-02.
+This security engineer position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000129776396-security-analyst-m365azure-cloud) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000130255066-security-analyst-m365azure-cloud) |
 
 ## About This Role
 
-This security engineer position at General Dynamics UK was posted on 2026-06-02.
+This security engineer position at General Dynamics UK was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

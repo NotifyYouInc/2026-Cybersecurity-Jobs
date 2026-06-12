@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pessac, Nouvelle-Aquitaine, France |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000129473289-ingenieur-reseaux-et-securite-senior-hf) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130247181-ingenieur-reseaux-et-securite-senior-hf) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-06-01.
+This security engineer position at Inetum was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

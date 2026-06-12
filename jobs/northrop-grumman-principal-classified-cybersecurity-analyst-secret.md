@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Chandler, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Classified-Cybersecurity-Analyst---Secret_R10233030) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Principal-Classified-Cybersecurity-Analyst---Secret_R10234526) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-18.
+This security engineer position at Northrop Grumman was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

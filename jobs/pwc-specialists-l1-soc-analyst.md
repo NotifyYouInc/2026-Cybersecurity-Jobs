@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Specialists---L1-SOC-Analyst_730234WD) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Specialists---L1-SOC-Analyst_734413WD) |
 
 ## About This Role
 
-This soc & incident response position at PwC was posted on 2026-05-19.
+This soc & incident response position at PwC was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

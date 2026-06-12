@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126932171-security-engineer-t-cloud-public-ref5486i) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000130221160-security-engineer-t-cloud-public-ref5486i) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-05-18.
+This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

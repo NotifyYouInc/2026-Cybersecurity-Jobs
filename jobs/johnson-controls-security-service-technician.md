@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Toronto-Ontario-Canada/Security-Service-Technician_WD30266198) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Toronto-Ontario-Canada/Security-Service-Technician_WD30266197) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-05-27.
+This security engineer position at Johnson Controls was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

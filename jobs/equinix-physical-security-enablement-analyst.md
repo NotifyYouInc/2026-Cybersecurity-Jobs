@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Physical-Security-Enablement-Analyst_JR-159371) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Physical-Security-Enablement-Analyst_JR-159880) |
 
 ## About This Role
 
-This security engineer position at Equinix was posted on 2026-03-18.
+This security engineer position at Equinix was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7818380?gh_jid=7818380) |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7979803?gh_jid=7979803) |
 
 ## About This Role
 

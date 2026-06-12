@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/ISSO-CTO_R-00181105-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/ISSO-CTO_R-00184629) |
 
 ## About This Role
 
-This engineering manager position at Leidos was posted on 2026-04-20.
+This engineering manager position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

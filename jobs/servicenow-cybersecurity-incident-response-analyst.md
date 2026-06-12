@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113051979-cybersecurity-incident-response-analyst) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130306440-cybersecurity-incident-response-analyst) |
 
 ## About This Role
 
-This soc & incident response position at ServiceNow was posted on 2026-03-06.
+This soc & incident response position at ServiceNow was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

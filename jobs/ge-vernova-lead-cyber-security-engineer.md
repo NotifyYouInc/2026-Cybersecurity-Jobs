@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampere, Pirkanmaa, Finland |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Tampere/Lead-Cyber-Security-Engineer_R5041821-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Cyber-Security-Engineer_R5041641-2) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-05-19.
+This security engineer position at GE Vernova was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

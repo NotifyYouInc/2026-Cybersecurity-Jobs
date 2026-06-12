@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fairfax, Virginia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Fairfax-Virginia/Cyber-Auditor---Full-Performance--Government-_R-102891) |
+| Category | Security Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Fairfax-Virginia/Cyber-Auditor---Full-Performance--Government-_R-112222) |
 
 ## About This Role
 
-This soc & incident response position at AT&T was posted on 2026-03-02.
+This security engineer position at AT&T was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
