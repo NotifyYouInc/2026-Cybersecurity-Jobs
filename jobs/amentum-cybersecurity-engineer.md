@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aiken, South Carolina, United States |
+| Location | Houston, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-SC-Aiken/Cybersecurity-Engineer_R0162391) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Cybersecurity-Engineer_R0162957) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-05-28.
+This security engineer position at Amentum was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

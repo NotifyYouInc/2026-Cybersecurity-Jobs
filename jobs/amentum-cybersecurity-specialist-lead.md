@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Cocoa Beach, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Melbourne/Cybersecurity-Specialist-Lead_R0156042) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Cocoa-Beach/Cybersecurity-Specialist-Lead_R0163026) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-03-09.
+This security engineer position at Amentum was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

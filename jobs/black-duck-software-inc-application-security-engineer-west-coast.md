@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | California, US |
+| Location | Calgary, Alberta, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5209706008) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5249569008) |
 
 ## About This Role
 
-This security engineer position at Black Duck Software, Inc. was posted on 2026-05-12.
+This security engineer position at Black Duck Software, Inc. was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

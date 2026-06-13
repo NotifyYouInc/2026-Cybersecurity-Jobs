@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redlands, California, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.esri.com/careers/5138888007?gh_jid=5138888007) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.esri.com/careers/5156883007?gh_jid=5156883007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-05-20.
+This security engineer position at Esri was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

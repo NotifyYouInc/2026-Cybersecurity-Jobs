@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107222686-senior-application-security-engineer-moveworks) |
+| Category | Security Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130558571-senior-application-security-engineer-moveworks) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-02-04.
+This security engineer position at ServiceNow was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

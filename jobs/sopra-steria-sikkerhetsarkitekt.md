@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kristiansand, Agder, Norway |
 | Category | Security Engineer |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116072268-sikkerhetsarkitekt) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130388053-sikkerhetsarkitekt) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-22.
+This security engineer position at Sopra Steria was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

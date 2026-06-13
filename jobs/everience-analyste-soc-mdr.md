@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
-| Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000127890004-analyste-soc-mdr) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000130521319-analyste-soc-mdr) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-05-22.
+This soc & incident response position at Everience was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

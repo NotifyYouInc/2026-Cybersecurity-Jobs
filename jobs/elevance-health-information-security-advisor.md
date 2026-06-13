@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Grand Prairie, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor_JR187468) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-300/Information-Security-Advisor_JR194780-1) |
 
 ## About This Role
 
-This security engineer position at Elevance Health was posted on 2026-04-03.
+This security engineer position at Elevance Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

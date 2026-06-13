@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000129428172-application-security-engineer-mwd) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000130410639-application-security-engineer-mwd) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-06-01.
+This security engineer position at Everience was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

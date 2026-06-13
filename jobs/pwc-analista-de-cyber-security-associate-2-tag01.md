@@ -1,16 +1,16 @@
-# Analista de Cyber Security| Associate 2 [tag01] at PwC
+# Analista de Cyber Security | Associate 2 [tag01] at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/So-Paulo/Analista-de-Cyber-Security--Associate-2--tag01-_683665WD-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Barueri/Analista-de-Cyber-Security---Associate-2--tag01-_683666WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-02-19.
+This security engineer position at PwC was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

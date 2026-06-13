@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116628876-administrateurtrice-siem-splunk-cybersecurite-rennes) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130527930-administrateurtrice-siem-splunk-cybersecurite-rennes) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-25.
+This security engineer position at Sopra Steria was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

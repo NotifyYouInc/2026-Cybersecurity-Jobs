@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Malaysia |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PJC-PJ-City/VAPT-Senior-Executive_JR0000024632) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PJC-PJ-City/VAPT-Senior-Executive_JR0000025040-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Hong Leong Bank was posted on 2026-05-13.
+This offensive security & pentesting position at Hong Leong Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

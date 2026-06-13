@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Systems-Integration-Engineer--NDA-2-_R-00184731) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Systems-Integration-Engineer--NDA-2-_R-00184806) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-06-03.
+This it & systems administration position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

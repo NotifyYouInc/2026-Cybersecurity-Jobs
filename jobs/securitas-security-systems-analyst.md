@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000129773309-security-systems-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000130390240-security-systems-analyst) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-06-02.
+This security engineer position at Securitas was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

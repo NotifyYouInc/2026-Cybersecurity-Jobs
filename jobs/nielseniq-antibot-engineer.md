@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114584673-antibot-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130520874-antibot-engineer) |
 
 ## About This Role
 
-This offensive security & pentesting position at NielsenIQ was posted on 2026-03-13.
+This offensive security & pentesting position at NielsenIQ was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
