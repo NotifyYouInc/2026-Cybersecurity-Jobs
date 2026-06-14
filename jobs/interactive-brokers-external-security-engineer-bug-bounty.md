@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interactive Brokers External](https://scoutify.ai/companies/interactive-brokers-external?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ibkrexternal/jobs/8549266002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ibkrexternal/jobs/8549264002) |
 
 ## About This Role
 
