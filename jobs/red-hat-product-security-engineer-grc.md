@@ -1,16 +1,16 @@
-# Cybersecurity Specialist at ABB
+# Product Security Engineer (GRC) at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Cybersecurity-Specialist_JR00035395) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Product-Security-Engineer--GRC-_R-057451-2) |
 
 ## About This Role
 
-This security engineer position at ABB was posted on 2026-06-07.
+This security engineer position at Red Hat was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

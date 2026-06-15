@@ -1,16 +1,16 @@
-# Cybersecurity Specialist at ABB
+# Senior Cyber Security Engineer at Moderna
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Cybersecurity-Specialist_JR00035395) |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Senior-Cyber-Security-Engineer_R19282) |
 
 ## About This Role
 
-This security engineer position at ABB was posted on 2026-06-07.
+This security engineer position at Moderna was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Security Engineer II - Threat Modeling & AI at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/159182/) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Uber was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

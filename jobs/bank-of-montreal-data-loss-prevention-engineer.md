@@ -1,16 +1,16 @@
-# Cybersecurity Specialist at ABB
+# Data Loss Prevention Engineer at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Cybersecurity-Specialist_JR00035395) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Loss-Prevention-Engineer_R260015575) |
 
 ## About This Role
 
-This security engineer position at ABB was posted on 2026-06-07.
+This security engineer position at Bank of Montreal was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

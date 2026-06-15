@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Senior Cyber Security Analyst at Megaport
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://jobs.lever.co/megaport/3d481e05-2ff7-43a1-a5fa-d19124db1c3f) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Megaport was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

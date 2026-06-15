@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Senior Associate - Security System Engineer at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Mumbai-India---Winchester-Building/Senior-Associate---Security-System-Engineer_R260600015-2) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at TIAA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

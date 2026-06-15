@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Security Consulting Engineer - FW/ISE, 5+ Years at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Consulting-Engineer---FW-ISE--5--Years_2015479-1) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Cisco was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

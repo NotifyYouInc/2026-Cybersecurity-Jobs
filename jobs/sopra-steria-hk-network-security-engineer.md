@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# HK Network Security Engineer at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130711079-hk-network-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Sopra Steria was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

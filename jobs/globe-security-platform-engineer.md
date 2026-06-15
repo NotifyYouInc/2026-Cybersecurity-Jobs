@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Security Platform Engineer at GLOBE
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Philippines |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Security-Platform-Engineer_R0000020654) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at GLOBE was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

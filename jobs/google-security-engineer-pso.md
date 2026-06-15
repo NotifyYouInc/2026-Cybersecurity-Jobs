@@ -1,12 +1,12 @@
-# Senior Security Engineer, YouTube at Google
+# Security Engineer, PSO at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckesWfiV2PdnRgjB8qYoYWa1pnFPC5u9DCEZJtyF9A391EjsACxwdTMtiaOaonnqbRfMiOUiQqnA0eHCGNn5hbwugSlPYi9VkbWA3FiW3s7_gU6ONp29bu88AjjsUfQ%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUfQUuEICxKppOIa3i21thEbBlJYgonhQtBLixtX4y0uEjsACxwdTKHDtkn0ffftU4ZDJLmvR0w-0PQ0gIHcp4MOskx8jC5dWIhvcxX8r5chxBXiKBuuDxBC310Ouw%3D%3D_V2&loc=US&title=Security+Engineer) |
 
 ## About This Role
 

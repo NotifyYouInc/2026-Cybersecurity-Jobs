@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# IAM Analyst - Cybersecurity (Active Directory/EntraID) at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000130722055-iam-analyst-cybersecurity-active-directoryentraid) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at H&M Group was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

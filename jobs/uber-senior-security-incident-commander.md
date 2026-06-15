@@ -1,16 +1,16 @@
-# SOC Analyst at IBM
+# Senior Security Incident Commander at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118480) |
+| Posted | 2026-01-27 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/154537/) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-06-07.
+This soc & incident response position at Uber was posted on 2026-01-27.
 
 ## Get Real-Time Alerts
 

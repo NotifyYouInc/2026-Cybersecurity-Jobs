@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Senior Analyst, Information Security (R14050) at Oportun
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Oportun](https://scoutify.ai/companies/oportun?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Security Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oportun/jobs/4703531005) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Oportun was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

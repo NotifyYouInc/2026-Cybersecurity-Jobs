@@ -1,16 +1,16 @@
-# Senior Infrastructure Security Engineer-L3 (Palo Alto & NGFW) at Gruve
+# Staff Software Engineer at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5248979008) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155303/) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-06-08.
+This security engineer position at Uber was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
