@@ -5,12 +5,12 @@
 | Company | [Advens](https://scoutify.ai/companies/advens?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000129152763-beca-de-programacion-y-ciberseguridad) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000130772484-beca-de-programacion-y-ciberseguridad) |
 
 ## About This Role
 
-This security engineer position at Advens was posted on 2026-05-29.
+This security engineer position at Advens was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

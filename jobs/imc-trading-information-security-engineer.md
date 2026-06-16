@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4742839101) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Security Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4884398101) |
 
 ## About This Role
 
-This cybersecurity engineer position at IMC Trading was posted on 2026-02-13.
+This security engineer position at IMC Trading was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

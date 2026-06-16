@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Architect_ATCI-5612640-S2027380-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Architect_ATCI-5228572-S1925624-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-04.
+This security engineer position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

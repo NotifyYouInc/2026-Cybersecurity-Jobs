@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advens](https://scoutify.ai/companies/advens?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000124931428-architecte-reseaux-et-securite-fh) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000130830369-architecte-reseaux-et-securite-fh) |
 
 ## About This Role
 
-This security engineer position at Advens was posted on 2026-05-06.
+This security engineer position at Advens was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

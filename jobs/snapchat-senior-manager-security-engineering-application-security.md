@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Senior-Manager--Security-Engineering--Application-Security_R0044882) |
+| Location | Bellevue, Washington, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Bellevue-Washington/Senior-Manager--Security-Engineering--Application-Security_R0045644-1) |
 
 ## About This Role
 
-This security engineer position at Snapchat was posted on 2026-03-10.
+This engineering manager position at Snapchat was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

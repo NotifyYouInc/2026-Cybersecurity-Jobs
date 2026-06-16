@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advens](https://scoutify.ai/companies/advens?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000123441128-expert-en-technologies-de-securite-specialisation-microsoft-fh) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000130831198-expert-en-technologies-de-securite-specialisation-microsoft-fh) |
 
 ## About This Role
 
-This security engineer position at Advens was posted on 2026-04-28.
+This security engineer position at Advens was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

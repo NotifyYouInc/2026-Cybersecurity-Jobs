@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7732851003) |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7765966003) |
 
 ## About This Role
 
-This security engineer position at Affinidi was posted on 2026-05-13.
+This engineering manager position at Affinidi was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dahlgren, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00184280) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Analyst_R-00184979) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-28.
+This security engineer position at Leidos was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

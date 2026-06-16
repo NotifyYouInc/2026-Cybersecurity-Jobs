@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Principal-Product-Security-Engineer_R9001) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Principal-Product-Security-Engineer_R9045) |
 
 ## About This Role
 
-This security engineer position at Aspentech was posted on 2026-04-21.
+This security engineer position at Aspentech was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

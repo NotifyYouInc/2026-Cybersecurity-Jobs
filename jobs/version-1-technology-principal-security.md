@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000124600769-technology-principal-security) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130793202-technology-principal-security) |
 
 ## About This Role
 
-This security engineer position at Version 1 was posted on 2026-05-05.
+This security engineer position at Version 1 was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

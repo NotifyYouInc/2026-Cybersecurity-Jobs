@@ -5,12 +5,12 @@
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Edinburgh/Product-Cyber-Resilience-Manager_R0024587) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Edinburgh/Product-Cyber-Resilience-Manager_R0030463) |
 
 ## About This Role
 
-This security engineer position at Leonardocompany was posted on 2026-04-27.
+This security engineer position at Leonardocompany was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

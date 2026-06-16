@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Mid-Level-Industrial-Security-Specialist_JR2026511897-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Industrial-Security-Specialist_JR2026513327-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-04.
+This security engineer position at Boeing was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

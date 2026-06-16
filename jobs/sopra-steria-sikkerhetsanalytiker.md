@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kristiansand, Agder, Norway |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116358362-sikkerhetsanalytiker) |
+| Location | Oslo, Oslo, Norway |
+| Category | Security Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130797985-sikkerhetsanalytiker) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-24.
+This security engineer position at Sopra Steria was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

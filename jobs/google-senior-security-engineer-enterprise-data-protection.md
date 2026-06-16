@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb32ONJlkuGK340hi67AF7qTqss1QNooDYjnn6nNGrTJEjsACxwdTMVlBd1RglYxnVUsAuY2rKb4MCTdGjq4lwEtwHfe8ycoDgFqDhuB_Worc7unKHET3Aq4falgSA%3D%3D_V2&loc=SG&title=Senior+Security+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf1ya6bofcG5TZxDEztzoOsUxUCf_q7xZ_aNuiRdkfmUEjsACxwdTBKsBDmpnJeoD9RxiRWMrpa8NN5Ch_hg75QJDHsalk9UNdpEeMd9hLzOQtQIORjZaGebPt1w_Q%3D%3D_V2&loc=SG&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-05.
+This security engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

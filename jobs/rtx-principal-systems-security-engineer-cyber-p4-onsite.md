@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Principal-Systems-Security-Engineer--Cyber----P4--Onsite-_01841210-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Principal-Systems-Security-Engineer--Cyber----P4--Onsite-_01851084) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-30.
+This security engineer position at RTX was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

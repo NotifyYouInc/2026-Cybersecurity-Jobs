@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5075703007?gh_jid=5075703007) |
+| Location | Washington, District of Columbia, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5159137007?gh_jid=5159137007) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-03-10.
+This engineering manager position at Anduril was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

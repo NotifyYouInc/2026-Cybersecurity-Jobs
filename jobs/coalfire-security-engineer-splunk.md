@@ -1,16 +1,16 @@
-# Security Engineer (SPLUNK) at Coalfire
+# Security Engineer (Splunk) at Coalfire
 
 | Field | Details |
 |-------|---------|
 | Company | [Coalfire](https://scoutify.ai/companies/coalfire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/coalfire/53208db2-8bb2-46b4-9f95-ab1ce2ac453f) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.lever.co/coalfire/b80c142e-9c81-4add-bd2a-12733c3545b8) |
 
 ## About This Role
 
-This security engineer position at Coalfire was posted on 2026-04-01.
+This security engineer position at Coalfire was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

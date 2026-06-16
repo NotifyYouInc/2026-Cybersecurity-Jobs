@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000127165389-security-architect) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000130735339-security-architect) |
 
 ## About This Role
 
-This security engineer position at PA Consulting was posted on 2026-05-19.
+This security engineer position at PA Consulting was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

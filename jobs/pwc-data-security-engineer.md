@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Athens/Data-Security-Engineer_719975WD) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Athens/Data-Security-Engineer_734996WD) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-08.
+This security engineer position at PwC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
