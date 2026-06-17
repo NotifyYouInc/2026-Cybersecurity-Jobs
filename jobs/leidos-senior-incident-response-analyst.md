@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Incident-Response-Analyst_R-00177966) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Senior-Incident-Response-Analyst_R-00185065-1) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-10.
+This soc & incident response position at Leidos was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

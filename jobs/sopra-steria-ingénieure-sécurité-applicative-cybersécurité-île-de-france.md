@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114057706-ingenieure-securite-applicative-cybersecurite-ile-de-france) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131094981-ingenieure-securite-applicative-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-11.
+This security engineer position at Sopra Steria was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

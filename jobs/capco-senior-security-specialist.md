@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7926842) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7992831) |
 
 ## About This Role
 
-This security engineer position at Capco was posted on 2026-05-15.
+This security engineer position at Capco was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

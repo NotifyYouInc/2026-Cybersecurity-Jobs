@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hoogkerk, Groningen, The Netherlands |
+| Location | Middenmeer, North Holland, The Netherlands |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000127224502-security-operations-center-analist) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000131122890-security-operations-center-analist) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-05-19.
+This soc & incident response position at Securitas was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

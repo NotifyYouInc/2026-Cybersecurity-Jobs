@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000130719474-lead-security-engineer-red-team-threat-intel) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131379599-lead-security-engineer-red-team-threat-intel) |
 
 ## About This Role
 
-This security engineer position at Grab was posted on 2026-06-08.
+This security engineer position at Grab was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

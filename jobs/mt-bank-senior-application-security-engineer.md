@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Clanton, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Senior-Application-Security-Engineer_R83228) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Senior-Application-Security-Engineer_R87014) |
 
 ## About This Role
 
-This security engineer position at M&T Bank was posted on 2026-02-20.
+This security engineer position at M&T Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

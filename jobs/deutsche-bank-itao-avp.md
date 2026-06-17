@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/ITAO--AVP_R0424179) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/ITAO--AVP_R0432668) |
 
 ## About This Role
 
-This it & systems administration position at Deutsche Bank was posted on 2026-06-03.
+This security engineer position at Deutsche Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

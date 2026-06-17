@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Georgia, US |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Cyber-Systems-Engineer_R10233829) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Fort-Eisenhower/Staff-Cyber-Systems-Engineer_R10235664) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-21.
+This security engineer position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

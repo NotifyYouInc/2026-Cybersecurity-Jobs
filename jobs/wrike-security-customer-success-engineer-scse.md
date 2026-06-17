@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Rica |
+| Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4700664005) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4704200005) |
 
 ## About This Role
 
-This security engineer position at Wrike was posted on 2026-05-29.
+This security engineer position at Wrike was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

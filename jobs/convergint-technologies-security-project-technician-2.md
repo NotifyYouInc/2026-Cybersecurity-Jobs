@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Centennial, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=afd19f24-32f9-43fb-8718-05c9289f528c) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=c7779454-220b-41be-b9f1-036146779285) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-05-29.
+This security engineer position at Convergint Technologies was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

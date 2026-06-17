@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ontario, CA |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Information---Data-Security-Analyst---Halifax_R-0000157499-2) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Information---Data-Security-Analyst---Halifax_R-0000174371-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-03-03.
+This security engineer position at Royal Bank of Canada was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

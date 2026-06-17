@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412167/security-consultant-global-proserve-security) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444280/security-consultant-global-proserve-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-06.
+This security engineer position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

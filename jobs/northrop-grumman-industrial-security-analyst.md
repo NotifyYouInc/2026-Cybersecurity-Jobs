@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Rolling Meadows, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Industrial-Security-Analyst_R10233229) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Industrial-Security-Analyst_R10235618) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-19.
+This security engineer position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

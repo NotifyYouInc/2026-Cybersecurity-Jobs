@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Japan |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcDZ1DH_eyJrL9rtTanX5H8n6j7Y28TH46Hzs3ySTuLXEjsACxwdTJMgxsVQLqb60lafcnnCp4NR2ABnsxoP5IF1P6ZF3KS40Xiyqs9789g9PP9cuQs66vVWVNm5PQ%3D%3D_V2&loc=US&title=Senior+Intelligence+Analyst) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbvTZkSEmIM6LBJdkIJWvmQt29jA5Rov57M1NoDlUCWDEjsACxwdTLu26e-WcbFlquon30SNBBpz1_Q22lV8hZO7_8pgLfr6yUWiW3xtbOUfw2kdxHg6-5fy3fhOrQ%3D%3D_V2&loc=NL&title=Senior+Intelligence+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-19.
+This security engineer position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

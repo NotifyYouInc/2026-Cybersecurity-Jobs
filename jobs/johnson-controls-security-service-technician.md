@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Madison, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Toronto-Ontario-Canada/Security-Service-Technician_WD30266197) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Madison-Wisconsin-United-States-of-America/Security-Service-Technician_WD30271742) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-06-04.
+This security engineer position at Johnson Controls was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

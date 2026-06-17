@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lynn, Massachusetts, United States |
+| Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lynn/Lead-Programs-Security-Specialist-1_R5034732) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Edwards-AFB/Lead-Programs-Security-Specialist-1_R5036003-1) |
 
 ## About This Role
 
-This security engineer position at GE Aerospace was posted on 2026-05-20.
+This security engineer position at GE Aerospace was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

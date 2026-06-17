@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/RENNES-LAURENT/Ingnieur-cyberdfense---Analyste-Reverse-F-H_R0315633-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/RENNES-LAURENT/Ingnieur-cyberdfense---Analyste-Reverse-F-H_R0330231-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Thales was posted on 2026-02-27.
+This offensive security & pentesting position at Thales was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

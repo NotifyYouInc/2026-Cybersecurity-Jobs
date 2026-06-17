@@ -5,12 +5,12 @@
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Calgary-Alberta/Senior-Security-Engineer_JR10025924) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Calgary-Alberta/Senior-Security-Engineer_JR10026839-2) |
 
 ## About This Role
 
-This security engineer position at Industrial Alliance was posted on 2026-03-13.
+This security engineer position at Industrial Alliance was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ashville, Ohio, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5026223007?gh_jid=5026223007) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5160396007?gh_jid=5160396007) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-05-20.
+This security engineer position at Anduril was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

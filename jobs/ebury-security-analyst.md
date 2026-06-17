@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4875112101) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4890409101) |
 
 ## About This Role
 
-This security engineer position at Ebury was posted on 2026-05-26.
+This security engineer position at Ebury was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

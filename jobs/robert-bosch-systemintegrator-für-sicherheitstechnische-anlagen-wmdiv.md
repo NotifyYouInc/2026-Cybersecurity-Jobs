@@ -1,16 +1,16 @@
-# Systemintegrator für sicherheitstechnische Anlagen (w/m/div.)  at Robert Bosch
+# Systemintegrator für sicherheitstechnische Anlagen (w/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Ergolding, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127378230-systemintegrator-fur-sicherheitstechnische-anlagen-wmdiv) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131153417-systemintegrator-fur-sicherheitstechnische-anlagen-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-20.
+This security engineer position at Robert Bosch was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

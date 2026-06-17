@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0239666) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0241601) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-08.
+This security engineer position at Booz Allen was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

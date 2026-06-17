@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Senior-Analyst--IT-Security_JR33665) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Senior-Analyst--IT-Security_JR35793) |
 
 ## About This Role
 
-This security engineer position at University of Ottawa was posted on 2026-04-23.
+This security engineer position at University of Ottawa was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

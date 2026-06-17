@@ -5,12 +5,12 @@
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7849429?gh_jid=7849429) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966296?gh_jid=7966296) |
 
 ## About This Role
 
-This security engineer position at Zuora was posted on 2026-04-24.
+This security engineer position at Zuora was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

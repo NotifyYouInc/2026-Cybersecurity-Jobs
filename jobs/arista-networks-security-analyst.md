@@ -1,16 +1,16 @@
-# Security Analyst at Arista Networks
+# Security Analyst  at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108416045-security-analyst) |
+| Location | Santa Clara, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000131239676-security-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Arista Networks was posted on 2026-02-10.
+This security engineer position at Arista Networks was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

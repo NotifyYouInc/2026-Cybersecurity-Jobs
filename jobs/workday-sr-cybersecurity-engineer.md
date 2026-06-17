@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Reston, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Cybersecurity-Engineer_JR-0106976) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Cybersecurity-Engineer_JR-0107488) |
 
 ## About This Role
 
-This security engineer position at Workday was posted on 2026-05-21.
+This security engineer position at Workday was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

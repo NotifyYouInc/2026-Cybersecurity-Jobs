@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXA5ziSA-GMz7WfhmCxsyKnVxG-NkBaxtcmC79OKm_PcEjsACxwdTFs-eBRwPfF1j8-wXcnquazGJDWGcEskln_hEDChQhtYAFlsYlVT9aJpPNV1kcR9TWxZnEluqg%3D%3D_V2&loc=US&title=Data+Center+Area+Security+Manager) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRgSlIt3whtMgy69vbL9-SKpHXp-CIfr89ve1fE3XsG5EjsACxwdTAYE4CItVrWoxq5LfQ-g7izTdOw1KRQFTii5edo3ns24HjdDnZGpTYbNdqEarshHRhbarPVsZg%3D%3D_V2&loc=US&title=Data+Center+Area+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-15.
+This security engineer position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
