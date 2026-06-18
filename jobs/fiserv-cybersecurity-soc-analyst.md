@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Cybersecurity-SOC-Analyst_R-10396128) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Bengaluru---GS-India/Cybersecurity-SOC-Analyst_R-10395872) |
 
 ## About This Role
 
-This soc & incident response position at Fiserv was posted on 2026-06-03.
+This soc & incident response position at Fiserv was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

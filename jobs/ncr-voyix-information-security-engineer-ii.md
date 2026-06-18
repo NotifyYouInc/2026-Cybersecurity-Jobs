@@ -1,16 +1,16 @@
-# Information Security Engineer (II) at NCR Voyix
+# Information Security Engineer II at NCR Voyix
 
 | Field | Details |
 |-------|---------|
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/GURGAON-IND/Information-Security-Engineer--II-_R0156655) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/GURGAON-IND/Information-Security-Engineer-II_R0156942-3) |
 
 ## About This Role
 
-This security engineer position at NCR Voyix was posted on 2026-04-06.
+This security engineer position at NCR Voyix was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

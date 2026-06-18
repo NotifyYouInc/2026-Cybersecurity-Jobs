@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Security-Engineer-2_R434608) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Security-Engineer-2_R435216) |
 
 ## About This Role
 
-This security engineer position at Comcast was posted on 2026-05-21.
+This security engineer position at Comcast was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Engineer at encord
+# Security Engineer at Encord
 
 | Field | Details |
 |-------|---------|
-| Company | [encord](https://scoutify.ai/companies/encord-encord?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Encord](https://scoutify.ai/companies/encord?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/encord/7c9f6fdf-3567-4b9e-be7e-647027d30ae8) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/encord/jobs/VNesjw3-security-engineer) |
 
 ## About This Role
 
-This security engineer position at encord was posted on 2026-03-27.
+This security engineer position at Encord was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

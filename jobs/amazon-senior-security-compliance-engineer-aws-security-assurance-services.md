@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443022/senior-security-compliance-engineer-aws-security-assurance-services) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445186/senior-security-compliance-engineer-aws-security-assurance-services) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-08.
+This security engineer position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

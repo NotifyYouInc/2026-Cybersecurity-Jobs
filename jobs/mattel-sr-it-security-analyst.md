@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000130706409-sr-it-security-analyst) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000131413134-sr-it-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Mattel was posted on 2026-06-08.
+This security engineer position at Mattel was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

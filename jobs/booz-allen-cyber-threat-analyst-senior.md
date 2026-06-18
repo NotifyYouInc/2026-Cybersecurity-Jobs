@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Cyber-Threat-Analyst--Senior_R0233427) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Cyber-Threat-Analyst--Senior_R0241741) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-14.
+This security engineer position at Booz Allen was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

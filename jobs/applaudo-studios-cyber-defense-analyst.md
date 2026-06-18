@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000122130667-cyber-defense-analyst) |
+| Category | Security Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131502338-cyber-defense-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Applaudo Studios was posted on 2026-04-21.
+This security engineer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

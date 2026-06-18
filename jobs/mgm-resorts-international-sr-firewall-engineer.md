@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Sr-Firewall-Engineer_274626-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Sr-Firewall-Engineer_276270) |
 
 ## About This Role
 
-This security engineer position at MGM Resorts International was posted on 2026-04-22.
+This security engineer position at MGM Resorts International was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

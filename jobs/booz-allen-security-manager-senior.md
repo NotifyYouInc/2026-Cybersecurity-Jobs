@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beale-AFB-CA/Security-Manager--Senior_R0241247-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beale-AFB-CA/Security-Manager--Senior_R0241839-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-01.
+This security engineer position at Booz Allen was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cyber-Defense-Engineering-Manager_R99698-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cyber-Defense-Engineering-Manager_R103229) |
 
 ## About This Role
 
-This engineering manager position at Regions Bank was posted on 2026-03-19.
+This engineering manager position at Regions Bank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

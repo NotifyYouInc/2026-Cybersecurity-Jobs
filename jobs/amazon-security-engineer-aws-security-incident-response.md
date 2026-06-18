@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415903/security-engineer-aws-security-incident-response) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417485/security-engineer-aws-security-incident-response) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-11.
+This security engineer position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

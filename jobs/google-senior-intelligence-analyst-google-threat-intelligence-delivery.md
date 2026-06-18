@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbvTZkSEmIM6LBJdkIJWvmQt29jA5Rov57M1NoDlUCWDEjsACxwdTLu26e-WcbFlquon30SNBBpz1_Q22lV8hZO7_8pgLfr6yUWiW3xtbOUfw2kdxHg6-5fy3fhOrQ%3D%3D_V2&loc=NL&title=Senior+Intelligence+Analyst) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbF7vunB4z4Weph2TWetXMe2vtSPQWBiyBTgmcATnSAmEjsACxwdTMu-9hoBwvj4eUsKU_J990kBEaoX2QScdjHRGAF7qn7FFZhBah7a1963oySYLPjAn33TTkhjDQ%3D%3D_V2&loc=IL&title=Senior+Intelligence+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-09.
+This security engineer position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
