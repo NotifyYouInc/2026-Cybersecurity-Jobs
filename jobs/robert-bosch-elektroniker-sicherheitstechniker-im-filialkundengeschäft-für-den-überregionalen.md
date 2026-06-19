@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128473650-elektroniker-sicherheitstechniker-im-filialkundengeschaft-fur-den-uberregionalen-einsatz-wmdiv) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131624069-elektroniker-sicherheitstechniker-im-filialkundengeschaft-fur-den-uberregionalen-einsatz-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-26.
+This security engineer position at Robert Bosch was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

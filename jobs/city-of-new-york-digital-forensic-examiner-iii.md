@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013317551-digital-forensic-examiner-iii) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013575456-digital-forensic-examiner-iii) |
 
 ## About This Role
 
-This security engineer position at City of New York was posted on 2026-05-27.
+This security engineer position at City of New York was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

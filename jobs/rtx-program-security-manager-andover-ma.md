@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Andover, Minnesota, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Program-Security-Manager---Andover--MA_01839051) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Program-Security-Manager---Andover--MA_01851837) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-20.
+This security engineer position at RTX was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

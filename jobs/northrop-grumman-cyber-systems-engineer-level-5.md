@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Cyber-Systems-Engineer---Level-5_R10228277) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Cyber-Systems-Engineer---Level-5_R10236156) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-03.
+This security engineer position at Northrop Grumman was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

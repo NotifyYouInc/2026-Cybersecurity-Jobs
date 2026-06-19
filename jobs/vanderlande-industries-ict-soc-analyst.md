@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/ICT-SOC-Analyst_JR35878-1) |
+| Category | Security Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/ICT-SOC-Analyst_JR35879-1) |
 
 ## About This Role
 
-This soc & incident response position at Vanderlande Industries was posted on 2026-03-13.
+This security engineer position at Vanderlande Industries was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

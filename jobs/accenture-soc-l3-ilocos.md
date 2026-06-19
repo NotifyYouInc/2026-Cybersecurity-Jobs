@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Philippines |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ilocos/SOC-L3--Ilocos-_ATCP-1336352-S423928) |
+| Category | Security Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ilocos/Security-Managed-Services-Practitioner_ATCP-1336353-S410633) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-04-30.
+This security engineer position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

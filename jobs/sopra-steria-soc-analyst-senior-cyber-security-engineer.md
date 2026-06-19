@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120926557-soc-analyst-senior-cyber-security-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131659471-soc-analyst-senior-cyber-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-15.
+This security engineer position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

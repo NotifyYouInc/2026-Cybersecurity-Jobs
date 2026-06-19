@@ -1,16 +1,16 @@
-# Offensive Security Researcher - Kernel & Embedded Security at Apple
+# Offensive Security Researcher, Kernel & Embedded Security at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657187/offensive-security-researcher-kernel-embedded-security) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667546/offensive-security-researcher-kernel-embedded-security) |
 
 ## About This Role
 
-This offensive security & pentesting position at Apple was posted on 2026-04-10.
+This offensive security & pentesting position at Apple was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

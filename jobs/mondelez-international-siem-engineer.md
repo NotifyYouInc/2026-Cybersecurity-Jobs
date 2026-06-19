@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Massachusetts, US |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/United-States-Remote/SIEM-Engineer_R-167391) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---Massachusetts-USA/SIEM-Engineer_R-170185-1) |
 
 ## About This Role
 
-This security engineer position at Mondelez International was posted on 2026-05-11.
+This security engineer position at Mondelez International was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

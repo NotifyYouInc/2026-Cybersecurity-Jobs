@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Head-of-Application-Security_JR-0019642) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Cape-Town-Apex-House/Head-of-Application-Security_JR-0024080) |
 
 ## About This Role
 
-This security engineer position at Apex Fund Services was posted on 2026-05-13.
+This security engineer position at Apex Fund Services was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

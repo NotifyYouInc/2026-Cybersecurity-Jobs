@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000126127428-technicien-surveillance-electrique-hf) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000131607464-technicien-surveillance-electrique-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-05-12.
+This security engineer position at Assystem was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

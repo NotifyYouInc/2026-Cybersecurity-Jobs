@@ -5,12 +5,12 @@
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Springfield-VA/SOC-Engineer-Tier-2_JR2026001173) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Springfield-VA/SOC-Engineer-Tier-2_JR2026001257) |
 
 ## About This Role
 
-This security engineer position at Appliedis was posted on 2026-04-28.
+This security engineer position at Appliedis was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

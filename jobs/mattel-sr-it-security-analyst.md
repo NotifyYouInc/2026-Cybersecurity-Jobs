@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000131413134-sr-it-security-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000131428458-sr-it-security-analyst) |
 
 ## About This Role
 

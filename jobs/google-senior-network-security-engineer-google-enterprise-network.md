@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckaxm-4ijPHjN-NdC7kazHfYuRjwZC_kb955Zf4y-18NYEjsACxwdTLmy54KlEYBCACxdv1Miv8pTayzgqezjRgt_dSZu4HBfoIT099yINLVzmTwVHkNaX9cToihzGw%3D%3D_V2&loc=US&title=Senior+Network+Security+Engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd5Hq-pxC1uFQx2Lct_yOCFciojKWkuECRNBR_xqmg5rEjsACxwdTCfPkpHePiXFZot290OSyPQQxf4iFvuhB8rytSn2TF9rw7vB6SvLKRtNKXKRSHqQZHrX_oaoXg%3D%3D_V2&loc=US&title=Senior+Network+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-23.
+This security engineer position at Google was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

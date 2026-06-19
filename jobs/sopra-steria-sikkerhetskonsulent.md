@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hamar, Innlandet, Norway |
 | Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128458451-sikkerhetskonsulent) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131651564-sikkerhetskonsulent) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-26.
+This security engineer position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

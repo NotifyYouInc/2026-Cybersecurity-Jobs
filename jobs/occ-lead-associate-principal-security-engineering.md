@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Remote/Lead-Associate-Principal--Security-Engineering_REQ-4550) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Remote/Lead-Associate-Principal--Security-Engineering_REQ-4549) |
 
 ## About This Role
 
-This security engineer position at OCC was posted on 2026-03-17.
+This security engineer position at OCC was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

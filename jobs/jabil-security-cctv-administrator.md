@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vietnam |
+| Location | Nhơn Trạch, Dong Nai, Vietnam |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Dong-Nai/Security-CCTV-Administrator_J2449768) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Nhon-Trach/Security-CCTV-Administrator_J2445823) |
 
 ## About This Role
 
-This security engineer position at Jabil was posted on 2026-05-11.
+This security engineer position at Jabil was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

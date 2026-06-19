@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | National Capital Region, PH |
+| Location | Philippines |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Application-Security-Engineer_R0000014904-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Application-Security-Engineer_R0000019539) |
 
 ## About This Role
 
-This security engineer position at GLOBE was posted on 2026-03-10.
+This security engineer position at GLOBE was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

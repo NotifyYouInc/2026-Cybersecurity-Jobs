@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Industrial-Security-Analyst---Level-1-2_R10233564) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Industrial-Security-Analyst---Level-1-2_R10236021) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-20.
+This security engineer position at Northrop Grumman was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

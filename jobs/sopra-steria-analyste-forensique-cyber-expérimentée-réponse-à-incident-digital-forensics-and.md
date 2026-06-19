@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117250248-analyste-forensique-cyber-experimentee-reponse-a-incident-digital-forensics-and-incident-response-toulouse) |
+| Category | Security Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131661028-analyste-forensique-cyber-experimentee-reponse-a-incident-digital-forensics-and-incident-response-toulouse) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-03-27.
+This security engineer position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

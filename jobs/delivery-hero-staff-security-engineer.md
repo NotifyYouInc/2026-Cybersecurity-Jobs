@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127994579-staff-security-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131806505-staff-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Delivery Hero was posted on 2026-05-23.
+This security engineer position at Delivery Hero was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
