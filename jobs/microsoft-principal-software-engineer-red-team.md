@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556762171) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874853) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-03-06.
+This offensive security & pentesting position at Microsoft was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

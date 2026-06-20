@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belgium |
+| Location | Mons, Wallonia, Belgium |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4881407101) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4896465101) |
 
 ## About This Role
 
-This offensive security & pentesting position at Spektrum was posted on 2026-06-03.
+This offensive security & pentesting position at Spektrum was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

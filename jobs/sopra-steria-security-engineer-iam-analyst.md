@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Luxembourg |
+| Location | Leudelange, Esch-sur-Alzette, Luxembourg |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115142848-security-engineer-iam-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131852549-security-engineer-iam-analyst) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-17.
+This security engineer position at Sopra Steria was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

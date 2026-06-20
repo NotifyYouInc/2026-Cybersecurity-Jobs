@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129258319-8pp-senior-security-analyst-ai-application-security) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131891289-8pp-senior-security-analyst-ai-application-security) |
 
 ## About This Role
 
-This security engineer position at Software Mind was posted on 2026-05-29.
+This security engineer position at Software Mind was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

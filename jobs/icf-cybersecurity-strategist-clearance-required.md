@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Reston, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA/Cybersecurity-Strategist---Clearance-Required_R2601909) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Cybersecurity-Strategist---Clearance-Required_R2602071-1) |
 
 ## About This Role
 
-This security engineer position at ICF was posted on 2026-05-27.
+This security engineer position at ICF was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

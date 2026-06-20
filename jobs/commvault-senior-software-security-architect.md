@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commvault](https://scoutify.ai/companies/commvault?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5148638008) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commvault/jobs/5253729008) |
 
 ## About This Role
 
-This security engineer position at Commvault was posted on 2026-03-12.
+This security engineer position at Commvault was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

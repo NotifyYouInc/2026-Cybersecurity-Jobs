@@ -5,12 +5,12 @@
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Lima/Especialista-de-Seguridad_r2026050891) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Lima/Especialista-de-Seguridad_r2026060404) |
 
 ## About This Role
 
-This security engineer position at Verisure Securitas Direct was posted on 2026-05-29.
+This security engineer position at Verisure Securitas Direct was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

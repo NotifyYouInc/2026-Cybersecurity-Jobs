@@ -1,16 +1,16 @@
-# Senior Antibot Engineer  at NielsenIQ
+# Senior Antibot Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | 3 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125182129-senior-antibot-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131925869-senior-antibot-engineer) |
 
 ## About This Role
 
-This offensive security & pentesting position at NielsenIQ was posted on 2026-05-07.
+This offensive security & pentesting position at NielsenIQ was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

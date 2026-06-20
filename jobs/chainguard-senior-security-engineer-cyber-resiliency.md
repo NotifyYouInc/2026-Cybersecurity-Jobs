@@ -1,16 +1,16 @@
-# Senior Security Engineer, Cyber Resiliency at Chainguard
+# Senior Security Engineer (Cyber Resiliency) at Chainguard
 
 | Field | Details |
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4662448006) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4688536006) |
 
 ## About This Role
 
-This security engineer position at Chainguard was posted on 2026-03-12.
+This security engineer position at Chainguard was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

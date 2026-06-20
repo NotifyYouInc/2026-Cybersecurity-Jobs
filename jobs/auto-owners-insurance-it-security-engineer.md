@@ -5,12 +5,12 @@
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer_R_13595-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer_R_13781) |
 
 ## About This Role
 
-This security engineer position at Auto-Owners Insurance was posted on 2026-05-01.
+This security engineer position at Auto-Owners Insurance was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

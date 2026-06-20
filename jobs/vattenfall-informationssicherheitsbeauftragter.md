@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Thuringia, DE |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000117226414-informationssicherheitsbeauftragter) |
+| Location | Germany |
+| Category | Security Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000131894298-informationssicherheitsbeauftragter) |
 
 ## About This Role
 
-This soc & incident response position at Vattenfall was posted on 2026-03-27.
+This security engineer position at Vattenfall was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

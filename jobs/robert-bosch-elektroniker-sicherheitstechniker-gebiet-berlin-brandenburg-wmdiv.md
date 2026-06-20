@@ -1,16 +1,16 @@
-# Elektroniker / Sicherheitstechniker - Gebiet Berlin / Brandenburg (w/m/div.) at Robert Bosch
+# Elektroniker / Sicherheitstechniker – Gebiet Berlin / Brandenburg (w/m/div.)  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128678904-elektroniker-sicherheitstechniker-gebiet-berlin-brandenburg-wmdiv) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131883729-elektroniker-sicherheitstechniker-gebiet-berlin-brandenburg-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-27.
+This security engineer position at Robert Bosch was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

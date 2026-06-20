@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Product-Security-Lead_R26-3920) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Product-Security-Lead_R26-4534) |
 
 ## About This Role
 
-This security engineer position at Rockwell Automation was posted on 2026-06-03.
+This security engineer position at Rockwell Automation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

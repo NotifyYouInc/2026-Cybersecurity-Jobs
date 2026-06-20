@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Digital-Forensics-Analyst_R-00183338) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Digital-Forensics-Analyst_R-00183508) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-18.
+This soc & incident response position at Leidos was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | Security Engineer |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419366/security-engineer-payments-security) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420214/security-engineer-payments-security) |
 
 ## About This Role
 

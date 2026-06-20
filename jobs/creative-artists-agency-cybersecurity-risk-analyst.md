@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Creative Artists Agency](https://scoutify.ai/companies/caa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Nashville, Tennessee, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/London-United-Kingdom/Cybersecurity-Risk-Analyst_JR8763) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Nashville-TN/Cybersecurity-Risk-Analyst_JR8926) |
 
 ## About This Role
 
-This security engineer position at Creative Artists Agency was posted on 2026-05-07.
+This security engineer position at Creative Artists Agency was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
