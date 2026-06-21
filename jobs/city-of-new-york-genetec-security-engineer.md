@@ -1,16 +1,16 @@
-# Network Security Engineer at NorthMark Strategies
+# GENETEC SECURITY ENGINEER at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [NorthMark Strategies](https://scoutify.ai/companies/northmark?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dallas, Texas, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Network-Security-Engineer_R13218) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013612286-genetec-security-engineer) |
 
 ## About This Role
 
-This security engineer position at NorthMark Strategies was posted on 2026-06-13.
+This security engineer position at City of New York was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

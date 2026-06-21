@@ -1,4 +1,4 @@
-# Network Security Engineer at NorthMark Strategies
+# Senior Network Security Engineer at NorthMark Strategies
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Dallas, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Network-Security-Engineer_R13218) |
+| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Senior-Network-Security-Engineer_R13217) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Network Security Engineer at NorthMark Strategies
+# Director of Offensive Security at NorthMark Strategies
 
 | Field | Details |
 |-------|---------|
 | Company | [NorthMark Strategies](https://scoutify.ai/companies/northmark?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Security Engineer |
+| Category | Offensive Security & Pentesting |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Network-Security-Engineer_R13218) |
+| Apply | [View on company site](https://northmark.wd108.myworkdayjobs.com/NMS/job/Dallas-TX/Director-of-Offensive-Security_R13192) |
 
 ## About This Role
 
-This security engineer position at NorthMark Strategies was posted on 2026-06-13.
+This offensive security & pentesting position at NorthMark Strategies was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
