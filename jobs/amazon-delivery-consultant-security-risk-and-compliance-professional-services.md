@@ -1,16 +1,16 @@
-# Delivery Consultant - Security, Risk and Compliance, Professional Services at Amazon
+# Delivery Consultant - Security, Risk, and Compliance, Professional Services at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439592/delivery-consultant-security-risk-and-compliance-professional-services) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10393650/delivery-consultant-security-risk-and-compliance-professional-services) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-04.
+This security engineer position at Amazon was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

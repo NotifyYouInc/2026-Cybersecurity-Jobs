@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Senior-Active-Directory-Specialist---Cyber_R177668) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Senior-Active-Directory-Specialist---Cyber_R184077) |
 
 ## About This Role
 
-This it & systems administration position at A.P. Moller - Maersk was posted on 2026-04-23.
+This it & systems administration position at A.P. Moller - Maersk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

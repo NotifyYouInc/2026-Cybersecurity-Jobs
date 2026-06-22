@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Remote/Lead-Associate-Principal--Security-Engineering_REQ-4549) |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Lead-Associate-Principal--Security-Engineering_REQ-4676-1) |
 
 ## About This Role
 

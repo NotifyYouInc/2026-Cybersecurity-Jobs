@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130491719-elektroniker-sicherheitstechniker-groraum-aachen-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132128790-elektroniker-sicherheitstechniker-groraum-aachen-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-05.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Junior-Security-Analyst_51582147) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Junior-Security-Analyst_51582685) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-05.
+This security engineer position at DXC Technology was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113500348-architecte-securite-du-cloud-cybersecurite-aix-en-provence) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132124162-architecte-securite-du-cloud-cybersecurite-aix-en-provence) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-09.
+This security engineer position at Sopra Steria was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

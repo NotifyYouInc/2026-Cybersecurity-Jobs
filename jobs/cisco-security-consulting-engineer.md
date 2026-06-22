@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Consulting-Engineer_2015469-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Security-Consulting-Engineer_2016860) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-01.
+This security engineer position at Cisco was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

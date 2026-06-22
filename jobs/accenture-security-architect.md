@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Architect_ATCI-5454858-S1986464-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Architect_ATCI-5620908-S2029461-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-11.
+This security engineer position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Poznań, Greater Poland, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Poznan-Business-Garden/Information-Assurance--IA--Advisor_543371) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Information-Assurance--IA--Advisor_543986) |
 
 ## About This Role
 
-This security engineer position at Haleon was posted on 2026-06-11.
+This security engineer position at Haleon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

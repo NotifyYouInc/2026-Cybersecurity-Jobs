@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128678369-elektroniker-sicherheitstechniker-gebiet-leipzighalle-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132130534-elektroniker-sicherheitstechniker-gebiet-leipzighalle-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-27.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

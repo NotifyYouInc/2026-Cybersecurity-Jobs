@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Cyber-Security-Engineer---IAM_R177750-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Cyber-Security-Engineer---IAM_R184678) |
 
 ## About This Role
 
-This security engineer position at A.P. Moller - Maersk was posted on 2026-04-24.
+This security engineer position at A.P. Moller - Maersk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

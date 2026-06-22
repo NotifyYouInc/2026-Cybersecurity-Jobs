@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Germany |
+| Location | Bavaria, DE |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127155799-elektroniker-sicherheitstechniker-gebiet-landsberg-a-lech-kaufbeuren-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132131659-elektroniker-sicherheitstechniker-gebiet-landsberg-a-lech-kaufbeuren-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-19.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

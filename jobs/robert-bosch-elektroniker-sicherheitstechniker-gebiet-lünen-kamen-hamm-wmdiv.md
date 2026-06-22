@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127626559-elektroniker-sicherheitstechniker-gebiet-lunen-kamen-hamm-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132128984-elektroniker-sicherheitstechniker-gebiet-lunen-kamen-hamm-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-21.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

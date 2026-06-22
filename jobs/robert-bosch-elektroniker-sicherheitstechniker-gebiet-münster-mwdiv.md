@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128470462-elektroniker-sicherheitstechniker-gebiet-munster-mwdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132128544-elektroniker-sicherheitstechniker-gebiet-munster-mwdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-26.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

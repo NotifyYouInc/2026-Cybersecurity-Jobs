@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Eschborn, Hesse, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129165879-elektroniker-sicherheitstechniker-fur-saaela-gebiet-frankfurt-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132110009-elektroniker-sicherheitstechniker-fur-saaela-gebiet-frankfurt-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-29.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
