@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000128707934-cloud-security-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132192620-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Delivery Hero was posted on 2026-05-27.
+This security engineer position at Delivery Hero was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

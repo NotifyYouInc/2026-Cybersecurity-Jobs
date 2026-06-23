@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vietnam |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121135907-esc-xc-ne-automotive-embedded-security-developer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132338855-esc-xc-ne-automotive-embedded-security-developer) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-04-16.
+This security engineer position at Robert Bosch was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

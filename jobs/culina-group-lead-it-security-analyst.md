@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warrington, England, United Kingdom |
+| Location | Lutterworth, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000131423479-lead-it-security-analyst) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000132259622-lead-it-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Culina Group was posted on 2026-06-10.
+This security engineer position at Culina Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

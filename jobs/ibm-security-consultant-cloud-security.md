@@ -1,16 +1,16 @@
-# Security Consultant-Cloud Security at IBM
+# Security Consultant - Cloud Security at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104711) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119407) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-03-23.
+This security engineer position at IBM was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

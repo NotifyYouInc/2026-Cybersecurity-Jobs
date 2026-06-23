@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Irvine, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000130863278-information-security-analyst-4) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000132247129-information-security-analyst-4) |
 
 ## About This Role
 
-This security engineer position at SanDisk was posted on 2026-06-08.
+This security engineer position at SanDisk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

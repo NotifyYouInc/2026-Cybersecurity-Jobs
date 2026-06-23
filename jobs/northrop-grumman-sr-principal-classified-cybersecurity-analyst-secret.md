@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Sr-Principal-Classified-Cybersecurity-Analyst---Secret_R10235098) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Classified-Cybersecurity-Analyst---Secret_R10236395) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-08.
+This security engineer position at Northrop Grumman was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

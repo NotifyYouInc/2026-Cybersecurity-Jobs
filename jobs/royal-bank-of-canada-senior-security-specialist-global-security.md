@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Security-Specialist--Global-Security-_R-0000162786-1) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Security-Specialist--Global-Security-_R-0000176012-1) |
 
 ## About This Role
 
-This soc & incident response position at Royal Bank of Canada was posted on 2026-03-14.
+This offensive security & pentesting position at Royal Bank of Canada was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

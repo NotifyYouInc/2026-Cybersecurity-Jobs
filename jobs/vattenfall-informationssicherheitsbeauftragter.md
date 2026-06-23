@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000131894298-informationssicherheitsbeauftragter) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000132124429-informationssicherheitsbeauftragter) |
 
 ## About This Role
 
-This security engineer position at Vattenfall was posted on 2026-06-12.
+This security engineer position at Vattenfall was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

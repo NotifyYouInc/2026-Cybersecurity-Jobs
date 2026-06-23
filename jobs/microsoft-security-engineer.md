@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862327) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873996) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-04-27.
+This security engineer position at Microsoft was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

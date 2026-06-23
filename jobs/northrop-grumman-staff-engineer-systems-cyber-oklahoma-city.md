@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Staff-Engineer-Systems---Cyber--Oklahoma-City-_R10235013) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Staff-Engineer-Systems---Cyber--Oklahoma-City-_R10236480) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-03.
+This security engineer position at Northrop Grumman was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

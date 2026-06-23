@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Information-Security-Professional-Lead-Analyst---Vice-President_26968464) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Information-Security-Professional-Lead-Analyst---Vice-President_26968469) |
 
 ## About This Role
 
-This security engineer position at Citigroup was posted on 2026-06-10.
+This security engineer position at Citigroup was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

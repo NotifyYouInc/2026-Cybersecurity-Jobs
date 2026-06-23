@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130530669-architecte-securite-du-cloud-cybersecurite-ile-de-france) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132151039-architecte-securite-du-cloud-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-05.
+This security engineer position at Sopra Steria was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

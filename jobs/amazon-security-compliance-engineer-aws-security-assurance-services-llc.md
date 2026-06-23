@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10442902/security-compliance-engineer-aws-security-assurance-services-llc) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449504/security-compliance-engineer-aws-security-assurance-services-llc) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-08.
+This security engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

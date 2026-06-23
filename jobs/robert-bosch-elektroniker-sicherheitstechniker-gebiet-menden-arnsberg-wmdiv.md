@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Meschede, North Rhine-Westphalia, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131860511-elektroniker-sicherheitstechniker-gebiet-menden-arnsberg-wmdiv) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132129389-elektroniker-sicherheitstechniker-gebiet-menden-arnsberg-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-12.
+This security engineer position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

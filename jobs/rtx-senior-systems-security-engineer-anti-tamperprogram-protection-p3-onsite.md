@@ -1,16 +1,16 @@
-# Senior Systems Security Engineer (Anti-Tamper/Program Protection) P3 (Onsite) at RTX
+# Senior Systems Security Engineer (Anti-Tamper/Program Protection) - P3 (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Systems-Security-Engineer--Anti-Tamper-Program-Protection--P3--Onsite-_01825493) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Senior-Systems-Security-Engineer--Anti-Tamper-Program-Protection----P3--Onsite-_01852234) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-02-19.
+This security engineer position at RTX was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

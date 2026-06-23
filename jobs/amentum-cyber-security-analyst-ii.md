@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Paso, Texas, United States |
+| Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-El-Paso/Cyber-Security-Analyst-II_R0163309) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tampa/Cyber-Security-Analyst-II_R0163673) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-06-10.
+This security engineer position at Amentum was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

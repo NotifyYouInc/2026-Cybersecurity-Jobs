@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Jose, California, United States |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446909/incident-management-engineer-incident-detection-and-response) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448063/incident-management-engineer-incident-detection-and-response) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-06-11.
+This soc & incident response position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Cyber-Test-Engineer_R015319) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Cyber-Test-Engineer_R015658) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-05-07.
+This security engineer position at The Aerospace Corporation was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
