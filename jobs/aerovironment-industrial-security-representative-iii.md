@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Petaluma, California, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Petaluma-CA/Industrial-Security-Representative-III_7687) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/4391-4401-4433-Dayton-Xenia-Rd-Dayton-OH/Industrial-Security-Representative-III_7930) |
 
 ## About This Role
 
-This security engineer position at AeroVironment was posted on 2026-05-05.
+This security engineer position at AeroVironment was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Cybersecurity-Analyst---Cloud_J67835-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/Cybersecurity-Analyst---Cloud_J67838) |
 
 ## About This Role
 
-This security engineer position at Fil was posted on 2026-06-12.
+This security engineer position at Fil was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

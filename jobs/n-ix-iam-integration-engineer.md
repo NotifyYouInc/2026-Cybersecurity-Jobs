@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4873471101?gh_jid=4873471101) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4899427101?gh_jid=4899427101) |
 
 ## About This Role
 
-This security engineer position at N-iX was posted on 2026-05-28.
+This security engineer position at N-iX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

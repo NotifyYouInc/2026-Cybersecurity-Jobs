@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/COMSEC-Manager_RQ220960-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/COMSEC-Manager_RQ222581-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-01.
+This security engineer position at General Dynamics Information Technology was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

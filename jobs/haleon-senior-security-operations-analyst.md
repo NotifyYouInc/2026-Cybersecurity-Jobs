@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Warren, Michigan, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Senior-Security-Operations-Analyst_542311-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/Senior-Security-Operations-Analyst_544071-1) |
 
 ## About This Role
 
-This soc & incident response position at Haleon was posted on 2026-05-19.
+This soc & incident response position at Haleon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

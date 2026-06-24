@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Redmond, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874524) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874263) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-06-15.
+This security engineer position at Microsoft was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

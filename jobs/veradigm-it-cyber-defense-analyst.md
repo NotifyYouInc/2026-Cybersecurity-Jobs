@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/IT-Cyber-Defense-Analyst_JR10575) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/IT-Cyber-Defense-Analyst_JR10640) |
 
 ## About This Role
 
-This security engineer position at Veradigm was posted on 2026-05-19.
+This soc & incident response position at Veradigm was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

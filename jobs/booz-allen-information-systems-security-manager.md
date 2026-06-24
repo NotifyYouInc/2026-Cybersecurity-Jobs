@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Oklahoma, US |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Information-Systems-Security-Manager_R0242144) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tinker-AFB-OK/Information-Systems-Security-Manager_R0242637) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-12.
+This security engineer position at Booz Allen was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

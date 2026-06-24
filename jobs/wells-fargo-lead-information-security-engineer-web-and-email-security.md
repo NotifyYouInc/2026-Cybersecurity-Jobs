@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Lead-Information-Security-Engineer-Web-and-Email-Security_R-529389) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Information-Security-Engineer-Web-and-Email-Security_R-549991-1) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-03-25.
+This security engineer position at Wells Fargo was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

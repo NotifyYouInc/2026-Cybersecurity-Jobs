@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Zug, Zug, Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Product-Security-Engineer_JREQ199434) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Senior-Product-Security-Engineer_JREQ200738) |
 
 ## About This Role
 
-This security engineer position at Thomson Reuters was posted on 2026-04-14.
+This security engineer position at Thomson Reuters was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

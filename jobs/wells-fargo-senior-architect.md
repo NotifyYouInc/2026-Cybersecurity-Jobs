@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Architect_R-524314) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Architect_R-552878-1) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-03-03.
+This security engineer position at Wells Fargo was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

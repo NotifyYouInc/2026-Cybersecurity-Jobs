@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Lead-Cyber-Security-Engineer_275775) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/Lead-Cyber-Security-Engineer_276400) |
 
 ## About This Role
 
-This security engineer position at MGM Resorts International was posted on 2026-05-27.
+This security engineer position at MGM Resorts International was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

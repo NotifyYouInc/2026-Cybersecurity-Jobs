@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Software-Security-Engineer_R63709) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-Software-Security-Engineer_R64597) |
 
 ## About This Role
 
-This security engineer position at Motorola Solutions was posted on 2026-04-08.
+This security engineer position at Motorola Solutions was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

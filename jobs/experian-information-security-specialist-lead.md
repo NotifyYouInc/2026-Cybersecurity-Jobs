@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127799039-information-security-specialist-lead) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132513364-information-security-specialist-lead) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-05-22.
+This security engineer position at Experian was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

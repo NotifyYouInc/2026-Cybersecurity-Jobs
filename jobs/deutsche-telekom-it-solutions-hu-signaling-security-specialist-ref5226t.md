@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000113174958-signaling-security-specialist-ref5226t) |
+| Location | 4 locations |
+| Category | Security Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000132562449-signaling-security-specialist-ref5226t) |
 
 ## About This Role
 
-This soc & incident response position at Deutsche Telekom IT Solutions HU was posted on 2026-03-06.
+This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

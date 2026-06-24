@@ -1,16 +1,16 @@
-# Colo Physical Security Engineer Architect, Data Center Engineering, Colocation Regional Engineering at Amazon
+# Colo Physical Security Engineer [Architect], Data Center Engineering, Colocation Regional Engineering at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Herndon, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429340/colo-physical-security-engineer-architect-data-center-engineering-colocation-regional-engineering) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437263/colo-physical-security-engineer-architect-data-center-engineering-colocation-regional-engineering) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-25.
+This security engineer position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

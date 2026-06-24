@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Information-Security-Architect---CSIRT_JR343305) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Information-Security-Architect---CSIRT_JR340864) |
 
 ## About This Role
 
-This security engineer position at Salesforce was posted on 2026-05-29.
+This security engineer position at Salesforce was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

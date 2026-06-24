@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sweden |
+| Location | Luleå, Norrbotten, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000112383447-sakerhetsspecialist-itot) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000132427379-sakerhetsspecialist-itot) |
 
 ## About This Role
 
-This security engineer position at Vattenfall was posted on 2026-03-03.
+This security engineer position at Vattenfall was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Argentina |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000129814829-security-cctv-technician) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000132467439-security-cctv-technician) |
 
 ## About This Role
 
-This security engineer position at Evolution Gaming Group was posted on 2026-06-02.
+This security engineer position at Evolution Gaming Group was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

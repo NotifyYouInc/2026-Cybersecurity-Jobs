@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0143864-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0149249) |
 
 ## About This Role
 
-This security engineer position at McKesson was posted on 2026-04-01.
+This security engineer position at McKesson was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

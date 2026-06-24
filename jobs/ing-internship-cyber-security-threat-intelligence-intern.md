@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Cyber-Security---Threat-Intelligence-Intern_REQ-10116238) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Cyber-Security---Threat-Intelligence-Intern_REQ-10116135) |
 
 ## About This Role
 
-This security engineer position at ING was posted on 2026-06-09.
+This security engineer position at ING was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

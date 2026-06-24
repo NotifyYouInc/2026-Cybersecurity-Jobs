@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420214/security-engineer-payments-security) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426958/security-engineer-payments-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-14.
+This security engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

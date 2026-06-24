@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000112171911-expert-iam-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000132378889-expert-iam-hf) |
 
 ## About This Role
 
-This security engineer position at Meritis was posted on 2026-03-02.
+This security engineer position at Meritis was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

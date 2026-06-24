@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Prisma-Access-Engineer_R0241838) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Prisma-Access-Engineer_R0242335) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-09.
+This security engineer position at Booz Allen was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hazelwood, Missouri, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Industrial-Security-Manager_JR2026513769-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Industrial-Security-Manager_JR2026514334-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-12.
+This security engineer position at Boeing was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

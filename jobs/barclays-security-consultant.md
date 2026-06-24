@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Security-Consultant_JR-0000100051) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Security-Consultant_JR-0000118784) |
 
 ## About This Role
 
-This security engineer position at Barclays was posted on 2026-06-09.
+This security engineer position at Barclays was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

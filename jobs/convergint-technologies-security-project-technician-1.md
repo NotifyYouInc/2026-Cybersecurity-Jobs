@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Centennial, Colorado, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=b326cc2d-deb9-4831-a581-0b2162376dfc) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=ce2ede3b-fba2-4f09-bda8-2ab26532a7ff) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-06-09.
+This security engineer position at Convergint Technologies was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

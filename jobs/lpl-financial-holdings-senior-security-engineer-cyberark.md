@@ -5,12 +5,12 @@
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Security-Engineer---CyberArk_R-050772) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Security-Engineer---CyberArk_R-051204) |
 
 ## About This Role
 
-This security engineer position at LPL Financial Holdings was posted on 2026-06-09.
+This security engineer position at LPL Financial Holdings was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

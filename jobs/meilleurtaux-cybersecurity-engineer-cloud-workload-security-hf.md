@@ -5,12 +5,12 @@
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000130735057-cybersecurity-engineer-cloud-workload-security-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000132383069-cybersecurity-engineer-cloud-workload-security-hf) |
 
 ## About This Role
 
-This security engineer position at Meilleurtaux was posted on 2026-06-08.
+This security engineer position at Meilleurtaux was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

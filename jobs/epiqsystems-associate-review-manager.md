@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Associate-Review-Manager_R0034423) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Associate-Review-Manager_R0034424) |
 
 ## About This Role
 
-This security engineer position at Epiqsystems was posted on 2026-06-05.
+This security engineer position at Epiqsystems was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

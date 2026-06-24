@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New Albany, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445990/data-center-security-specialist) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422345/data-center-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-11.
+This security engineer position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
