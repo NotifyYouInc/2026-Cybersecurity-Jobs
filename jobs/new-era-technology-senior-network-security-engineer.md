@@ -1,16 +1,16 @@
-# Senior Network Security Engineer at New Era Technology
+# Senior Network Security Engineer  at New Era Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [New Era Technology](https://scoutify.ai/companies/new-era-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8525896002) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8581731002) |
 
 ## About This Role
 
-This security engineer position at New Era Technology was posted on 2026-05-11.
+This security engineer position at New Era Technology was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

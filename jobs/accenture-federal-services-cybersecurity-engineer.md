@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4671881006?gh_jid=4671881006) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-04-24.
+This security engineer position at Accenture Federal Services was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

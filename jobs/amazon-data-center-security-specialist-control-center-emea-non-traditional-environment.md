@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438401/data-center-security-specialist-control-center-emea-non-traditional-environment-security) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451296/data-center-security-specialist-control-center-emea-non-traditional-environment-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-03.
+This security engineer position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

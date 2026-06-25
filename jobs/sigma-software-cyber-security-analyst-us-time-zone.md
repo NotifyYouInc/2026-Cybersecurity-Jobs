@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000131434603-cyber-security-analyst-us-time-zone) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000132627048-cyber-security-analyst-us-time-zone) |
 
 ## About This Role
 
-This security engineer position at Sigma Software was posted on 2026-06-10.
+This security engineer position at Sigma Software was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tennessee, US |
+| Location | Evendale, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Peebles/Lead-Security-Specialist_R5031969-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Lead-Security-Specialist_R5036359-1) |
 
 ## About This Role
 
-This security engineer position at GE Aerospace was posted on 2026-04-03.
+This security engineer position at GE Aerospace was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

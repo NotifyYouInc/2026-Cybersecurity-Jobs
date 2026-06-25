@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430238/corporate-security-incident-response-specialist-amazon-corporate-security-business-assurance-center) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423993/corporate-security-incident-response-specialist-amazon-corporate-security-business-assurance-center) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-05-26.
+This soc & incident response position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

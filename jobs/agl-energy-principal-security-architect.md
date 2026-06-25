@@ -5,12 +5,12 @@
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Principal-Security-Architect_R-0022551-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Principal-Security-Architect_R-0022997) |
 
 ## About This Role
 
-This security engineer position at AGL Energy was posted on 2026-03-17.
+This security engineer position at AGL Energy was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116621417-technicienne-surete-defense-securite-le-plessis-robinson) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132656014-technicienne-surete-defense-securite-le-plessis-robinson) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-25.
+This security engineer position at Sopra Steria was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

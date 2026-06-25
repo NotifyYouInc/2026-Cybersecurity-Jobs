@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU7XInOHehePbI6ZbkWyITL7FXftu6iKPzlIlxjtvbTWEjsACxwdTMcars5L5mNiEN8o_Wf-jtjH_IeDEcpgfnO9A9yPEQroTV1R88RoSQayl8_OjtCaS6IXQklDSA%3D%3D_V2&loc=IE&title=Security+Analyst+I) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWfaSQ_EWKpAN9CxwGDGBGno8Svz5BSaR1sYbNeNLN4OEjsA1Ny_i8hG2FNgPxoFBWIxIarDgguByW9SoTb0xuh22QwyIvKX08TjedxvymKiCWGvUAAVHpCMHl3OdA%3D%3D_V2&loc=IE&title=Security+Analyst+I) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-18.
+This soc & incident response position at Google was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
+| Location | Cesson-Sévigné, Brittany, France |
 | Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121773246-team-lead-cybersecurite-service-mcs-veille-de-vulnerabilite-defense-securite-rennes) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132629419-team-lead-cybersecurite-service-mcs-veille-de-vulnerabilite-defense-securite-rennes) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-20.
+This security engineer position at Sopra Steria was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

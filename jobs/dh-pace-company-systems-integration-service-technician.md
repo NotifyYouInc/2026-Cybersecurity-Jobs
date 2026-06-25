@@ -5,12 +5,12 @@
 | Company | [DH Pace Company](https://scoutify.ai/companies/dh-pace-company?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5235817008) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5267702008) |
 
 ## About This Role
 
-This security engineer position at DH Pace Company was posted on 2026-05-29.
+This security engineer position at DH Pace Company was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

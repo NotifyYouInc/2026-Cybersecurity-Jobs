@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Layton, Utah, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026514381-2) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Layton-UT/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026515063-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-10.
+This security engineer position at Boeing was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

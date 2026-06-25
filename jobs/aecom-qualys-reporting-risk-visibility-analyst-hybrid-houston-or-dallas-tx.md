@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123676751-qualys-reporting-risk-visibility-analyst-hybrid-houston-or-dallas-tx) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132673651-qualys-reporting-risk-visibility-analyst-hybrid-houston-or-dallas-tx) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-04-29.
+This security engineer position at AECOM was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

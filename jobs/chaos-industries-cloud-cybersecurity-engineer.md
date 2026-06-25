@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5124769007) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5167191007) |
 
 ## About This Role
 
-This security engineer position at CHAOS Industries was posted on 2026-04-30.
+This security engineer position at CHAOS Industries was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

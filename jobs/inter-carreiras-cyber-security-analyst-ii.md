@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4662007005?gh_jid=4662007005) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4705178005?gh_jid=4705178005) |
 
 ## About This Role
 
-This security engineer position at Inter Carreiras was posted on 2026-04-07.
+This soc & incident response position at Inter Carreiras was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

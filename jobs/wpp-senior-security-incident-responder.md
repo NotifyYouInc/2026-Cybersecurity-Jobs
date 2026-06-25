@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8587597002) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8589510002) |
 
 ## About This Role
 
-This soc & incident response position at WPP was posted on 2026-06-16.
+This soc & incident response position at WPP was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Galway, Connacht, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Team-Lead---Cybersecurity_2129186) |
+| Category | Engineering Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Team-Lead---Cybersecurity_2123045-1) |
 
 ## About This Role
 
-This security engineer position at Fidelity was posted on 2026-05-11.
+This engineering manager position at Fidelity was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

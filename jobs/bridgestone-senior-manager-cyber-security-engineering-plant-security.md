@@ -5,12 +5,12 @@
 | Company | [Bridgestone](https://scoutify.ai/companies/bridgestone?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Bridgestone-Tower/Senior-Manager--Cyber-Security-Engineering--Plant-Security-_2026_04118) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Bridgestone-Tower/Senior-Manager--Cyber-Security-Engineering--Plant-Security-_2026_13881) |
 
 ## About This Role
 
-This security engineer position at Bridgestone was posted on 2026-02-27.
+This security engineer position at Bridgestone was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

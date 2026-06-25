@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Specialist_14382440) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Specialist_14484471-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-13.
+This security engineer position at Accenture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

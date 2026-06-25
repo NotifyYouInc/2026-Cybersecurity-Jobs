@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Identity-Intelligence-Analyst_R-00185272) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Identity-Intelligence-Analyst_R-00185616-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-11.
+This security engineer position at Leidos was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

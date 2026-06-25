@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Saint-Genis-Pouilly, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000127438597-ingenieur-en-securite-fonctionnelle-hf) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132570025-ingenieur-en-securite-fonctionnelle-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-05-20.
+This security engineer position at Assystem was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

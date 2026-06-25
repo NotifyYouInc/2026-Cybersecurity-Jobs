@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Penetration-Tester--CFC-Prague_R00333950) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Penetration-Tester--CFC-Prague_R00316605) |
 
 ## About This Role
 
-This offensive security & pentesting position at Accenture was posted on 2026-06-03.
+This offensive security & pentesting position at Accenture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

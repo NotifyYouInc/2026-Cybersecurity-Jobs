@@ -6,7 +6,7 @@
 | Location | Zaragoza, Aragon, Spain |
 | Category | Security Engineer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438473/data-center-security-specialist-dc-security-team) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438471/data-center-security-specialist-dc-security-team) |
 
 ## About This Role
 

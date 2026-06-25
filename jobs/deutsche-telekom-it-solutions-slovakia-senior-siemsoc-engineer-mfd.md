@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129678339-senior-siemsoc-engineer-mfd) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000132588599-senior-siemsoc-engineer-mfd) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-02.
+This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

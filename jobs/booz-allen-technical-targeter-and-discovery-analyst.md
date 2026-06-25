@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Technical-Targeter-and-Discovery-Analyst_R0235023) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Technical-Targeter-and-Discovery-Analyst_R0242448) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-03-04.
+This offensive security & pentesting position at Booz Allen was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
