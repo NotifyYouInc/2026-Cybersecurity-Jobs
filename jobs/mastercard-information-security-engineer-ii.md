@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Information-Security-Engineer-II_R-275571) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Information-Security-Engineer-II_R-279731-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-04-16.
+This security engineer position at Mastercard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

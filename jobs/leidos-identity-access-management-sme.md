@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Identity-Access-Management-SME_R-00182894-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Identity-Access-Management-SME_R-00185735) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-13.
+This security engineer position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

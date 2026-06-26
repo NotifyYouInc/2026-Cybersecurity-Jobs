@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Breda, North Brabant, The Netherlands |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000128890049-junior-digital-identity-iamciam-specialist) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000132780151-junior-digital-identity-iamciam-specialist) |
 
 ## About This Role
 
-This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-05-28.
+This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130254578-stage-innovation-ingenieur-developpement-embarque-avec-expertise-en-5g) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132837709-stage-innovation-ingenieur-developpement-embarque-avec-expertise-en-5g) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-06-04.
+This security engineer position at ALTEN was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-IT-Security-Engineer_R263993-2) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-IT-Security-Engineer_R264737-1) |
 
 ## About This Role
 
-This security engineer position at Uline was posted on 2026-05-14.
+This security engineer position at Uline was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000115432008-head-data-security) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000132801137-head-data-security) |
 
 ## About This Role
 
-This security engineer position at Standard Bank was posted on 2026-03-18.
+This security engineer position at Standard Bank was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

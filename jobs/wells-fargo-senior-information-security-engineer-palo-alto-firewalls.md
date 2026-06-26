@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Information-Security-Engineer-Palo-Alto-Firewalls_R-548314) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Information-Security-Engineer-Palo-Alto-Firewalls_R-554740) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-06-12.
+This security engineer position at Wells Fargo was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

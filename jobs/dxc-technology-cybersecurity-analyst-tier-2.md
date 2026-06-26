@@ -1,16 +1,16 @@
-# Cybersecurity Analyst, Tier 2 at DXC Technology
+# Cybersecurity Analyst - Tier 2 at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---DE---NEWARK/Cybersecurity-Analyst--Tier-2_51582555) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---DE---NEWARK/Cybersecurity-Analyst---Tier-2_51581546) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-12.
+This soc & incident response position at DXC Technology was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

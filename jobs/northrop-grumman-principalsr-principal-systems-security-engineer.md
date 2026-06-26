@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rolling Meadows, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-Systems-Security-Engineer_R10236298) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-Systems-Security-Engineer_R10236995) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-12.
+This security engineer position at Northrop Grumman was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

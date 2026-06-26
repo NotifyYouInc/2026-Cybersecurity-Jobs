@@ -5,12 +5,12 @@
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guadalupe, Nuevo León, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Senior-Cyber-Security-Engineer_JR-0089323-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Senior-Cyber-Security-Engineer_JR-0083353-1) |
 
 ## About This Role
 
-This security engineer position at KION Group was posted on 2026-04-06.
+This security engineer position at KION Group was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

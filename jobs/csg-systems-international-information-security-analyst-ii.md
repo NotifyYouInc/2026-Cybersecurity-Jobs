@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Information-Security-Analyst-II_31847) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Information-Security-Analyst-II_32153) |
 
 ## About This Role
 
-This security engineer position at CSG Systems International was posted on 2026-04-21.
+This security engineer position at CSG Systems International was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior CyberSecurity Engineer at Humana
+# Senior Cybersecurity Engineer at Humana
 
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-CyberSecurity-Engineer_R-413333) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Cybersecurity-Engineer_R-420136) |
 
 ## About This Role
 
-This security engineer position at Humana was posted on 2026-04-21.
+This security engineer position at Humana was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Sr-Network-Security-Engineer_JR4739) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Sr-Network-Security-Engineer_JR4740) |
 
 ## About This Role
 
-This security engineer position at Axos Bank was posted on 2026-05-15.
+This security engineer position at Axos Bank was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

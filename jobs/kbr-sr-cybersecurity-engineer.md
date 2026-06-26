@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Sr-Cybersecurity-Engineer_R2124660) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Sr-Cybersecurity-Engineer_R2125305) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-06-04.
+This security engineer position at KBR was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

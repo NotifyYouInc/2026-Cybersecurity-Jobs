@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Derio, Basque Country, Spain |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012830106-ingenieroa-de-firmware-de-comunicaciones-y-ciberseguridad) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013679806-ingenieroa-de-firmware-de-comunicaciones-y-ciberseguridad) |
 
 ## About This Role
 
-This security engineer position at Wabtec was posted on 2026-04-27.
+This security engineer position at Wabtec was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

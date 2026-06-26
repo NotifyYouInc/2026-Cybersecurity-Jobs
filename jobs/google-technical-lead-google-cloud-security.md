@@ -1,16 +1,16 @@
-# Technical Lead, Google Cloud Security at Google
+# Technical lead, Google Cloud Security at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ramat Gan, Tel Aviv, Israel |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQnU68qJfZchEt50itHBjZx7JhoBBct_PGxTv9cdxt_vEjsACxwdTHco7n5tTWa3xyeC2NR6jvi78W_NkwKWk6GTM3uMWNeRpjpyvY2Vdk1Aq3e00L9d1FDxzSCrvQ%3D%3D_V2&loc=IL&title=Technical+Lead) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRvu2FDqsPlGUw7osWHd0pohUD9uswBbUcxt51a4PyHoEjsA1Ny_i3IaZxd7lC8mwT0vxUsXlh8PCeOF8wovzTGXYNOzlJk4Te0WKD7dBARzqBDkdvrOBpMFHLq7RA%3D%3D_V2&loc=IL&title=Technical+lead) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-04-23.
+This engineering manager position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

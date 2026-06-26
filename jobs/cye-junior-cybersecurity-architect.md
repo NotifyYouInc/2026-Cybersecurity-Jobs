@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CYE](https://scoutify.ai/companies/cye?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Herzliya, Tel Aviv, Israel |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.lever.co/CYE/116c241a-3dfd-42fd-a527-6aae42fd4d3b) |
+| Category | Security Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.lever.co/CYE/485eb163-dba6-4b8b-a16a-d419591676a9) |
 
 ## About This Role
 
-This cybersecurity engineer position at CYE was posted on 2026-02-12.
+This security engineer position at CYE was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

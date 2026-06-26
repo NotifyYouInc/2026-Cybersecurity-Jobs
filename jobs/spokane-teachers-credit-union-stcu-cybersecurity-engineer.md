@@ -5,12 +5,12 @@
 | Company | [Spokane Teachers Credit Union (STCU)](https://scoutify.ai/companies/spokaneteacherscreditunionstcu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Liberty Lake, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/STCU1/744000123110509-cybersecurity-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/STCU1/744000132946329-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Spokane Teachers Credit Union (STCU) was posted on 2026-04-27.
+This security engineer position at Spokane Teachers Credit Union (STCU) was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

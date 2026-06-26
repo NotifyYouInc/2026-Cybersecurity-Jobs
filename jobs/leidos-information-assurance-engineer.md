@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Information-Assurance-Engineer_R-00185278-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Information-Assurance-Engineer_R-00185689) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-12.
+This security engineer position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
