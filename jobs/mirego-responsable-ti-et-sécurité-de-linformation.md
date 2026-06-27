@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/5d7291c9-79b7-4a01-be15-2955583a0fee) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/38ad8dc0-db99-44ee-af24-c7d308315eee) |
 
 ## About This Role
 
-This it & systems administration position at Mirego was posted on 2026-06-11.
+This it & systems administration position at Mirego was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

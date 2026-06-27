@@ -1,16 +1,16 @@
-# Responsable Intégration Vérification Qualification Equipements de Cybersécurité expérimenté - F/H at Thales
+# Responsable Intégration Vérification Qualification Equipements de Cybersécurité - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cholet, Pays de la Loire, France |
 | Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cholet/Responsable-Intgration-Vrification-Qualification-Equipements-de-Cyberscurit-expriment---F-H_R0329719-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cholet/Responsable-Intgration-Vrification-Qualification-Equipements-de-Cyberscurit---F-H_R0331586-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-06-15.
+This security engineer position at Thales was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

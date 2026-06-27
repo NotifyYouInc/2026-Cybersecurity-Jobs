@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/DFIR-Lead-Cyber-Operations-Analyst_JR-0000097342-1) |
+| Location | Knutsford, England, United Kingdom |
+| Category | Security Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/DFIR-Lead-Cyber-Operations-Analyst_JR-0000097150) |
 
 ## About This Role
 
-This soc & incident response position at Barclays was posted on 2026-06-16.
+This security engineer position at Barclays was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

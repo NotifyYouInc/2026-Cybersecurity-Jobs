@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Senior-Industrial-Security-Specialist_JR2026514363-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Jacksonville-FL/Senior-Industrial-Security-Specialist_JR2026515003-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-18.
+This security engineer position at Boeing was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

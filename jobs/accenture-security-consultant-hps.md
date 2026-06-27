@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Newcastle, Northern Ireland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle-Cobalt-Business-Park-Bldg-9C/Security-Consultant---H-P_R00334996) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Security-Consultant---H-PS_R00311068) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-17.
+This security engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

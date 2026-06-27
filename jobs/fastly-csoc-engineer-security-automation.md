@@ -5,12 +5,12 @@
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7641773) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7774594) |
 
 ## About This Role
 
-This security engineer position at Fastly was posted on 2026-02-20.
+This security engineer position at Fastly was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

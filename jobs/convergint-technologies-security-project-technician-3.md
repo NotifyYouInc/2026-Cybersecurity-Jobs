@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Noblesville, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=e18a1cbb-cda0-48e4-b67d-83a80b1b3cef) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=9b0692ac-6e08-4dea-a7bd-9bb6c73f53e9) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-05-29.
+This security engineer position at Convergint Technologies was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

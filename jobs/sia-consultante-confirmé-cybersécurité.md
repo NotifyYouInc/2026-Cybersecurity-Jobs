@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121983263-consultante-confirme-cybersecurite) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000133075439-consultante-confirme-cybersecurite) |
 
 ## About This Role
 
-This security engineer position at SIA was posted on 2026-04-21.
+This security engineer position at SIA was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

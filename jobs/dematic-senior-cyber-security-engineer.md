@@ -5,12 +5,12 @@
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guadalupe, Nuevo León, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Guadalupe-Mexico/Senior-Cyber-Security-Engineer_JR-0089323) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Guadalupe-Mexico/Senior-Cyber-Security-Engineer_JR-0083353) |
 
 ## About This Role
 
-This security engineer position at Dematic was posted on 2026-04-06.
+This security engineer position at Dematic was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

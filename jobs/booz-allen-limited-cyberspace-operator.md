@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Fort Meade, Maryland, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Limited-Cyberspace-Operator_R0241965) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Limited-Cyberspace-Operator_R0242614) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-06-10.
+This offensive security & pentesting position at Booz Allen was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

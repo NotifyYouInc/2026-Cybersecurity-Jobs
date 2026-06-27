@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Huntingdon, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Brussels-Belgium/Security-Architect_R-00182325) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Security-Architect_R-00185221) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-01.
+This security engineer position at Leidos was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
