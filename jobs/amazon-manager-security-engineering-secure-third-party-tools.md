@@ -1,16 +1,16 @@
-# Incident Management Engineer (Korean/English bilingual), Incident Detection and Response at Amazon
+# Manager, Security Engineering, Secure Third Party Tools at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420615/incident-management-engineer-korean-english-bilingual-incident-detection-and-response) |
+| Location | Seattle, Washington, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441417/manager-security-engineering-secure-third-party-tools) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-05-15.
+This engineering manager position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

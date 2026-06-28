@@ -1,16 +1,16 @@
-# Security Specialist-Infrastructure Security at IBM
+# Lead Senior Security Engineer (Enterprise AI Platform) at Evolver
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Evolver](https://scoutify.ai/companies/evolver?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121095) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/evolver/jobs/4291221009) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-06-18.
+This security engineer position at Evolver was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

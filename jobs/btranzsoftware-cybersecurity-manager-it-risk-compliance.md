@@ -1,16 +1,16 @@
-# Cyber Security New Associate at Accenture
+# Cybersecurity Manager – IT Risk & Compliance at btranzsoftware
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Security Engineer |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Cyber-Security-New-Associate_R00321829) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000133219664-cybersecurity-manager-it-risk-compliance) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-21.
+This security engineer position at btranzsoftware was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

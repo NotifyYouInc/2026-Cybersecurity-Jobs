@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000132780151-junior-digital-identity-iamciam-specialist) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133006359-junior-digital-identity-iamciam-specialist) |
 
 ## About This Role
 
-This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-18.
+This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

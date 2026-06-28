@@ -1,16 +1,16 @@
-# Incident Management Engineer (Korean/English bilingual), Incident Detection and Response at Amazon
+# AWS Security Controls Specialist, AWS Compliance & Security Assurance at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420615/incident-management-engineer-korean-english-bilingual-incident-detection-and-response) |
+| Location | 4 locations |
+| Category | Security Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441354/aws-security-controls-specialist-aws-compliance-security-assurance) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-05-15.
+This security engineer position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
