@@ -1,16 +1,16 @@
-# Staff security engineer (Fintech Information Security Engineering) at Coupang
+# Cybersecurity Manager on Service at Dedalus CandG
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8020145) |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/ITA---Milan---Trinita/Cybersecurity-Manager-on-Service_JR108593) |
 
 ## About This Role
 
-This security engineer position at Coupang was posted on 2026-06-22.
+This security engineer position at Dedalus CandG was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff security engineer (Fintech Information Security Engineering) at Coupang
+# Cloud Security Architect at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8020145) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454627/cloud-security-architect) |
 
 ## About This Role
 
-This security engineer position at Coupang was posted on 2026-06-22.
+This security engineer position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

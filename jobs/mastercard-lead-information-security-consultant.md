@@ -1,16 +1,16 @@
-# Lead, Information Security Consultant at Mastercard
+# Lead Information Security Consultant at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Lead--Information-Security-Consultant_R-272008) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Lead-Information-Security-Consultant_R-280380) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-03-19.
+This security engineer position at Mastercard was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000132563469-projektleiter-planer-mwd-fur-sicherheits-und-leitstellentechnik) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000133263339-projektleiter-planer-mwd-fur-sicherheits-und-leitstellentechnik) |
 
 ## About This Role
 
-This security engineer position at flash-security was posted on 2026-06-17.
+This security engineer position at flash-security was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

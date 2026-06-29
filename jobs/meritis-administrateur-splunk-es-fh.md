@@ -1,16 +1,16 @@
-# Staff security engineer (Fintech Information Security Engineering) at Coupang
+# Administrateur Splunk ES (F/H) at Meritis
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Security Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8020145) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000133278243-administrateur-splunk-es-fh) |
 
 ## About This Role
 
-This security engineer position at Coupang was posted on 2026-06-22.
+This security engineer position at Meritis was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
