@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cocoa, Florida, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cocoa-Florida/COMSEC-Responsible-Officer--CRO---IA-Technical-IAT-II---Government-_R-112756) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chantilly-Virginia/COMSEC-Responsible-Officer--CRO---IA-Technical-IAT-II---Government-_R-113365) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-06-12.
+This security engineer position at AT&T was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

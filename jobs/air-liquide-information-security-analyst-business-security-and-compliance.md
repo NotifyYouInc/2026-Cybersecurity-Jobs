@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Buenos Aires, AR |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Argentina-Munro/Information-Security-Analyst---Business-Security-and-Compliance_R10083725) |
+| Location | Houston, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO---Digital--IT---Hub/Information-Security-Analyst---Business-Security-and-Compliance_R10093304) |
 
 ## About This Role
 
-This cybersecurity engineer position at Air Liquide was posted on 2026-01-30.
+This security engineer position at Air Liquide was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

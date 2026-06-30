@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/Beca-Ciberseguridad_20097848) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/Beca-Ciberseguridad_20098224) |
 
 ## About This Role
 
-This security engineer position at Acciona was posted on 2026-06-11.
+This security engineer position at Acciona was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

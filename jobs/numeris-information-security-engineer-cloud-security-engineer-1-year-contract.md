@@ -5,12 +5,12 @@
 | Company | [Numeris](https://scoutify.ai/companies/numeris?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/numeris/7fad7f57-f7cd-44ca-ad21-6353c2f13a6e) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.lever.co/numeris/f509f226-f22a-43d9-a1d6-863f0d4a1af0) |
 
 ## About This Role
 
-This security engineer position at Numeris was posted on 2026-06-01.
+This security engineer position at Numeris was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

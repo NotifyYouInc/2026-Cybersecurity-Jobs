@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132983629-communications-and-security-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133260690-communications-and-security-engineer) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-06-19.
+This security engineer position at AECOM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

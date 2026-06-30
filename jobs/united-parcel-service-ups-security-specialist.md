@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | Philippines |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---BRISTOL-GBBTL/Security-Specialist_R26012860) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---NEW-HUB-PHPGA/Security-Specialist_R26009863) |
 
 ## About This Role
 
-This security engineer position at United Parcel Service (UPS) was posted on 2026-04-27.
+This security engineer position at United Parcel Service (UPS) was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

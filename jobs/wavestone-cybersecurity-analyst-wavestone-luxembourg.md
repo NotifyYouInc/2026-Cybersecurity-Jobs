@@ -1,16 +1,16 @@
-# Cybersecurity Analyst – Wavestone Luxembourg at Wavestone
+# Cybersecurity Analyst – Wavestone Luxembourg  at Wavestone
 
 | Field | Details |
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Luxembourg |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000126017579-cybersecurity-analyst-wavestone-luxembourg) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133309932-cybersecurity-analyst-wavestone-luxembourg) |
 
 ## About This Role
 
-This security engineer position at Wavestone was posted on 2026-05-12.
+This security engineer position at Wavestone was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

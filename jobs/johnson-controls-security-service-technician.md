@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Madison-Wisconsin-United-States-of-America/Security-Service-Technician_WD30271742) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/Security-Service-Technician_WD30272674) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-06-09.
+This security engineer position at Johnson Controls was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

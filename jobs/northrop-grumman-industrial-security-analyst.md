@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rolling Meadows, Illinois, United States |
+| Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Industrial-Security-Analyst_R10235618) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Industrial-Security-Analyst_R10236980) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-09.
+This security engineer position at Northrop Grumman was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

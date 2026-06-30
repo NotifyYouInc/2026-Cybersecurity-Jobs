@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Luxembourg |
-| Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114354578-network-and-security-administrator) |
+| Location | Leudelange, Esch-sur-Alzette, Luxembourg |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133362680-network-and-security-administrator) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-03-12.
+This it & systems administration position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Program Manager |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-HARYANA-GURUGRAM-10th-Floor-Tower-10B-DLF-Cyber-City-DLF-Phase-2-Sec-24/Senior-Cyber-Security-Engineer_R150273) |
+| Location | Nailsea, England, United Kingdom |
+| Category | Security Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Senior-Cyber-Security-Engineer_R165158) |
 
 ## About This Role
 
-This program manager position at Baker Hughes was posted on 2026-02-02.
+This security engineer position at Baker Hughes was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

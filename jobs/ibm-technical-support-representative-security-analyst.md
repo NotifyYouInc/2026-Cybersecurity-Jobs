@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118340) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=122047) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-30.
+This security engineer position at IBM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

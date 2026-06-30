@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000132827133-senior-security-engineer-freelance) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000133278060-senior-security-engineer-freelance) |
 
 ## About This Role
 
-This security engineer position at Netcompany was posted on 2026-06-18.
+This security engineer position at Netcompany was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

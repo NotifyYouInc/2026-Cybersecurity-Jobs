@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Security-Expert_R215890-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Place-DC037/Security-Expert_R226797-1) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-03-24.
+This security engineer position at PNC Financial was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

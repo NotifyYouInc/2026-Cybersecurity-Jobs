@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Newcastle upon Tyne, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000121240405-installation-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133349971-installation-engineer) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-04-16.
+This security engineer position at Securitas was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

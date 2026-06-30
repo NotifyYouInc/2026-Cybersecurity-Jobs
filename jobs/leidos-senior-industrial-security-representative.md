@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-Industrial-Security-Representative_R-00181627) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Senior-Industrial-Security-Representative_R-00185652-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-24.
+This security engineer position at Leidos was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132582949-responsable-securite-operationnelle-systeme-dinformation-cybersecurite-toulouse) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133284799-responsable-securite-operationnelle-systeme-dinformation-cybersecurite-toulouse) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-17.
+This security engineer position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

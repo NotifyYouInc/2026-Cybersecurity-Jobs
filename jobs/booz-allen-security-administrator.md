@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warren-MI/Security-Administrator_R0241791) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warren-MI/Security-Administrator_R0242485) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-09.
+This security engineer position at Booz Allen was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

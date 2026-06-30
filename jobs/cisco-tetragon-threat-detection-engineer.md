@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Zurich-Switzerland/Tetragon-Threat-Detection-Engineer_2013094) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Zurich-Switzerland/Tetragon-Threat-Detection-Engineer_2013091) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-10.
+This security engineer position at Cisco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

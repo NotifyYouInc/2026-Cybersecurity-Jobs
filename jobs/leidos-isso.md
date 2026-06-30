@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/ISSO_R-00184357) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/ISSO_R-00185769) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-01.
+This security engineer position at Leidos was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

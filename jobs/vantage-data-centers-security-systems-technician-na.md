@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Ashburn-Virginia/Security-Systems-Technician--NA_R23489) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Ashburn-Virginia/Security-Systems-Technician--NA_R23502) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-06-18.
+This security engineer position at Vantage Data Centers was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

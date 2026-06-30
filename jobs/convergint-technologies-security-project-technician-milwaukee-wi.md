@@ -1,16 +1,16 @@
-# Security Project Technician - Milwaukee, WI at Convergint Technologies
+# Security Project Technician Milwaukee, WI at Convergint Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Menomonee Falls, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=06b63e36-83d1-4ce6-a522-4148f1be5821) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=331adf7d-8e54-4dd3-9596-acfbaca660a9) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-06-16.
+This security engineer position at Convergint Technologies was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

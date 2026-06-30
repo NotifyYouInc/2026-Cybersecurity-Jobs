@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DYOPATH](https://scoutify.ai/companies/dyopath?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dyopath/jobs/4683548006) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dyopath/jobs/4690689006) |
 
 ## About This Role
 
-This security engineer position at DYOPATH was posted on 2026-05-21.
+This security engineer position at DYOPATH was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

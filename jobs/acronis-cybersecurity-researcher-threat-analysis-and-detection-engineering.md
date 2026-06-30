@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Singapore/Cybersecurity-Researcher--Threat-Analysis-and-Detection-Engineering-_R-100840-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Spain---Remote/Cybersecurity-Researcher--Threat-Analysis-and-Detection-Engineering-_R-100514) |
 
 ## About This Role
 
-This security engineer position at Acronis was posted on 2026-05-07.
+This security engineer position at Acronis was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

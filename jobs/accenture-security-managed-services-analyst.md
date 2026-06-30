@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Analyst_14206785) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Security Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Managed-Services-Analyst_13740682) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-04-30.
+This security engineer position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
