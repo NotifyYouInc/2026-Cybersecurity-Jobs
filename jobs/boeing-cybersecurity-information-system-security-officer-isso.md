@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Tukwila, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Cybersecurity---Information-System-Security-Officer--ISSO-_JR2026491963-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Cybersecurity---Information-System-Security-Officer--ISSO-_JR2026515340-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-19.
+This security engineer position at Boeing was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

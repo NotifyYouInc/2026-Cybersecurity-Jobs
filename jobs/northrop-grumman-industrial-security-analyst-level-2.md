@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Linthicum, Maryland, United States |
+| Location | Utah, US |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Industrial-Security-Analyst---Level-2_R10235211) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Industrial-Security-Analyst---Level-2_R10237316) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-04.
+This security engineer position at Northrop Grumman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

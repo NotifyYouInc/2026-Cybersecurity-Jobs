@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeyondTrust](https://scoutify.ai/companies/beyondtrust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/7966643) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beyondtrust/jobs/7966569) |
 
 ## About This Role
 
-This security engineer position at BeyondTrust was posted on 2026-06-01.
+This security engineer position at BeyondTrust was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

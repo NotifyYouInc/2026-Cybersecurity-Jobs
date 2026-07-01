@@ -1,16 +1,16 @@
-# Manager, Security Engineering, AWS Security Incident Response at Amazon
+# Manager, Security Engineering, AWS Security Incident & Response at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432387/manager-security-engineering-aws-security-incident-response) |
+| Location | Singapore, Singapore |
+| Category | Engineering Manager |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457187/manager-security-engineering-aws-security-incident-response) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-27.
+This engineering manager position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

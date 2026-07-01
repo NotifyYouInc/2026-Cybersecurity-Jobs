@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Penetration-Tester---TS-SCI-with-Polygraph_RQ221038) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Penetration-Tester---TS-SCI-with-Polygraph_RQ222756-2) |
 
 ## About This Role
 
-This offensive security & pentesting position at General Dynamics Information Technology was posted on 2026-06-04.
+This offensive security & pentesting position at General Dynamics Information Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

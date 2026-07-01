@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Falls Church, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Virginia-Beach/Cyber-Security-Manager_RQ217764-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cyber-Security-Manager_RQ222780-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-06.
+This security engineer position at General Dynamics Information Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

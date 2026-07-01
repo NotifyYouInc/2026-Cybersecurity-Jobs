@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Largo, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Senior-Cyber-Security-Engineer--Onsite-_01846885) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Senior-Cyber-Security-Engineer--Onsite-_01854295) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-05-20.
+This security engineer position at RTX was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

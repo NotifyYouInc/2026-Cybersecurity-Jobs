@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Malaysia |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/SIEM-Engineer_JOBREQ-0003458) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/SIEM-Engineer_JOBREQ-0003522) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-05-07.
+This security engineer position at Ensigninfosecurity was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hemel Hempstead, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129488749-senior-cyber-security-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133546231-senior-cyber-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Smiths Group was posted on 2026-06-01.
+This security engineer position at Smiths Group was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

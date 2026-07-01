@@ -5,12 +5,12 @@
 | Company | [Redis](https://scoutify.ai/companies/redis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/redis/be8a5417-df85-4170-b608-3a8419af65b7) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/redis/71df38f1-615b-45a1-a604-f4a65417828b) |
 
 ## About This Role
 
-This security engineer position at Redis was posted on 2026-05-12.
+This security engineer position at Redis was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

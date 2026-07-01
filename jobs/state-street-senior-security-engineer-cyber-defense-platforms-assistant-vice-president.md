@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Security-Engineer--Cyber-Defense-Platforms---Assistant-Vice-President_R-790624-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Security-Engineer--Cyber-Defense-Platforms---Assistant-Vice-President_R-792510) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-05-24.
+This security engineer position at State Street was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133319279-consultant-information-security) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133857698-consultant-information-security) |
 
 ## About This Role
 
-This security engineer position at WNS was posted on 2026-06-22.
+This security engineer position at WNS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

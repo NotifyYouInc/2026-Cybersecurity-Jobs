@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Security-Delivery-Lead_51580386) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Security-Delivery-Lead_51579368) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-05-13.
+This security engineer position at DXC Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

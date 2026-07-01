@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Information-Governance-Specialist-Domestic-Group-Company-Support-of-Communication-and-Energy-Company---Rakuten-Mobile---RTS-Support-Group--Information-Security---Privacy-Governance-Department--ISPD-_1033985-84) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Information-Governance-Specialist-Domestic-Group-Company-Support-of-Communication-and-Energy-Company---Rakuten-Mobile---RTS-Support-Group--Information-Security---Privacy-Governance-Department--ISPD-_1035044-113) |
 
 ## About This Role
 
-This security engineer position at Rakuten was posted on 2026-05-29.
+This security engineer position at Rakuten was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

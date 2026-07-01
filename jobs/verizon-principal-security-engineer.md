@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Principal-Security-Engineer_R-1090814) |
+| Location | 6 locations |
+| Category | Security Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Principal-Security-Engineer_R-1096860) |
 
 ## About This Role
 
-This data engineer position at Verizon was posted on 2026-02-06.
+This security engineer position at Verizon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

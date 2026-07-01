@@ -1,16 +1,16 @@
-# Senior Security Engineer - Network Security  at H&M Group
+# Senior Security Engineer (Network Security) at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000126156149-senior-security-engineer-network-security) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133536117-senior-security-engineer-network-security) |
 
 ## About This Role
 
-This security engineer position at H&M Group was posted on 2026-05-12.
+This security engineer position at H&M Group was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

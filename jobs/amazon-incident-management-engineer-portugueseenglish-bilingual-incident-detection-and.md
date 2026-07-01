@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443072/incident-management-engineer-portuguese-english-bilingual-incident-detection-and-response) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456602/incident-management-engineer-portuguese-english-bilingual-incident-detection-and-response) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-06-08.
+This soc & incident response position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
