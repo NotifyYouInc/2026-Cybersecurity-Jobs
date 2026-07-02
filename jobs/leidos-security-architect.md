@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntingdon, England, United Kingdom |
+| Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Security-Architect_R-00185221) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Security-Architect_R-00186023) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-19.
+This security engineer position at Leidos was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

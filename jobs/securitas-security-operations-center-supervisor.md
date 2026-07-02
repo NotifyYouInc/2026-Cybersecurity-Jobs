@@ -6,7 +6,7 @@
 | Location | Winschoten, Groningen, The Netherlands |
 | Category | SOC & Incident Response |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133621529-security-operations-center-supervisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133625139-security-operations-center-supervisor) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Seoul, Seoul, South Korea |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116203) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=122881) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-06-05.
+This security engineer position at IBM was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Winschoten, Groningen, The Netherlands |
 | Category | SOC & Incident Response |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133623115-security-operations-center-analist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133623540-security-operations-center-analist) |
 
 ## About This Role
 

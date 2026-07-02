@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tennessee, US |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000118251455-it-security-analyst) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133960999-it-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Endava was posted on 2026-04-01.
+This security engineer position at Endava was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

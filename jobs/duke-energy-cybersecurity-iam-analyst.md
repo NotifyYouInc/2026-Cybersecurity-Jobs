@@ -5,12 +5,12 @@
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Cybersecurity-IAM-Analyst_R40165) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Cybersecurity-IAM-Analyst_R40278) |
 
 ## About This Role
 
-This security engineer position at Duke Energy was posted on 2026-06-16.
+This security engineer position at Duke Energy was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

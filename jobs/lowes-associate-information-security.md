@@ -1,16 +1,16 @@
-# Associate, Information Security at Lowe's
+# Associate Information security at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate--Information-Security_JR-02493393) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Information-security_JR-02499673) |
 
 ## About This Role
 
-This security engineer position at Lowe's was posted on 2026-06-04.
+This security engineer position at Lowe's was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

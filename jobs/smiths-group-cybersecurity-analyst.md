@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133602848-cybersecurity-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133667077-cybersecurity-analyst) |
 
 ## About This Role
 

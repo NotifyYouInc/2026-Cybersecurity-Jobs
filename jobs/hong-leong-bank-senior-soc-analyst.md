@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Malaysia |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PJC-PJ-City/Senior-SOC-Analyst_JR0000023309) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Security Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PJC-PJ-City/Senior-SOC-Analyst_JR0000025239) |
 
 ## About This Role
 
-This cybersecurity engineer position at Hong Leong Bank was posted on 2026-02-13.
+This security engineer position at Hong Leong Bank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

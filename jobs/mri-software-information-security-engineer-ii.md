@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Information-Security-Engineer-II_R-107089-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Information-Security-Engineer-II_R-107913) |
 
 ## About This Role
 
-This security engineer position at MRI Software was posted on 2026-03-05.
+This security engineer position at MRI Software was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

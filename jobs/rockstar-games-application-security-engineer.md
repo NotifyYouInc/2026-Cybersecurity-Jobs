@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockstar Games](https://scoutify.ai/companies/rockstar-games?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dundee, Scotland, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7644897003) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7644896003) |
 
 ## About This Role
 
-This security engineer position at Rockstar Games was posted on 2026-02-25.
+This security engineer position at Rockstar Games was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

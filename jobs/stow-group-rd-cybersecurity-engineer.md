@@ -5,12 +5,12 @@
 | Company | [STOW Group](https://scoutify.ai/companies/stow-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lokeren, Flanders, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000122605054-rd-cybersecurity-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000133889659-rd-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at STOW Group was posted on 2026-04-24.
+This security engineer position at STOW Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

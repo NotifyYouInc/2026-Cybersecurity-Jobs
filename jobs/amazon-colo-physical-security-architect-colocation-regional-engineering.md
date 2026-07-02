@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434300/colo-physical-security-architect-colocation-regional-engineering) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458471/colo-physical-security-architect-colocation-regional-engineering) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-29.
+This security engineer position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

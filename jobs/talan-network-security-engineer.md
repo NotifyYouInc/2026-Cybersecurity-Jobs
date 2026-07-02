@@ -1,16 +1,16 @@
-# Network & Security Engineer at Talan
+# Network Security Engineer at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109162406-network-security-engineer) |
+| Location | New York City, New York, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134030217-network-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Talan was posted on 2026-02-13.
+This security engineer position at Talan was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

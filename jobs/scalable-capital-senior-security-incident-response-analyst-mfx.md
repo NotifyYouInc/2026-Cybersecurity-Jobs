@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000123899861-senior-security-incident-response-analyst-mfx) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000133953167-senior-security-incident-response-analyst-mfx) |
 
 ## About This Role
 
-This soc & incident response position at Scalable Capital was posted on 2026-04-30.
+This soc & incident response position at Scalable Capital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

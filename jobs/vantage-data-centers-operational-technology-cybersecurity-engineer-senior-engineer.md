@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Cyberjaya-Malaysia/Operational-Technology-Cybersecurity-Engineer---Senior-Engineer_R23494) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Cyberjaya-Malaysia/Operational-Technology-Cybersecurity-Engineer---Senior-Engineer_R23438) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-06-18.
+This security engineer position at Vantage Data Centers was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

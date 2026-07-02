@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000133424979-sr-investigator-cyber-security) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000134022411-sr-investigator-cyber-security) |
 
 ## About This Role
 
-This soc & incident response position at Versant was posted on 2026-06-22.
+This soc & incident response position at Versant was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florida, US |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Cyber-Security-Specialist--RMF-_RQ216829-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Cyber-Security-Specialist--RMF-_RQ222839-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-19.
+This security engineer position at General Dynamics Information Technology was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Cybersecurity_R-792824) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Cybersecurity_R-792890) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-06-23.
+This security engineer position at State Street was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

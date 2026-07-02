@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Poland/Architect---Cybersecurity_R247677) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Poland/Architect---Cybersecurity_R255619) |
 
 ## About This Role
 
-This security engineer position at Sysco was posted on 2026-05-14.
+This security engineer position at Sysco was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

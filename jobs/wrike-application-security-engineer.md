@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Estonia |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4704184005) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4709182005) |
 
 ## About This Role
 
-This security engineer position at Wrike was posted on 2026-06-09.
+This security engineer position at Wrike was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete--Hybrid-_R28453) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete--Hybrid-_R28817) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-05-11.
+This soc & incident response position at CrowdStrike was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

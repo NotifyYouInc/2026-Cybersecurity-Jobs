@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Falkensee, Brandenburg, Germany |
+| Location | Senftenberg, Brandenburg, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000129652656-servicetechniker-fur-sicherheits-und-alarmanlagen-mwd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000133865419-servicetechniker-fur-sicherheits-und-alarmanlagen-mwd) |
 
 ## About This Role
 
-This security engineer position at flash-security was posted on 2026-06-02.
+This security engineer position at flash-security was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

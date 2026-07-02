@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Pune-Mississippi-Building/PAM-Security-Analyst_R26-766) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/PAM-Security-Analyst_R26-4425) |
 
 ## About This Role
 
-This security engineer position at Rockwell Automation was posted on 2026-02-26.
+This security engineer position at Rockwell Automation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
