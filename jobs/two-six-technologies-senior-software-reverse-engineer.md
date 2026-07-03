@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5848368004) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5985657004) |
 
 ## About This Role
 
-This offensive security & pentesting position at Two Six Technologies was posted on 2026-04-08.
+This offensive security & pentesting position at Two Six Technologies was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

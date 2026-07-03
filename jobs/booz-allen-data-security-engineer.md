@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Illinois, US |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Data-Security-Engineer_R0235663) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Scott-AFB-IL/Data-Security-Engineer_R0243054-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-19.
+This security engineer position at Booz Allen was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

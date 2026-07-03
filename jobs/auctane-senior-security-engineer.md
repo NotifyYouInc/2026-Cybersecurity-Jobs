@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auctane](https://scoutify.ai/companies/auctane?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/auctane/jobs/7681398003) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/auctane/jobs/7770754003) |
 
 ## About This Role
 
-This security engineer position at Auctane was posted on 2026-04-29.
+This security engineer position at Auctane was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

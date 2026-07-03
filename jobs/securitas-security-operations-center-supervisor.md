@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Winschoten, Groningen, The Netherlands |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133625139-security-operations-center-supervisor) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134290417-security-operations-center-supervisor) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-06-23.
+This soc & incident response position at Securitas was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

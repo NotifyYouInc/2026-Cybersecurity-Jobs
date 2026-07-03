@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Madrid, Madrid, Spain |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Senior-Red-Team-Operator_REQ-10112430-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Senior-Red-Team-Operator_REQ-10117229-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at ING was posted on 2026-04-14.
+This offensive security & pentesting position at ING was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

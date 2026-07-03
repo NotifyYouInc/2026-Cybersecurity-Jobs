@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Great Falls, Montana, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MT-GREAT-FALLS-6932-CUST--6932-Goddard-Dr--GODDARD-External-Site/Network-Security-Analyst--Onsite-_01840908) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MT-GREAT-FALLS-6932-CUST--6932-Goddard-Dr--GODDARD-External-Site/Network-Security-Analyst--Onsite-_01855540) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-05-07.
+This soc & incident response position at RTX was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

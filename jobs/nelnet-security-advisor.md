@@ -5,12 +5,12 @@
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Security-Advisor_R22554-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Security-Advisor_R22775) |
 
 ## About This Role
 
-This security engineer position at Nelnet was posted on 2026-04-28.
+This security engineer position at Nelnet was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

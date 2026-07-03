@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128751059-threat-detection-engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000134264749-threat-detection-engineer) |
 
 ## About This Role
 
-This security engineer position at EVERSANA was posted on 2026-05-27.
+This security engineer position at EVERSANA was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brazil |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8536527002) |
+| Category | Engineering Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8583991002) |
 
 ## About This Role
 
-This security engineer position at Wellhub was posted on 2026-05-05.
+This engineering manager position at Wellhub was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

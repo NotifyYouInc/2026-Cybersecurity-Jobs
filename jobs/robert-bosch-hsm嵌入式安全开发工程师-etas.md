@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132561809-hsm-etas) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134388289-hsm-etas) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-17.
+This security engineer position at Robert Bosch was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

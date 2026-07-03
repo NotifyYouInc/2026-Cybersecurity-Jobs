@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990011716646-information-security-specialist) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990013788115-information-security-specialist) |
 
 ## About This Role
 
-This security engineer position at MAXISIQ was posted on 2026-02-17.
+This security engineer position at MAXISIQ was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

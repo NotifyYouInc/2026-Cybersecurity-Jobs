@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Waterford, Munster, Ireland |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00123367) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00124911) |
 
 ## About This Role
 
-This offensive security & pentesting position at Sun Life Financial was posted on 2026-05-08.
+This offensive security & pentesting position at Sun Life Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

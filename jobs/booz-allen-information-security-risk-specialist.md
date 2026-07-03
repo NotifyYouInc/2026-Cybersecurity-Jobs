@@ -1,12 +1,12 @@
-# Information Security Risk Specialist  at Booz Allen
+# Information Security Risk Specialist at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Information-Security-Risk-Specialist-_R0242922-1) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0242984) |
 
 ## About This Role
 

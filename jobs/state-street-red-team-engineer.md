@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kilkenny, Leinster, Ireland |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Red-Team-Engineer_R-789967-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Red-Team-Engineer_R-789968) |
 
 ## About This Role
 
-This offensive security & pentesting position at State Street was posted on 2026-05-13.
+This offensive security & pentesting position at State Street was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

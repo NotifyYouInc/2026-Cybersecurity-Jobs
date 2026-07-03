@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Clara, Villa Clara Province, Cuba |
+| Location | Santa Clara, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Lead-Product-Security-Architect_R-072077-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Lead-Product-Security-Architect_R-085082) |
 
 ## About This Role
 
-This security engineer position at Johnson & Johnson was posted on 2026-05-07.
+This security engineer position at Johnson & Johnson was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

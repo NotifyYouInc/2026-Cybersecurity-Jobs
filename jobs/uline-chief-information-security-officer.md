@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Chief-Information-Security-Officer_R264768-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Chief-Information-Security-Officer_R264965) |
 
 ## About This Role
 
-This security engineer position at Uline was posted on 2026-06-19.
+This security engineer position at Uline was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

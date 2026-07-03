@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fayetteville, North Carolina, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Cybersecurity-Operations-Center-Analyst_R0235322) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Cybersecurity-Operations-Center-Analyst_R0243048) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-03-06.
+This soc & incident response position at Booz Allen was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

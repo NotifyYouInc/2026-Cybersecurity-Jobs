@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, US |
-| Category | Security Engineer |
+| Location | Canada |
+| Category | SOC & Incident Response |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084) |
 
 ## About This Role
 
-This security engineer position at Samsara was posted on 2026-06-24.
+This soc & incident response position at Samsara was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

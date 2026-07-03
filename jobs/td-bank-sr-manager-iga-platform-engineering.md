@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Sr-Manager-IGA-Platform-Engineering_R_1467119) |
+| Location | 3 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Sr-Manager-IGA-Platform-Engineering_R_1476812) |
 
 ## About This Role
 
-This security engineer position at TD Bank was posted on 2026-03-02.
+This engineering manager position at TD Bank was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

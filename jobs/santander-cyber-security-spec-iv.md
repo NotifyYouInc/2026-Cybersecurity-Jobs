@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Cyber-Security-Spec-IV_Req1586461) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Cyber-Security-Spec-IV_Req1588994) |
 
 ## About This Role
 
-This security engineer position at Santander was posted on 2026-06-10.
+This security engineer position at Santander was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

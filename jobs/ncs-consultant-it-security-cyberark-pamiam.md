@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001176393-consultant-it-security-cyberark-pamiam) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001182558-consultant-it-security-cyberark-pamiam) |
 
 ## About This Role
 
-This security engineer position at NCS was posted on 2026-06-23.
+This security engineer position at NCS was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

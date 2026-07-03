@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Security-Engineer_R0119168-1) |
+| Category | Engineering Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Security-Engineer_R0120918-1) |
 
 ## About This Role
 
-This security engineer position at LSEG was posted on 2026-05-14.
+This engineering manager position at LSEG was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

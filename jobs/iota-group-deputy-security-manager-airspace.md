@@ -5,12 +5,12 @@
 | Company | [IOTA GROUP](https://scoutify.ai/companies/iotagroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pemba, Cabo Delgado Province, Mozambique |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000121253045-deputy-security-manager-airspace) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000134405672-deputy-security-manager-airspace) |
 
 ## About This Role
 
-This security engineer position at IOTA GROUP was posted on 2026-04-16.
+This security engineer position at IOTA GROUP was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

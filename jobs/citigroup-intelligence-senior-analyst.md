@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Intelligence-Senior-Analyst_26941367) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Intelligence-Senior-Analyst_26974477) |
 
 ## About This Role
 
-This soc & incident response position at Citigroup was posted on 2026-02-26.
+This soc & incident response position at Citigroup was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

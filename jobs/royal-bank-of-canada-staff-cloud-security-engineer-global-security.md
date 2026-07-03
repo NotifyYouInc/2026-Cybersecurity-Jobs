@@ -1,16 +1,16 @@
-# Staff, Cloud Security Engineer (Global Security) at Royal Bank of Canada
+# Staff Cloud Security Engineer (Global Security) at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Staff--Cloud-Security-Engineer--Global-Security-_R-0000174330-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Staff-Cloud-Security-Engineer--Global-Security-_R-0000176781) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-06-08.
+This security engineer position at Royal Bank of Canada was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

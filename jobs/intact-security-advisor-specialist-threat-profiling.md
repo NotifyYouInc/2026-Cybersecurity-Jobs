@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Security-Advisor-Specialist---Threat-Profiling_R152326) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Security-Advisor-Specialist---Threat-Profiling_R154398) |
 
 ## About This Role
 
-This soc & incident response position at Intact was posted on 2026-03-13.
+This security engineer position at Intact was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

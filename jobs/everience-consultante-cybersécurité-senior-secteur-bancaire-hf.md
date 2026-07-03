@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Annecy, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000133892539-consultante-cybersecurite-senior-secteur-bancaire-hf) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134208819-consultante-cybersecurite-senior-secteur-bancaire-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-06-24.
+This security engineer position at Everience was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

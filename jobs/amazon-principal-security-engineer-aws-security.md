@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457968/principal-security-engineer-aws-security) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459403/principal-security-engineer-aws-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-24.
+This security engineer position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
