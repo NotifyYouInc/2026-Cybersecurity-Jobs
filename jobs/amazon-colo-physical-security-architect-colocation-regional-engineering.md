@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458471/colo-physical-security-architect-colocation-regional-engineering) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458782/colo-physical-security-architect-colocation-regional-engineering) |
 
 ## About This Role
 

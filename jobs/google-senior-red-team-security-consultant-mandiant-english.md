@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brazil |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUlKTybEOgII1tjcW4axf9y2DClAcL_mbfM5nxb5y08YEjsACxwdTHS8lj3CrRLQIE2Z45Soaz4SODZdIlJafVm9vCYW3xZKtf-f2e_R8Jp2EPJUAWs6i9w81EaYyw%3D%3D_V2&loc=US&title=Senior+Red+Team+Security+Consultant) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWL2OCcZiOKHspKcGEmCNLsZHnYozTg1qEf0L1LjnYUOEjsA1Ny_i4ZtR_8b-DoP7FbIr8bY-nG34aD6a4gTnQUVz9mra4_tv5baoPU27iiAmRwrlGGT0KVTG8Bk3w%3D%3D_V2&loc=US&title=Senior+Red+Team+Security+Consultant) |
 
 ## About This Role
 
-This offensive security & pentesting position at Google was posted on 2026-04-20.
+This offensive security & pentesting position at Google was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

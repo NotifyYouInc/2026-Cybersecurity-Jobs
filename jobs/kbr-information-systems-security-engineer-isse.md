@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lorton-Virginia/Information-Systems-Security-Engineer--ISSE-_R2122350) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Information-Systems-Security-Engineer--ISSE-_R2125665) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-04-21.
+This security engineer position at KBR was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

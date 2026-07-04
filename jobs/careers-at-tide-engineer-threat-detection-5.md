@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Lithuania |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7626464003) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7786953003) |
 
 ## About This Role
 
-This security engineer position at Careers at Tide was posted on 2026-04-29.
+This security engineer position at Careers at Tide was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

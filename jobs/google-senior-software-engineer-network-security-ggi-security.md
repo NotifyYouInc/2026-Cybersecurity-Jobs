@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc5Oqa76NMkGweFji9RGtOFxNefWaM5eBG7AVUqua2z1EjoACxwdTD7xB06klOjzDfpFN39IfsxdoSIt1iVKJwIg_-B_12ZT_XFRhL1Q82ph-fPFzLpsQOGVD5wZ_V2&loc=AU&title=Senior+Software+Engineer) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaeDkQRFtDE5elgQH64UEXpYaycJvm-zUWgS8RADQI2-EjoA1Ny_i1m8bo7aaXXSVzsL1UpkyjFbJrYXo3DuJ3Y-AXhyA8Xm-YdYbqOsSb5d_7niood3WMirNaoy_V2&loc=AU&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-22.
+This security engineer position at Google was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

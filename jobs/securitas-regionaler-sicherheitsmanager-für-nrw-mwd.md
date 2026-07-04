@@ -6,7 +6,7 @@
 | Location | Leverkusen, North Rhine-Westphalia, Germany |
 | Category | Security Engineer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134177959-regionaler-sicherheitsmanager-fur-nrw-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134263565-regionaler-sicherheitsmanager-fur-nrw-mwd) |
 
 ## About This Role
 

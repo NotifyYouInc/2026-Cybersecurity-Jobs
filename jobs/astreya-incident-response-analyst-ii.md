@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Jose, California, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Incident-Response-Analyst-II_R0016023) |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Jose-CA/Incident-Response-Analyst-II_R0016038) |
 
 ## About This Role
 

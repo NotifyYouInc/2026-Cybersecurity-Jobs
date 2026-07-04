@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/VP-Security-Guardian--Product-Security_R-790218) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Information-Security-Officer_R-790211) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-05-13.
+This security engineer position at State Street was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

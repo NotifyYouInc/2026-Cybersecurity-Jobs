@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Security-Administrator_R0162066) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Security-Administrator_R0164519) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-05-22.
+This security engineer position at Amentum was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

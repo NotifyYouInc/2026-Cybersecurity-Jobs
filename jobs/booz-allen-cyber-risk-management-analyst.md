@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Albuquerque, New Mexico, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Cyber-Risk-Management-Analyst_R0242679) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Cyber-Risk-Management-Analyst_R0243129-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-22.
+This security engineer position at Booz Allen was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
