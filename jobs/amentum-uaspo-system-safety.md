@@ -1,16 +1,16 @@
-# Application Security Testing at IBM
+# UASPO System Safety at Amentum
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115921) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Brisbane/UASPO-System-Safety_R0164471) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-06-29.
+This security engineer position at Amentum was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

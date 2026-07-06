@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berwick, Pennsylvania, United States |
+| Location | Hamlet, North Carolina, United States |
 | Category | Security Engineer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458735/data-center-security-specialist-dc-security) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459143/data-center-security-specialist-dc-security) |
 
 ## About This Role
 

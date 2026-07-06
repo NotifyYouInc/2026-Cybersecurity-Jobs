@@ -1,4 +1,4 @@
-# Security Architect at Accenture
+# One Identity Manager (1IM) Specialist / Team Lead at Accenture
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/One-Identity-Manager--1IM--Specialist---Team-Lead_ATCP-1447690-S425748) |
 
 ## About This Role
 

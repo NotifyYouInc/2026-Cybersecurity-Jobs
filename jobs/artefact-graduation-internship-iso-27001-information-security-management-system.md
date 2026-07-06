@@ -1,16 +1,16 @@
-# Information Assurance Analyst at Leidos
+# Graduation Internship: ISO 27001 / Information Security Management System at Artefact
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hampton, Virginia, United States |
+| Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Utrecht, Utrecht, The Netherlands |
 | Category | Security Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Information-Assurance-Analyst_R-00186264) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8611343002) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-28.
+This security engineer position at Artefact was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

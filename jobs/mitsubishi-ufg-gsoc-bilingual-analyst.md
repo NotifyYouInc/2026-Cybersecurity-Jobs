@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/GSOC-Bilingual-Analyst_10076185-WD-1) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/GSOC-Bilingual-Analyst_10077523-WD) |
 
 ## About This Role
 
-This soc & incident response position at Mitsubishi UFG was posted on 2026-04-21.
+This soc & incident response position at Mitsubishi UFG was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

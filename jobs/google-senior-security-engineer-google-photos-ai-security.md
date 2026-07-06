@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ3Wc3aajm1JvONo6t10HybZhTtWqRdIXkaOAiP9qQ4BEjsACxwdTIMsN-f5-893-2ycQRlB5BqsT8cAb8Be_BIvSd9SuhAV-zbT7dJGIyn0hNq2hDV1hAnwqhVa6Q%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaQqABu_LG6NvbGwrPFA1hx0YlGuecO_DhomJJcdu3NDEjsA1Ny_i0g0a-hUxbVxakLj4Fsmh9dDMJfBjK2_Gc8kUzGyjslG_yyeQEvfgstmr4uLx5WGTKjFaqaGJg%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-18.
+This security engineer position at Google was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

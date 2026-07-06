@@ -1,16 +1,16 @@
-# Information Assurance Analyst at Leidos
+# Intermediate Security Engineer Logging SIEM Data Pipelines 100% (f/m/d) at Julius Baer
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hampton, Virginia, United States |
+| Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Switzerland |
 | Category | Security Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Information-Assurance-Analyst_R-00186264) |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/System-Engineer-100---f-m-d-_r-18781-2) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-28.
+This security engineer position at Julius Baer was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

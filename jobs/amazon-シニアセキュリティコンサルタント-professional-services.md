@@ -1,16 +1,16 @@
-# Senior Security Assurance Specialist , AWS Compliance and Security Assurance EMEA at Amazon
+# シニアセキュリティコンサルタント, Professional Services at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448005/senior-security-assurance-specialist-aws-compliance-and-security-assurance-emea) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460799/professional-services) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-12.
+This security engineer position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

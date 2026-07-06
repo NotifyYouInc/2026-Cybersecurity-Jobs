@@ -1,16 +1,16 @@
-# Security Analyst at METRO/MAKRO
+# Sr. Incident Manager, Infra Stblty at Invesco
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | SOC & Incident Response |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000134711900-security-analyst) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Sr-Incident-Manager--Infra-Stblty_R-13870) |
 
 ## About This Role
 
-This soc & incident response position at METRO/MAKRO was posted on 2026-06-29.
+This soc & incident response position at Invesco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Sr Analyst IT at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000134703349-sr-analyst-it) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-29.
+This security engineer position at Mattel was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

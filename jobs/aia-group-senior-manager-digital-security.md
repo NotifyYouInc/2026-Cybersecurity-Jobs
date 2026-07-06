@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Senior Manager, Digital Security at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Cyberjaya-MY-AIA-IT-Malaysia/Senior-Manager--Digital-Security_JR-67210-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-29.
+This security engineer position at AIA Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Security Architect at Accenture
+# Azure Active Directory/EntraID Security Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Azure-Active-Directory-EntraID-Security-Engineer_ATCP-1428109-S424084) |
 
 ## About This Role
 

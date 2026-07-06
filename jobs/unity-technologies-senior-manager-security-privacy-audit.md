@@ -1,16 +1,16 @@
-# Microsoft Entra ID Subject Matter Expert (SME) at LSEG
+# Senior Manager – Security & Privacy Audit at Unity Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Microsoft-Entra-ID-Subject-Matter-Expert--SME-_R0116779-1) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://unity.com/careers/positions/7940271?gh_jid=7940271) |
 
 ## About This Role
 
-This security engineer position at LSEG was posted on 2026-06-29.
+This security engineer position at Unity Technologies was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

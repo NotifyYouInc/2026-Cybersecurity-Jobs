@@ -1,16 +1,16 @@
-# Application Security Testing at IBM
+# Senior Security Manager at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Saudi Arabia |
 | Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115921) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134647069-senior-security-manager) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-06-29.
+This security engineer position at AECOM was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

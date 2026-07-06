@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Senior Technical Expert at Posti
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Posti](https://scoutify.ai/companies/posti?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://posti.wd3.myworkdayjobs.com/external/job/Helsinki/Senior-Technical-Expert_R8240) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-29.
+This security engineer position at Posti was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

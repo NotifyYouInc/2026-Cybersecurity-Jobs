@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Systems Safety Engineer at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Portsmouth, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Systems-Safety-Engineer_JR10425236) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-29.
+This security engineer position at Airbus was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

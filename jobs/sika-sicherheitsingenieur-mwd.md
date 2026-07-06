@@ -1,16 +1,16 @@
-# Security Architect at Accenture
+# Sicherheitsingenieur (m/w/d)  at Sika
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Security Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5615771-S2034611-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000134749779-sicherheitsingenieur-mwd) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-29.
+This security engineer position at Sika was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

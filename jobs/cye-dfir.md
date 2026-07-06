@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CYE](https://scoutify.ai/companies/cye?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/CYE/6d8de0b9-1969-41ab-ba0f-e3dd7ac6b6dd) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.lever.co/CYE/93eb9bab-30e3-4ff4-83e6-09f8f8727a81) |
 
 ## About This Role
 
-This soc & incident response position at CYE was posted on 2026-05-07.
+This soc & incident response position at CYE was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
