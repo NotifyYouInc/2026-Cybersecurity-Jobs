@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montigny-le-Bretonneux, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000133080219-ingenieur-expert-systemes-de-surete-supervision-hf) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000135198219-ingenieur-expert-systemes-de-surete-supervision-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-06-19.
+This security engineer position at Assystem was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

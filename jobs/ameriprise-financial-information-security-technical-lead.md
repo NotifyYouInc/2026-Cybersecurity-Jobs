@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Information-Security-Technical-Lead_R26_0900) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Information-Security-Technical-Lead_R26_2490-1) |
 
 ## About This Role
 
-This security engineer position at Ameriprise Financial was posted on 2026-03-12.
+This security engineer position at Ameriprise Financial was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

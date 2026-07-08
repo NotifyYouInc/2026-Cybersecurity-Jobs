@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Florida, US |
 | Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4680141006?gh_jid=4680141006) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4692382006?gh_jid=4692382006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-05-08.
+This security engineer position at Accenture Federal Services was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

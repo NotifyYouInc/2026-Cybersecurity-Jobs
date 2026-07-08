@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Threat-Detection-and-Response--Analyst_10076833-WD) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Pune/Threat-Detection-and-Response--Analyst_10077627-WD) |
 
 ## About This Role
 
-This soc & incident response position at Mitsubishi UFG was posted on 2026-05-25.
+This soc & incident response position at Mitsubishi UFG was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

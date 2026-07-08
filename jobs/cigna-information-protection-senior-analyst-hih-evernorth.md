@@ -1,16 +1,16 @@
-# Information Protection Senior Analyst HIH – Evernorth at Cigna
+# Information Protection Senior Analyst - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Information-Protection-Senior-Analyst-HIH---Evernorth_25011508) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Information-Protection-Senior-Analyst---HIH---Evernorth_26006889) |
 
 ## About This Role
 
-This security engineer position at Cigna was posted on 2026-02-20.
+This security engineer position at Cigna was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

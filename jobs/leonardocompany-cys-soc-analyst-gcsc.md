@@ -5,12 +5,12 @@
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Italy |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Chieti-Scalo/CYS-SOC-Analyst-GCSC_R0030247-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Chieti-Scalo/CYS-SOC-Analyst-GCSC_R0031167) |
 
 ## About This Role
 
-This soc & incident response position at Leonardocompany was posted on 2026-06-26.
+This soc & incident response position at Leonardocompany was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

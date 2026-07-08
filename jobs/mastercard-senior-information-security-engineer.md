@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vadodara, Gujarat, India |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Senior-Information-Security-Engineer_R-276887-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Information-Security-Engineer_R-281579-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-05-19.
+This security engineer position at Mastercard was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

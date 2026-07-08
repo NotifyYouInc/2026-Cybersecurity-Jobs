@@ -1,16 +1,16 @@
-# CYS - Security Engineer - GCSC at Leonardocompany
+# CYS_Security Engineer_GCSC at Leonardocompany
 
 | Field | Details |
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Italy |
 | Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Chieti-Scalo/CYS---Security-Engineer---GCSC_R0023649) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Chieti-Scalo/CYS-Security-Engineer-GCSC_R0030705) |
 
 ## About This Role
 
-This security engineer position at Leonardocompany was posted on 2026-06-26.
+This security engineer position at Leonardocompany was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

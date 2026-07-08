@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Enköping, Uppsala, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000134715850-konsult-inom-it-och-informationssakerhet) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000135179680-konsult-inom-it-och-informationssakerhet) |
 
 ## About This Role
 
-This security engineer position at AFRY was posted on 2026-06-29.
+This security engineer position at AFRY was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

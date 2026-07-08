@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000134717686-cybersakerhetsspecialist) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000135179998-cybersakerhetsspecialist) |
 
 ## About This Role
 
-This security engineer position at AFRY was posted on 2026-06-29.
+This security engineer position at AFRY was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

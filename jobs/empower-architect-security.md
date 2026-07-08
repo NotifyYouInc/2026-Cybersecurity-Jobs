@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Architect-Security_R0058957) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Architect-Security_R0059797) |
 
 ## About This Role
 
-This security engineer position at Empower was posted on 2026-05-21.
+This security engineer position at Empower was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

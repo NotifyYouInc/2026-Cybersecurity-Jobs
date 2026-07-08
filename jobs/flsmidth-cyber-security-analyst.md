@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Monterrey/Cyber-Security-Analyst_R30403) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Chennai/Cyber-Security-Analyst_R30429) |
 
 ## About This Role
 
-This security engineer position at FLSMIDTH was posted on 2026-06-25.
+This security engineer position at FLSMIDTH was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

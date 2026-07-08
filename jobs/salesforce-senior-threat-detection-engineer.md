@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Threat-Detection-Engineer_JR335784) |
+| Location | Bellevue, Washington, United States |
+| Category | Security Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Senior-Threat-Detection-Engineer_JR347785) |
 
 ## About This Role
 
-This soc & incident response position at Salesforce was posted on 2026-03-25.
+This security engineer position at Salesforce was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404142/security-engineer-enterprise-protection-program) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462704/security-engineer-enterprise-protection-program) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-27.
+This security engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Rockville, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Bethesda/Technical-Lead-Cybersecurity-Operations_RQ220464-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Rockville/Technical-Lead-Cybersecurity-Operations_RQ223543) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-05-20.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

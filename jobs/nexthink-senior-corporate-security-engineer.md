@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000128894202-senior-corporate-security-engineer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000134989099-senior-corporate-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Nexthink was posted on 2026-05-28.
+This security engineer position at Nexthink was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

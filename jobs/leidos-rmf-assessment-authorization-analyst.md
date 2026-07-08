@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/RMF-Assessment---Authorization-Analyst_R-00185189) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/RMF-Assessment---Authorization-Analyst_R-00186526) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-11.
+This security engineer position at Leidos was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

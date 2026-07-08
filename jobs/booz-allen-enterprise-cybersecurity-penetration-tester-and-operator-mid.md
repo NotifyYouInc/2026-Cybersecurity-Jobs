@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Penetration-Tester-and-Operator--Mid_R0238924) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Penetration-Tester-and-Operator--Mid_R0243470) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-05-06.
+This offensive security & pentesting position at Booz Allen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

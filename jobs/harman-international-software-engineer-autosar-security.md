@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/In_Bangalore_-Kalyani-Platina_HII/Software-Engineer---AUTOSAR-Security_R-53460-2026) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/In_Bangalore_-Kalyani-Platina_HII/Software-Engineer---AUTOSAR-Security_R-53461-2026) |
 
 ## About This Role
 
-This security engineer position at HARMAN International was posted on 2026-06-17.
+This embedded / firmware engineer position at HARMAN International was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

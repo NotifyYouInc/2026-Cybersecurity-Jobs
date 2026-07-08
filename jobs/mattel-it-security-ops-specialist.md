@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132139477-it-security-ops-specialist) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135229309-it-security-ops-specialist) |
 
 ## About This Role
 
-This security engineer position at Mattel was posted on 2026-06-15.
+This soc & incident response position at Mattel was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

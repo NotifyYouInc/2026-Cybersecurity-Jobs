@@ -5,12 +5,12 @@
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Remote---US/Cybersecurity-AI-Risk-and-Governance-Engineer--Global_R22883) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Remote---US/Cybersecurity-AI-Risk-and-Governance-Engineer--Global_R21811) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-05-01.
+This security engineer position at Vantage Data Centers was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

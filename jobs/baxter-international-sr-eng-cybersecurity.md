@@ -1,16 +1,16 @@
-# Sr Eng, CyberSecurity at Baxter International
+# Sr Eng, Cybersecurity at Baxter International
 
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Sr-Eng--CyberSecurity_JR-201973) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Sr-Eng--Cybersecurity_JR-202073-1) |
 
 ## About This Role
 
-This security engineer position at Baxter International was posted on 2026-06-08.
+This security engineer position at Baxter International was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aberdeen Proving Ground, Maryland, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/UAS-Red-Team-Pilot_327452) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/UAS-Red-Team-Pilot_327451) |
 
 ## About This Role
 
-This offensive security & pentesting position at CACI was posted on 2026-06-24.
+This offensive security & pentesting position at CACI was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131081799-cybersecurity-manager-mpin) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134985594-cybersecurity-manager-mpin) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-09.
+This offensive security & pentesting position at Robert Bosch was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

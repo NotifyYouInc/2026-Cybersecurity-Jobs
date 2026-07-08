@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420669/systems-development-engineer-ii-us-amazon-dedicated-cloud-security-engineering) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463107/systems-development-engineer-ii-us-amazon-dedicated-cloud-security-engineering) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-15.
+This security engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

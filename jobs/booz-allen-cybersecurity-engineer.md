@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Engineer_R0242292) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cybersecurity-Engineer_R0243508) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-15.
+This security engineer position at Booz Allen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

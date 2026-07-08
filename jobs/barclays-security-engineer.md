@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Security-Engineer_JR-0000085070) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Security-Engineer_JR-0000101225) |
 
 ## About This Role
 
-This security engineer position at Barclays was posted on 2026-06-18.
+This security engineer position at Barclays was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

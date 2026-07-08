@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Milton Keynes, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000133964459-emea-security-systems-project-support-engineer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134990889-emea-security-systems-project-support-engineer) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-06-24.
+This security engineer position at Securitas was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

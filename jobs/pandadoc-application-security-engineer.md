@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PandaDoc](https://scoutify.ai/companies/pandadoc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Portugal |
+| Location | Poland |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/7791702) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/8038508) |
 
 ## About This Role
 
-This security engineer position at PandaDoc was posted on 2026-04-08.
+This security engineer position at PandaDoc was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

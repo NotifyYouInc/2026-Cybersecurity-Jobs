@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Colomiers, Occitanie, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133922768-vie-cyber-incident-response-singapore) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134998109-vie-cyber-incident-response-singapore) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-06-24.
+This soc & incident response position at Sopra Steria was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Security-Engineer_R-00177113-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Security-Engineer_R-00186501) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-18.
+This security engineer position at Leidos was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

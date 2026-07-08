@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Portugal---Lisbon/Senior-Associate-Endpoint-Security-Engineer_R-246628-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Associate-Endpoint-Security-Engineer_R-248011) |
 
 ## About This Role
 
-This security engineer position at Amgen was posted on 2026-06-02.
+This security engineer position at Amgen was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Information-Security-Analyst_JR0305630-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Information-Security-Analyst_JR0307660) |
 
 ## About This Role
 
-This security engineer position at Fidelity National Information Services was posted on 2026-04-09.
+This security engineer position at Fidelity National Information Services was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

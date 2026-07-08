@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459805/application-security-engineer-aws-security) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462750/application-security-engineer-aws-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-26.
+This security engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

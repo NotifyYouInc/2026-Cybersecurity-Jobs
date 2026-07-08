@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Jose, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Platform-Security-Engineer-Hybrid_2010084-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Platform-Security-Engineer-Hybrid_2018214-1) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-03-26.
+This security engineer position at Cisco was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

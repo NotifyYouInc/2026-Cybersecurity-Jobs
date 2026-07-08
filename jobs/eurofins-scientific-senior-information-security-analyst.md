@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000120949818-senior-information-security-analyst) |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134963361-senior-information-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Eurofins Scientific was posted on 2026-04-15.
+This soc & incident response position at Eurofins Scientific was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420668/software-development-engineer-aws-security) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206746/software-development-engineer-aws-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-15.
+This software engineer position at Amazon was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

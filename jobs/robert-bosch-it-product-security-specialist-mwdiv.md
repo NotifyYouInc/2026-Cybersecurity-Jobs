@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116372487-it-product-security-specialist-mwdiv) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134963614-it-product-security-specialist-mwdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-03-24.
+This security engineer position at Robert Bosch was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
