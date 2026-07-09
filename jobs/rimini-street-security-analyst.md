@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Security-Analyst_R-101847-1) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Sao-Paulo/Security-Analyst_R-101814) |
 
 ## About This Role
 
-This cybersecurity engineer position at Rimini Street was posted on 2026-02-03.
+This soc & incident response position at Rimini Street was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

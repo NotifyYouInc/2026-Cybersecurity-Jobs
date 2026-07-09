@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Italy |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000134946765-safety-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000135433009-safety-engineer) |
 
 ## About This Role
 
-This security engineer position at Scalian was posted on 2026-06-30.
+This security engineer position at Scalian was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

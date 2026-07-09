@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5118252007) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5165701007) |
 
 ## About This Role
 
-This security engineer position at Zscaler was posted on 2026-04-29.
+This security engineer position at Zscaler was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

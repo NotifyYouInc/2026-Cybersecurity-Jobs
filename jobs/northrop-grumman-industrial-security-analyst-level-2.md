@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Utah, US |
+| Location | Redondo Beach, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Industrial-Security-Analyst---Level-2_R10237316) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Industrial-Security-Analyst---Level-2_R10238625-1) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-23.
+This security engineer position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

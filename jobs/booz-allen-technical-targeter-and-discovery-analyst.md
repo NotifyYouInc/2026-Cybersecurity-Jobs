@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Technical-Targeter-and-Discovery-Analyst_R0242571-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wahiawa-HI/Technical-Targeter-and-Discovery-Analyst_R0243572) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-06-18.
+This offensive security & pentesting position at Booz Allen was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

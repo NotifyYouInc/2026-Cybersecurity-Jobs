@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
+| Location | Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Brazil/Security-Product-Services-Engineer_R-102277) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Malaysia/Security-Product-Services-Engineer_R-102278) |
 
 ## About This Role
 
-This security engineer position at Rimini Street was posted on 2026-06-22.
+This security engineer position at Rimini Street was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000135006740-senior-cyber-security-manager-wmdiv) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000135256889-senior-cyber-security-manager-wmdiv) |
 
 ## About This Role
 
-This security engineer position at Keenfinity was posted on 2026-06-30.
+This security engineer position at Keenfinity was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

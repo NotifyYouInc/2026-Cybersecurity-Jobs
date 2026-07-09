@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Personnel-Security-Specialist_R2122385) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Personnel-Security-Specialist_R2125918) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-04-21.
+This security engineer position at KBR was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

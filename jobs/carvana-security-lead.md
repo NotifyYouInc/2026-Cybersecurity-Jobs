@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manville, New Jersey, United States |
+| Location | Delanco, New Jersey, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8001907) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8042278) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-06-11.
+This security engineer position at Carvana was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
