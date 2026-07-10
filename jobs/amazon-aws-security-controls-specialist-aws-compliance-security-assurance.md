@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441354/aws-security-controls-specialist-aws-compliance-security-assurance) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464707/aws-security-controls-specialist-aws-compliance-security-assurance) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-05.
+This security engineer position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

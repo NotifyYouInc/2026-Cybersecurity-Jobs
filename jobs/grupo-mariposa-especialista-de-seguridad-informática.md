@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guatemala |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013729496-especialista-de-seguridad-informatica) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013915686-especialista-de-seguridad-informatica) |
 
 ## About This Role
 
-This security engineer position at Grupo Mariposa was posted on 2026-06-22.
+This security engineer position at Grupo Mariposa was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

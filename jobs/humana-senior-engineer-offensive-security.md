@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | 11 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Breach-and-Attack-Simulation--BAS--Senior-Engineer_R-402178) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Engineer--Offensive-Security_R-420522) |
 
 ## About This Role
 
-This offensive security & pentesting position at Humana was posted on 2026-03-12.
+This offensive security & pentesting position at Humana was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

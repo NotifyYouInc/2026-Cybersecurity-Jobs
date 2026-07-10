@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134213119-analyste-soc) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135681150-analyste-soc) |
 
 ## About This Role
 
-This soc & incident response position at Inetum was posted on 2026-06-25.
+This soc & incident response position at Inetum was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

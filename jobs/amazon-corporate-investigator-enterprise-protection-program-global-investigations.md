@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | South Africa |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462977/corporate-investigator-enterprise-protection-program-global-investigations) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463973/corporate-investigator-enterprise-protection-program-global-investigations) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-06-30.
+This soc & incident response position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

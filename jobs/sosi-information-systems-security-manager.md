@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawaii, US |
+| Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013519426-information-systems-security-manager) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013911265-information-systems-security-manager) |
 
 ## About This Role
 
-This security engineer position at SOSi was posted on 2026-06-08.
+This security engineer position at SOSi was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

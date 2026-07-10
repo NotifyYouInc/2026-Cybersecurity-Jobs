@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000135197279-security-architect) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000135528329-security-architect) |
 
 ## About This Role
 
-This security engineer position at Entain was posted on 2026-07-01.
+This security engineer position at Entain was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

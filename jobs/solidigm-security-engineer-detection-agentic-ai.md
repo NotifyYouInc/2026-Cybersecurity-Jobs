@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Zapopan, Jalisco, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000135060838-security-engineer-detection-agentic-ai) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000135309309-security-engineer-detection-agentic-ai) |
 
 ## About This Role
 
-This security engineer position at Solidigm was posted on 2026-06-30.
+This security engineer position at Solidigm was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

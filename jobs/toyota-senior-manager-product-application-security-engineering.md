@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Manager---Product---Application-Security-Engineering_10326706) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Manager---Product---Application-Security-Engineering_10330621) |
 
 ## About This Role
 
-This security engineer position at Toyota was posted on 2026-05-11.
+This security engineer position at Toyota was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

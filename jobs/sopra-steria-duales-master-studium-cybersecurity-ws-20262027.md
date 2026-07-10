@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Darmstadt, Hesse, Germany |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129519390-duales-master-studium-cybersecurity-ws-20262027) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135460710-duales-master-studium-cybersecurity-ws-20262027) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-01.
+This security engineer position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

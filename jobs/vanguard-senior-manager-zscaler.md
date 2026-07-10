@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Senior-Manager--Network-Engineering_179258) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Senior-Manager--Zscaler_180007) |
 
 ## About This Role
 
-This security engineer position at Vanguard was posted on 2026-06-17.
+This security engineer position at Vanguard was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

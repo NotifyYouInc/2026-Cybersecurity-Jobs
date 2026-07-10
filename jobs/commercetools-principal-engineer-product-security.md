@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [commercetools](https://scoutify.ai/companies/commercetools?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/commercetools/jobs/7624394003) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/commercetools/jobs/7791434003) |
 
 ## About This Role
 
-This security engineer position at commercetools was posted on 2026-03-31.
+This security engineer position at commercetools was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

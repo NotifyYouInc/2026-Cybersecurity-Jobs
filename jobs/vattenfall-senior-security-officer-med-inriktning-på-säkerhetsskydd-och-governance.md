@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135255578-senior-security-officer-med-inriktning-pa-sakerhetsskydd-och-governance) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135457979-senior-security-officer-med-inriktning-pa-sakerhetsskydd-och-governance) |
 
 ## About This Role
 
-This security engineer position at Vattenfall was posted on 2026-07-01.
+This security engineer position at Vattenfall was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

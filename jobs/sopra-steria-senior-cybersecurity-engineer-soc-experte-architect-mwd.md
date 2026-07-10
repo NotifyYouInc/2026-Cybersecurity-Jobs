@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127000573-senior-cybersecurity-engineer-soc-experte-architect-mwd) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135460594-senior-cybersecurity-engineer-soc-experte-architect-mwd) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-18.
+This soc & incident response position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

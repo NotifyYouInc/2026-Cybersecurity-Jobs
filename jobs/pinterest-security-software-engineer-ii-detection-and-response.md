@@ -5,12 +5,12 @@
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7770914) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8015490) |
 
 ## About This Role
 
-This security engineer position at Pinterest was posted on 2026-04-14.
+This security engineer position at Pinterest was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

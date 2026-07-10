@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VectorUSA](https://scoutify.ai/companies/vectorusa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Torrance, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.vectorusa.com/company/jobboard?gh_jid=7713584003) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.vectorusa.com/company/jobboard?gh_jid=7625749003) |
 
 ## About This Role
 
-This security engineer position at VectorUSA was posted on 2026-04-24.
+This security engineer position at VectorUSA was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Operations-Engineer_ATCI-5522635-S2024103) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5638485-S2056449-1) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-06-25.
+This security engineer position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

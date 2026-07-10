@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/Staff-Cyber-Systems-Engineer_R10237596) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Staff-Cyber-Systems-Engineer_R10238613) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-30.
+This security engineer position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

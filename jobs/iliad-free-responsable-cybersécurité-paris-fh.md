@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000130835484-responsable-cybersecurite-paris-fh) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000135484664-responsable-cybersecurite-paris-fh) |
 
 ## About This Role
 
-This security engineer position at Iliad-Free was posted on 2026-06-08.
+This security engineer position at Iliad-Free was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

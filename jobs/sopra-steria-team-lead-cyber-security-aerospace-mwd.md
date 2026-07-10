@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127000469-team-lead-cyber-security-aerospace-mwd) |
+| Category | Security Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135459400-team-lead-cyber-security-aerospace-mwd) |
 
 ## About This Role
 
-This engineering manager position at Sopra Steria was posted on 2026-05-18.
+This security engineer position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

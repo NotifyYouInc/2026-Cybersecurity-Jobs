@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Occidental Petroleum](https://scoutify.ai/companies/oxy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Platteville, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Denver-Colorado/Security-Services-Investigative-Specialist_JR103823) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Security-Services-Investigative-Specialist_JR109374) |
 
 ## About This Role
 
-This security engineer position at Occidental Petroleum was posted on 2026-04-13.
+This security engineer position at Occidental Petroleum was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Randburg, Gauteng, South Africa |
 | Category | Security Engineer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Security-Engineer---AIDR_R-15988600-2) |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Security-Engineer---AIDR_R-15988598-2) |
 
 ## About This Role
 
