@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Milton Keynes, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000135302950-protective-intelligence-team-lead) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000135440102-protective-intelligence-team-lead) |
 
 ## About This Role
 
-This security engineer position at Securitas was posted on 2026-07-01.
+This security engineer position at Securitas was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

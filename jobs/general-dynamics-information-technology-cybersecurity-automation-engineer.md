@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Fort Bragg, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Home-Office-MDHOME/Cybersecurity-Automation-Engineer_RQ216399-2) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Cybersecurity-Automation-Engineer_RQ223578-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-10.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

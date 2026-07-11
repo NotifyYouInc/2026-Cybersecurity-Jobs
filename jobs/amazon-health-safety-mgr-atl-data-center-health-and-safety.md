@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Covington, Kentucky, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458779/health-safety-mgr-atl-data-center-health-and-safety) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465645/health-safety-mgr-atl-data-center-health-and-safety) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-25.
+This security engineer position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

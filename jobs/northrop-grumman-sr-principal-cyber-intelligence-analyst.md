@@ -1,16 +1,16 @@
-# Sr. Principal Cyber Intelligence Analyst at Northrop Grumman
+# Sr Principal Cyber Intelligence Analyst at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Sr-Principal-Cyber-Intelligence-Analyst_R10233702) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-District-of-Columbia-Washington/Sr-Principal-Cyber-Intelligence-Analyst_R10238717-1) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-27.
+This security engineer position at Northrop Grumman was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

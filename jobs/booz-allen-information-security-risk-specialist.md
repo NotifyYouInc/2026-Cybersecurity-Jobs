@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0243517) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Information-Security-Risk-Specialist_R0243579) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-01.
+This security engineer position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

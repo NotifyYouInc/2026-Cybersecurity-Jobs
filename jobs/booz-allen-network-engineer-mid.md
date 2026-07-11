@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
+| Location | Fort Meade, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer--Mid_R0236628) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer--Mid_R0243771) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-24.
+This security engineer position at Booz Allen was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

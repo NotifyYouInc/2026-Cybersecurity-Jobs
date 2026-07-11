@@ -1,16 +1,16 @@
-# technology resilience lead at Barclays
+# Technology Resilience Lead at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/technology-resilience-lead_JR-0000109520-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Technology-Resilience-Lead_JR-0000112646) |
 
 ## About This Role
 
-This security engineer position at Barclays was posted on 2026-07-01.
+This security engineer position at Barclays was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

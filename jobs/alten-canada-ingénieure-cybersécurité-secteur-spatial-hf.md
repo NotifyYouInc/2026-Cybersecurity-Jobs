@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130514534-ingenieure-cybersecurite-secteur-spatial-hf) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135745941-ingenieure-cybersecurite-secteur-spatial-hf) |
 
 ## About This Role
 
-This security engineer position at ALTEN Canada was posted on 2026-06-05.
+This security engineer position at ALTEN Canada was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

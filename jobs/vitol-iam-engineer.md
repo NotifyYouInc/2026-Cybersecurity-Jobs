@@ -5,12 +5,12 @@
 | Company | [Vitol](https://scoutify.ai/companies/vitol?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Switzerland |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000131906144-iam-engineer) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000135658100-iam-engineer) |
 
 ## About This Role
 
-This security engineer position at Vitol was posted on 2026-06-12.
+This security engineer position at Vitol was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
