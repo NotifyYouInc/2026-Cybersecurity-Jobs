@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rijeka, Primorje-Gorski Kotar, Croatia |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000126956119-operater-dojavnog-centra-soc-operater-mz) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000135939541-operater-dojavnog-centra-soc-operater-mz) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-05-18.
+This soc & incident response position at Securitas was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

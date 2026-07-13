@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# Data Security -SME at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=124722) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at IBM was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

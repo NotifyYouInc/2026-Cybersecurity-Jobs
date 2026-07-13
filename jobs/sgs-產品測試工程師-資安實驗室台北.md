@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# 產品測試工程師-資安實驗室(台北) at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Taiwan |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135906505-) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at SGS was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

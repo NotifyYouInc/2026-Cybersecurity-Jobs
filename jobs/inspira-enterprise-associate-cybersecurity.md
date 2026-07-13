@@ -1,16 +1,16 @@
-# EndPoint Security Analyst at METRO/MAKRO
+# Associate - Cybersecurity at Inspira Enterprise
 
 | Field | Details |
 |-------|---------|
-| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Inspira Enterprise](https://scoutify.ai/companies/em2-cx-oj55540?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Maharashtra, IN |
 | Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135929553-endpoint-security-analyst) |
+| Posted | 2025-05-07 |
+| Apply | [View on company site](https://eijs.fa.em2.oraclecloud.com/jobs/#1602) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-07-06.
+This security engineer position at Inspira Enterprise was posted on 2025-05-07.
 
 ## Get Real-Time Alerts
 

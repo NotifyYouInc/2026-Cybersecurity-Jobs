@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# Development Engineer 3 at Comcast
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Telangana, IN |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Virtual---Telangana-DTA/Development-Engineer-3_R440232) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at Comcast was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

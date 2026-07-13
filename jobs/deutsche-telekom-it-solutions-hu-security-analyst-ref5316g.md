@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000132828794-security-analyst-ref5316g) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000135950220-security-analyst-ref5316g) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-18.
+This soc & incident response position at Deutsche Telekom IT Solutions HU was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

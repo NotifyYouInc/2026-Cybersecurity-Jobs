@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# Cyber Security Architect (d/f/m) at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Getafe, Madrid, Spain |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/Cyber-Security-Architect--d-f-m-_JR10392815-1) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at Airbus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

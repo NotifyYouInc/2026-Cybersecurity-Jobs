@@ -1,12 +1,12 @@
-# Security Engineer at Ensigninfosecurity
+# Intern, Security Engineering (Data Protection) at Ensigninfosecurity
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/Security-Engineer_JOBREQ-0003527) |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Intern--Security-Engineering--Data-Protection-_JOBREQ-0003533) |
 
 ## About This Role
 

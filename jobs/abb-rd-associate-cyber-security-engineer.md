@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# R&D Associate Cyber Security Engineer at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Associate-Cyber-Security-Engineer_JR00039971) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at ABB was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

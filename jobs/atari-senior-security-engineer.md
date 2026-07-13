@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# Senior Security Engineer at Atari
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Atari](https://scoutify.ai/companies/atariinc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Newcastle upon Tyne, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/atariinc/jobs/5285409008) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at Atari was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

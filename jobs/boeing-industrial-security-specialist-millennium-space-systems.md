@@ -1,4 +1,4 @@
-# Industrial Security Specialist - Millennium Space Systems at Boeing
+# Industrial Security Specialist – Millennium Space Systems at Boeing
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | El Segundo, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026517367-2) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026517543) |
 
 ## About This Role
 

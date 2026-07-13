@@ -1,16 +1,16 @@
-# Engineer III – SIEM Integrations at CrowdStrike
+# Security Project Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Scoresby, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---SIEM-Integrations_R28269) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Scoresby-Caribbean-Australia/Security-Project-Engineer_WD30273109) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-06.
+This security engineer position at Johnson Controls was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
