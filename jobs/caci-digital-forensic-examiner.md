@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-GA-Forest-Park/Digital-Forensic-Examiner_323215) |
+| Location | Fort Bragg, North Carolina, United States |
+| Category | Security Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Digital-Forensic-Examiner_328594) |
 
 ## About This Role
 
-This soc & incident response position at CACI was posted on 2026-03-13.
+This security engineer position at CACI was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

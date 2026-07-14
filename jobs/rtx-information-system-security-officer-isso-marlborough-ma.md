@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Marlborough, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Information-System-Security-Officer--ISSO----Marlborough--MA_01855172-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Information-System-Security-Officer--ISSO----Marlborough--MA_01849125) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-24.
+This security engineer position at RTX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

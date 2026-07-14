@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aberdeen, South Dakota, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Cyber-Security-Analyst_R182561-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Cyber-Security-Analyst_R182941) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-06-26.
+This security engineer position at Parsons was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tewksbury, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Senior-Information-System-Security-Officer--ISSO----Tewksbury--MA_01854292) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Senior-Information-System-Security-Officer--ISSO----Tewksbury--MA_01857309-1) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-23.
+This security engineer position at RTX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [U.S. Venture](https://scoutify.ai/companies/usventure?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Appleton, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Security-Analyst_R6265) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Security-Analyst_R7841) |
 
 ## About This Role
 
-This security engineer position at U.S. Venture was posted on 2026-02-20.
+This security engineer position at U.S. Venture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

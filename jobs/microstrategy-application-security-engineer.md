@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000134302132-application-security-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000136013355-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MicroStrategy was posted on 2026-06-25.
+This security engineer position at MicroStrategy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

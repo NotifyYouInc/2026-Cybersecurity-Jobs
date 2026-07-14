@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warrenville, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000130563279-encryption-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000136092772-encryption-engineer) |
 
 ## About This Role
 
-This security engineer position at R R Donnelley & Sons was posted on 2026-06-05.
+This security engineer position at R R Donnelley & Sons was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

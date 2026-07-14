@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Analyst---Program-Security---Tucson--AZ_01850788) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Analyst---Program-Security---Tucson--AZ_01855087) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-09.
+This security engineer position at RTX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

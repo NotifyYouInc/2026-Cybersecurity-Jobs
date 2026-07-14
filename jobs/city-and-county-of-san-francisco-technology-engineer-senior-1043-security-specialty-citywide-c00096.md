@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990013780845-technology-engineer-senior-1043-security-specialty-citywide-c00096) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990013940250-technology-engineer-senior-1043-security-specialty-citywide-c00096) |
 
 ## About This Role
 
-This security engineer position at City and County of San Francisco was posted on 2026-06-25.
+This security engineer position at City and County of San Francisco was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

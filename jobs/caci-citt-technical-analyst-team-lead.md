@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aberdeen Proving Ground, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/CITT-Technical-Analyst-Team-Lead_328535) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/CITT-Technical-Analyst-Team-Lead_328556-1) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-07-02.
+This security engineer position at CACI was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

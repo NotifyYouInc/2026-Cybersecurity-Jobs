@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1081926) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1083969) |
 
 ## About This Role
 
-This security engineer position at Broadridge was posted on 2026-04-22.
+This security engineer position at Broadridge was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

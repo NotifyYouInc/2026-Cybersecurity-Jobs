@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Norfolk-VA-US/Cyber-Security_326868) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Norfolk-VA-US/Cyber-Security_328624) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-05-21.
+This security engineer position at CACI was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

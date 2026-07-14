@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Selangor, MY |
 | Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Kuala-Lumpur/Security-Analyst_JOBREQ-0003476) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/Security-Analyst_JOBREQ-0003506) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-05-12.
+This security engineer position at Ensigninfosecurity was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

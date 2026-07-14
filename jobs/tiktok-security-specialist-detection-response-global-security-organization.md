@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7605789089774717189/detail) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7656811944927119621/detail) |
 
 ## About This Role
 
-This soc & incident response position at TikTok was posted on 2026-05-07.
+This soc & incident response position at TikTok was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

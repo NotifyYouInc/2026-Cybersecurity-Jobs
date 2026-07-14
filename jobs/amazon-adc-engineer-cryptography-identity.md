@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445348/adc-engineer-cryptography-identity) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466694/adc-engineer-cryptography-identity) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-10.
+This security engineer position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Industrial-Security-Manager---Level-2_R10230015) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Industrial-Security-Manager---Level-2_R10238896) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-17.
+This security engineer position at Northrop Grumman was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

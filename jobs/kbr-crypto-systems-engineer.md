@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Crypto-Systems-Engineer_R2120581) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Crypto-Systems-Engineer_R2111693) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-03-26.
+This security engineer position at KBR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

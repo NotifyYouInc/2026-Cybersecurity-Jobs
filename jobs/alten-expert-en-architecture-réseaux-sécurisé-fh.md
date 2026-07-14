@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131152999-expert-en-architecture-reseaux-securise-fh) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135986430-expert-en-architecture-reseaux-securise-fh) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-06-09.
+This security engineer position at ALTEN was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

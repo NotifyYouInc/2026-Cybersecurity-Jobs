@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Merrillville, Indiana, United States |
+| Location | Canton, Michigan, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465310/data-center-security-specialist) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465789/data-center-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-07-02.
+This security engineer position at Amazon was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

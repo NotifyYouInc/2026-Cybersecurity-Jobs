@@ -1,16 +1,16 @@
-# Industrial Security Specialist (Mid-Level or Senior) at Boeing
+# Industrial Security Specialist (Mid-Level  or Senior) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist--Mid-Level-or-Senior-_JR2026511060-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Industrial-Security-Specialist--Mid-Level--or-Senior-_JR2026516493-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-19.
+This security engineer position at Boeing was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

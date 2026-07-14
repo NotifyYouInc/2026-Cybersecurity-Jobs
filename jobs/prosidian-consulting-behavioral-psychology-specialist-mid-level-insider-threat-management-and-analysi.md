@@ -5,12 +5,12 @@
 | Company | [Prosidian Consulting](https://scoutify.ai/companies/prosidianconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2025-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/prosidianconsulting/744000056854137-behavioral-psychology-specialist-mid-level-insider-threat-management-and-analysis-ditmac0008007) |
+| Posted | 2025-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/prosidianconsulting/744000056800139-behavioral-psychology-specialist-mid-level-insider-threat-management-and-analysis-ditmac0008007) |
 
 ## About This Role
 
-This security engineer position at Prosidian Consulting was posted on 2025-05-01.
+This security engineer position at Prosidian Consulting was posted on 2025-04-30.
 
 ## Get Real-Time Alerts
 

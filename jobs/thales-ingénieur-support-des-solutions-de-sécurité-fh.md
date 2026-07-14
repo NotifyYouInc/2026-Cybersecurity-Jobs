@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Ingnieur-support-des-solutions-de-scurit---F-H-_R0323588) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Ingnieur-support-des-solutions-de-scurit---F-H-_R0323593-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-04-01.
+This security engineer position at Thales was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

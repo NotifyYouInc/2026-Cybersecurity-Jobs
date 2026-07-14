@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rome, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cyber-Test-Engineer--Mid_R0242670) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cyber-Test-Engineer--Mid_R0243788) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-22.
+This offensive security & pentesting position at Booz Allen was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Information-Systems-Security-Manager_R-00186180) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Information-Systems-Security-Manager_R-00186725) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-26.
+This security engineer position at Leidos was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

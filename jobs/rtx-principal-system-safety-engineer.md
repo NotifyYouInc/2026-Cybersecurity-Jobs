@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Principal-System-Safety-Engineer_01854323) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Principal-System-Safety-Engineer_01857054) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-23.
+This security engineer position at RTX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

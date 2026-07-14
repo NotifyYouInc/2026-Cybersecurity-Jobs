@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6105350004) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6105352004) |
 
 ## About This Role
 
-This security engineer position at ClickHouse was posted on 2026-07-02.
+This security engineer position at ClickHouse was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
