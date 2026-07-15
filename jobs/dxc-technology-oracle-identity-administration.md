@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Falls Church, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---VA---FALLS-CHURCH/Oracle-Identity-Administration_51582452) |
+| Category | Security Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---VA---FALLS-CHURCH/Oracle-Identity-Administration_51584659) |
 
 ## About This Role
 
-This it & systems administration position at DXC Technology was posted on 2026-06-09.
+This security engineer position at DXC Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

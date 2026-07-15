@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Ann Arbor, Michigan, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Information-Systems-Security-Manager--ISSM-_R2122578) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/Information-Systems-Security-Manager--ISSM-_R2126152) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-04-23.
+This security engineer position at KBR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

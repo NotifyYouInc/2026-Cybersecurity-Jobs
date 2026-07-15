@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121139442-soc-analyst-cyber-security-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136165731-soc-analyst-cyber-security-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-04-16.
+This soc & incident response position at Sopra Steria was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

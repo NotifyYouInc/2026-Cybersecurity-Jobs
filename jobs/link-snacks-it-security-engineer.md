@@ -5,12 +5,12 @@
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000120727757-it-security-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000136271730-it-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Link Snacks was posted on 2026-04-14.
+This security engineer position at Link Snacks was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

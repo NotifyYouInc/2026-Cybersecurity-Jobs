@@ -5,12 +5,12 @@
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Livermore, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990012982536-cyber-security-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990013968206-cyber-security-engineer) |
 
 ## About This Role
 
-This security engineer position at LLNL was posted on 2026-05-05.
+This security engineer position at LLNL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

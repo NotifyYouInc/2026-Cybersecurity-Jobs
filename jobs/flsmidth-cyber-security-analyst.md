@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bucharest, București, Romania |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Chennai/Cyber-Security-Analyst_R30429) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Bucharest/Cyber-Security-Analyst_R30428) |
 
 ## About This Role
 
-This security engineer position at FLSMIDTH was posted on 2026-07-01.
+This security engineer position at FLSMIDTH was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

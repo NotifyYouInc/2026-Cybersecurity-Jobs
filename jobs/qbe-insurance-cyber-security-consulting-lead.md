@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Cyber-Security-Consulting-Lead_355524) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/GBR---London/Cyber-Security-Consulting-Lead_357273) |
 
 ## About This Role
 
-This security engineer position at QBE Insurance was posted on 2026-05-22.
+This security engineer position at QBE Insurance was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

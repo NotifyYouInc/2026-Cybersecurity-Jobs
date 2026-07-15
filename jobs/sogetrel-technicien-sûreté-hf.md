@@ -1,16 +1,16 @@
-# Technicien sûreté H/F at Sogetrel
+# Technicien Sûreté H/F at Sogetrel
 
 | Field | Details |
 |-------|---------|
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Saint-Denis, Île-de-France, France |
+| Location | Bièvres, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000121367417-technicien-surete-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000136206970-technicien-surete-hf) |
 
 ## About This Role
 
-This security engineer position at Sogetrel was posted on 2026-04-17.
+This security engineer position at Sogetrel was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

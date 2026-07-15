@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dun & Bradstreet](https://scoutify.ai/companies/dnb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pennsylvania, US |
+| Location | Florham Park, New Jersey, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.lever.co/dnb/2a29a005-1ec7-4c2d-8f68-cbc2775614be) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.lever.co/dnb/4677261b-2c12-4357-b590-1d86f8aeeb5a) |
 
 ## About This Role
 
-This soc & incident response position at Dun & Bradstreet was posted on 2026-06-10.
+This soc & incident response position at Dun & Bradstreet was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

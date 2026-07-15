@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Product-Security-Engineer-I_R1303921) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Product-Security-Engineer-I_R1313893) |
 
 ## About This Role
 
-This security engineer position at Danaher was posted on 2026-02-19.
+This security engineer position at Danaher was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

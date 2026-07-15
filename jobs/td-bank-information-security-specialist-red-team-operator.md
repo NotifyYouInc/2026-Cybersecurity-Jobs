@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 3 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Red-Team-Operator_R_1476439) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Red-Team-Operator_R_1496821-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at TD Bank was posted on 2026-03-10.
+This offensive security & pentesting position at TD Bank was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

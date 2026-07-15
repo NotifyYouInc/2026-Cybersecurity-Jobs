@@ -5,12 +5,12 @@
 | Company | [AnaVation LLC](https://scoutify.ai/companies/anavationllc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.lever.co/anavationllc/fe570452-837a-40d4-87e2-a7b097e01b2b) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.lever.co/anavationllc/b687e44a-7b16-435e-9d9f-b931be38745b) |
 
 ## About This Role
 
-This security engineer position at AnaVation LLC was posted on 2026-03-06.
+This security engineer position at AnaVation LLC was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

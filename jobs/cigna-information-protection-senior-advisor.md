@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bloomfield, New Jersey, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Information-Protection-Senior-Advisor_26005405) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Information-Protection-Senior-Advisor_26003949-1) |
 
 ## About This Role
 
-This security engineer position at Cigna was posted on 2026-06-04.
+This security engineer position at Cigna was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

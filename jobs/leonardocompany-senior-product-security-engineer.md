@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Senior-Product-Security-Engineer_R0028343) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/GB---Luton---Cap-Green-300/Senior-Product-Security-Engineer_R0031109) |
 
 ## About This Role
 
-This security engineer position at Leonardocompany was posted on 2026-04-08.
+This security engineer position at Leonardocompany was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

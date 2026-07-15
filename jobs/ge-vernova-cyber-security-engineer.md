@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Cyber-Security-Engineer_R5042507-2) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Cyber-Security-Engineer_R5046231-2) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-05-25.
+This security engineer position at GE Vernova was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

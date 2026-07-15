@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Operational-Technology--OT--Specialist-Team-Lead_ATCP-1447478-S425751) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Operational-Technology--OT--Specialist-Team-Lead_ATCP-1447477-S425753) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-07-02.
+This security engineer position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
