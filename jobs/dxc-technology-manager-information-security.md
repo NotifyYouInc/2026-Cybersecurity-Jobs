@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Manager-Information-Security_51564231) |
+| Location | Macquarie Park, New South Wales, Australia |
+| Category | Security Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Manager-Information-Security_51583808-1) |
 
 ## About This Role
 
-This operations position at DXC Technology was posted on 2026-02-04.
+This security engineer position at DXC Technology was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

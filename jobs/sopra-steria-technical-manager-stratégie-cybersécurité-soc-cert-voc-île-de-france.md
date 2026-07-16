@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129528879-technical-manager-strategie-cybersecurite-soc-cert-voc-ile-de-france) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136503110-technical-manager-strategie-cybersecurite-soc-cert-voc-ile-de-france) |
 
 ## About This Role
 
-This engineering manager position at Sopra Steria was posted on 2026-06-01.
+This engineering manager position at Sopra Steria was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000133357439-security-operations-engineer) |
+| Location | Poland |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000136729209-security-operations-engineer) |
 
 ## About This Role
 
-This security engineer position at Unit4 was posted on 2026-06-22.
+This soc & incident response position at Unit4 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

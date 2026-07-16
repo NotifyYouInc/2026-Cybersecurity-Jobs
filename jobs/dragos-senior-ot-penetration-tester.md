@@ -1,16 +1,16 @@
-# Senior OT Penetration Tester at Dragos
+# Senior OT Penetration Tester  at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5156911008) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5288783008) |
 
 ## About This Role
 
-This offensive security & pentesting position at Dragos was posted on 2026-04-02.
+This offensive security & pentesting position at Dragos was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

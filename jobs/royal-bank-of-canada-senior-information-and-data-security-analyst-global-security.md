@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Senior-Information-and-Data-Security-Analyst--Global-Security-_R-0000173663-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Information-and-Data-Security-Analyst--Global-Security-_R-0000178425-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-06-02.
+This security engineer position at Royal Bank of Canada was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

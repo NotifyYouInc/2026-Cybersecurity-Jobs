@@ -1,0 +1,22 @@
+# Ethical Hacker Needed at Web Agency. Work Remotely (USA only) at Treasurefy
+
+| Field | Details |
+|-------|---------|
+| Company | [Treasurefy](https://scoutify.ai/companies/treasurefy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
+| Category | Offensive Security & Pentesting |
+| Posted | 2016-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Treasurefy/93481760-ethical-hacker-needed-at-web-agency-work-remotely-usa-only) |
+
+## About This Role
+
+This offensive security & pentesting position at Treasurefy was posted on 2016-06-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

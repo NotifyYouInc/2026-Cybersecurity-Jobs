@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6) |
+| Category | Deployment Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/29f15e50-1611-4256-afad-03b7df0b7aa7) |
 
 ## About This Role
 
-This security engineer position at OpenAI was posted on 2026-06-23.
+This deployment engineer position at OpenAI was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

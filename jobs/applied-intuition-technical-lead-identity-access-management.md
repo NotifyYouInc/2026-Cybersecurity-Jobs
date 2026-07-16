@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Security Engineer |
+| Category | Software Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4681916005?gh_jid=4681916005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/f842ce42-b417-41c8-bdaf-30d703fd0664) |
 
 ## About This Role
 
-This security engineer position at Applied Intuition was posted on 2026-04-07.
+This software engineer position at Applied Intuition was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

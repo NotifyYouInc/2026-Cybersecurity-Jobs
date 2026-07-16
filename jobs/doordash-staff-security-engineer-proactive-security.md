@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7767391) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8052754) |
 
 ## About This Role
 
-This security engineer position at DoorDash was posted on 2026-03-30.
+This security engineer position at DoorDash was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

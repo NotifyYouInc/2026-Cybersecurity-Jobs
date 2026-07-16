@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Honolulu, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Cybersecurity---Risk-Management-Framework-Specialist_R0242623) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Cybersecurity---Risk-Management-Framework-Specialist_R0244005) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-19.
+This compliance & risk management position at Booz Allen was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

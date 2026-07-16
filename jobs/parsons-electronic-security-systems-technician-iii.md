@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 15 locations |
+| Location | Puerto Rico |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---FL-Field-Location/Electronic-Security-Systems-Technician-III_R180923) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/PR---Field-Location/Electronic-Security-Systems-Technician-III_R183091) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-05-13.
+This security engineer position at Parsons was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

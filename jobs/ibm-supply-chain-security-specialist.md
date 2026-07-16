@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Essex Junction, Vermont, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117965) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=124603) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-05-28.
+This security engineer position at IBM was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

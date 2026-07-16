@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000135647379-it-security-analyst-it-security-all-genders) |
+| Category | Security Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000136740209-it-security-analyst-it-security-all-genders) |
 
 ## About This Role
 
-This soc & incident response position at About You was posted on 2026-07-03.
+This security engineer position at About You was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

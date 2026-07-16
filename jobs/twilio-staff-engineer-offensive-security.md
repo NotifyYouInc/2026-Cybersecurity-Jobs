@@ -1,16 +1,16 @@
-# Staff Engineer, Offensive Security at Twilio
+# Staff Engineer - Offensive Security at Twilio
 
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ireland |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7622285) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8048657) |
 
 ## About This Role
 
-This offensive security & pentesting position at Twilio was posted on 2026-03-03.
+This software engineer position at Twilio was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

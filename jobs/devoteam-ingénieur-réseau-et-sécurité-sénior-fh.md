@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127168611-ingenieur-reseau-et-securite-senior-fh) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136735829-ingenieur-reseau-et-securite-senior-fh) |
 
 ## About This Role
 
-This security engineer position at Devoteam was posted on 2026-05-19.
+This security engineer position at Devoteam was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

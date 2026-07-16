@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Anaheim, California, United States |
+| Location | San Jose, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Industrial-Security-Manager--ONSITE-_01848883) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Industrial-Security-Manager--ONSITE-_01824028) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-03.
+This security engineer position at RTX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Eagle Mountain, Utah, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Eagle-Mountain-UT/Security-Operations-Manager-I_R2026-1122-1) |
+| Location | Richmond, Virginia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Richmond-VA/Security-Operations-Manager-I_R2026-1445-1) |
 
 ## About This Role
 
-This security engineer position at QTS was posted on 2026-05-27.
+This soc & incident response position at QTS was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

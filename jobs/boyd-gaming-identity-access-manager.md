@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013410686-identity-access-manager) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013989146-identity-access-manager) |
 
 ## About This Role
 
-This security engineer position at Boyd Gaming was posted on 2026-06-01.
+This security engineer position at Boyd Gaming was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
