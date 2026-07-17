@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Shiloh, Illinois, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst_R-00186727) |
+| Location | Odenton, Maryland, United States |
+| Category | Security Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst_R-00187000) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-07-06.
+This security engineer position at Leidos was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

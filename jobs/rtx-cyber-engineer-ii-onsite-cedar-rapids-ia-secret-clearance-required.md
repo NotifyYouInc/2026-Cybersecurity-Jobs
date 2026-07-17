@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Cyber-Engineer-II--Onsite---Cedar-Rapids--IA--Secret-Clearance-Required_01846081) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Cyber-Engineer-II--Onsite---Cedar-Rapids--IA--Secret-Clearance-Required_01858715) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-05-19.
+This security engineer position at RTX was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

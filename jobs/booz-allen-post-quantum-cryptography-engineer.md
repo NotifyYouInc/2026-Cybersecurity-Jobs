@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ashburn, Virginia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Post-Quantum-Cryptography-Engineer_R0237325-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Post-Quantum-Cryptography-Engineer_R0244030-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-08.
+This security engineer position at Booz Allen was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

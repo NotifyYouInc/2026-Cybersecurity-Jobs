@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckallkYzNXR6lB8Kn86g-ONnX36fjjAecVktrLICFuFooEjsACxwdTLWBsfEFm3CHKXhDJjyQxmpVE_WK4_z2QPjiJWA2ClJ_irWLs_aetpWDfF_6yIQ595LBOHo7sA%3D%3D_V2&loc=SG&title=Security+Engineering+Manager) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXkfFrcqB60bJ0ygwap1uCAVta1jI6fcLJPPhiH-qbT-EjsA1Ny_i8cDdEDVMpO2mWvU3iTFLS6AYgHuviXqSFYhcaj4U9_U28pqotwOFtPI0ZFPZkX7p6jppQfL1A%3D%3D_V2&loc=SG&title=Security+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-06-08.
+This engineering manager position at Google was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

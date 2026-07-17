@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#151189) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152456) |
 
 ## About This Role
 
-This security engineer position at Honeywell was posted on 2026-06-22.
+This security engineer position at Honeywell was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/RHEL-STIG-Engineer_324721) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/RHEL-STIG-Engineer_328714) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-13.
+This security engineer position at CACI was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

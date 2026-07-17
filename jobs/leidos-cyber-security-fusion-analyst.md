@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Odenton, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyber-Security-Fusion-Analyst_R-00185345-1) |
+| Location | Fort Meade, Maryland, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Cyber-Security-Fusion-Analyst_R-00186947) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-12.
+This soc & incident response position at Leidos was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Wilmer-TX/Director--Corporate-Security_R2026-0826-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Director--Corporate-Security_R2026-1253-2) |
 
 ## About This Role
 
-This security engineer position at QTS was posted on 2026-04-24.
+This security engineer position at QTS was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

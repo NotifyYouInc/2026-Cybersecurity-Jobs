@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Senior-Cybersecurity-Engineer_JR-0104087) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Security Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Senior-Cybersecurity-Engineer_JR-0107259) |
 
 ## About This Role
 
-This devops engineer position at Workday was posted on 2026-02-09.
+This security engineer position at Workday was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

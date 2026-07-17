@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado, US |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Senior-Intelligence-Analyst_01836852) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Senior-Intelligence-Analyst_01858236) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-09.
+This soc & incident response position at RTX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

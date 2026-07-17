@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000128690278-ingenieur-cybersecurite-itot-hf) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000136771479-ingenieur-cybersecurite-itot-hf) |
 
 ## About This Role
 
-This security engineer position at Egis was posted on 2026-05-27.
+This security engineer position at Egis was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

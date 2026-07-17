@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Rica |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/CR-Ascuncion/SAP-Security-Senior-Analyst_R01130518-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/IN-Bangalore/SAP-Security-Senior-Analyst_R01129755-1) |
 
 ## About This Role
 
-This security engineer position at Solventum was posted on 2026-05-25.
+This security engineer position at Solventum was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

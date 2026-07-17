@@ -5,12 +5,12 @@
 | Company | [Uvcyber](https://scoutify.ai/companies/uvcyber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.lever.co/uvcyber/b472a418-1869-4395-8bc5-564876399197) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/uvcyber/603b91a7-6c5b-40f6-8ce9-d6eb1d6c4c0f) |
 
 ## About This Role
 
-This security engineer position at Uvcyber was posted on 2026-06-11.
+This security engineer position at Uvcyber was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

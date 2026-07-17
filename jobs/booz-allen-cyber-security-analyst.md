@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Cyber-Security-Analyst_R0241888) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Indianapolis-IN/Cyber-Security-Analyst_R0244031) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-18.
+This security engineer position at Booz Allen was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

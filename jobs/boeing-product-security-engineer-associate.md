@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntington Beach, California, United States |
+| Location | Mountain View, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Product-Security-Engineer--Product-Security-Engineer-_JR2026514992-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Product-Security-Engineer--Associate_JR2026516899-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-06-22.
+This security engineer position at Boeing was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

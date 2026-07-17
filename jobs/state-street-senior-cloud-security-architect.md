@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-Cloud-Security-Architect_R-793839) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-Cloud-Security-Architect_R-793913) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-08.
+This security engineer position at State Street was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Not specified |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=c554a7e6-6d9f-465a-9b94-09246b540157) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=b2ced993-c002-44d0-a6b4-a2d4ff0f5a64) |
 
 ## About This Role
 
-This security engineer position at GCI was posted on 2026-06-30.
+This security engineer position at GCI was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

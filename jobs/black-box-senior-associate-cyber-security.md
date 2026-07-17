@@ -1,0 +1,22 @@
+# Senior Associate - Cyber Security at Black Box
+
+| Field | Details |
+|-------|---------|
+| Company | [Black Box](https://scoutify.ai/companies/us2-cx-oj14559?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
+| Category | Offensive Security & Pentesting |
+| Posted | 2025-08-29 |
+| Apply | [View on company site](https://eoje.fa.us2.oraclecloud.com/jobs/#5433) |
+
+## About This Role
+
+This offensive security & pentesting position at Black Box was posted on 2025-08-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

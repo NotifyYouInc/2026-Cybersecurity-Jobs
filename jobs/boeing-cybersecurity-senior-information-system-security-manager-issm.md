@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026517403-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Titusville-FL/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026518257-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-07-07.
+This security engineer position at Boeing was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

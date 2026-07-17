@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cube/91a0d6f7-8486-4153-a3e3-ea78b356685e) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cube/e8cb23a1-6bc1-43b4-9493-3aa91cedd99b) |
 
 ## About This Role
 
-This security engineer position at Cube was posted on 2026-04-29.
+This security engineer position at Cube was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

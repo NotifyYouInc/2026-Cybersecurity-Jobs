@@ -2,8 +2,8 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Eleos Health](https://scoutify.ai/companies/eleos-health?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
+| Company | [Eleos Health](https://scoutify.ai/companies/eleoshealth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
 | Posted | 2026-06-04 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/eleoshealth/jobs/4882330101) |
