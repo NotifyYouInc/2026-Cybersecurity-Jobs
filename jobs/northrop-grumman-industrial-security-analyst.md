@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Industrial-Security-Analyst_R10239442) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Industrial-Security-Analyst_R10239857-1) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-08.
+This security engineer position at Northrop Grumman was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

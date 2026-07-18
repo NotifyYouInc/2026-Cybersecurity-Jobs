@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Lead_R-00182194) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Cybersecurity-Lead_R-00187127-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-30.
+This security engineer position at Leidos was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

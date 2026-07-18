@@ -1,16 +1,16 @@
-# Senior Cyber Defense Engineer Data Protection at CME Group
+# Senior Cyber Defense Engineer – Data Protection at CME Group
 
 | Field | Details |
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Senior-Cyber-Defense-Engineer-Data-Protection_34410) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Senior-Cyber-Defense-Engineer---Data-Protection_34625-1) |
 
 ## About This Role
 
-This security engineer position at CME Group was posted on 2026-05-15.
+This security engineer position at CME Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

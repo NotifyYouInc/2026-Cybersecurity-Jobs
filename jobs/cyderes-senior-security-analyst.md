@@ -1,0 +1,22 @@
+# Senior Security Analyst at Cyderes
+
+| Field | Details |
+|-------|---------|
+| Company | [Cyderes](https://scoutify.ai/companies/cyderes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
+| Category | Security Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.lever.co/cyderes/9117edc1-2474-46a6-a0e8-47988c8c9a9b) |
+
+## About This Role
+
+This security engineer position at Cyderes was posted on 2026-07-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

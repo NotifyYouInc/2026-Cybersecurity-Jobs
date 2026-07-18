@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000135244929-senior-cybersecurity-grc) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000137084489-senior-cybersecurity-grc) |
 
 ## About This Role
 
-This security engineer position at Believe was posted on 2026-07-01.
+This compliance & risk management position at Believe was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

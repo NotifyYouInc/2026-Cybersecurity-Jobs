@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000127318430-senior-security-engineer-ai-automation) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000137095800-senior-security-engineer-ai-automation) |
 
 ## About This Role
 
-This security engineer position at Flywire was posted on 2026-05-20.
+This security engineer position at Flywire was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

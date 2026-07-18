@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131918096-third-party-security-senior-analyst) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137106769-third-party-security-senior-analyst) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-06-12.
+This security engineer position at Experian was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aberdeen Proving Ground, Maryland, United States |
+| Location | California, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/Network-Engineer--Senior_R0243879) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/California-MD/Network-Engineer--Senior_R0241587) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-07.
+This security engineer position at Booz Allen was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

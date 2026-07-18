@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Application-Security-Engineer_R-00181804) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Application-Security-Engineer_R-00186961-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-27.
+This security engineer position at Leidos was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
