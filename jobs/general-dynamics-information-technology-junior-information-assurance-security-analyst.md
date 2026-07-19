@@ -1,12 +1,12 @@
-# NCIS Cyber Security Analyst | Active TS/SCI clearance at General Dynamics Information Technology
+# Junior Information Assurance Security Analyst at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | San Antonio, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Cyber-Security-Analyst---Active-TS-SCI-clearance_RQ224019-2) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-San-Antonio/Junior-Information-Assurance-Security-Analyst_RQ223933-1) |
 
 ## About This Role
 

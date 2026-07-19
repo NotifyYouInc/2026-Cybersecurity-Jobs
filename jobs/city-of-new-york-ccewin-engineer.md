@@ -1,16 +1,16 @@
-# Security Engineer 3 at Comcast
+# CCEWiN Engineer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-11 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Security-Engineer-3_R436219) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014047361-ccewin-engineer) |
 
 ## About This Role
 
-This security engineer position at Comcast was posted on 2026-07-11.
+This security engineer position at City of New York was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
