@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Budapest, Budapest, Hungary |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Information-Security-Senior-Analyst_26969766-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Information-Security-Senior-Analyst_26978326) |
 
 ## About This Role
 
-This security engineer position at Citigroup was posted on 2026-06-12.
+This security engineer position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

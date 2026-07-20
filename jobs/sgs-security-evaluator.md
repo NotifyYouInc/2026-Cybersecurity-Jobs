@@ -1,16 +1,16 @@
-# IT Security Administrator - Remote at KBR
+# Security Evaluator   at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Remote---UK/IT-Security-Administrator---Remote_R2126323) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000137392809-security-evaluator) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-09.
+This security engineer position at SGS was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

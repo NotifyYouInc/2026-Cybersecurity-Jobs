@@ -1,16 +1,16 @@
-# Staff Engineer - IT at R1 Rcm
+# OT Security Consultant at DNV
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
+| Company | [DNV](https://scoutify.ai/companies/em2-cx-oj30289?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Technology / IT Consulting |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Staff-Engineer---IT_R260000004619) |
+| Apply | [View on company site](https://ecyq.fa.em2.oraclecloud.com/jobs/#7102) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-07-13.
+This technology / it consulting position at DNV was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

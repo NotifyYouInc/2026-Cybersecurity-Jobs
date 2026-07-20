@@ -1,16 +1,16 @@
-# Staff Engineer - IT at R1 Rcm
+# Cyber Defender Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Poland |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Staff-Engineer---IT_R260000004619) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000137383069-cyber-defender-engineer) |
 
 ## About This Role
 
-This software engineer position at R1 Rcm was posted on 2026-07-13.
+This soc & incident response position at Nagarro was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

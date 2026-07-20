@@ -1,16 +1,16 @@
-# IT Security Administrator - Remote at KBR
+# Intern at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Remote---UK/IT-Security-Administrator---Remote_R2126323) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Intern_JR_1051322) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-09.
+This security engineer position at Zeiss was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

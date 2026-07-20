@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Inverness, Scotland, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990013713486-cloud-iam-support-engineer) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014052196-cloud-iam-support-engineer) |
 
 ## About This Role
 
-This security engineer position at HelloKindred was posted on 2026-06-19.
+This technical support engineer position at HelloKindred was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

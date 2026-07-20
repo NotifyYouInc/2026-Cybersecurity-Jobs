@@ -1,16 +1,16 @@
-# Spclst , Cybersecurity Engineering at Merck
+# Technical Application Specialist at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 5 locations |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Cybersecurity-Engineering_R406156-2) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Technical-Application-Specialist_157030-2) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-07-13.
+This security engineer position at Lloyds Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

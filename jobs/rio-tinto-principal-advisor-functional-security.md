@@ -1,16 +1,16 @@
-# Spclst , Cybersecurity Engineering at Merck
+# Principal Advisor Functional Security at Rio Tinto
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Cybersecurity-Engineering_R406156-2) |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/Principal-Adviser-Process-Tech-Security_R59835) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-07-13.
+This security engineer position at Rio Tinto was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

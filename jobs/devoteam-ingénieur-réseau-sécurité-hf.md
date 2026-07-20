@@ -1,16 +1,16 @@
-# Spclst , Cybersecurity Engineering at Merck
+# Ingénieur Réseau Sécurité H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Toulouse, Occitanie, France |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Cybersecurity-Engineering_R406156-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000137390269-ingenieur-reseau-securite-hf) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-07-13.
+This security engineer position at Devoteam was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Spclst , Cybersecurity Engineering at Merck
+# Engineer II – SIEM Integrations at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Cybersecurity-Engineering_R406156-2) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Engineer-II---SIEM-Integrations_R28246) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-07-13.
+This security engineer position at CrowdStrike was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

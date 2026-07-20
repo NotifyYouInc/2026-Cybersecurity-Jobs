@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | SOC & Incident Response |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Cybersecurity-Threat-Intelligence-Analyst_R87633-1) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Cybersecurity-Threat-Intelligence-Analyst_R88028) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# IT Security Administrator - Remote at KBR
+# Senior Cloud Security Engineer at Newmark
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Remote---UK/IT-Security-Administrator---Remote_R2126323) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#248606) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-09.
+This security engineer position at Newmark was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

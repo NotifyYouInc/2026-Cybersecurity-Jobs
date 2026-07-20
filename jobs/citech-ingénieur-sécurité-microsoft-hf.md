@@ -1,16 +1,16 @@
-# Spclst , Cybersecurity Engineering at Merck
+# Ingénieur Sécurité Microsoft (H/F) at CITECH
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gradignan, Nouvelle-Aquitaine, France |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Cybersecurity-Engineering_R406156-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000137392330-ingenieur-securite-microsoft-hf) |
 
 ## About This Role
 
-This security engineer position at Merck was posted on 2026-07-13.
+This security engineer position at CITECH was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

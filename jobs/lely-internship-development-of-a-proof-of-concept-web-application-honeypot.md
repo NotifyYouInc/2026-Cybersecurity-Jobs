@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000125789280-internship-development-of-a-proof-of-concept-web-application-honeypot) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000137393519-internship-development-of-a-proof-of-concept-web-application-honeypot) |
 
 ## About This Role
 
-This security engineer position at Lely was posted on 2026-05-11.
+This security engineer position at Lely was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

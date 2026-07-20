@@ -1,16 +1,16 @@
-# IT Security Administrator - Remote at KBR
+# Cyber Security Engineer - (Info Sec Senior Consultant) at Westpac
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Company | [Westpac](https://scoutify.ai/companies/ap1-cx-oj118843?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Remote---UK/IT-Security-Administrator---Remote_R2126323) |
+| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#70155) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-09.
+This security engineer position at Westpac was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

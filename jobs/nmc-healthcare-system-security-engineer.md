@@ -1,16 +1,16 @@
-# IT Security Administrator - Remote at KBR
+# System Security Engineer at NMC Healthcare
 
 | Field | Details |
 |-------|---------|
-| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Company | [NMC Healthcare](https://scoutify.ai/companies/em2-cx-oj75114?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Remote---UK/IT-Security-Administrator---Remote_R2126323) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://eiby.fa.em2.oraclecloud.com/jobs/#10985) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-09.
+This security engineer position at NMC Healthcare was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

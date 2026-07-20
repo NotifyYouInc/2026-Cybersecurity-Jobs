@@ -1,16 +1,16 @@
-# Lead Engineer-Embedded Software Security at Wabtec
+# Principal Threat Research Engineer at Mimecast
 
 | Field | Details |
 |-------|---------|
-| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Embedded / Firmware Engineer |
+| Category | AI / ML Research |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014051556-lead-engineer-embedded-software-security) |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Principal-Threat-Research-Engineer_R6536) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-07-13.
+This ai / ml research position at Mimecast was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
