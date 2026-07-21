@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Jersey City, New Jersey, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Senior-Penetration-Tester--Vice-President_10076713-WD-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Senior-Penetration-Tester--Vice-President_10076865-WD-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-05-20.
+This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

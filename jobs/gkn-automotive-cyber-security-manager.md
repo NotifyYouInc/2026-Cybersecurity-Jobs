@@ -1,0 +1,22 @@
+# Cyber Security Manager at GKN Automotive
+
+| Field | Details |
+|-------|---------|
+| Company | [GKN Automotive](https://scoutify.ai/companies/ocs-cx-oj45238?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://fa-eryf-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#37649) |
+
+## About This Role
+
+This security engineer position at GKN Automotive was posted on 2026-06-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

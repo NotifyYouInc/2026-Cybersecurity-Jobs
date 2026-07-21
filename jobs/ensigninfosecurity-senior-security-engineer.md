@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Malaysia |
+| Location | Selangor, MY |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/Senior-Security-Engineer_JOBREQ-0003345) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/Senior-Security-Engineer_JOBREQ-0003544) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-06-11.
+This security engineer position at Ensigninfosecurity was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

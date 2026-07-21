@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Principal-Classified-Cybersecurity-Analyst---Polygraph_R10230349) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Principal-Classified-Cybersecurity-Analyst---Polygraph_R10240044) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-04-21.
+This security engineer position at Northrop Grumman was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

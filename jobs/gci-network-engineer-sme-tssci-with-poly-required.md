@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=b2ced993-c002-44d0-a6b4-a2d4ff0f5a64) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=321189f0-e889-43f6-942b-82edbb843677) |
 
 ## About This Role
 
-This security engineer position at GCI was posted on 2026-07-09.
+This security engineer position at GCI was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

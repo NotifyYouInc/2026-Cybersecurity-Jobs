@@ -5,12 +5,12 @@
 | Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | South Africa |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Bryanston/Wintel-Endpoint-Security-Specialist_JR002088) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Bryanston/Wintel-Endpoint-Security-Specialist_JR002087) |
 
 ## About This Role
 
-This security engineer position at Tigerbrands was posted on 2026-05-05.
+This security engineer position at Tigerbrands was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

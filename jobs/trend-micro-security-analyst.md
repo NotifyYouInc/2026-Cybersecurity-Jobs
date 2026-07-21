@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Irving, Texas, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Security-Analyst_R0009892) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Security Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Tokyo/Security-Analyst_R0009940-10) |
 
 ## About This Role
 
-This soc & incident response position at Trend Micro was posted on 2026-07-01.
+This security engineer position at Trend Micro was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

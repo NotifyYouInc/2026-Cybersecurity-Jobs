@@ -1,0 +1,22 @@
+# Lead Engineer, Cybersecurity at Forbes
+
+| Field | Details |
+|-------|---------|
+| Company | [Forbes](https://scoutify.ai/companies/forbes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Security Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/forbes/jobs/6112068004) |
+
+## About This Role
+
+This security engineer position at Forbes was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

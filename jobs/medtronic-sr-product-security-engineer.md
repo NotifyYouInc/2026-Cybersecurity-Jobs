@@ -1,16 +1,16 @@
-# Sr. Product Security Engineer at Medtronic
+# Sr Product Security Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Galway, Connacht, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Product-Security-Engineer_R68528-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Sr-Product-Security-Engineer_R70876-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-06-02.
+This security engineer position at Medtronic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

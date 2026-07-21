@@ -5,12 +5,12 @@
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Senior-Analyst---Application-Security_J68643-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Senior-Analyst---Application-Security_J68950) |
 
 ## About This Role
 
-This security engineer position at Fil was posted on 2026-06-12.
+This security engineer position at Fil was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

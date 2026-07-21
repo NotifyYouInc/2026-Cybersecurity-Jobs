@@ -5,12 +5,12 @@
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/9fef4c72-f2a8-474e-a340-6c7ced757ccc) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/245e53ce-640a-4088-8074-e8f12b91d862) |
 
 ## About This Role
 
-This soc & incident response position at Wyetech was posted on 2026-07-06.
+This soc & incident response position at Wyetech was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

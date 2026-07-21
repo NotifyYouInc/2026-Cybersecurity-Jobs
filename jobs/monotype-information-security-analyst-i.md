@@ -5,12 +5,12 @@
 | Company | [Monotype](https://scoutify.ai/companies/monotype?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://monotype.wd1.myworkdayjobs.com/monotype/job/Noida/Information-Security-Analyst-I_R0004729) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://monotype.wd1.myworkdayjobs.com/monotype/job/Noida/Information-Security-Analyst-I_R0004807) |
 
 ## About This Role
 
-This security engineer position at Monotype was posted on 2026-04-29.
+This security engineer position at Monotype was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

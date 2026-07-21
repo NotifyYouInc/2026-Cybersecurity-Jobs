@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Camp Springs, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Information-Systems-Security-Engineer_R-00185702) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Information-Systems-Security-Engineer_R-00187165) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-18.
+This security engineer position at Leidos was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

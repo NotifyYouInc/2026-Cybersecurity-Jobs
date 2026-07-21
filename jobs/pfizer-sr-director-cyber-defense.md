@@ -1,16 +1,16 @@
-# Sr Director, Cyber Defense at Pfizer
+# Sr. Director, Cyber Defense at Pfizer
 
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Thessaloníki, Central Macedonia, Greece |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Sr-Director--Cyber-Defense_4952912) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Director--Cyber-Defense_4960670-1) |
 
 ## About This Role
 
-This security engineer position at Pfizer was posted on 2026-03-03.
+This security engineer position at Pfizer was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

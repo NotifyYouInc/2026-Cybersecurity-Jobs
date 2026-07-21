@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/AI-Security-Engineer_R0113340) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/AI-Security-Engineer_R0116471-1) |
 
 ## About This Role
 
-This security engineer position at Truist was posted on 2026-04-13.
+This security engineer position at Truist was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

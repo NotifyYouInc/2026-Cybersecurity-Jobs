@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaWU24pOWtBmnIQJ-EFqmH4C-oSSaP3CSTEhbshFzY1WEjsA1Ny_i7eu-2MUs4ZonNmPao-hQL_wRVMfnc8DSukJdv1u3WVaMCuGyJV0LBybjVwjTwB1XgdFrRC5vw%3D%3D_V2&loc=GB&title=Incident+Response+Security+Consultant) |
+| Location | Denmark |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQvRyV3NsJuvSlhWP2zUQTIgSHnEpAFa5QsbNm2BBl5cEjsA1Ny_i-ZQwUHSO62-_F_14yDs906DnmdgecTNbYLSEsuO_vA9lbM9_hvugvL14rkHZfRXFD9H7MLdBA%3D%3D_V2&loc=US&title=Incident+Response+Security+Consultant) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-06-25.
+This technology / it consulting position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

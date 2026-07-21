@@ -1,0 +1,22 @@
+# Advanced Cyber Defense Practice Lead at Booz Allen
+
+| Field | Details |
+|-------|---------|
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | The Hague, South Holland, The Netherlands |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/The-Hague-South-Holland/Advanced-Cyber-Defense-Practice-Lead_R0244320-1) |
+
+## About This Role
+
+This soc & incident response position at Booz Allen was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

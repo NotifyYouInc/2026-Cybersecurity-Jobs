@@ -1,16 +1,16 @@
-# Systems Security Engineering Section Lead (M4) (Onsite) at RTX
+# Systems Security Engineering Section Lead - M4 (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
+| Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Security-Engineering-Section-Lead--M4---Onsite-_01857033) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Security-Engineering-Section-Lead---M4--Onsite-_01859368) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-07-02.
+This security engineer position at RTX was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

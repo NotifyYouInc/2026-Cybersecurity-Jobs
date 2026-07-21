@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Italy |
+| Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135721500-asset-protection-responsible) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000137445889-asset-protection-responsible) |
 
 ## About This Role
 
-This security engineer position at H&M Group was posted on 2026-07-03.
+This security engineer position at H&M Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

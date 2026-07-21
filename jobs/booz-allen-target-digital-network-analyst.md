@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Meade, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Target-Digital-Network-Analyst_R0242868) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Target-Digital-Network-Analyst_R0244147) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-23.
+This it & systems administration position at Booz Allen was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

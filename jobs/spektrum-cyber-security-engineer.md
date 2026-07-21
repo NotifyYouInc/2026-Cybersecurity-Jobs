@@ -5,12 +5,12 @@
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4922828101) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4926357101) |
 
 ## About This Role
 
-This security engineer position at Spektrum was posted on 2026-07-08.
+This security engineer position at Spektrum was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

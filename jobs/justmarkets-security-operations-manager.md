@@ -5,12 +5,12 @@
 | Company | [JustMarkets](https://scoutify.ai/companies/justmarkets?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4914420101) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4926099101) |
 
 ## About This Role
 
-This soc & incident response position at JustMarkets was posted on 2026-07-09.
+This soc & incident response position at JustMarkets was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

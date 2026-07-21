@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135669929-apprenticeship-cybersecurity-analyst) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137413385-apprenticeship-cybersecurity-analyst) |
 
 ## About This Role
 
-This security engineer position at SIA was posted on 2026-07-03.
+This security engineer position at SIA was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

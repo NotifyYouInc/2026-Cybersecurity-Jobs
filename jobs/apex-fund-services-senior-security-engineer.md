@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Security-Engineer_JR-0020660) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Security-Engineer_JR-0024780) |
 
 ## About This Role
 
-This security engineer position at Apex Fund Services was posted on 2026-02-24.
+This security engineer position at Apex Fund Services was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

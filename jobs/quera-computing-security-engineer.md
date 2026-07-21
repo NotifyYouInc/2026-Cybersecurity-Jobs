@@ -5,12 +5,12 @@
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5141495008) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5342034008) |
 
 ## About This Role
 
-This security engineer position at QuEra Computing was posted on 2026-03-04.
+This security engineer position at QuEra Computing was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

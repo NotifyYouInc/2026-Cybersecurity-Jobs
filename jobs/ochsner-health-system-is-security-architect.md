@@ -5,12 +5,12 @@
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New Orleans, Louisiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Security-Architect_REQ_00262635-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Security-Architect_REQ_00268288) |
 
 ## About This Role
 
-This security engineer position at Ochsner Health System was posted on 2026-05-07.
+This security engineer position at Ochsner Health System was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/Information-Systems-Security-Manager--ISSM-_R2126152) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-District-of-Columbia/Information-Systems-Security-Manager--ISSM-_R2126517) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-07.
+This security engineer position at KBR was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
