@@ -5,12 +5,12 @@
 | Company | [Data Systems Analysts, Inc.](https://scoutify.ai/companies/data-systems-analysts-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fairfax, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5139588008) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5342830008) |
 
 ## About This Role
 
-This security engineer position at Data Systems Analysts, Inc. was posted on 2026-04-09.
+This security engineer position at Data Systems Analysts, Inc. was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

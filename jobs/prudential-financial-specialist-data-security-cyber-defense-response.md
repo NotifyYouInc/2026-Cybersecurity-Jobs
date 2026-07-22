@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Specialist--Data-Security---Cyber-Defense---Response_R-124421-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Specialist--Data-Security---Cyber-Defense---Response_R-124607-1) |
 
 ## About This Role
 
-This security engineer position at Prudential Financial was posted on 2026-06-10.
+This soc & incident response position at Prudential Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

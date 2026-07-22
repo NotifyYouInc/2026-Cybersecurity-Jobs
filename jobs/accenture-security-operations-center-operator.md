@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Operations-Center-Operator_R00331500) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Operations-Center-Operator_R00341136-1) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-06-01.
+This soc & incident response position at Accenture was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Sr. Lead, Cyber Sec Eng at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Tempe-AZ/Sr-Lead--Cyber-Sec-Eng_R155505) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Sr-Lead--Cyber-Sec-Eng_R157355) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-05-28.
+This security engineer position at Northern Trust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

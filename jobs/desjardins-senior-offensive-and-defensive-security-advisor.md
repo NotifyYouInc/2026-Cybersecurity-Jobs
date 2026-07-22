@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-consillere-principale--Modlisation-de-menaces_R2603961) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-en-scurit-offensive--revue-de-code-assiste-par-l-IA_R2608833) |
 
 ## About This Role
 
-This offensive security & pentesting position at Desjardins was posted on 2026-03-18.
+This offensive security & pentesting position at Desjardins was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

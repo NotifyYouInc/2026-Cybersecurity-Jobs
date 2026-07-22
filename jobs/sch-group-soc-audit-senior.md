@@ -5,12 +5,12 @@
 | Company | [SC&H Group](https://scoutify.ai/companies/recruiting-ultipro-com-oj93461?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sch1020schg/JobBoard/32dd4149-e41d-45e4-afe3-e24f7220d3bf/OpportunityDetail?opportunityId=f5babad2-8f17-4429-a5b8-d6b0e0e5af9a) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sch1020schg/JobBoard/32dd4149-e41d-45e4-afe3-e24f7220d3bf/OpportunityDetail?opportunityId=3c59ad67-8638-473d-b8ef-82603ff24439) |
 
 ## About This Role
 
-This soc & incident response position at SC&H Group was posted on 2026-06-30.
+This soc & incident response position at SC&H Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

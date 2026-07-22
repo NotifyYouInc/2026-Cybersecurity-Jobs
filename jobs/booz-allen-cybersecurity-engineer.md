@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cybersecurity-Engineer_R0243508) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Cybersecurity-Engineer_R0244350) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-01.
+This security engineer position at Booz Allen was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

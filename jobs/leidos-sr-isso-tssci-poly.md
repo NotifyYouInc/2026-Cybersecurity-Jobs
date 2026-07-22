@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Sr-ISSO-TS-SCI-Poly_R-00183647) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Sr-ISSO-TS-SCI-Poly_R-00187326) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-19.
+This security engineer position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

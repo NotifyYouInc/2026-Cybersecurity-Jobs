@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7611197003) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7750733003) |
 
 ## About This Role
 
-This security engineer position at HighRadius was posted on 2026-02-19.
+This security engineer position at HighRadius was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

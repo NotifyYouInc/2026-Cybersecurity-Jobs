@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133667077-cybersecurity-analyst) |
+| Category | Security Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000137648554-cybersecurity-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Smiths Group was posted on 2026-06-23.
+This security engineer position at Smiths Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 6 locations |
+| Location | Norfolk, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer_R0243357) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0229036) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-30.
+This security engineer position at Booz Allen was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

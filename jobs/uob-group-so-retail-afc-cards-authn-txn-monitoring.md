@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/SO--Retail-AFC---Cards-Authn---Txn-Monitoring_JR88488) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/SO--Retail-AFC---Cards-Authn---Txn-Monitoring_JR86617) |
 
 ## About This Role
 
-This soc & incident response position at UOB Group was posted on 2026-07-03.
+This soc & incident response position at UOB Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

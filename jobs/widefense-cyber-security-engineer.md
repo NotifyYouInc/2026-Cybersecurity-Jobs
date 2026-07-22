@@ -5,12 +5,12 @@
 | Company | [Widefense](https://scoutify.ai/companies/wdgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WDGroup/744000131729289-cyber-security-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WDGroup/744000137767969-cyber-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Widefense was posted on 2026-06-11.
+This security engineer position at Widefense was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

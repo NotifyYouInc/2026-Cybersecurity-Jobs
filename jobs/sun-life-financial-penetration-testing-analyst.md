@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterford, Munster, Ireland |
+| Location | National Capital Region, PH |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Penetration-Testing-Analyst_JR00124161) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Penetration-Testing-Analyst_JR00125255) |
 
 ## About This Role
 
-This offensive security & pentesting position at Sun Life Financial was posted on 2026-05-27.
+This offensive security & pentesting position at Sun Life Financial was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

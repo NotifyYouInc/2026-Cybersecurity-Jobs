@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132951759-cybersecurity-forensics-and-incident-response-analyst) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137721169-cybersecurity-forensics-and-incident-response-analyst) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-18.
+This soc & incident response position at Robert Bosch was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

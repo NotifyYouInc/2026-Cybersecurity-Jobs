@@ -6,7 +6,7 @@
 | Location | Gradignan, Nouvelle-Aquitaine, France |
 | Category | Security Engineer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000137392330-ingenieur-securite-microsoft-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000137479145-ingenieur-securite-microsoft-hf) |
 
 ## About This Role
 

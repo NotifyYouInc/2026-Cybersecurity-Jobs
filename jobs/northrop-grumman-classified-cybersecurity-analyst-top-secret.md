@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Magna, Utah, United States |
+| Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Classified-Cybersecurity-Analyst---Top-Secret_R10237279) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Classified-Cybersecurity-Analyst---Top-Secret_R10238325-1) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-24.
+This security engineer position at Northrop Grumman was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

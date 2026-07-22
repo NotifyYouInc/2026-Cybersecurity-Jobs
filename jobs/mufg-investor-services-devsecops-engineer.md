@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Limassol, Limassol, Cyprus |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000133947599-devsecops-engineer) |
+| Location | Dublin, Leinster, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137661324-devsecops-engineer) |
 
 ## About This Role
 
-This security engineer position at MUFG Investor Services was posted on 2026-06-24.
+This devops engineer position at MUFG Investor Services was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Senior-Ping-Customer-IAM-Developer_R53499) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Senior-Ping-Customer-IAM-Developer_R53537) |
 
 ## About This Role
 
-This security engineer position at TD Synnex was posted on 2026-07-08.
+This security engineer position at TD Synnex was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlottesville, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Cyber-Threat-Analyst_R0239754) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Cyber-Threat-Analyst_R0244432-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-11.
+This soc & incident response position at Booz Allen was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

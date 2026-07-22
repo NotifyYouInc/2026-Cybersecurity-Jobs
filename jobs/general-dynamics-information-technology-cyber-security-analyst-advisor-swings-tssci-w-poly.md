@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Reston/Cyber-Security-Analyst-Advisor--SWINGS---TS-SCI-W--POLY_RQ217634) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs---8610-Explorer-Dr-COC036/Cyber-Security-Analyst-Advisor--SWINGS---TS-SCI-W--POLY_RQ224143-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-04-02.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

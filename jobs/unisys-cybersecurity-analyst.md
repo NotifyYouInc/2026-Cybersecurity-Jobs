@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ574249) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ574474) |
 
 ## About This Role
 
-This security engineer position at Unisys was posted on 2026-07-10.
+This security engineer position at Unisys was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137024660-ict-security-engineering-intern-nov-2026) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137791269-ict-security-engineering-intern-nov-2026) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-07-10.
+This security engineer position at AECOM was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

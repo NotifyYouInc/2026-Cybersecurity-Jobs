@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000136187809-soc-manager) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000137696109-soc-manager) |
 
 ## About This Role
 
-This soc & incident response position at SportsDirect.com Retail was posted on 2026-07-07.
+This soc & incident response position at SportsDirect.com Retail was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

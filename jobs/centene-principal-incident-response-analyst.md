@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Florida, US |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NY/Principal-Incident-Response-Analyst_1630898) |
+| Location | Illinois, US |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Principal-Incident-Response-Analyst_1643529) |
 
 ## About This Role
 
-This cybersecurity engineer position at Centene was posted on 2026-02-06.
+This soc & incident response position at Centene was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

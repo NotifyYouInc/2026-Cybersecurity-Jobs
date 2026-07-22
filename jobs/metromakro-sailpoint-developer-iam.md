@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000131047910-sailpoint-developer-iam) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137621389-sailpoint-developer-iam) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-06-09.
+This security engineer position at METRO/MAKRO was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

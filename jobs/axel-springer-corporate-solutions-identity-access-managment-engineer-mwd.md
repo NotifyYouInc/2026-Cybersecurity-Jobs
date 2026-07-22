@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000115129297-identity-access-managment-engineer-mwd) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000137811389-identity-access-managment-engineer-mwd) |
 
 ## About This Role
 
-This security engineer position at Axel Springer Corporate Solutions was posted on 2026-03-17.
+This security engineer position at Axel Springer Corporate Solutions was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

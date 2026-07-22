@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Germany |
-| Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110742327-game-security-programmer-game-security-fmd) |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000137637909-game-security-programmer-game-security-fmd) |
 
 ## About This Role
 
-This security engineer position at Ubisoft was posted on 2026-02-23.
+This software engineer position at Ubisoft was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

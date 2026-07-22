@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/DNS-GSLB-Security-Engineer_R-1095614-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/DNS-GSLB-Security-Engineer_R-1097661) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-06-10.
+This security engineer position at Verizon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
