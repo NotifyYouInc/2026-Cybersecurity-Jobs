@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137661324-devsecops-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137877639-devsecops-engineer) |
 
 ## About This Role
 
-This devops engineer position at MUFG Investor Services was posted on 2026-07-14.
+This devops engineer position at MUFG Investor Services was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

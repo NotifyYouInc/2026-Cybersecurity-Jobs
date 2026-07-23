@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Incident-Response-Analyst--Specialist_174300-2) |
+| Location | 3 locations |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Incident-Response-Analyst--Specialist_180216) |
 
 ## About This Role
 
-This cybersecurity engineer position at Vanguard was posted on 2026-02-09.
+This soc & incident response position at Vanguard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

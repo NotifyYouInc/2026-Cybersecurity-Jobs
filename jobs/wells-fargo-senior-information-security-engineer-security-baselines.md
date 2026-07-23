@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Information-Security-Engineer---Security-Baselines_R-547340) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Information-Security-Engineer---Security-Baselines_R-557886) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-05-25.
+This security engineer position at Wells Fargo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

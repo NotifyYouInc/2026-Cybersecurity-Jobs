@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StubHub](https://scoutify.ai/companies/stubhub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4867255101) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4929089101) |
 
 ## About This Role
 
-This security engineer position at StubHub was posted on 2026-05-14.
+This software engineer position at StubHub was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Linthicum-Heights-MD/Principal-Cybersecurity-Systems-Engineer_R-00184964) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Linthicum-Heights-MD/Principal-Cybersecurity-Systems-Engineer_R-00187412) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-08.
+This security engineer position at Leidos was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

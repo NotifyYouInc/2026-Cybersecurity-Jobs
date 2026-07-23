@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Cybersecurity-Specialist_R-00183482) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Cybersecurity-Specialist_R-00187299) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-18.
+This security engineer position at Leidos was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Industrial-Security-Analyst_R10234925) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Industrial-Security-Analyst_R10239577) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-04.
+This security engineer position at Northrop Grumman was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

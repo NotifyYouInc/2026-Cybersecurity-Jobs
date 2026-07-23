@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer--Level-5_H126SWES6) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer--Level-5_R0046172) |
 
 ## About This Role
 
-This security engineer position at Snapchat was posted on 2026-03-12.
+This security engineer position at Snapchat was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

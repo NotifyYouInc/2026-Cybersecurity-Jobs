@@ -1,16 +1,16 @@
-# Team Lead Network Security at STOW Group
+# Team Lead Network & Security at STOW Group
 
 | Field | Details |
 |-------|---------|
 | Company | [STOW Group](https://scoutify.ai/companies/stow-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lokeren, Flanders, Belgium |
 | Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000137626359-team-lead-network-security) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000137854110-team-lead-network-security) |
 
 ## About This Role
 
-This security engineer position at STOW Group was posted on 2026-07-14.
+This security engineer position at STOW Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

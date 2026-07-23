@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
-| Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000115447725-administrateur-reseau-et-securite-hf) |
+| Location | Lorient, Brittany, France |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000137903198-administrateur-reseau-et-securite-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-03-18.
+This it & systems administration position at Everience was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

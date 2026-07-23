@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Insider-Threat-Investigative-Analyst_R0163333-1) |
+| Location | Chantilly, Virginia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Chantilly/Insider-Threat-Investigative-Analyst_R0166062) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-06-10.
+This soc & incident response position at Amentum was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

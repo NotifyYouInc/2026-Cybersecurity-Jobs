@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterlooville, England, United Kingdom |
+| Location | Cambridge, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134731676-soc-operator) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000137853464-soc-operator) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-06-29.
+This soc & incident response position at Securitas was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berkeley, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Security-Engineer--Software-----Signing-Bonus-Potential---_JR2026496642) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Security-Engineer--Software-----Signing-Bonus-Potential---_JR2026518410-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-05-05.
+This security engineer position at Boeing was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Saudi Arabia |
+| Location | Khobar, Eastern Province, Saudi Arabia |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Al-Khobar/Cybersecurity-Engineer_R-10265) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Khobar/Cybersecurity-Engineer_R-12227) |
 
 ## About This Role
 
-This security engineer position at Yokogawa was posted on 2026-02-24.
+This security engineer position at Yokogawa was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

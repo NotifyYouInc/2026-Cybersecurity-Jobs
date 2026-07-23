@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Vic, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Security-Engineer_REQ259346) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/VIC-CBD-Melbourne-Area/Senior-Security-Engineer_REQ261201) |
 
 ## About This Role
 
-This security engineer position at Commonwealth Bank of Australia was posted on 2026-05-28.
+This security engineer position at Commonwealth Bank of Australia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead information Security Engineer at Wells Fargo
+# Lead Information Security Engineer at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-information-Security-Engineer_R-548212) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Information-Security-Engineer_R-556496-1) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-05-29.
+This security engineer position at Wells Fargo was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

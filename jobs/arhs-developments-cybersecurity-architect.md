@@ -5,12 +5,12 @@
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000135252719-cybersecurity-architect) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000138052544-cybersecurity-architect) |
 
 ## About This Role
 
-This security engineer position at ARHS Developments was posted on 2026-07-01.
+This security engineer position at ARHS Developments was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

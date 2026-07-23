@@ -1,16 +1,16 @@
-# Principal / Senior Principal Cyber Systems Engineer at Northrop Grumman
+# Principal/ Senior Principal Cyber Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/Principal---Senior-Principal-Cyber-Systems-Engineer_R10223278) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal--Senior-Principal-Cyber-Systems-Engineer_R10236026) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-02-18.
+This security engineer position at Northrop Grumman was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

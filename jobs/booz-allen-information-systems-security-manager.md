@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma, US |
+| Location | Herndon, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tinker-AFB-OK/Information-Systems-Security-Manager_R0242637) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Information-Systems-Security-Manager_R0244563) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-16.
+This security engineer position at Booz Allen was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

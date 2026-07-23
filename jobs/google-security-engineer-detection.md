@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/107930041853059782-security-engineer-detection?sort_by=date&page=1) |
+| Location | Reston, Virginia, United States |
+| Category | Security Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUqBTxeugs9TcPtio3T4GcznvQiMTHfXreqzLIai5TYnEjsA1Ny_i2hvOLI5GvJFnP57BcsORSiVPd1RyptwGhjft8hyQDJT19VDdYJXNFVgqJy4AVQBkoXQjoGjYA%3D%3D_V2&loc=US&title=Security+Engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-02-03.
+This security engineer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

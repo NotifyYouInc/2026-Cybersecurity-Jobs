@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sèvres, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132837709-stage-innovation-ingenieur-developpement-embarque-avec-expertise-en-5g) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000138052663-stage-innovation-ingenieur-developpement-embarque-avec-expertise-en-5g) |
 
 ## About This Role
 
-This security engineer position at ALTEN Canada was posted on 2026-06-18.
+This embedded / firmware engineer position at ALTEN Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

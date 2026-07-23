@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lumentum](https://scoutify.ai/companies/lumentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Towcester, England, United Kingdom |
+| Location | Ottawa, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/United-Kingdom---Towcester-Northamptonshire/Senior-IT-Security-Analyst_2026923-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Senior-IT-Security-Analyst_2026925) |
 
 ## About This Role
 
-This security engineer position at Lumentum was posted on 2026-07-07.
+This security engineer position at Lumentum was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
