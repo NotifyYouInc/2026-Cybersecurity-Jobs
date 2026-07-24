@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrivia](https://scoutify.ai/companies/recruiting-ultipro-com-oj7762?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Software Engineer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://recruiting.ultipro.com/int1043excur/JobBoard/ad5e5978-552f-4ef7-90c8-70ebb0a57994/OpportunityDetail?opportunityId=a2a7704d-17ae-4535-a526-a486d0dd8ba5) |
+| Apply | [View on company site](https://recruiting.ultipro.com/int1043excur/JobBoard/ad5e5978-552f-4ef7-90c8-70ebb0a57994/OpportunityDetail?opportunityId=21c0934d-ec68-4185-bb77-f61a58a3637a) |
 
 ## About This Role
 

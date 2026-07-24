@@ -5,12 +5,12 @@
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Information-Security-Engineer---Cyber-Ops_24587-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Information-Security-Engineer---Threat-Intelligence_24604) |
 
 ## About This Role
 
-This security engineer position at OneWest Bank was posted on 2026-07-09.
+This security engineer position at OneWest Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

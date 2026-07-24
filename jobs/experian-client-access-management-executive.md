@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136832519-client-access-management-executive) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138262891-client-access-management-executive) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-09.
+This security engineer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

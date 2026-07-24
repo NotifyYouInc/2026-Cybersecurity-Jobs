@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000128402809-cybersecurity-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138138709-cybersecurity-engineer) |
 
 ## About This Role
 
-This security engineer position at Endava was posted on 2026-05-26.
+This security engineer position at Endava was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

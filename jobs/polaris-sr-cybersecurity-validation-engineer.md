@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Novi, Michigan, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Novi-MI-USA/Sr-Cybersecurity-Validation-Engineer_R30466) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Novi-MI-USA/Sr-Cybersecurity-Validation-Engineer_R30383-1) |
 
 ## About This Role
 
-This security engineer position at Polaris was posted on 2026-07-14.
+This security engineer position at Polaris was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

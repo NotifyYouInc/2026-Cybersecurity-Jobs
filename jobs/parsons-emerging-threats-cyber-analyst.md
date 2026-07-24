@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Emerging-Threats-Cyber-Analyst_R183283-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Emerging-Threats-Cyber-Analyst_R183409) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-07-14.
+This soc & incident response position at Parsons was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

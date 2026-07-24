@@ -5,12 +5,12 @@
 | Company | [Portsmouth Hospitals University NHS Trust](https://scoutify.ai/companies/portsmouthhospitalsuniversitynhstrust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newport, Wales, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000137885260-cyber-security-specialist) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000138113339-cyber-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Portsmouth Hospitals University NHS Trust was posted on 2026-07-15.
+This security engineer position at Portsmouth Hospitals University NHS Trust was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

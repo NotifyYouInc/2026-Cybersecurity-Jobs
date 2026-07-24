@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Palmdale/Security-Control-Assessor--SCA--I_RQ221420-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Los-Angeles/Security-Control-Assessor--SCA--I_RQ224538-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-01.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

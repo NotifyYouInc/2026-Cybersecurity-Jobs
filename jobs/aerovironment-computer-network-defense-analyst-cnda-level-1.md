@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jessup, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Computer-Network-Defense-Analyst--CNDA-_7004) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Computer-Network-Defense-Analyst--CNDA--Level-1_8153) |
 
 ## About This Role
 
-This security engineer position at AeroVironment was posted on 2026-04-21.
+This soc & incident response position at AeroVironment was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

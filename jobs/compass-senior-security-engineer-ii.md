@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compass](https://scoutify.ai/companies/compass?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8055183) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8068783) |
 
 ## About This Role
 
-This security engineer position at Compass was posted on 2026-07-15.
+This security engineer position at Compass was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

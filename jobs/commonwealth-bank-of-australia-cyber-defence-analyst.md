@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Cyber-Defence-Analyst_REQ258646) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Cyber-Defence-Analyst_REQ261869) |
 
 ## About This Role
 
-This security engineer position at Commonwealth Bank of Australia was posted on 2026-06-16.
+This soc & incident response position at Commonwealth Bank of Australia was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

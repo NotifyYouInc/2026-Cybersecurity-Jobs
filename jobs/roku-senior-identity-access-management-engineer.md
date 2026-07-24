@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Jose, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8065335?gh_jid=8065335) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8067203?gh_jid=8067203) |
 
 ## About This Role
 
-This security engineer position at Roku was posted on 2026-07-14.
+This security engineer position at Roku was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

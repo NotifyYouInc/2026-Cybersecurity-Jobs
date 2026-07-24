@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Lead-PAM-Engineer_R83216) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Lead-PAM-Engineer_R87976) |
 
 ## About This Role
 
-This security engineer position at M&T Bank was posted on 2026-02-19.
+This security engineer position at M&T Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

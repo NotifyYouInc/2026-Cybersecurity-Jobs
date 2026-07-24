@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Santa-Clara-California/Site-Security-Manager--NA_R22917) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Ashburn-Virginia/Site-Security-Manager--NA_R23781) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-05-05.
+This security engineer position at Vantage Data Centers was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000133299499-integrateur-iam-hf) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138072950-integrateur-iam-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-06-22.
+This security engineer position at Everience was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

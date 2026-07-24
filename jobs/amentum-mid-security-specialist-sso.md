@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tampa/Mid-Security-Specialist--SSO-_R0163343) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tampa/Mid-Security-Specialist--SSO-_R0166081-1) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-06-10.
+This security engineer position at Amentum was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

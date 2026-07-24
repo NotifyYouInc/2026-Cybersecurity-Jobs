@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Security-Specialist_HR102106) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Security-Specialist_HR102301) |
 
 ## About This Role
 
-This security engineer position at Radiance Technologies was posted on 2026-04-13.
+This security engineer position at Radiance Technologies was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

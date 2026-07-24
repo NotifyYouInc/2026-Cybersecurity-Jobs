@@ -5,12 +5,12 @@
 | Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5289508008) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5362369008) |
 
 ## About This Role
 
-This offensive security & pentesting position at Varicent was posted on 2026-07-03.
+This offensive security & pentesting position at Varicent was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Quebec-Remote-Worker/Network-Principal_R0318214-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa---Palladium/Network-Principal_R0333703-2) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-03-06.
+This security engineer position at Thales was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

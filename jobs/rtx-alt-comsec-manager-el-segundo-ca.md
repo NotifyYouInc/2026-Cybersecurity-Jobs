@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E07--2012-E-El-Segundo-Blvd--BLDG-E07/Alt-COMSEC-Manager-El-Segundo--CA_01835670) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E07--2012-E-El-Segundo-Blvd--BLDG-E07/Alt-COMSEC-Manager-El-Segundo--CA_01855775) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-14.
+This security engineer position at RTX was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

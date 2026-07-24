@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | Waterloo, Iowa, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdQVuoEgr1LwtNrOFvBpJvlqp3sxhgHFhKZOK5OeVrNKEjsACxwdTJdR7JIBpwcFALPRINt2XAhavFQtQOvYFTWimXm15yH4RlmkbmMXxRq9ffVu65Ypftqc2_XyEQ%3D%3D_V2&loc=CA&title=Security+Developer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUE6BfZtBruqGDjLb-k0yMLbGrrAQ-0ad_lo3NUSwTPLEjsA1Ny_iymTYiiaxwUJ0zSK8S3Bl3eOP0wffwH7MJ0XZOeENc7f88gNfIsFxRkwmjB_DeRxFX2eNx_3zw%3D%3D_V2&loc=CA&title=Security+Developer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-10.
+This security engineer position at Google was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

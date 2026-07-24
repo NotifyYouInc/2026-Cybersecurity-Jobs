@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | New Jersey, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---LOUISVILLE-TECHNOLGY-AND-LOGISTIC-CENTER-KYLOL/Cyber-Intelligence-Analyst_R26005239-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/Cyber-Intelligence-Analyst_R26022007-1) |
 
 ## About This Role
 
-This soc & incident response position at United Parcel Service (UPS) was posted on 2026-02-23.
+This soc & incident response position at United Parcel Service (UPS) was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

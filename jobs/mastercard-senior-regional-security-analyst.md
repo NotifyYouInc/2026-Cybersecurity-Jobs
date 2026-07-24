@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Regional-Security-Analyst_R-276645) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Regional-Security-Analyst_R-278391-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-04-29.
+This security engineer position at Mastercard was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

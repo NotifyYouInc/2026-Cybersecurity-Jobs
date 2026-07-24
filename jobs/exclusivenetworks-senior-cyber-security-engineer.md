@@ -5,12 +5,12 @@
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Istanbul/Senior-Cyber-Security-Engineer_JR1215-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Istanbul/Senior-Cyber-Security-Engineer_JR2266) |
 
 ## About This Role
 
-This security engineer position at Exclusivenetworks was posted on 2026-03-19.
+This security engineer position at Exclusivenetworks was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

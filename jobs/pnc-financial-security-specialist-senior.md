@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Pennsylvania, US |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Security-Specialist-Senior_R217502-2) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Security-Specialist-Senior_R229801-1) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-04-13.
+This security engineer position at PNC Financial was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

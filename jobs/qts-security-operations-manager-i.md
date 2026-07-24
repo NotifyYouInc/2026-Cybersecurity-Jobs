@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Texas, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Richmond-VA/Security-Operations-Manager-I_R2026-1445-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Turkey-1-DC1/Security-Operations-Manager-I_R2026-1522-1) |
 
 ## About This Role
 
-This soc & incident response position at QTS was posted on 2026-07-08.
+This soc & incident response position at QTS was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Semperis](https://scoutify.ai/companies/semperis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/semperis/16f8c241-d63e-4e83-b33b-5f02b52b9db1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/semperis/5bcd60d5-d21e-4d6c-9675-0a79846bf6e6) |
 
 ## About This Role
 
-This security engineer position at Semperis was posted on 2026-04-14.
+This security engineer position at Semperis was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Azcapotzalco, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153161) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#151651) |
 
 ## About This Role
 
-This security engineer position at Honeywell was posted on 2026-07-13.
+This security engineer position at Honeywell was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

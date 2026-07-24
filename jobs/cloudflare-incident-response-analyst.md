@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8050511?gh_jid=8050511) |
 
 ## About This Role
 
-This soc & incident response position at Cloudflare was posted on 2026-06-24.
+This soc & incident response position at Cloudflare was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
