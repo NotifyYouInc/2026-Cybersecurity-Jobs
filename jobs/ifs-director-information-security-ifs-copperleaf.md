@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000137958454-director-information-security-ifs-copperleaf) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138143736-director-information-security-ifs-copperleaf) |
 
 ## About This Role
 
-This security engineer position at IFS was posted on 2026-07-15.
+This security engineer position at IFS was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

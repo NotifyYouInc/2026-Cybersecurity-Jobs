@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Austin, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/6c043c4e-0818-4f71-ac3e-0938d16f2d8e) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/d9d500d1-9b24-41ab-b83a-dd94257f9b14) |
 
 ## About This Role
 
-This soc & incident response position at FLUIDSTACK was posted on 2026-05-15.
+This soc & incident response position at FLUIDSTACK was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

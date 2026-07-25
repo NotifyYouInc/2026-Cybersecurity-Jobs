@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000125169879-senior-cloud-security-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000138350580-senior-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Cint was posted on 2026-05-07.
+This security engineer position at Cint was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

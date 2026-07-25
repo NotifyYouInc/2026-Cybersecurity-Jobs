@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Sr-RMF-Security-Engineer_R-00184185) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Sr-RMF-Security-Engineer_R-00187599-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-27.
+This security engineer position at Leidos was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

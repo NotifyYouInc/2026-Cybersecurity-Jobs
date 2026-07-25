@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137669638-specialist-incident-management) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138303424-specialist-incident-management) |
 
 ## About This Role
 
-This soc & incident response position at NielsenIQ was posted on 2026-07-14.
+This soc & incident response position at NielsenIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

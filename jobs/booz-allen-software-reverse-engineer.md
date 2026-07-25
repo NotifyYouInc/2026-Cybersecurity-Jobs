@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Software-Reverse-Engineer_R0234133) |
+| Location | Charlottesville, Virginia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer_R0244709) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-02-17.
+This soc & incident response position at Booz Allen was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

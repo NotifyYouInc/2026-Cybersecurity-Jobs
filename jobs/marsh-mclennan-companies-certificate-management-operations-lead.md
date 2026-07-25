@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Louisville---West-Market/Certificate-Management-Operations-Lead_R_354786) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Certificate-Management-Operations-Lead_R_359049) |
 
 ## About This Role
 
-This security engineer position at Marsh & McLennan Companies was posted on 2026-07-15.
+This security engineer position at Marsh & McLennan Companies was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

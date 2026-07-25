@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Cyber-Systems-Engineer_R10238247-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Cyber-Systems-Engineer_R10240986) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-16.
+This security engineer position at Northrop Grumman was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

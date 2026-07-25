@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cloud-Security-Specialist---SOCEUR_329141) |
+| Category | Security Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cloud-Security-Specialist---SOCEUR_329189) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-07-15.
+This security engineer position at CACI was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

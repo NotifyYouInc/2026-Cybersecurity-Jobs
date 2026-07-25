@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Austin, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Incident-Response-Analyst-II_R0016102) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Incident-Response-Analyst-II_R0016196) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-06-30.
+This soc & incident response position at Astreya was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

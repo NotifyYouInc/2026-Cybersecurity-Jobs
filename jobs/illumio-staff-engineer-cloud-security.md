@@ -1,16 +1,16 @@
-# Staff Engineer, Cloud Security at Illumio
+# Staff Engineer - Cloud Security at Illumio
 
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/7bf1685a-fcde-4b8f-9d66-40bea22dcc65) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/69341b69-e1b7-433b-a51f-f7bf4bd7bf37) |
 
 ## About This Role
 
-This security engineer position at Illumio was posted on 2026-05-13.
+This software engineer position at Illumio was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

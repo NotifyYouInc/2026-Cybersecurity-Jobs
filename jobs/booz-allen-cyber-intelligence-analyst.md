@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Columbia-MD/Cyber-Intelligence-Analyst_R0242294) |
+| Location | Fort Meade, Maryland, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cyber-Intelligence-Analyst_R0244740-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-15.
+This soc & incident response position at Booz Allen was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

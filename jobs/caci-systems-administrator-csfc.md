@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Bragg, North Carolina, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Systems-Administrator---CSfC_328159) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Systems-Administrator---CSfC_329285) |
 
 ## About This Role
 
-This it & systems administration position at CACI was posted on 2026-06-24.
+This it & systems administration position at CACI was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

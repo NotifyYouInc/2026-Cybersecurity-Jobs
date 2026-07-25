@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Redstone Arsenal, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Redstone-Arsenal-Alabama/Program-Integrator---Information-Assurance_R2124907) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Redstone-Arsenal-Alabama/Program-Integrator---Information-Assurance_R2126832) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-06-10.
+This security engineer position at KBR was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

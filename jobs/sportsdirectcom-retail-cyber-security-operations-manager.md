@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mansfield, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000138065854-cyber-security-operations-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000138072969-cyber-security-operations-manager) |
 
 ## About This Role
 

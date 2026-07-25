@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWHuziYNdpdt_sQfXD1sqAEWtd6zX1YzAT0O8LjTlZhBEjsA1Ny_i8fDjZZj3csNesED2rReYHUoZDl14rjVcLj1QNHnB5ExA6t4I3EvJaNEav9y-pdMgErTKWBUwQ%3D%3D_V2&loc=MY&title=Data+Center+Security+Manager) |
+| Location | Port Dickson, Negeri Sembilan, Malaysia |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT8CPGtPWjjw5JKmfwVWBFHNwGGXkuemgbz0yUM-YBXdEjsA1Ny_i2vNH6ZCPEFXwfQ9TqZTj6vywKABNp1rQi5pPvAY2hMLX9mJJATm0sSg6U10aJh9X6th_gr84Q%3D%3D_V2&loc=MY&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-24.
+This compliance & risk management position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

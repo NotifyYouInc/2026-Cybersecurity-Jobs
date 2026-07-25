@@ -1,16 +1,16 @@
-# Staff Engineer, Container Security at Illumio
+# Staff Engineer - Container Security at Illumio
 
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/dcb23718-ab68-497c-b6f7-1b47fab5a7bd) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/7dbc8a12-7dce-40de-a1e3-6095d958468c) |
 
 ## About This Role
 
-This security engineer position at Illumio was posted on 2026-04-22.
+This software engineer position at Illumio was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

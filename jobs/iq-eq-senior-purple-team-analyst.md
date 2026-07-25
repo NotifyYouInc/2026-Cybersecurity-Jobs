@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129453419-senior-purple-team-analyst) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138279750-senior-purple-team-analyst) |
 
 ## About This Role
 
-This security engineer position at IQ-EQ was posted on 2026-06-01.
+This offensive security & pentesting position at IQ-EQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

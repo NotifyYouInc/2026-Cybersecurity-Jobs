@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Falls Church, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Industrial-Security-Analyst_R10239577) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Principal-Industrial-Security-Analyst_R10240787) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-15.
+This security engineer position at Northrop Grumman was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

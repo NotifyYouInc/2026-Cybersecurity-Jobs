@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Cybersecurity_R-109115) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDAPHyderabad--Argus-Bldg-4f--5f-Sattva-Knowledge-City--Adm-Argus-Building-Sattva-Knowledge-City/Lead-Cybersecurity_R-115695) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-07-02.
+This security engineer position at AT&T was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

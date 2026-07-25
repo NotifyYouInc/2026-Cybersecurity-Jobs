@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | High Point, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/CSfC-Network-Engineer_325945) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/CSfC-Network-Engineer_329233) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-05-11.
+This security engineer position at CACI was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
