@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Iaşi, Iași County, Romania |
+| Location | Timişoara, Timiș County, Romania |
 | Category | Security Engineer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138077479-it-security-analyst-preferably-french-speaking) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138079682-it-security-analyst-preferably-french-speaking) |
 
 ## About This Role
 
