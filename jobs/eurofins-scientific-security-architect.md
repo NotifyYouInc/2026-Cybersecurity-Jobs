@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Security Architect at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Katowice, Silesia, Poland |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138594161-security-architect) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Eurofins Scientific was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

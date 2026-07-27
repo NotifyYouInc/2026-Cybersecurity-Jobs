@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Security Analyst, InfoSec at Kroll
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21013192) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Kroll was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cyber Security Senior Lead at Accenture
+# Digital Forensics and Incident Response Specialist at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
-| Category | Security Engineer |
+| Location | Manila, National Capital Region, Philippines |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Cyber-Security-Senior-Lead_R00343436) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Digital-Forensics-and-Incident-Response-Analyst_ATCP-1240676-S420876-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-07-20.
+This soc & incident response position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

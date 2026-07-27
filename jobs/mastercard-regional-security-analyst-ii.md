@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Regional Security Analyst II at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Prague-Czech-Rep/Regional-Security-Analyst-II_R-279409-1) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Mastercard was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

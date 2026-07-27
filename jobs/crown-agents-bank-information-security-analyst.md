@@ -5,12 +5,12 @@
 | Company | [Crown Agents Bank](https://scoutify.ai/companies/crown-agents-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/crownagentsbank/744000126513120-information-security-analyst) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/crownagentsbank/744000138581529-information-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Crown Agents Bank was posted on 2026-05-14.
+This security engineer position at Crown Agents Bank was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

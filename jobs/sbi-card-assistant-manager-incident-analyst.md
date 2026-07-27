@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Assistant Manager - Incident Analyst at SBI Card
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
-| Category | Security Engineer |
+| Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gurugram, Haryana, India |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21352) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This soc & incident response position at SBI Card was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

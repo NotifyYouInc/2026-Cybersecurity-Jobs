@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# PMC Lead Technical Safety HSE Engineer at Wood
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Wood](https://scoutify.ai/companies/em2-cx-oj121386?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://ehif.fa.em2.oraclecloud.com/jobs/#31028) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Wood was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

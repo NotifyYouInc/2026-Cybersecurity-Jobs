@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Sr.Cloud Security Engineer at Syngenta
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000138558434-srcloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Syngenta was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

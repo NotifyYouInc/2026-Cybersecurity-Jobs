@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Security Engineer (Golang) at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
-| Category | Security Engineer |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Asia, Western Visayas, Philippines |
+| Category | Software Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://jobs.lever.co/binance/9aac692e-c567-49c3-ae73-8794d376d52a) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This software engineer position at Binance was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

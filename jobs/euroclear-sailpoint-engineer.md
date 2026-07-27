@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# SailPoint Engineer at Euroclear
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Poland |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9569) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Euroclear was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

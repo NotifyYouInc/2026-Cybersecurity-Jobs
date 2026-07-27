@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Senior DevSecOps Engineer at Reale Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
-| Category | Security Engineer |
+| Company | [Reale Group](https://scoutify.ai/companies/em2-cx-oj89916?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Italy |
+| Category | DevOps Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://hcqt.fa.em2.oraclecloud.com/jobs/#376) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This devops engineer position at Reale Group was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

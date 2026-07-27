@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# Senior Security Engineer at EchoTwin AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [EchoTwin AI](https://scoutify.ai/companies/echotwin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Posted | 2025-09-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/echotwin/80036d39-b463-4aa8-a6a3-5b52507bd971) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at EchoTwin AI was posted on 2025-09-06.
 
 ## Get Real-Time Alerts
 

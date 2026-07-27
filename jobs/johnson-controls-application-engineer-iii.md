@@ -1,16 +1,16 @@
-# Principal Software Engineer - Product Security at ServiceNow
+# Application Engineer III at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138558349-principal-software-engineer-product-security) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-III_WD30274726) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-07-20.
+This software engineer position at Johnson Controls was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

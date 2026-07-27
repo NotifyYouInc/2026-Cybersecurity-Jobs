@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+# SWQA - Cybersecurity Pilot at Renault Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Chennai/SWQA---Cybersecurity-Pilot_JOBREQ_50269001) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This security engineer position at Renault Group was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

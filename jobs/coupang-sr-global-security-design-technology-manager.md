@@ -1,16 +1,16 @@
-# Security Analyst at Experian
+#  Sr. Global Security Design & Technology Manager at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
-| Category | Security Engineer |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Engineering Manager |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138549549-security-analyst) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8074072) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-07-20.
+This engineering manager position at Coupang was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
