@@ -5,12 +5,12 @@
 | Company | [University of Auckland](https://scoutify.ai/companies/university-of-auckland?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000138207559-senior-systems-security-engineer-isso) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000138436178-senior-systems-security-engineer-isso) |
 
 ## About This Role
 
-This security engineer position at University of Auckland was posted on 2026-07-16.
+This security engineer position at University of Auckland was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Odenton, Maryland, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyberspace-Operations-Planner--Senior_R-00183785) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyberspace-Operations-Planner--Senior_R-00187663) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-21.
+This security engineer position at Leidos was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

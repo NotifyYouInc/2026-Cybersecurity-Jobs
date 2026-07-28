@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/F-35-JPO-Security-Specialists---Industrial-Security-Specialist_RQ221575) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/F-35-JPO-Industrial-Security-Specialist_RQ224009) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-03.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

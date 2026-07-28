@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4322239009) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4322846009) |
 
 ## About This Role
 
-This security engineer position at Gallup was posted on 2026-07-16.
+This security engineer position at Gallup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

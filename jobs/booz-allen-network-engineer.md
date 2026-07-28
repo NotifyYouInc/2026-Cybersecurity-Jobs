@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rome, Georgia, United States |
+| Location | San Diego, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Network-Engineer_R0244588) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0244891) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-15.
+This security engineer position at Booz Allen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

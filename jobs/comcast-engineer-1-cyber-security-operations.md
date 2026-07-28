@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-1---Cyber-Security-Operations_R440145) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-1---Cyber-Security-Operations_R441416) |
 
 ## About This Role
 
-This soc & incident response position at Comcast was posted on 2026-07-09.
+This soc & incident response position at Comcast was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

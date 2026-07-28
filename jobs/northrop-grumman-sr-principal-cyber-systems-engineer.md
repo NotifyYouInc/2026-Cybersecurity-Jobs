@@ -1,16 +1,16 @@
-# Sr Principal Cyber Systems Engineer at Northrop Grumman
+# Sr. Principal Cyber Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Cyber-Systems-Engineer_R10240823) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Cyber-Systems-Engineer_R10238259) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-16.
+This security engineer position at Northrop Grumman was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

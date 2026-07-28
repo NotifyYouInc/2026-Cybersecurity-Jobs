@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135058999-ingenieure-experimentee-soccert-automotive-hf-cybersecurite-ile-de-france) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138676441-ingenieure-experimentee-soccert-automotive-hf-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-06-30.
+This soc & incident response position at Sopra Steria was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

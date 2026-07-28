@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/2b888434-bbe0-4794-8a40-288505c5fe49) |
+| Location | New York City, New York, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/84eec343-3c1d-4455-83bc-090e633866c4) |
 
 ## About This Role
 
-This security engineer position at FLUIDSTACK was posted on 2026-05-15.
+This soc & incident response position at FLUIDSTACK was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

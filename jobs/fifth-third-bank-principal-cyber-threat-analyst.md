@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ohio, US |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal--Cyber-Threat-Analyst_R69217-1) |
+| Location | Michigan, US |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Principal--Cyber-Threat-Analyst_R70379-1) |
 
 ## About This Role
 
-This security engineer position at Fifth Third Bank was posted on 2026-06-24.
+This soc & incident response position at Fifth Third Bank was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

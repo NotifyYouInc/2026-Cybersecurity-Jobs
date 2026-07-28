@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Virginia, US |
+| Location | Melbourne, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Classified-Cybersecurity-Analyst---Top-Secret_R10238325-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Classified-Cybersecurity-Analyst---Top-Secret_R10240262) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-14.
+This security engineer position at Northrop Grumman was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

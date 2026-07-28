@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4688186006?gh_jid=4688186006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-06-17.
+This security engineer position at Accenture Federal Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Threat-Modeler--AVP_R-793939) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Threat-Modeler--AVP_R-793940) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-16.
+This security engineer position at State Street was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

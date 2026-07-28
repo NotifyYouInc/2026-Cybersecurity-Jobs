@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | South Korea |
 | Category | Security Engineer |
-| Posted | 2024-12-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/511229b4-9f9e-4851-9df8-faf616318dac) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/1b595f84-2557-4468-b4f8-29a0cf12f713) |
 
 ## About This Role
 
-This security engineer position at 42dot was posted on 2024-12-13.
+This security engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

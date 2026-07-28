@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Braga, Braga, Portugal |
 | Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135479591-local-security-governance-expert-fmdiv) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138799109-local-security-governance-expert-fmdiv) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-07-02.
+This security engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
