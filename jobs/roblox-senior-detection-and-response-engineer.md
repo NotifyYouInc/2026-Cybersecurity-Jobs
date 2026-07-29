@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/7931525?gh_jid=7931525) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8070890?gh_jid=8070890) |
 
 ## About This Role
 
-This security engineer position at Roblox was posted on 2026-05-19.
+This soc & incident response position at Roblox was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

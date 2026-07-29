@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sweden |
 | Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/IAM-Engineer_JREQ198461) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/IAM-Engineer_JREQ198452) |
 
 ## About This Role
 
-This security engineer position at Thomson Reuters was posted on 2026-03-13.
+This security engineer position at Thomson Reuters was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

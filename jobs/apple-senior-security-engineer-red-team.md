@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667342/senior-security-engineer-red-team) |
+| Location | Seattle, Washington, United States |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673234/senior-security-engineer-red-team) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-06-09.
+This offensive security & pentesting position at Apple was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

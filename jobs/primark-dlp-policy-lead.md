@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000137117110-dlp-policy-lead) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000138878931-dlp-policy-lead) |
 
 ## About This Role
 
-This security engineer position at Primark was posted on 2026-07-10.
+This security engineer position at Primark was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

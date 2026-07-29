@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | McLean, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Norfolk/Cybersecurity-Analyst_R0162413) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-McLean/Cybersecurity-Analyst_R0166282) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-05-28.
+This security engineer position at Amentum was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Odenton, Maryland, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Offensive Security & Pentesting |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Offensive-Cyberspace-Operational-Planner--Journeyman_R-00187659) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Offensive-Cyberspace-Operational-Planner--Journeyman_R-00187658) |
 
 ## About This Role
 

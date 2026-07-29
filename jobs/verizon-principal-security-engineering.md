@@ -1,12 +1,12 @@
-# Principal-Security Engineering at Verizon
+# Principal – Security Engineering at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Irving, Texas, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Principal-Security-Engineering_R-1097010-1) |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Principal---Security-Engineering_R-1097867) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# IN-Associate_SOC_Cyber as a Service_Advisory_Gurgaon at PwC
+# IN-Associate-SOC-Cyber as a Service-Advisory-Gurgaon at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Novus-Tower/IN-Associate-SOC-Cyber-as-a-Service-Advisory-Gurgaon_711193WD-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Novus-Tower/IN-Associate-SOC-Cyber-as-a-Service-Advisory-Gurgaon_745674WD-1) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-27.
+This soc & incident response position at PwC was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

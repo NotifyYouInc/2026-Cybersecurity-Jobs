@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Tech-Support-Practitioner_ATCI-5348693-S1947918-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Tech-Support-Practitioner_ATCI-5691167-S2059577-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-04-30.
+This security engineer position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

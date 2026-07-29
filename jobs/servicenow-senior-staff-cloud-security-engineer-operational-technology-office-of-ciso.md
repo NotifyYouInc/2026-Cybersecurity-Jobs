@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137986259-senior-staff-cloud-security-engineer-operational-technology-office-of-ciso) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138905274-senior-staff-cloud-security-engineer-operational-technology-office-of-ciso) |
 
 ## About This Role
 
-This security engineer position at ServiceNow was posted on 2026-07-15.
+This security engineer position at ServiceNow was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

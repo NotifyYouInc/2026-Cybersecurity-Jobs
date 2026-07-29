@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Director-Business-Solutions-Architect_276986) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Director-Business-Solutions-Architect_277540) |
 
 ## About This Role
 
-This security engineer position at MGM Resorts International was posted on 2026-07-06.
+This technical & solutions architect position at MGM Resorts International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Spécialiste en cyber sécurité senior(e) at AtkinsRéalis
+# Spécialiste en Cyber sécurité Senior(e) at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCQubec5500-boul-des-Galeries/Spcialiste-en-cyber-scurit-senior-e-_R-150711) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCQubec5500-boul-des-Galeries/Spcialiste-en-Cyber-scurit-Senior-e-_R-160253) |
 
 ## About This Role
 
-This security engineer position at AtkinsRéalis was posted on 2026-03-17.
+This security engineer position at AtkinsRéalis was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

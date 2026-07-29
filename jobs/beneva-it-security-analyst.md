@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-scurit-informatique--SOC-_R17082) |
+| Location | 3 locations |
+| Category | Security Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Montreal---425-boul-de-Maisonneuve-O---35h/Analyste-scurit-informatique--GIA-_R17186) |
 
 ## About This Role
 
-This soc & incident response position at Beneva was posted on 2026-07-02.
+This security engineer position at Beneva was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133515476-senior-application-security-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000138906750-senior-application-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Entain was posted on 2026-06-23.
+This security engineer position at Entain was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

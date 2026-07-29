@@ -1,16 +1,16 @@
-# Principal/ Senior Principal Cyber Systems Engineer at Northrop Grumman
+# Principal / Senior Principal Cyber Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal--Senior-Principal-Cyber-Systems-Engineer_R10236026) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal---Senior-Principal-Cyber-Systems-Engineer_R10240751) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-15.
+This security engineer position at Northrop Grumman was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
