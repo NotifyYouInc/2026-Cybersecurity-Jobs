@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate---Cyber-Risk---Analysis--Technology-Audit_R243730-1) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate---Cyber-Risk---Analysis--Technology-Audit_R247553-1) |
 
 ## About This Role
 
-This security engineer position at Capital One was posted on 2026-06-09.
+This compliance & risk management position at Capital One was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556828124) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556941778) |
 
 ## About This Role
 
-This offensive security & pentesting position at Microsoft was posted on 2026-03-12.
+This offensive security & pentesting position at Microsoft was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

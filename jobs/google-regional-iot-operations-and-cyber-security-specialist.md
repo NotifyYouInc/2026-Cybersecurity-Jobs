@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRn6dLOXNZRiO8JZ_gKxOrrwO8Ad2Ah62RKHysYRxUnoEjsACxwdTJigBABn_XIw2DCuhi6EZ4WWGocVDPbwgGgRcBpMS3sR2s4DtjpDddnAQGh1YTE3U0Xszf6X5w%3D%3D_V2&loc=US&title=Regional+IoT+Operations+and+Cyber+security+Specialist) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka53wwEBgZjfPgujHK0_WprvwhmlyfIVJJE8qJmrrp0DEjsA1Ny_i6HeYynhYNhdBO8JTJbFWTj-XidWTWG-Vcu58zj5PHgiB98FPN-eigCkOWWSwbiFuqIsp5fB3w%3D%3D_V2&loc=US&title=Regional+IoT+Operations+and+Cyber+security+Specialist) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-03.
+This security engineer position at Google was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

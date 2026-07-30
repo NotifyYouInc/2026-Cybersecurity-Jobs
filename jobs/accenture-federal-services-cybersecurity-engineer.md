@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4688186006?gh_jid=4688186006) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-07-20.
+This security engineer position at Accenture Federal Services was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

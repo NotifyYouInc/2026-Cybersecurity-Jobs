@@ -5,12 +5,12 @@
 | Company | [City of Oklahoma City](https://scoutify.ai/companies/ocs-cx-oj78780?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3975) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4015) |
 
 ## About This Role
 
-This security engineer position at City of Oklahoma City was posted on 2026-07-09.
+This security engineer position at City of Oklahoma City was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

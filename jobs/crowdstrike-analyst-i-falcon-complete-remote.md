@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Ontario, CA |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29479) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Remote-ON/Analyst-I--Falcon-Complete--Hybrid--St-Louis-_R29406) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-07-20.
+This soc & incident response position at CrowdStrike was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

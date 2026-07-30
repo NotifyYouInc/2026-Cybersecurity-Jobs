@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | 5 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Senior-System-Security-Architect--m-f-d-_R-10062220) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Senior-System-Security-Architect--m-f-d-_R-10064439) |
 
 ## About This Role
 
-This security engineer position at NXP Semiconductors was posted on 2026-03-09.
+This security engineer position at NXP Semiconductors was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

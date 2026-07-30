@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Knutsford, England, United Kingdom |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Security-Engineer_JR-0000111945) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Security-Engineer_JR-0000105150) |
 
 ## About This Role
 
-This security engineer position at Barclays was posted on 2026-07-16.
+This security engineer position at Barclays was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

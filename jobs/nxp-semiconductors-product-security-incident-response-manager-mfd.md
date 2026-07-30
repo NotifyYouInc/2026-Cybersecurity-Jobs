@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Product-Security-Incident-Response-Manager--m-f-d-_R-10061457) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Product-Security-Incident-Response-Manager--m-f-d-_R-10064934-1) |
 
 ## About This Role
 
-This soc & incident response position at NXP Semiconductors was posted on 2026-04-14.
+This security engineer position at NXP Semiconductors was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

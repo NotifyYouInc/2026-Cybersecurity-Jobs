@@ -1,16 +1,16 @@
-# SAP Security Specialist at North Point Technology
+# SAP Security Specialist  at North Point Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
 | Category | Security Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572390002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8646204002) |
 
 ## About This Role
 
-This security engineer position at North Point Technology was posted on 2026-05-31.
+This security engineer position at North Point Technology was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

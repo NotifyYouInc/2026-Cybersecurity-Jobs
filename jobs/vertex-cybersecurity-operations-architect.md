@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vertex](https://scoutify.ai/companies/vertexinc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote-USA/Cybersecurity-Operations-Architect_JR102512-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---CAN/Cybersecurity-Operations-Architect_JR102541-1) |
 
 ## About This Role
 
-This security engineer position at Vertex was posted on 2026-06-18.
+This security engineer position at Vertex was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014189381-cert-specialist) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014217946-cert-specialist) |
 
 ## About This Role
 
-This soc & incident response position at City of New York was posted on 2026-07-21.
+This soc & incident response position at City of New York was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

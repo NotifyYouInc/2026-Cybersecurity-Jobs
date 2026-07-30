@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | La Palma, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=307622da-e245-4474-bbe7-055f93de55c1) |
+| Location | North Charleston, South Carolina, United States |
+| Category | Project Manager |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=d1d8566b-04fa-4b37-9b94-e9d65af87c6e) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-05-27.
+This project manager position at Convergint Technologies was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

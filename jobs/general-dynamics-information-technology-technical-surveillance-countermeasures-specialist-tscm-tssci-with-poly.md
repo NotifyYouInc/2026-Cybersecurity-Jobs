@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Technical-Surveillance-Countermeasures-Specialist--TSCM---TS-SCI-with-poly_RQ222486-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Technical-Surveillance-Countermeasures-Specialist--TSCM---TS-SCI-with-poly_RQ224807-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-15.
+This security engineer position at General Dynamics Information Technology was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

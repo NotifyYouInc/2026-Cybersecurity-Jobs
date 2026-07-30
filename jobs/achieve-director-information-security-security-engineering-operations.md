@@ -5,12 +5,12 @@
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990013731296-director-information-security-security-engineering-operations) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990014217496-director-information-security-security-engineering-operations) |
 
 ## About This Role
 
-This security engineer position at Achieve was posted on 2026-06-22.
+This security engineer position at Achieve was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

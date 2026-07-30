@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cosun](https://scoutify.ai/companies/cosun?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Dinteloord, North Brabant, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000130214618-cybersecurity-engineer-ot-focus) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000139100649-cybersecurity-engineer-ot-focus) |
 
 ## About This Role
 
-This security engineer position at Cosun was posted on 2026-06-04.
+This security engineer position at Cosun was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockstar Games](https://scoutify.ai/companies/rockstar-games?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dundee, Scotland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7811462003) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7812685003) |
 
 ## About This Role
 
-This soc & incident response position at Rockstar Games was posted on 2026-07-21.
+This soc & incident response position at Rockstar Games was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

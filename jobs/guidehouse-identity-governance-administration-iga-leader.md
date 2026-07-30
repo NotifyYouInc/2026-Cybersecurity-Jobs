@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Identity-Governance---Administration--IGA--Leader_40575) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Identity-Governance---Administration--IGA--Leader_42183-1) |
 
 ## About This Role
 
-This security engineer position at Guidehouse was posted on 2026-06-22.
+This security engineer position at Guidehouse was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

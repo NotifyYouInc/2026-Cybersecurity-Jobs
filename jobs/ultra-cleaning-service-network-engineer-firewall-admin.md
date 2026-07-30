@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ultra Cleaning Service](https://scoutify.ai/companies/ultra-cleaning-service?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Philippines |
+| Location | Malaysia |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=2851b4ed-9d9f-4f7b-a05d-937ddf39e212) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=29747504-6445-424f-9524-42f9883519f3) |
 
 ## About This Role
 
-This security engineer position at Ultra Cleaning Service was posted on 2026-06-10.
+This security engineer position at Ultra Cleaning Service was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coalition, Inc.](https://scoutify.ai/companies/coalition-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4713336005) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4717552005) |
 
 ## About This Role
 
-This security engineer position at Coalition, Inc. was posted on 2026-07-08.
+This security engineer position at Coalition, Inc. was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

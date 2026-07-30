@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mexico-City-Mexico/Security-Engineer_2015714-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Engineer_2019814) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-25.
+This security engineer position at Cisco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

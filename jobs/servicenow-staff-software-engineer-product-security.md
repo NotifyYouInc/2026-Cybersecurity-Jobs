@@ -1,16 +1,16 @@
-# Staff Software Engineer - Product Security  at ServiceNow
+# Staff Software Engineer - Product Security at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Israel |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133393416-staff-software-engineer-product-security) |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139062045-staff-software-engineer-product-security) |
 
 ## About This Role
 
-This security engineer position at ServiceNow was posted on 2026-06-22.
+This software engineer position at ServiceNow was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

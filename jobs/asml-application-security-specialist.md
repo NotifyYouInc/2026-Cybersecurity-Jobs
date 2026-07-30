@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
+| Location | Veldhoven, North Brabant, The Netherlands |
 | Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Application-security-specialist_J-00335408-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Application-security-specialist_J-00345849) |
 
 ## About This Role
 
-This security engineer position at ASML was posted on 2026-03-26.
+This security engineer position at ASML was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

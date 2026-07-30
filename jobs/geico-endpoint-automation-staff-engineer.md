@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Endpoint-Automation-Staff-Engineer_R0064292) |
+| Location | 4 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Endpoint-Automation-Staff-Engineer_R0065058) |
 
 ## About This Role
 
-This security engineer position at Geico was posted on 2026-06-02.
+This software engineer position at Geico was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

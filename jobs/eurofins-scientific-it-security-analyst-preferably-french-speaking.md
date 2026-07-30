@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Timişoara, Timiș County, Romania |
+| Location | Târgu Jiu, Gorj County, Romania |
 | Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138079682-it-security-analyst-preferably-french-speaking) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000139039174-it-security-analyst-preferably-french-speaking) |
 
 ## About This Role
 
-This security engineer position at Eurofins Scientific was posted on 2026-07-16.
+This security engineer position at Eurofins Scientific was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
