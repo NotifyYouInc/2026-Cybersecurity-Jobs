@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7594778?gh_jid=7594778) |
+| Location | Singapore, Singapore |
+| Category | Security Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8081027?gh_jid=8081027) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cloudflare was posted on 2026-02-09.
+This security engineer position at Cloudflare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

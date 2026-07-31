@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/SOC-Shift-Lead---London_R00306731) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/SOC-Shift-Lead---London_R00346634) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-06-09.
+This soc & incident response position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

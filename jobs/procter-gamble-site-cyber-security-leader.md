@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Iowa City, Iowa, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/IOWA-CITY-PLANT/Site-Cyber-Security-Leader_R000153085) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/DYMC-DAYTON-MIX-CENTER/Site-Cyber-Security-Leader_R000154851-1) |
 
 ## About This Role
 
-This security engineer position at Procter & Gamble was posted on 2026-06-25.
+This security engineer position at Procter & Gamble was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

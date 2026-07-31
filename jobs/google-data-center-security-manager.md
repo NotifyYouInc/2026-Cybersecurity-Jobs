@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Lithia Springs, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcKMu8xWPqcQY_GLx6gSD-PGomiVZN3pVmEqhgpX1CfxEjsA1Ny_i9RQZUkhQZDTw6jc-gYT4y5KaELRsCR-UcZuR2TOotbA560s_DTQdBtZf0B9Nv4k3qDFZq43kw%3D%3D_V2&loc=SE&title=Data+Center+Security+Manager) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcy7tEcyw7TxHOjYH-xJzHr63SlyttpSyW-_OlX0iluAEjsA1Ny_i4Z5YdP80s-rRyLwFq0KUEX224uhsoEeqHZzHbUT4jAi5ObeVMUw63WgDSXASniIvqnwrvwGRQ%3D%3D_V2&loc=US&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-07-17.
+This security engineer position at Google was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

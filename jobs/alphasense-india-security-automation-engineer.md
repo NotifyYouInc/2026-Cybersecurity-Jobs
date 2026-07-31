@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense India](https://scoutify.ai/companies/alphasense-india?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8644557002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8540722002) |
 
 ## About This Role
 

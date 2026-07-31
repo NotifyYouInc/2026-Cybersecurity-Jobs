@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Itasca, Illinois, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138628229-fedramp-information-security-observability-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139297590-fedramp-information-security-observability-analyst) |
 
 ## About This Role
 
-This soc & incident response position at IFS was posted on 2026-07-20.
+This soc & incident response position at IFS was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

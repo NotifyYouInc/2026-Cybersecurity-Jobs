@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New South Wales, AU |
 | Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000136131899-senior-security-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000139376519-senior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Nearmap was posted on 2026-07-07.
+This security engineer position at Nearmap was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

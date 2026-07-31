@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Odenton, Maryland, United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyberspace-Operations-Planner--Junior_R-00187786) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyberspace-Operations-Planner--Junior_R-00187869) |
 
 ## About This Role
 
-This offensive security & pentesting position at Leidos was posted on 2026-07-21.
+This offensive security & pentesting position at Leidos was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

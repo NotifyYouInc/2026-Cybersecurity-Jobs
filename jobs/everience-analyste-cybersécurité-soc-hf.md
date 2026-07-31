@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138323429-analyste-cybersecurite-soc-hf) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139282242-analyste-cybersecurite-soc-hf) |
 
 ## About This Role
 
-This soc & incident response position at Everience was posted on 2026-07-17.
+This soc & incident response position at Everience was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

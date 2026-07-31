@@ -5,12 +5,12 @@
 | Company | [Mathis Brothers](https://scoutify.ai/companies/mathis-brothers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/mat1008math/JobBoard/c075a6a8-0992-44f0-a415-02f67397a516/OpportunityDetail?opportunityId=b20fb2f1-0f95-4570-91d0-06f93189004f) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/mat1008math/JobBoard/c075a6a8-0992-44f0-a415-02f67397a516/OpportunityDetail?opportunityId=5eba2e40-2ffd-49b9-ac2d-137b17eccccd) |
 
 ## About This Role
 
-This security engineer position at Mathis Brothers was posted on 2026-06-05.
+This security engineer position at Mathis Brothers was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

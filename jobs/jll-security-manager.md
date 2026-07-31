@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Security-Manager_REQ502656) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Security-Manager_REQ523694) |
 
 ## About This Role
 
-This security engineer position at JLL was posted on 2026-07-01.
+This security engineer position at JLL was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

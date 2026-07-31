@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Fort Frances, Ontario, Canada |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000124639659-network-security-architect) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000139302904-network-security-architect) |
 
 ## About This Role
 
-This security engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-05.
+This security engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

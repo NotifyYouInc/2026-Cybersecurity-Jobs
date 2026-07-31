@@ -5,12 +5,12 @@
 | Company | [CPI Security](https://scoutify.ai/companies/cpi-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4691824006) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4699410006) |
 
 ## About This Role
 
-This security engineer position at CPI Security was posted on 2026-06-24.
+This security engineer position at CPI Security was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

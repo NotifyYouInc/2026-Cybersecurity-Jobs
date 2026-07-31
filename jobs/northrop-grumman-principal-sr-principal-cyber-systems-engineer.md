@@ -1,16 +1,16 @@
-# Principal / Sr Principal Cyber Systems Engineer at Northrop Grumman
+# Principal /Sr. Principal Cyber Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Fairfax, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal---Sr-Principal-Cyber-Systems-Engineer_R10240383) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Principal--Sr-Principal-Cyber-Systems-Engineer_R10241952) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-18.
+This security engineer position at Northrop Grumman was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

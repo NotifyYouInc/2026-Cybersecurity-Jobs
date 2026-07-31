@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Computer-Network-Operator--Senior_327506) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Computer-Network-Operator--Senior_329489) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-12.
+This security engineer position at CACI was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

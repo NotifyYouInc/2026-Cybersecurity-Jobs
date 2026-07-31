@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-risques-internes--scurit-de-l-information_R2607791) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-gestion-des-vulnrabilits_R2609406-1) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-06-11.
+This security engineer position at Desjardins was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cybersecurity-Engineer_328452) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Cybersecurity-Engineer_329154) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-30.
+This security engineer position at CACI was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

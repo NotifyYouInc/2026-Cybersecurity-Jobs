@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Philippines |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---NEW-HUB-PHPGA/Security-Specialist_R26009863) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/ES---MADRID-PROVINCIAL-ESMAI/Security-Specialist_R26025228) |
 
 ## About This Role
 
-This security engineer position at United Parcel Service (UPS) was posted on 2026-06-22.
+This security engineer position at United Parcel Service (UPS) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

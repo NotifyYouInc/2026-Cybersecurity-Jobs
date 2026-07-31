@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ponta Delgada, Azores, Portugal |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107799436-soc-analyst-l1-blue-team) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139333859-soc-analyst-l1-blue-team) |
 
 ## About This Role
 
-This cybersecurity engineer position at Inetum was posted on 2026-02-06.
+This soc & incident response position at Inetum was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

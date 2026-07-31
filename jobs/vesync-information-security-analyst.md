@@ -5,12 +5,12 @@
 | Company | [Vesync](https://scoutify.ai/companies/vesync?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tustin, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-01-16 |
-| Apply | [View on company site](https://jobs.lever.co/vesync/1cf6407f-fd8f-400e-aa66-cb0db3f00b89) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.lever.co/vesync/2fbb1298-4c32-4937-b93c-d6156299ccad) |
 
 ## About This Role
 
-This security engineer position at Vesync was posted on 2026-01-16.
+This security engineer position at Vesync was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

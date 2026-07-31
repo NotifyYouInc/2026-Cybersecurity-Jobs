@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Security-Specialist---Akamai_R223007-2) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/GA---Atlanta-30309/Security-Specialist---Akamai_R230421-2) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-05-20.
+This security engineer position at PNC Financial was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
