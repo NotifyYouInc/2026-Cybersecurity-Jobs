@@ -5,12 +5,12 @@
 | Company | [Idmworks](https://scoutify.ai/companies/idmworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.lever.co/idmworks/c3430f4a-22fb-4ab4-a6d1-e0331cbcceae) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.lever.co/idmworks/4adc21a5-2408-425e-bc23-d4220bb5afe7) |
 
 ## About This Role
 
-This security engineer position at Idmworks was posted on 2026-07-10.
+This security engineer position at Idmworks was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Victrix](https://scoutify.ai/companies/victrix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/victrix/jobs/8071436) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/victrix/jobs/8071437) |
 
 ## About This Role
 
-This security engineer position at Victrix was posted on 2026-07-17.
+This security engineer position at Victrix was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

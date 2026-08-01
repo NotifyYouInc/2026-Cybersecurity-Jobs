@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Team-Lead_R-00186818) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Team-Lead_R-00188113-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-08.
+This security engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

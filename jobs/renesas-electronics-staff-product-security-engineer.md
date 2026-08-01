@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Katowice, Silesia, Poland |
 | Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135765309-staff-product-security-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139649400-staff-product-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-07-03.
+This security engineer position at Renesas Electronics was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

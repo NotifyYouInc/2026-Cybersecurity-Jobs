@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000134711900-security-analyst) |
+| Category | Security Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139553547-security-analyst) |
 
 ## About This Role
 
-This soc & incident response position at METRO/MAKRO was posted on 2026-06-29.
+This security engineer position at METRO/MAKRO was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

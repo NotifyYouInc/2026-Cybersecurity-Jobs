@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quebec, CA |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Coordonnateur-snior-ou-coordonnatrice-sniore--Incidents-de-cyberscurit_R2603614) |
+| Location | 2 locations |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Renseignements-en-cybermenaces_R2609374-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Desjardins was posted on 2026-03-19.
+This soc & incident response position at Desjardins was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

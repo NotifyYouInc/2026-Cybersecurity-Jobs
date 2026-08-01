@@ -5,12 +5,12 @@
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/London-Cannon-Street/IDAM-PAM-Engineer_R014204) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/IDAM-PAM-Engineer_R014621) |
 
 ## About This Role
 
-This security engineer position at AVEVA was posted on 2026-05-07.
+This security engineer position at AVEVA was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Illinois, US |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Cybersecurity-Engineer_31145528-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1) |
 
 ## About This Role
 
-This security engineer position at Abbott was posted on 2026-04-14.
+This security engineer position at Abbott was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000137648554-cybersecurity-analyst) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000139612756-cybersecurity-analyst) |
 
 ## About This Role
 
-This security engineer position at Smiths Group was posted on 2026-07-14.
+This security engineer position at Smiths Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
