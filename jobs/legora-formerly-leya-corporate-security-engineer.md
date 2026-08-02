@@ -1,16 +1,16 @@
-# SAP Authorization and Security Specialist at Robert Bosch
+# Corporate Security Engineer at Legora (formerly Leya)
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | New York City, New York, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139823759-sap-authorization-and-security-specialist) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/f80f50f8-df35-472b-b67d-7290f97d4faa) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-07-25.
+This security engineer position at Legora (formerly Leya) was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

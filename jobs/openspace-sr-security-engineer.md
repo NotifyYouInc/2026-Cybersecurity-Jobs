@@ -1,16 +1,16 @@
-# SAP Authorization and Security Specialist at Robert Bosch
+# Sr. Security Engineer at OpenSpace
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [OpenSpace](https://scoutify.ai/companies/openspace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Security Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139823759-sap-authorization-and-security-specialist) |
+| Apply | [View on company site](https://www.openspace.ai/careers?gh_jid=7815704003) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-07-25.
+This security engineer position at OpenSpace was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

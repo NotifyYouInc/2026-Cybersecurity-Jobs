@@ -1,16 +1,16 @@
-# SAP Authorization and Security Specialist at Robert Bosch
+# Cybersecurity Architect, (TS/SCI), CI Poly  at K2 Space
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139823759-sap-authorization-and-security-specialist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5370957008) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-07-25.
+This security engineer position at K2 Space was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
