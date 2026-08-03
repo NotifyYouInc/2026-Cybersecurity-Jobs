@@ -1,16 +1,16 @@
-# Research Engineer  at Cato Networks
+# Research Engineer at Cato Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
+| Location | Prague, Prague, Czechia |
 | Category | Security Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4850403101?gh_jid=4850403101) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4649137101?gh_jid=4649137101) |
 
 ## About This Role
 
-This security engineer position at Cato Networks was posted on 2026-04-26.
+This security engineer position at Cato Networks was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

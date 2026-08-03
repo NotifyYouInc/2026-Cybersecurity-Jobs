@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Assistant Vice President - Insider Threat Lead at SBI Card
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21390) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at SBI Card was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

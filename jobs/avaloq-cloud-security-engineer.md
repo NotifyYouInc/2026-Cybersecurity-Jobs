@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Cloud Security Engineer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000139949529-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Avaloq was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Managed Services Practitioner at Accenture
+# Cloud Security Transformation Associate Manager at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Security-Managed-Services-Practitioner_ATCI-5676784-S2060555-1) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Strategy & Operations |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Cloud-Security-Strategy-Lead_13968830) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-07-24.
+This strategy & operations position at Accenture was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

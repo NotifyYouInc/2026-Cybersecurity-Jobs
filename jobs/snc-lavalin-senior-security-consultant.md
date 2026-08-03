@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBEpsomWoodcote-Grove/Senior-Security-Consultant_R-157317) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBEpsomWoodcote-Grove/Senior-Security-Consultant_R-160214) |
 
 ## About This Role
 
-This security engineer position at SNC-Lavalin was posted on 2026-06-08.
+This technology / it consulting position at SNC-Lavalin was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

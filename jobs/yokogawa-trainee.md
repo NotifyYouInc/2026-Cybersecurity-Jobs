@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Trainee at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Abu-Dhabi/Trainee_R-12286) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Yokogawa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Cloud Security Engineer, AVP at State Street
+# Senior Cyber Security Engineer / DevSecOps at Thndr
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Security Engineer |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Cloud-Security-Engineer--AVP_R-794552) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/26d159c0-f734-4d93-8243-0f1fe232eeb6) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-26.
+This security engineer position at Thndr was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

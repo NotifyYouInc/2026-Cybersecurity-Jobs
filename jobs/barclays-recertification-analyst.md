@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Recertification Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Recertification-Analyst_JR-0000118020) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Barclays was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

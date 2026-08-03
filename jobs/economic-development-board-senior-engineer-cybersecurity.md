@@ -1,16 +1,16 @@
-# Systems Engineer, Security Systems  at NCS
+# Senior/ Engineer, Cybersecurity at Economic Development Board
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001262269-systems-engineer-security-systems) |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore-Polytechnic/Senior--Engineer--Cybersecurity_JR-10000053709) |
 
 ## About This Role
 
-This security engineer position at NCS was posted on 2026-07-27.
+This security engineer position at Economic Development Board was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

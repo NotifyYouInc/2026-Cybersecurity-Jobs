@@ -1,16 +1,16 @@
-# Senior Incident Response (IR) Analyst at Trend Micro
+# Security Architect (Hybrid | Cubao) at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | SOC & Incident Response |
+| Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Senior-Incident-Response--IR--Analyst_R0010008) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Architect--Hybrid---Cubao-_ATCP-1383531-S425833) |
 
 ## About This Role
 
-This soc & incident response position at Trend Micro was posted on 2026-07-27.
+This security engineer position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Senior Cloud Security Engineer, AVP at State Street
+# Senior PKI Engineer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Cloud-Security-Engineer--AVP_R-794552) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-PKI-Engineer_R-795010) |
 
 ## About This Role
 

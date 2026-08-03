@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# AI Security Engineering Engineer at Telstra
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Australia |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/AI-Security-Engineering-Engineer_JR-10170793) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Telstra was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

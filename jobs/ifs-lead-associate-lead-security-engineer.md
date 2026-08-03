@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Lead / Associate Lead Security Engineer at IFS
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139936207-lead-associate-lead-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at IFS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

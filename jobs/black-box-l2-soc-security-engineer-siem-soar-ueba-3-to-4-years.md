@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# L2 SOC Security Engineer (SIEM / SOAR / UEBA) 3 to 4 Years at Black Box
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Black Box](https://scoutify.ai/companies/us2-cx-oj14559?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://eoje.fa.us2.oraclecloud.com/jobs/#6527) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Black Box was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Lead, Cyber Sec Eng at Northern Trust
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Lead--Cyber-Sec-Eng_R157861) |
 
 ## About This Role
 

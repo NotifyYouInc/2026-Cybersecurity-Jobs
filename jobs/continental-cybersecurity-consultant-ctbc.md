@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Timişoara, Timiș County, Romania |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000128686340-cybersecurity-consultant-ctbc) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139920599-cybersecurity-consultant-ctbc) |
 
 ## About This Role
 
-This security engineer position at Continental was posted on 2026-05-27.
+This technology / it consulting position at Continental was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

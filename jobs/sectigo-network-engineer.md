@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Network Engineer at Sectigo
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Manchester, England, United Kingdom |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990014287646-network-engineer) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Sectigo was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

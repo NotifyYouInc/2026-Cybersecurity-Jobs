@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Senior Cyber Security Engineer at Boq
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Melbourne-Office---Elizabeth-St/Senior-Cyber-Security-Engineer_JR101742) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at Boq was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

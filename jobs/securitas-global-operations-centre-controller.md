@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134226845-global-operations-centre-controller) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000139962389-global-operations-centre-controller) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-06-25.
+This accounting position at Securitas was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

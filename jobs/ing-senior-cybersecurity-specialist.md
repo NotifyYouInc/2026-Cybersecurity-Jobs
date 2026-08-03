@@ -1,16 +1,16 @@
-# Sr Lead, Cyber Sec Eng at Northern Trust
+# Senior Cybersecurity Specialist at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Security Engineer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Lead--Cyber-Sec-Eng_R157862) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Cybersecurity-Specialist_REQ-10118694) |
 
 ## About This Role
 
-This security engineer position at Northern Trust was posted on 2026-07-27.
+This security engineer position at ING was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

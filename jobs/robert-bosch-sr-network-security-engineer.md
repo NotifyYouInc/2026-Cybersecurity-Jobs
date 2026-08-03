@@ -1,16 +1,16 @@
-# Senior Risk Analyst at Chevron
+# Sr. Network Security Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Risk-Analyst_R000072521) |
+| Category | Security Engineer |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139871358-sr-network-security-engineer) |
 
 ## About This Role
 
-This financial analyst position at Chevron was posted on 2026-07-27.
+This security engineer position at Robert Bosch was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

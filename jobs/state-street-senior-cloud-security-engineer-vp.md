@@ -1,4 +1,4 @@
-# Senior Cloud Security Engineer, AVP at State Street
+# Senior Cloud Security Engineer, VP at State Street
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Security Engineer |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Cloud-Security-Engineer--AVP_R-794552) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Cloud-Security-Engineer--VP_R-794538) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | 6 locations |
 | Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Security-Engineer_51584837) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Security-Engineer_51585798) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-07-10.
+This security engineer position at DXC Technology was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
