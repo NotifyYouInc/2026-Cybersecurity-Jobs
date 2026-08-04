@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 11 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead--Offensive-Security_R-420504-1) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead--Offensive-Security_R-422211) |
 
 ## About This Role
 
-This offensive security & pentesting position at Humana was posted on 2026-07-02.
+This cybersecurity engineer position at Humana was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Suki](https://scoutify.ai/companies/suki?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.suki.ai/open-positions?gh_jid=7815927003) |
 
 ## About This Role
 
-This security engineer position at Suki was posted on 2026-07-24.
+This cybersecurity engineer position at Suki was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doral, Florida, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Doral-FL-US/Joint-Interface-Control-Officer_329509) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-07-24.
+This cybersecurity engineer position at CACI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

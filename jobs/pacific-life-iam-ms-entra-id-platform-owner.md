@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/IAM-MS-Entra-ID-Platform-Owner_R17381) |
 
 ## About This Role
 
-This security engineer position at Pacific Life was posted on 2026-07-25.
+This cybersecurity engineer position at Pacific Life was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

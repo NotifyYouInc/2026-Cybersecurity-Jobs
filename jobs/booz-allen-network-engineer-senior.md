@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | California, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/California-MD/Network-Engineer--Senior_R0241587) |
+| Location | Honolulu, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Network-Engineer--Senior_R0240139) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-10.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

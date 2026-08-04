@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Intern--Cyber-Resilience-Lab_JOBREQ-0003492) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Intern--Cyber-Resilience-Lab_JOBREQ-0003564) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-05-25.
+This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Portugal |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Lisboa/BISO_Req1595807) |
 
 ## About This Role
 
-This security engineer position at Santander was posted on 2026-07-24.
+This cybersecurity engineer position at Santander was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014271386-active-directory-services-entra-engineer) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-07-24.
+This cybersecurity engineer position at AbbVie was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

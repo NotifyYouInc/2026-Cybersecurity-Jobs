@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4649137101?gh_jid=4649137101) |
 
 ## About This Role
 
-This security engineer position at Cato Networks was posted on 2026-07-26.
+This cybersecurity engineer position at Cato Networks was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

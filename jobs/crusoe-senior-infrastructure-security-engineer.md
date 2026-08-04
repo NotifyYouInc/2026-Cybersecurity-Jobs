@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/1418c40c-17e6-46f7-8044-66eaac54ac23) |
 
 ## About This Role
 
-This security engineer position at Crusoe was posted on 2026-07-24.
+This cybersecurity engineer position at Crusoe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

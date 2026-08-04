@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Supply-Chain-Security-Engineering--AVP_R-794540) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-26.
+This cybersecurity engineer position at State Street was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

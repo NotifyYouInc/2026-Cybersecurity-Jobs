@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Program-Security---Administrative-Assistant_329404) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-07-24.
+This cybersecurity engineer position at CACI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

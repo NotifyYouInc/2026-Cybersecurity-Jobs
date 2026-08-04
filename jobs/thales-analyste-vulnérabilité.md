@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gennevilliers, Île-de-France, France |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/Analyste-Vulnrabilit_R0334096-2) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-07-24.
+This cybersecurity engineer position at Thales was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

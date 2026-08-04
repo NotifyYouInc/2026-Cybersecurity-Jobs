@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000139949529-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Avaloq was posted on 2026-07-27.
+This cybersecurity engineer position at Avaloq was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

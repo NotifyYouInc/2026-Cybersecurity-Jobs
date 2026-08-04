@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maidenhead, England, United Kingdom |
-| Category | Software Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/GB---Maidenhead/Cyber-Technical-Lead_R190209) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-07-24.
+This soc & incident response position at A.P. Moller - Maersk was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

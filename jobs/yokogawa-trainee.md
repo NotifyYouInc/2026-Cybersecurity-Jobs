@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Abu-Dhabi/Trainee_R-12286) |
 
 ## About This Role
 
-This security engineer position at Yokogawa was posted on 2026-07-27.
+This cybersecurity engineer position at Yokogawa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

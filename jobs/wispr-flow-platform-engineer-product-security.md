@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wispr Flow](https://scoutify.ai/companies/wispr-flow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/wispr-flow/8c6a3c2a-c893-4c48-bf54-8d290f04e9e0) |
 
 ## About This Role
 
-This security engineer position at Wispr Flow was posted on 2026-07-27.
+This cybersecurity engineer position at Wispr Flow was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

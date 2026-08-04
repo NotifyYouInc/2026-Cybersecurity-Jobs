@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aurora, Colorado, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--SkillBridge--Industrial-Security-Analyst---Level-3-or-Level-4_R10242135) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-24.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77502) |
 
 ## About This Role
 
-This security engineer position at BNY was posted on 2026-07-27.
+This cybersecurity engineer position at BNY was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

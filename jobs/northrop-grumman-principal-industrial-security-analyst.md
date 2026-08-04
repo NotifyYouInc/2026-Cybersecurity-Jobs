@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Falls Church, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Principal-Industrial-Security-Analyst_R10240787) |
+| Location | Oklahoma City, Oklahoma, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Industrial-Security-Analyst_R10242473) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-16.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

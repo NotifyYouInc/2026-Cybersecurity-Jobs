@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New Zealand |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-New-Zealand/EverWell---Security-Engineer--Remote--NZ-_R-106395) |
 
 ## About This Role
 
-This security engineer position at EverCommerce was posted on 2026-07-27.
+This cybersecurity engineer position at EverCommerce was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

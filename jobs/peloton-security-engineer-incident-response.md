@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Peloton](https://scoutify.ai/companies/peloton?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8074713) |
 
 ## About This Role
 
-This security engineer position at Peloton was posted on 2026-07-24.
+This cybersecurity engineer position at Peloton was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

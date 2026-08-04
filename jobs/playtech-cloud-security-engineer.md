@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113165957-cloud-security-engineer) |
+| Location | Nicosia, Nicosia, Cyprus |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000140017004-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Playtech was posted on 2026-03-06.
+This cybersecurity engineer position at Playtech was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

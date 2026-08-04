@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001259260-senior-security-engineer-detection-response) |
 
 ## About This Role
 
-This security engineer position at Canva was posted on 2026-07-26.
+This cybersecurity engineer position at Canva was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

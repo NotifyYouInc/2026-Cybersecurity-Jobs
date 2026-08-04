@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/TX-Dallas/Cloud-Security-Engineer_JR2603190-1) |
 
 ## About This Role
 
-This security engineer position at AIG was posted on 2026-07-24.
+This cybersecurity engineer position at AIG was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

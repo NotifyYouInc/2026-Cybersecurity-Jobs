@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430760/colo-physical-security-architect-data-center-engineering-colocation-regional-engineering) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485456/colo-physical-security-architect-data-center-engineering-colocation-regional-engineering) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-26.
+This cybersecurity engineer position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hanover, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990014248906-junior-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990014267476-junior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MAXISIQ was posted on 2026-07-23.
+This cybersecurity engineer position at MAXISIQ was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

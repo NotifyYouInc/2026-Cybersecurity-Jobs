@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000139958455-cybersecurity-engineer-meditech-all-gender) |
 
 ## About This Role
 
-This security engineer position at ALTEN Canada was posted on 2026-07-27.
+This cybersecurity engineer position at ALTEN Canada was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

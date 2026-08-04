@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4718258005) |
 
 ## About This Role
 
-This security engineer position at Scale AI was posted on 2026-07-24.
+This cybersecurity engineer position at Scale AI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

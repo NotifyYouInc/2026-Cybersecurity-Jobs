@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/India---Bangalore-Navigator-Bldg/Cyber-Security-Engineer-I_JR108305) |
 
 ## About This Role
 
-This security engineer position at Sabre was posted on 2026-07-24.
+This soc & incident response position at Sabre was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

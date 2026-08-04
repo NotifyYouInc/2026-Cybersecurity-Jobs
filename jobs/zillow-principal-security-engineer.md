@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Bengaluru/Principal-Security-Engineer_P750881) |
 
 ## About This Role
 
-This security engineer position at Zillow was posted on 2026-07-24.
+This cybersecurity engineer position at Zillow was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

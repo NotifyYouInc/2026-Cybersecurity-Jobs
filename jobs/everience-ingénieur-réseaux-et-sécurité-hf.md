@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Valenciennes, Hauts-de-France, France |
-| Category | Security Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000139623112-ingenieur-reseaux-et-securite-hf) |
 
 ## About This Role
 
-This security engineer position at Everience was posted on 2026-07-24.
+This it & systems administration position at Everience was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

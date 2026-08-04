@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoreWeave Europe](https://scoutify.ai/companies/coreweave-europe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://coreweave.com/careers/job?4699696006&board=coreweaveu&gh_jid=4699696006) |
 
 ## About This Role
 
-This security engineer position at CoreWeave Europe was posted on 2026-07-24.
+This cybersecurity engineer position at CoreWeave Europe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

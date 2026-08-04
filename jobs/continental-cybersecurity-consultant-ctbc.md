@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Technology / IT Consulting |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139920599-cybersecurity-consultant-ctbc) |
 
 ## About This Role
 
-This technology / it consulting position at Continental was posted on 2026-07-27.
+This cybersecurity engineer position at Continental was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

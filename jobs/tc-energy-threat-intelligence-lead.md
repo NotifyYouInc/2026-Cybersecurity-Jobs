@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Threat-Intelligence-Lead_JR-10529) |
 
 ## About This Role
 
-This security engineer position at TC Energy was posted on 2026-07-24.
+This cybersecurity engineer position at TC Energy was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

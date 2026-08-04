@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sevilla, Andalusia, Spain |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sevilla-Bluenet/Analista-Identity-Security_14187958) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-07-24.
+This cybersecurity engineer position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

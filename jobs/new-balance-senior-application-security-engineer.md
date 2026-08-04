@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [New Balance](https://scoutify.ai/companies/newbalance?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://newbalance.wd1.myworkdayjobs.com/careers/job/Boston-MA-Headquarters---NB/Senior-Application-Security-Engineer_R40556) |
 
 ## About This Role
 
-This security engineer position at New Balance was posted on 2026-07-24.
+This cybersecurity engineer position at New Balance was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

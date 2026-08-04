@@ -5,12 +5,12 @@
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7403579?gh_jid=7403579) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8084470?gh_jid=8084470) |
 
 ## About This Role
 
-This software engineer position at Asana was posted on 2026-07-13.
+This software engineer position at Asana was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

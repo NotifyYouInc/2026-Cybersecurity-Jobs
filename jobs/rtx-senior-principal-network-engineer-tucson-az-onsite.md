@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Senior-Principal-Network-Engineer--Tucson--AZ---ONSITE_01861793) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-07-26.
+This cybersecurity engineer position at RTX was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

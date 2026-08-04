@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizon3Ai](https://scoutify.ai/companies/horizon3ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/horizon3ai/38fec2b0-e37d-4b5a-8ab2-c56635c06b75) |
 
 ## About This Role
 
-This engineering manager position at Horizon3Ai was posted on 2026-07-24.
+This cybersecurity engineer position at Horizon3Ai was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

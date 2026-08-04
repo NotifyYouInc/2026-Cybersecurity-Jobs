@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Mclean/Physical-Security-Specialist_R183751-1) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-07-24.
+This cybersecurity engineer position at Parsons was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

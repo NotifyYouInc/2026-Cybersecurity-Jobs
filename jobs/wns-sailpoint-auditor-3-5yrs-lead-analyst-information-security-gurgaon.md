@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139961874-sailpoint-auditor-3-5yrs-lead-analyst-information-security-gurgaon) |
 
 ## About This Role
 
-This security engineer position at WNS was posted on 2026-07-27.
+This cybersecurity engineer position at WNS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

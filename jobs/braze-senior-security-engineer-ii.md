@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8080170?gh_jid=8080170) |
 
 ## About This Role
 
-This security engineer position at Braze was posted on 2026-07-24.
+This cybersecurity engineer position at Braze was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

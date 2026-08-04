@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ruggable](https://scoutify.ai/companies/ruggable?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ruggable/jobs/7815908003) |
 
 ## About This Role
 
-This security engineer position at Ruggable was posted on 2026-07-24.
+This cybersecurity engineer position at Ruggable was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

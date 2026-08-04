@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [South African Reserve Bank](https://scoutify.ai/companies/ocs-cx-oj90106?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pretoria, Gauteng, South Africa |
-| Category | Technology / IT Consulting |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fa-evra-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1768) |
 
 ## About This Role
 
-This technology / it consulting position at South African Reserve Bank was posted on 2026-07-27.
+This cybersecurity engineer position at South African Reserve Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

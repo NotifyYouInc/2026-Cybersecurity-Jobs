@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Philippines |
-| Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Philippines/User-Provisioning-Analyst-I_R5384) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Philippines/User-Provisioning-Analyst-I_R5813) |
 
 ## About This Role
 
-This security engineer position at Nordic was posted on 2026-02-23.
+This cybersecurity engineer position at Nordic was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

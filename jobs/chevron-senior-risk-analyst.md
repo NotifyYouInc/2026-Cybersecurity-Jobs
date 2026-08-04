@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Financial Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Risk-Analyst_R000072521) |
 
 ## About This Role
 
-This financial analyst position at Chevron was posted on 2026-07-27.
+This compliance & risk management position at Chevron was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Principal Associate - IT (IT Incident Manager) at Eurofins Scientific
+
+| Field | Details |
+|-------|---------|
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000140161099-principal-associate-it-it-incident-manager) |
+
+## About This Role
+
+This soc & incident response position at Eurofins Scientific was posted on 2026-07-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

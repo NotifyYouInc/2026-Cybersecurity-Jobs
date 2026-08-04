@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 9 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Manager---Cybersecurity-OT-Manufacturing---Distribution_R72732) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-07-24.
+This cybersecurity engineer position at Medtronic was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

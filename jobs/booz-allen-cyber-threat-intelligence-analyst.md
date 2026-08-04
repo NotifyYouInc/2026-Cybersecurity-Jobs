@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cyber-Threat-Intelligence-Analyst_R0244805) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cyber-Threat-Intelligence-Analyst_R0245268) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-07-20.
+This soc & incident response position at Booz Allen was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Strata Decision Technology](https://scoutify.ai/companies/strata-decision-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/stratacareers/jobs/7814680003) |
 
 ## About This Role
 
-This security engineer position at Strata Decision Technology was posted on 2026-07-24.
+This cybersecurity engineer position at Strata Decision Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

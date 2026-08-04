@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hawthorne, California, United States |
-| Category | Security Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8650240002?gh_jid=8650240002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-07-25.
+This soc & incident response position at SpaceX was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

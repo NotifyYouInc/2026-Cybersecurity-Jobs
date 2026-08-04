@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Mxico-Atizapn-de-Zaragoza-52977/Ingeniero-a-de-Ciberseguridad--Mxico--Atizapan-de-Zaragoza-_JR00108855) |
 
 ## About This Role
 
-This security engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-24.
+This cybersecurity engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

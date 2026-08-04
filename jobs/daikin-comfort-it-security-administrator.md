@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daikin Comfort](https://scoutify.ai/companies/daikin-comfort?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=4d1d8857-b190-4e57-b769-416d10d15f41) |
 
 ## About This Role
 
-This security engineer position at Daikin Comfort was posted on 2026-07-27.
+This cybersecurity engineer position at Daikin Comfort was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

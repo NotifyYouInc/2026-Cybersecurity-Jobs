@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/wyetechllc/0d08a05f-5ade-4c8e-91d5-2903beabca13) |
 
 ## About This Role
 
-This security engineer position at Wyetech was posted on 2026-07-24.
+This cybersecurity engineer position at Wyetech was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

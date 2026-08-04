@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mons, Wallonia, Belgium |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4904887101) |
+| Location | Braine-l'Alleud, Wallonia, Belgium |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4938553101) |
 
 ## About This Role
 
-This offensive security & pentesting position at Spektrum was posted on 2026-06-22.
+This cybersecurity engineer position at Spektrum was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

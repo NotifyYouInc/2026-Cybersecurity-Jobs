@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5194601007?gh_jid=5194601007) |
 
 ## About This Role
 
-This security engineer position at Anduril was posted on 2026-07-24.
+This cybersecurity engineer position at Anduril was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

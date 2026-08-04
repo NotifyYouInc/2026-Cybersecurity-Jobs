@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Trust & Safety |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Seattle-WA/Manager--AI-Governance-Business-Operations_R0031849) |
 
 ## About This Role
 
-This trust & safety position at Epiqsystems was posted on 2026-07-24.
+This cybersecurity engineer position at Epiqsystems was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hatchit](https://scoutify.ai/companies/hatchit?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Meade, Maryland, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/hatchit/7c4afac2-3862-4c74-b301-a2a6da9eb733) |
 
 ## About This Role
 
-This security engineer position at Hatchit was posted on 2026-07-24.
+This cybersecurity engineer position at Hatchit was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

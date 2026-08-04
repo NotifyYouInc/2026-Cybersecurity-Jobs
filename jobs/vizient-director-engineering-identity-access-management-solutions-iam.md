@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Engineering Manager |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Director--Engineering--Identity---Access-Management-Solutions--IAM-_33968R) |
 
 ## About This Role
 
-This engineering manager position at Vizient was posted on 2026-07-24.
+This cybersecurity engineer position at Vizient was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Technical-Application-Specialist_157030-2) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Technical-Application-Specialist_158777-1) |
 
 ## About This Role
 
-This security engineer position at Lloyds Bank was posted on 2026-07-13.
+This cybersecurity engineer position at Lloyds Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

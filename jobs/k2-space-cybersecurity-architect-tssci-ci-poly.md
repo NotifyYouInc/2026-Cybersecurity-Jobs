@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5370957008) |
 
 ## About This Role
 
-This security engineer position at K2 Space was posted on 2026-07-25.
+This cybersecurity engineer position at K2 Space was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

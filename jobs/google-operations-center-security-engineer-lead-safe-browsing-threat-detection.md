@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google Operations Center](https://scoutify.ai/companies/google-operations-center?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Philippines |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://google.wd501.myworkdayjobs.com/GOCJobs/job/PH-MNL-LIMA/XMLNAME--Upcoming-Roles--Team-Lead---Safe-Browsing_JR2614) |
 
 ## About This Role
 
-This security engineer position at Google Operations Center was posted on 2026-07-23.
+This cybersecurity engineer position at Google Operations Center was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

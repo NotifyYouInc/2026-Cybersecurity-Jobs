@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenSpace](https://scoutify.ai/companies/openspace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://www.openspace.ai/careers?gh_jid=7815704003) |
 
 ## About This Role
 
-This security engineer position at OpenSpace was posted on 2026-07-25.
+This cybersecurity engineer position at OpenSpace was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

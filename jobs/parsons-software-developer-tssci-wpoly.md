@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/Software-Developer--TS-SCI-w-Poly-_R182772) |
+| Location | Maryland, US |
+| Category | Software Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/Software-Developer--TS-SCI-w-Poly-_R183924) |
 
 ## About This Role
 
-This offensive security & pentesting position at Parsons was posted on 2026-06-30.
+This software engineer position at Parsons was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

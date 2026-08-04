@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Staff-Cyber-Systems-Engineer---Cyber-Team-Lead--26-341-_R10241990) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-24.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tainan, Taiwan, Taiwan |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/Physical-Security-Assessment-Specialist_JR107140) |
 
 ## About This Role
 
-This security engineer position at Micron was posted on 2026-07-27.
+This cybersecurity engineer position at Micron was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

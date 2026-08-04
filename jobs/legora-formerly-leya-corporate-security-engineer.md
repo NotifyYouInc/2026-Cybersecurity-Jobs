@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/legora/f80f50f8-df35-472b-b67d-7290f97d4faa) |
 
 ## About This Role
 
-This security engineer position at Legora (formerly Leya) was posted on 2026-07-25.
+This cybersecurity engineer position at Legora (formerly Leya) was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

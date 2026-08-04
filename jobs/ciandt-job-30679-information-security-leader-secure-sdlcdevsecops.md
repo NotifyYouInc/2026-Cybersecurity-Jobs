@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/17de6882-b745-4ece-9720-0bda56aefba7) |
 
 ## About This Role
 
-This security engineer position at Ciandt was posted on 2026-07-24.
+This cybersecurity engineer position at Ciandt was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

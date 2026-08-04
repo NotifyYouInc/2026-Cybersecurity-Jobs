@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5193221007) |
 
 ## About This Role
 
-This security engineer position at Zscaler was posted on 2026-07-24.
+This cybersecurity engineer position at Zscaler was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

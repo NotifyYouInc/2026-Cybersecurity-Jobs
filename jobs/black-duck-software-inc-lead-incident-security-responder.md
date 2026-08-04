@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Canada |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5287108008) |
 
 ## About This Role
 
-This security engineer position at Black Duck Software, Inc. was posted on 2026-07-24.
+This cybersecurity engineer position at Black Duck Software, Inc. was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

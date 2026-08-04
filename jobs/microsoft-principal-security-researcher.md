@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556941425) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-07-24.
+This soc & incident response position at Microsoft was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

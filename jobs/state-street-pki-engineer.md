@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/PKI-Engineer_R-794993) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/PKI-Engineer_R-795005-1) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-23.
+This cybersecurity engineer position at State Street was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Insider-Threat-Analyst_R178342-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Insider-Threat-Analyst_R183861) |
 
 ## About This Role
 
-This soc & incident response position at Parsons was posted on 2026-03-10.
+This soc & incident response position at Parsons was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

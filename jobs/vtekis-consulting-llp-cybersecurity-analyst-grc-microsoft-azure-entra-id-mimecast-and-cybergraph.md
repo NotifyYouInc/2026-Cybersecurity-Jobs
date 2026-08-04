@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warrenville, Illinois, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000139350279-cybersecurity-analyst-grc-microsoft-azure-entra-id-mimecast-and-cybergraph) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140042051-cybersecurity-analyst-grc-microsoft-azure-entra-id-mimecast-and-cybergraph) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-07-23.
+This cybersecurity engineer position at VTekis Consulting LLP was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

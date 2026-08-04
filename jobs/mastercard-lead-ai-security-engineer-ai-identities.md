@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-AI-Security-Engineer--AI-Identities_R-277300-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-07-24.
+This cybersecurity engineer position at Mastercard was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

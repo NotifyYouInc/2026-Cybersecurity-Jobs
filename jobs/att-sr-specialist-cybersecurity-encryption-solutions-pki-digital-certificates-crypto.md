@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hyderabad-India/Sr-Specialist-Cybersecurity---Encryption-Solutions---PKI---Digital-Certificates---Cryptographic-operations---Key-and-Secrets-Management--Venafi-KeyFactor--Vormetric-Cipher-Trust--Voltage--HashiCorp-Vault-_R-116814) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-07-27.
+This cybersecurity engineer position at AT&T was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

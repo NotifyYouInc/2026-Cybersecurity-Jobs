@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139936207-lead-associate-lead-security-engineer) |
 
 ## About This Role
 
-This security engineer position at IFS was posted on 2026-07-27.
+This cybersecurity engineer position at IFS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

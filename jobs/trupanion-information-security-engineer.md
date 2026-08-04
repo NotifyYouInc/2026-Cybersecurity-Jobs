@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trupanion](https://scoutify.ai/companies/trupanion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000139169379-information-security-engineer) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000140099809-information-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Trupanion was posted on 2026-07-22.
+This cybersecurity engineer position at Trupanion was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

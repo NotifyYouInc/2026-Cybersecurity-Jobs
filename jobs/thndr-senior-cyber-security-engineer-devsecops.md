@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/thndr/26d159c0-f734-4d93-8243-0f1fe232eeb6) |
 
 ## About This Role
 
-This security engineer position at Thndr was posted on 2026-07-26.
+This cybersecurity engineer position at Thndr was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

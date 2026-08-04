@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Industrial-Security-Manager_JR2026518511) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-07-24.
+This cybersecurity engineer position at Boeing was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

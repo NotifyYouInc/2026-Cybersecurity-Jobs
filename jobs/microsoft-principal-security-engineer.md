@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556937162) |
+| Location | Mountain View, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556941887) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-07-14.
+This cybersecurity engineer position at Microsoft was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

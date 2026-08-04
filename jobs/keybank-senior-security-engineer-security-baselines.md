@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Security-Engineer--Security-Baselines_R-37540) |
 
 ## About This Role
 
-This security engineer position at KeyBank was posted on 2026-07-24.
+This cybersecurity engineer position at KeyBank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

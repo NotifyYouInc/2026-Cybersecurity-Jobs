@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | Technology / IT Consulting |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBEpsomWoodcote-Grove/Senior-Security-Consultant_R-160214) |
 
 ## About This Role
 
-This technology / it consulting position at AtkinsRéalis was posted on 2026-07-27.
+This cybersecurity engineer position at AtkinsRéalis was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

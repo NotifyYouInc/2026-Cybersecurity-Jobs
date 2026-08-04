@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hawaii, US |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/Network-Engineer_R-00188098) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-26.
+This cybersecurity engineer position at Leidos was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

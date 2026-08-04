@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6115979004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6127414004) |
 
 ## About This Role
 
-This security engineer position at BTG Pactual was posted on 2026-07-15.
+This cybersecurity engineer position at BTG Pactual was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

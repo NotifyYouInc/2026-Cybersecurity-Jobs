@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8083534?gh_jid=8083534) |
 
 ## About This Role
 
-This security engineer position at Braze was posted on 2026-07-24.
+This cybersecurity engineer position at Braze was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

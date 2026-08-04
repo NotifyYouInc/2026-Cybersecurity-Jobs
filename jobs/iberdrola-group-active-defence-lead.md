@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Active-Defence-Lead_R-31686) |
 
 ## About This Role
 
-This security engineer position at Iberdrola Group was posted on 2026-07-24.
+This cybersecurity engineer position at Iberdrola Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

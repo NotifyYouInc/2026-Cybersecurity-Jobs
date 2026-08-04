@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fridley, Minnesota, United States |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Product-Security-Engineer---Cloud-Security_R72271-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-07-24.
+This cybersecurity engineer position at Medtronic was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

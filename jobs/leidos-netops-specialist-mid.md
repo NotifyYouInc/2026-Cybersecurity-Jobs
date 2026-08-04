@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | North Carolina, US |
+| Location | Jacksonville, Florida, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Cherry-Point-NC/NetOps-Specialist-Mid_R-00178470-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Jacksonville-NC/NetOps-Specialist-Mid_R-00188160) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-16.
+This soc & incident response position at Leidos was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

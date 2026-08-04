@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Cloud-Security-Developer--Global-Security-_R-0000180658-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-07-27.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
