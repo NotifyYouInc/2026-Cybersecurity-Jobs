@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toulouse, Occitanie, France |
-| Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse/Consultant-Architecte-Cyberscurit---H-F_R0326137-1) |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Consultant-Architecte-Cyberscurit---H-F_R0333477-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-04-30.
+This cybersecurity engineer position at Thales was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

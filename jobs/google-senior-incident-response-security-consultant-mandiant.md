@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Argentina |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb6Bt9rLitAbYRrrFnNzwtFI1NiyU4JMNSBBUWLVIYQWEjsA1Ny_ix5OiYdFRP1n6AEnE8x2WQA-jETvbE8P9jiFVb3Up7HMcogQx1yvFhOg7TqADnUHeZqPccRmbg%3D%3D_V2&loc=US&title=Senior+Incident+Response+Security+Consultant) |
+| Location | Mexico |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckapZRNEbYD-uTbbCruoPGPUcYq5mG1d73LtF62PfcofsEjsA1Ny_iwz7D_duo5h-0PovLLgT_FWi1O6TtGr1bJ6HVHoC97kwywV0PBD3iLvAhgMT54Bj_zAlHDjNyw%3D%3D_V2&loc=US&title=Senior+Incident+Response+Security+Consultant) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-26.
+This soc & incident response position at Google was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

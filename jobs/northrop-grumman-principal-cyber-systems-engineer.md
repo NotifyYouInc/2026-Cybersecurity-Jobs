@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | California, US |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Principal-Cyber-Systems-Engineer_R10241760) |
+| Location | Redondo Beach, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Cyber-Systems-Engineer_R10238220) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-22.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

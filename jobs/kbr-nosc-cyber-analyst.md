@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fulton-Maryland/NOSC-Cyber-Analyst_R2124346) |
+| Location | Washington, District of Columbia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/NOSC-Cyber-Analyst_R2127331) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-05-29.
+This soc & incident response position at KBR was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

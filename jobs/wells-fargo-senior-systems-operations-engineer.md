@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Systems-Operations-Engineer_R-531101) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer_R-563388-1) |
 
 ## About This Role
 
-This soc & incident response position at Wells Fargo was posted on 2026-04-01.
+This soc & incident response position at Wells Fargo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

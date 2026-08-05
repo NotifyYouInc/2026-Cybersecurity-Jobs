@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oneok](https://scoutify.ai/companies/oneok?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Tulsa-OK/Security-Analyst-III_R8075-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Tulsa-OK/Security-Analyst-III_R8456-1) |
 
 ## About This Role
 
-This security engineer position at Oneok was posted on 2026-06-23.
+This cybersecurity engineer position at Oneok was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

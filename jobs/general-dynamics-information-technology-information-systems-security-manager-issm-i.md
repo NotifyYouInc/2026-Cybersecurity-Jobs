@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 12 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Information-Systems-Security-Manager--ISSM--I_RQ222657-1) |
+| Location | San Antonio, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-San-Antonio/Information-Systems-Security-Manager--ISSM--I_RQ225189) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-17.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

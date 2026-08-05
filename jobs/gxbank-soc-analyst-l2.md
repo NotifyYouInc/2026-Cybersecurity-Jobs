@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/SOC-Analyst---L2_R-2026-06-101876) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/SOC-Analyst---L2_R-2026-07-101916-1) |
 
 ## About This Role
 
-This security engineer position at GXBank was posted on 2026-06-12.
+This soc & incident response position at GXBank was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

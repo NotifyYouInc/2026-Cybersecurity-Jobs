@@ -1,16 +1,16 @@
-# Sr lead Cybersecurity Architect at JPMorgan Chase
+# Sr Lead Cybersecurity Architect at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749705) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774728) |
 
 ## About This Role
 
-This security engineer position at JPMorgan Chase was posted on 2026-05-18.
+This cybersecurity engineer position at JPMorgan Chase was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

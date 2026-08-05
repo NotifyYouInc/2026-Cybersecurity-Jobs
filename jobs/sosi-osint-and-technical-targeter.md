@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013864116-osint-and-technical-targeter) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014316506-osint-and-technical-targeter) |
 
 ## About This Role
 
-This offensive security & pentesting position at SOSi was posted on 2026-06-30.
+This cybersecurity engineer position at SOSi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

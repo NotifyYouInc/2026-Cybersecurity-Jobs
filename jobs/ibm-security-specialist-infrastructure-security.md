@@ -1,16 +1,16 @@
-# Security Specialist-Infrastructure Security at IBM
+# Security Specialist- Infrastructure Security at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121770) |
+| Location | Wrocław, Lower Silesia, Poland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=126899) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-06-23.
+This cybersecurity engineer position at IBM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

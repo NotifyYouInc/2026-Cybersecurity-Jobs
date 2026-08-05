@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KastGroup](https://scoutify.ai/companies/kastgroupgmbh?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wallisellen, Zurich, Switzerland |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000138882739-it-security-engineer-penetration-tester-60-100-mwd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000140283729-it-security-engineer-penetration-tester-60-100-mwd) |
 
 ## About This Role
 
-This offensive security & pentesting position at KastGroup was posted on 2026-07-21.
+This cybersecurity engineer position at KastGroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

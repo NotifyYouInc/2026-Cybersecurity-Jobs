@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawaii, US |
+| Location | Orlando, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/Network-Engineer_R-00188098) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Network-Engineer_R-00188299) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-07-26.
+This cybersecurity engineer position at Leidos was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

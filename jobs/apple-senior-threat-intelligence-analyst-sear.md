@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663822/senior-threat-intelligence-analyst-sear) |
+| Location | Washington, District of Columbia, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674432/senior-threat-intelligence-analyst-sear) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-05-18.
+This soc & incident response position at Apple was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

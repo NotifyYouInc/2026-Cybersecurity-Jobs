@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Physicist-and-All-Source-Analyst--Senior_R0244468) |
+| Location | Charlottesville, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Physicist-and-All-Source-Analyst--Senior_R0245547-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-15.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Network-Engineer_R-00187833-1) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Network-Engineer_R-00188317) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-22.
+This cybersecurity engineer position at Leidos was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

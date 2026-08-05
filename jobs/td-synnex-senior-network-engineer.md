@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San José, San José, Costa Rica |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Senior-Network-Engineer_R53343) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Senior-Network-Engineer_R54313) |
 
 ## About This Role
 
-This security engineer position at TD Synnex was posted on 2026-07-01.
+This cybersecurity engineer position at TD Synnex was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

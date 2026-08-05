@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Palos Heights, Illinois, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000125836729-security-operations-center-operator-public-safety-full-time-evenings) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000140301762-security-operations-center-operator-public-safety-full-time-evenings) |
 
 ## About This Role
 
-This soc & incident response position at Northwestern Medicine was posted on 2026-05-11.
+This soc & incident response position at Northwestern Medicine was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

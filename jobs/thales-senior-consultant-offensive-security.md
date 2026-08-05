@@ -1,16 +1,16 @@
-# Senior Consultant - Offensive Security at Thales
+# Senior Consultant – Offensive Security at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/NSW---Barangaroo/Senior-Consultant---Offensive-Security_R0321656) |
+| Location | New South Wales, AU |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/NSW---Barangaroo/Senior-Consultant---Offensive-Security_R0321659) |
 
 ## About This Role
 
-This offensive security & pentesting position at Thales was posted on 2026-05-05.
+This cybersecurity engineer position at Thales was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Associate---SIEM-SOAR-Engineering_689316WD-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Argentina-AC-Olivos/Associate---SIEM-SOAR-Engineering_745305WD) |
 
 ## About This Role
 
-This security engineer position at PwC was posted on 2026-04-23.
+This soc & incident response position at PwC was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Senior-Endpoint-Protection-Engineer_R17024-1) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Senior-Endpoint-Protection-Engineer_R17399) |
 
 ## About This Role
 
-This security engineer position at Pacific Life was posted on 2026-05-15.
+This cybersecurity engineer position at Pacific Life was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

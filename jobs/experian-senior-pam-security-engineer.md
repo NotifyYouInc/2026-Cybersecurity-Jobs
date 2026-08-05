@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118996620-senior-pam-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140326869-senior-pam-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-04-07.
+This cybersecurity engineer position at Experian was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
