@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Texas, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/England/Associate-Triage-Analyst_R14543) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/California/Associate-Triage-Analyst_R14534) |
 
 ## About This Role
 
-This soc & incident response position at Proofpoint was posted on 2026-07-28.
+This soc & incident response position at Proofpoint was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

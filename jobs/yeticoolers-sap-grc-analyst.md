@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yeticoolers](https://scoutify.ai/companies/yeticoolers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Compliance & Risk Management |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://yeticoolers.wd5.myworkdayjobs.com/yeti/job/Austin-Texas/SAP-GRC-Analyst_JR102199) |
 
 ## About This Role
 
-This compliance & risk management position at Yeticoolers was posted on 2026-07-27.
+This cybersecurity engineer position at Yeticoolers was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

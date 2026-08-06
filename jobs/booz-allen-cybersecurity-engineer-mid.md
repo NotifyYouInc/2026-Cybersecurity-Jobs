@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Cybersecurity-Engineer--Mid_R0241903) |
+| Location | Fort Meade, Maryland, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Engineer--Mid_R0245633-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-10.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

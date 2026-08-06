@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140057139-especialista-en-redes-networking) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140546449-especialista-en-redes-networking) |
 
 ## About This Role
 
-This cybersecurity engineer position at Inetum was posted on 2026-07-27.
+This cybersecurity engineer position at Inetum was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

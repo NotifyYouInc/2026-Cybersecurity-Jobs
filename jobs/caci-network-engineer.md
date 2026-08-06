@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Reston/Network-Engineer_321627) |
+| Location | Florham Park, New Jersey, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Network-Engineer_329639) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-01-30.
+This cybersecurity engineer position at CACI was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

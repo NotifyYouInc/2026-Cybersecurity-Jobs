@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Personnel-Security-Specialist-III_R0164920) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Personnel-Security-Specialist-III_R0167078) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-07-01.
+This cybersecurity engineer position at Amentum was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Information-Security-Engineer-Hybrid_2017425) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Information-Security-Engineer-Hybrid_2018972) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-07-08.
+This cybersecurity engineer position at Cisco was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

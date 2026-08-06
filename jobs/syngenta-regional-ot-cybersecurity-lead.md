@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paulínia, São Paulo, Brazil |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000140095888-regional-ot-cybersecurity-lead) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000140332288-regional-ot-cybersecurity-lead) |
 
 ## About This Role
 
-This cybersecurity engineer position at Syngenta was posted on 2026-07-27.
+This cybersecurity engineer position at Syngenta was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

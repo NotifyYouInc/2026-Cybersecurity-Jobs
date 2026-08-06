@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000126246096-stage-securite-des-iot-methodologie-danalyse-iam) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000140454570-stage-securite-des-iot-methodologie-danalyse-iam) |
 
 ## About This Role
 
-This security engineer position at Wavestone was posted on 2026-05-13.
+This cybersecurity engineer position at Wavestone was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/SYDNEY-YORK-ST/Cyber-Security-Analyst_R0324529-1) |
+| Location | Rydalmere, New South Wales, Australia |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rydalmere/Cyber-Security-Analyst_R0335201) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-06-02.
+This soc & incident response position at Thales was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

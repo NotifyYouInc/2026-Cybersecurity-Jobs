@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Security-Analyst--Shift-Work_R-00276113-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Security-Analyst--Shift-Work_R-00282273-2) |
 
 ## About This Role
 
-This security engineer position at NatWest Group was posted on 2026-04-17.
+This soc & incident response position at NatWest Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

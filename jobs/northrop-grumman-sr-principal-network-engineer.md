@@ -1,16 +1,16 @@
-# Sr Principal Network Engineer at Northrop Grumman
+# Sr. Principal Network Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Network-Engineer_R10224828) |
+| Location | Chantilly, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Sr-Principal-Network-Engineer_R10242874) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-03-06.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

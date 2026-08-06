@@ -5,12 +5,12 @@
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/DFIR-Consultant-1_2026-456) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Principal-DFIR-Consultant_2026-756) |
 
 ## About This Role
 
-This soc & incident response position at Tmhcc was posted on 2026-05-19.
+This soc & incident response position at Tmhcc was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

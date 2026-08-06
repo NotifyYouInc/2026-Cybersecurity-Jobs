@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Technology-Asset-Governance-and-Risk-Management_R_1499627-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at TD Bank was posted on 2026-07-28.
+This cybersecurity engineer position at TD Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

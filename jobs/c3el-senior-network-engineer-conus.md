@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [C3EL](https://scoutify.ai/companies/c3el?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/c3el/jobs/5197656007) |
 
 ## About This Role
 
-This it & systems administration position at C3EL was posted on 2026-07-28.
+This cybersecurity engineer position at C3EL was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

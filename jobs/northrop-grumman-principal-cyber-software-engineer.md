@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Principal-Cyber-Software-Engineer_R10234421) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Principal-Cyber-Software-Engineer_R10242841) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-28.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

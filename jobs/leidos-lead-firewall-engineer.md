@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Lead-Firewall-Engineer_R-00185869) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Lead-Firewall-Engineer_R-00188407) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-22.
+This cybersecurity engineer position at Leidos was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

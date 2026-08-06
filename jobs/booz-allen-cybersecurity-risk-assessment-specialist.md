@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Center, Texas, United States |
-| Category | Compliance & Risk Management |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286) |
 
 ## About This Role
 
-This compliance & risk management position at Booz Allen was posted on 2026-07-28.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

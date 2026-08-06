@@ -1,16 +1,16 @@
-# Principal Analyst, Security - Tucson, AZ or McKinney, TX at RTX
+# Principal Analyst, Security - Tucson, AZ Or McKinney, TX at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McKinney, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Principal-Analyst--Security---Tucson--AZ-or-McKinney--TX_01859724) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Principal-Analyst--Security---Tucson--AZ-Or-McKinney--TX_01862780-1) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-07-17.
+This cybersecurity engineer position at RTX was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

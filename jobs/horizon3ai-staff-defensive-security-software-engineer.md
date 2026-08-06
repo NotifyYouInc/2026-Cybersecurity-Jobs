@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizon3Ai](https://scoutify.ai/companies/horizon3ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/horizon3ai/95044547-e65e-494f-b04c-ea1853ac1369) |
 
 ## About This Role
 
-This software engineer position at Horizon3Ai was posted on 2026-07-28.
+This cybersecurity engineer position at Horizon3Ai was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

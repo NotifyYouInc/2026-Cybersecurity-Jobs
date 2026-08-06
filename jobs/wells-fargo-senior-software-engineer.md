@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-562808) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-07-29.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

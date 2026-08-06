@@ -1,16 +1,16 @@
-# Senior Information Security Engineer  at Betsson Group
+# Senior Information Security Engineer at Betsson Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Valletta, Valletta, Malta |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8015877) |
+| Location | Malta |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8094377) |
 
 ## About This Role
 
-This security engineer position at Betsson Group was posted on 2026-06-18.
+This cybersecurity engineer position at Betsson Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

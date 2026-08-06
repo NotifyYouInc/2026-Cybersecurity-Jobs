@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000132235179-sr-engineer-data-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000140520749-sr-engineer-data-security) |
 
 ## About This Role
 
-This security engineer position at Wynn Resorts was posted on 2026-06-15.
+This cybersecurity engineer position at Wynn Resorts was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

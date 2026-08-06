@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Activity-Security-Representative--ASR--lll_RQ221556-1) |
+| Location | Dayton, Ohio, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OH-Dayton/Activity-Security-Representative--ASR--lll_RQ225214-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-03.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

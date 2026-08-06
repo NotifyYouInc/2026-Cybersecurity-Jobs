@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Melco Resorts & Entertainment](https://scoutify.ai/companies/melco-resorts-entertainment?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Limassol, Limassol, Cyprus |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/COD-Mediterranean-Limassol/Analyst--Information-Security_REQ11786) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/City-of-Dreams-Manila/Analyst--Information-Security_REQ14952) |
 
 ## About This Role
 
-This cybersecurity engineer position at Melco Resorts & Entertainment was posted on 2026-02-10.
+This cybersecurity engineer position at Melco Resorts & Entertainment was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

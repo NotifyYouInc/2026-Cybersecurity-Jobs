@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Debrecen, Hajdú-Bihar, Hungary |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000137809479-network-operator-ref5633n) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000140606939-network-operator-ref5633n) |
 
 ## About This Role
 
-This soc & incident response position at Deutsche Telekom IT Solutions HU was posted on 2026-07-15.
+This soc & incident response position at Deutsche Telekom IT Solutions HU was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

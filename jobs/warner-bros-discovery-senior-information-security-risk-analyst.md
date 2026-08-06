@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Financial Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/DC-Washington-820-1st-Street-NE/Senior-Information-Security-Risk-Analyst_R000107284) |
 
 ## About This Role
 
-This financial analyst position at Warner Bros Discovery was posted on 2026-07-28.
+This cybersecurity engineer position at Warner Bros Discovery was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

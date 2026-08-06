@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Farmers Branch, Texas, United States |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Software-Engineer_R230697) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-07-28.
+This cybersecurity engineer position at PNC Financial was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

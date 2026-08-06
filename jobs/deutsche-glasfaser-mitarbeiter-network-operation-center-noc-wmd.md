@@ -5,12 +5,12 @@
 | Company | [Deutsche Glasfaser](https://scoutify.ai/companies/deutscheglasfaser?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Borken, North Rhine-Westphalia, Germany |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000136241009-mitarbeiter-network-operation-center-noc-wmd) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000140420699-mitarbeiter-network-operation-center-noc-wmd) |
 
 ## About This Role
 
-This soc & incident response position at Deutsche Glasfaser was posted on 2026-07-07.
+This soc & incident response position at Deutsche Glasfaser was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

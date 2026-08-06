@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Development-Engineer---OS---Security_566517-1) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-07-29.
+This cybersecurity engineer position at Philips was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BDC](https://scoutify.ai/companies/bdc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://bdc.wd10.myworkdayjobs.com/bdc_careers/job/Montreal/CYBERSECURITY-TECHNICAL-LEAD_R-8035) |
 
 ## About This Role
 
-This software engineer position at BDC was posted on 2026-07-29.
+This cybersecurity engineer position at BDC was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

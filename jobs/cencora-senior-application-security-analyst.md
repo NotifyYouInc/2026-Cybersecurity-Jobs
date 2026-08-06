@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Senior-Application-Security-Analyst_R264633) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Senior-Application-Security-Analyst_R264634) |
 
 ## About This Role
 
-This security engineer position at Cencora was posted on 2026-06-22.
+This cybersecurity engineer position at Cencora was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

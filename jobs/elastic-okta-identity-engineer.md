@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7939682&gh_jid=7939682) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8093275&gh_jid=8093275) |
 
 ## About This Role
 
-This security engineer position at Elastic was posted on 2026-05-20.
+This cybersecurity engineer position at Elastic was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

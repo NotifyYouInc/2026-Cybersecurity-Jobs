@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | France |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000123471909-ingenieur-automatisme-electricite-cybersecurite-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000140626561-ingenieur-automatisme-electricite-cybersecurite-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-04-28.
+This industrial automation position at Assystem was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
