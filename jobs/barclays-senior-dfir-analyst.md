@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Knutsford, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-DFIR-Analyst_JR-0000104828) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Senior-DFIR-Analyst_JR-0000104826) |
 
 ## About This Role
 
-This soc & incident response position at Barclays was posted on 2026-07-27.
+This soc & incident response position at Barclays was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

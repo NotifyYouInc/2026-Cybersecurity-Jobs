@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Košice, Košice Region, Slovakia |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129437529-senior-cyber-security-defender-engineer-with-german-mfd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000140641699-senior-cyber-security-defender-engineer-with-german-mfd) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-01.
+This cybersecurity engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

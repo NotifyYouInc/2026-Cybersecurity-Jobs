@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Activity-Security-Representative--ASR--II_RQ225218) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Activity-Security-Representative--ASR--II_RQ225247-1) |
 
 ## About This Role
 

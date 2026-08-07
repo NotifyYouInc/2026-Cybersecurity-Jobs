@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8632723002) |
+| Location | Hong Kong, Hong Kong |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/8441121002?gh_jid=8441121002) |
 
 ## About This Role
 
-This security engineer position at Jane Street was posted on 2026-07-20.
+This soc & incident response position at Jane Street was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

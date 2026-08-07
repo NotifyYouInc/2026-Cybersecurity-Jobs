@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kalgoorlie, Western Australia, Australia |
-| Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#142691) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154801) |
 
 ## About This Role
 
-This security engineer position at Honeywell was posted on 2026-03-13.
+This cybersecurity engineer position at Honeywell was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

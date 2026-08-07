@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Honolulu, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013811076-senior-network-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014372386-senior-network-engineer) |
 
 ## About This Role
 
-This security engineer position at SOSi was posted on 2026-06-26.
+This cybersecurity engineer position at SOSi was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

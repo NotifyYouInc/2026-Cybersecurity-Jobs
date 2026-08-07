@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7938215) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8096068) |
 
 ## About This Role
 
-This security engineer position at Pure Storage was posted on 2026-05-18.
+This cybersecurity engineer position at Pure Storage was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

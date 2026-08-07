@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-3/SOC-Analyst_R-28411) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-3/SOC-Analyst_R-29525) |
 
 ## About This Role
 
-This soc & incident response position at Varian was posted on 2026-07-07.
+This soc & incident response position at Varian was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

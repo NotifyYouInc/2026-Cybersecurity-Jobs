@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000140432994-ai-security-engineer-application-security) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000140442059-ai-security-engineer-application-security) |
 
 ## About This Role
 

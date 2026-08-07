@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Cybersecurity-Analyst-I_JR0306269) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/BRA-SAOP-215/Cybersecurity-Analyst-I_JR0308601) |
 
 ## About This Role
 
-This security engineer position at Fidelity National Information Services was posted on 2026-04-09.
+This soc & incident response position at Fidelity National Information Services was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

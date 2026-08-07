@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Information-Security-Specialist_R-0000032841) |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Information-Security-Specialist_R-0000032879) |
 
 ## About This Role
 
-This cybersecurity engineer position at The Federal Reserve System was posted on 2026-07-29.
+This soc & incident response position at The Federal Reserve System was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [voyage prive.com](https://scoutify.ai/companies/voyageprivecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000130397755-security-engineer-full-remote-france-or-hybrid) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000140835739-security-engineer-full-remote-france-or-hybrid) |
 
 ## About This Role
 
-This security engineer position at voyage prive.com was posted on 2026-06-05.
+This cybersecurity engineer position at voyage prive.com was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

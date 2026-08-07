@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntingdon, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Senior-Cyber-Security-Engineer_R-00187939) |
+| Location | Chantilly, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-Cyber-Security-Engineer_R-00188451) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-23.
+This cybersecurity engineer position at Leidos was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Golden-Agri-Plaza-SG/SOC-Intern_JR04935) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Kuala-Lumpur-MY/SOC-Intern_JR05344) |
 
 ## About This Role
 
-This soc & incident response position at Logicalis was posted on 2026-03-02.
+This soc & incident response position at Logicalis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

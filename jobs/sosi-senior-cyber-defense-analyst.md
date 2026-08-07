@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Hawaii, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013569596-senior-cyber-defense-analyst) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014368376-senior-cyber-defense-analyst) |
 
 ## About This Role
 
-This soc & incident response position at SOSi was posted on 2026-06-10.
+This soc & incident response position at SOSi was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

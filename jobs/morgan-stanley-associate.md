@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Associate_PT-JR033356) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Associate_PT-JR041470-1) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-04-06.
+This cybersecurity engineer position at Morgan Stanley was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

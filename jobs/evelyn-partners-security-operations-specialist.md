@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Liverpool, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000140198799-security-operations-specialist) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000140736510-security-operations-specialist) |
 
 ## About This Role
 
-This soc & incident response position at Evelyn Partners was posted on 2026-07-28.
+This soc & incident response position at Evelyn Partners was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Vancouver-British-Columbia-Canada/Security-Systems-Technician_WD30271871) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Security-Systems-Technician_WD30274601) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-06-19.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

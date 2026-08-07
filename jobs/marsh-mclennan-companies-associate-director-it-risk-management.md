@@ -1,16 +1,16 @@
-# Associate Director - IT Risk Management at Marsh & McLennan Companies
+# Associate Director  - IT Risk Management at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Associate-Director---IT-Risk-Management_R_355628) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Associate-Director----IT-Risk-Management_R_359591) |
 
 ## About This Role
 
-This security engineer position at Marsh & McLennan Companies was posted on 2026-06-30.
+This cybersecurity engineer position at Marsh & McLennan Companies was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

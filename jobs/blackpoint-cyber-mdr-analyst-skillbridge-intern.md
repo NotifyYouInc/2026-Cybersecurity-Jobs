@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackpoint Cyber](https://scoutify.ai/companies/blackpoint-20cyber?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/blackpoint%20cyber/ee2e9f90-31b1-464a-aed5-3d2878b310ed) |
 
 ## About This Role
 
-This soc & incident response position at Blackpoint Cyber was posted on 2026-07-29.
+This sales development (sdr / bdr) position at Blackpoint Cyber was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
