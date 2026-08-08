@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse/Administrateur-Systme-et-Scurit--F-H_R0335300-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-07-30.
+This it & systems administration position at Thales was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Lead--Infra-Windows_R158375) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northern Trust was posted on 2026-07-31.
+This it & systems administration position at Northern Trust was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

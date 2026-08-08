@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Engineer_2019814) |
+| Location | Fulton, Missouri, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Fulton-Maryland-US/Security-Engineer_2018362) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-07-23.
+This cybersecurity engineer position at Cisco was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

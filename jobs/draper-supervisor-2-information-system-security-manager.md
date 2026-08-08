@@ -1,0 +1,22 @@
+# Supervisor 2, Information System Security Manager at Draper
+
+| Field | Details |
+|-------|---------|
+| Company | [Draper](https://scoutify.ai/companies/draper?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Supervisor-2--Information-System-Security-Manager_JR002734) |
+
+## About This Role
+
+This cybersecurity engineer position at Draper was posted on 2026-07-31.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

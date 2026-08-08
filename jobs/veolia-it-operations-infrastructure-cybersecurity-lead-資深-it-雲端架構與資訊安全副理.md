@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140829939-it-operations-infrastructure-cybersecurity-lead-it) |
 
 ## About This Role
 
-This cybersecurity engineer position at Veolia was posted on 2026-07-31.
+This it & systems administration position at Veolia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

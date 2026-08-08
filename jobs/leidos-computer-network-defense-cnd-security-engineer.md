@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Suitland, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Computer-Network-Defense--CND--Security-Engineer_R-00187710) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Computer-Network-Defense--CND--Security-Engineer_R-00188551) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-21.
+This cybersecurity engineer position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

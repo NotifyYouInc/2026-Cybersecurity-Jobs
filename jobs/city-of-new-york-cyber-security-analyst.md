@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014338586-cyber-security-analyst) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014358821-cyber-security-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at City of New York was posted on 2026-07-29.
+This cybersecurity engineer position at City of New York was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

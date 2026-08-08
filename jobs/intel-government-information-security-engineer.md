@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Government-Information-Security-Engineer_JR0276257) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Virginia-Fairfax/Government-Information-Security-Engineer_JR0286015) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-02-20.
+This cybersecurity engineer position at Intel was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

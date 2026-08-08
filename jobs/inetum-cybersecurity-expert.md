@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000137641821-cybersecurity-expert) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140875419-cybersecurity-expert) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-07-14.
+This cybersecurity engineer position at Inetum was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

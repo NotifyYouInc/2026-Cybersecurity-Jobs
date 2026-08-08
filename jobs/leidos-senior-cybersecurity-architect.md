@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Cybersecurity-Architect_R-00186926) |
+| Location | Lorton, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Senior-Cybersecurity-Architect_R-00188583-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-08.
+This cybersecurity engineer position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

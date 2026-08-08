@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singrauli, Madhya Pradesh, India |
-| Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#49655) |
+| Location | Nagpur, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#50710) |
 
 ## About This Role
 
-This security engineer position at Adani Group was posted on 2026-04-10.
+This cybersecurity engineer position at Adani Group was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

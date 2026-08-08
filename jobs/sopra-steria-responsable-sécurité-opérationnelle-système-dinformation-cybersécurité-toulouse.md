@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133284799-responsable-securite-operationnelle-systeme-dinformation-cybersecurite-toulouse) |
+| Location | Colomiers, Occitanie, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140850604-responsable-securite-operationnelle-systeme-dinformation-cybersecurite-toulouse) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-22.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

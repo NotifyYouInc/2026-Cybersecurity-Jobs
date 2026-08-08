@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135461289-senior-consultant-offensive-security-mwd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140882329-senior-consultant-offensive-security-mwd) |
 
 ## About This Role
 
-This offensive security & pentesting position at Sopra Steria was posted on 2026-07-02.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Hyderabad/Information-Security-Analyst_R-114331-1) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Alem/Information-Security-Analyst_R-114330-1) |
 
 ## About This Role
 
-This security engineer position at Assurant was posted on 2026-07-08.
+This cybersecurity engineer position at Assurant was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

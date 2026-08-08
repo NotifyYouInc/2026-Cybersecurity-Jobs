@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/IT-Security-Manager_R0056762) |
+| Location | Baltimore, Maryland, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-MD-Baltimore-East-Pratt-St/IT-Security-Manager_R0059007) |
 
 ## About This Role
 
-This security engineer position at Wolters Kluwer was posted on 2026-05-12.
+This soc & incident response position at Wolters Kluwer was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

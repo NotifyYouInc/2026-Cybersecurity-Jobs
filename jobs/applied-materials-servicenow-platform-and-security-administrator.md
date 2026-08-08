@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/ServiceNow-Platform-and-Security-Administrator_R2624794) |
 
 ## About This Role
 
-This cybersecurity engineer position at Applied Materials was posted on 2026-07-30.
+This it & systems administration position at Applied Materials was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

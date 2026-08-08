@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132155239-detection-engineer-soc-mdr-cybersecurite-toulouse) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140837864-detection-engineer-soc-mdr-cybersecurite-toulouse) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-15.
+This sales development (sdr / bdr) position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/76292608376087238-senior-security-engineer-enterprise-infrastructure-protection?sort_by=date&page=1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTFN_94CCqPbPbRtSQ1qeCOG9SvWdH8JSmxWovzxuPQSEjsA1Ny_iyT6FaICoam_WObtfDGnO7o85-9hY1RHQA5KdE9t5Wp3HgxRoYauWHyhQplnZNVKVgzPqIYgDA%3D%3D_V2&loc=AU&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-02-02.
+This cybersecurity engineer position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

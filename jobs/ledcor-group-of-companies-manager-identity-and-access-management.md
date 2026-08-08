@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Vancouver-BC/Manager--Identity-and-Access-Management_R29977) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Edmonton-AB/Manager--Identity-and-Access-Management_R30091) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ledcor Group of Companies was posted on 2026-07-27.
+This cybersecurity engineer position at Ledcor Group of Companies was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

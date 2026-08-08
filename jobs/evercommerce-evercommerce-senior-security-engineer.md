@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado, US |
+| Location | Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverCommerce---Senior-Security-Engineer_R-105930) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Canada/EverCommerce---Senior-Security-Engineer_R-106418) |
 
 ## About This Role
 
-This cybersecurity engineer position at EverCommerce was posted on 2026-02-03.
+This cybersecurity engineer position at EverCommerce was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

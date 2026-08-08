@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Illinois, US |
+| Location | Shiloh, Illinois, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/JRSS-NOC-Technician-III_R-00177498) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/JRSS-NOC-Technician-III_R-00188523) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-04.
+This soc & incident response position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

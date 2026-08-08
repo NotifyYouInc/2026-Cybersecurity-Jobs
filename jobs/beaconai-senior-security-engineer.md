@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Carlos, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/99628df4-133f-4a90-b6fe-e5b7cb5f623f) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/ebe0c7a3-7e64-484a-8928-80d04e5c9803) |
 
 ## About This Role
 
-This security engineer position at Beaconai was posted on 2026-05-28.
+This cybersecurity engineer position at Beaconai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

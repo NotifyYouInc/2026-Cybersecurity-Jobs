@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Cyber-Operations-Integrator_328239) |
+| Location | Florida, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Eglin-AFB-FL-US/Cyber-Operations-Integrator_329939) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-25.
+This cybersecurity engineer position at CACI was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Albany, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=f5b0da0e-edf0-4ee4-b428-c2a05441c34a) |
+| Location | Knoxville, Tennessee, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=ecfb73a7-4789-4c3d-8bff-4485e23601e8) |
 
 ## About This Role
 
-This security engineer position at Convergint Technologies was posted on 2026-06-26.
+This cybersecurity engineer position at Convergint Technologies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

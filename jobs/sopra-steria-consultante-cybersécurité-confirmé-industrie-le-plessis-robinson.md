@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125769099-consultante-cybersecurite-confirme-industrie-le-plessis-robinson) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140945719-consultante-cybersecurite-confirme-industrie-le-plessis-robinson) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-11.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

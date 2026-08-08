@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Warfare-Engineer_R0243808) |
+| Location | Rome, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cyber-Warfare-Engineer_R0245670) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-07-06.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

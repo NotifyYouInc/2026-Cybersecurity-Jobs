@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C3EL](https://scoutify.ai/companies/c3el?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawaii, US |
+| Location | Illinois, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/c3el/jobs/5198595007) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/c3el/jobs/5199558007) |
 
 ## About This Role
 
-This cybersecurity engineer position at C3EL was posted on 2026-07-29.
+This cybersecurity engineer position at C3EL was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

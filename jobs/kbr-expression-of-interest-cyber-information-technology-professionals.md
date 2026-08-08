@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Expression-of-Interest---Cyber---Information-Technology-Professionals_R2127369) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-07-31.
+This it & systems administration position at KBR was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000140598899-network-and-security-administrator) |
 
 ## About This Role
 
-This cybersecurity engineer position at VAM Systems was posted on 2026-07-30.
+This it & systems administration position at VAM Systems was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
