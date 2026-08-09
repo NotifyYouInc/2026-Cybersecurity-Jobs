@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8646204002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8669692002) |
 
 ## About This Role
 
-This security engineer position at North Point Technology was posted on 2026-07-22.
+This cybersecurity engineer position at North Point Technology was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 
