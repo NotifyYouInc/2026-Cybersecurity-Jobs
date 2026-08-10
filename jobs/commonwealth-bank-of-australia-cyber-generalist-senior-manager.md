@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Cyber Generalist Senior Manager at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Cyber-Generalist-Senior-Manager_REQ263324) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at Commonwealth Bank of Australia was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

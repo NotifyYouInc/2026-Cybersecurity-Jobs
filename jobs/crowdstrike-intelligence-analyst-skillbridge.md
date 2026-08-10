@@ -1,16 +1,16 @@
-# Senior Engineer, MDR at Tmhcc
+# Intelligence Analyst - SkillBridge at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Senior-Engineer--MDR_2026-766) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Analyst---SkillBridge_R29616) |
 
 ## About This Role
 
-This soc & incident response position at Tmhcc was posted on 2026-07-31.
+This soc & incident response position at CrowdStrike was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Head Of Security - Base44 at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000141127209-head-of-security-base44) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at Wix.com was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

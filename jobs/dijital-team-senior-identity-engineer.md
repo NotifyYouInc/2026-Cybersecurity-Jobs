@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Senior Identity Engineer at Dijital Team
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Dijital Team](https://scoutify.ai/companies/dijital-team?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/25e7bdba-4899-4b87-9aea-ea476f31020c) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at Dijital Team was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

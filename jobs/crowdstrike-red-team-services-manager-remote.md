@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Red Team Services Manager (Remote) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Manager--Remote-_R29591) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

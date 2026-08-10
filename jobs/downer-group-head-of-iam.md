@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Head of IAM at Downer Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | North Ryde, New South Wales, Australia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#735212) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at Downer Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

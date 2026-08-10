@@ -1,16 +1,16 @@
-# Security Engineer III at Zuora
+# Senior Security Research Engineer at Picus
 
 | Field | Details |
 |-------|---------|
-| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Picus](https://scoutify.ai/companies/picus?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Ankara, Ankara, Turkey |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7966294?gh_jid=7966294) |
+| Apply | [View on company site](https://jobs.lever.co/picus/de9126c4-3fcd-4ccf-aa6b-05b173627a6c) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zuora was posted on 2026-08-03.
+This cybersecurity engineer position at Picus was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
