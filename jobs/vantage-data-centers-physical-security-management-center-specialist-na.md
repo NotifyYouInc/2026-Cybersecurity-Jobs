@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/San-Antonio-Texas/Physical-Security-Management-Center-Specialist--NA_R22888) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/San-Antonio-Texas/Physical-Security-Management-Center-Specialist--NA_R24107) |
 
 ## About This Role
 
-This security engineer position at Vantage Data Centers was posted on 2026-05-05.
+This soc & incident response position at Vantage Data Centers was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

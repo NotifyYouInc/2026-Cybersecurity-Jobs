@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Engineer-Airworthiness_R10243132) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-30.
+This software engineer position at Northrop Grumman was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

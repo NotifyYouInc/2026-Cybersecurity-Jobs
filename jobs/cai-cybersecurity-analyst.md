@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Cybersecurity-Analyst_R7303) |
+| Location | California, US |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst_R8250) |
 
 ## About This Role
 
-This security engineer position at CAI was posted on 2026-03-10.
+This soc & incident response position at CAI was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

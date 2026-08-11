@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | Cybersecurity Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140899294-consultante-securite-des-si-grc-cybersecurite-aix-en-provence) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-07-31.
+This compliance & risk management position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

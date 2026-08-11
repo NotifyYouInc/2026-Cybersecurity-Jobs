@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000116813749-sr-cloud-security-engineerarchitect) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141408721-sr-cloud-security-engineerarchitect) |
 
 ## About This Role
 
-This security engineer position at SanDisk was posted on 2026-03-26.
+This cybersecurity engineer position at SanDisk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | SOC & Incident Response |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140837864-detection-engineer-soc-mdr-cybersecurite-toulouse) |
 
 ## About This Role
 
-This soc & incident response position at Sopra Steria was posted on 2026-07-31.
+This semiconductor / chip design position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

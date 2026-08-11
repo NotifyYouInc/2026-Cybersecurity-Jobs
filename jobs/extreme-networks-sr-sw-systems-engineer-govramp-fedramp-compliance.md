@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.lever.co/extremenetworks/88bdbbd1-aceb-48ed-812c-6b2ca8975eeb) |
 
 ## About This Role
 
-This cybersecurity engineer position at Extreme Networks was posted on 2026-07-30.
+This software engineer position at Extreme Networks was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

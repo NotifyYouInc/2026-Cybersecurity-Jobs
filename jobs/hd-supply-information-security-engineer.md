@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Information-Security-Engineer_R26002394) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Information-Security-Engineer_R26003562-1) |
 
 ## About This Role
 
-This security engineer position at HD Supply was posted on 2026-05-06.
+This cybersecurity engineer position at HD Supply was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

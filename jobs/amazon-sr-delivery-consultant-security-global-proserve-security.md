@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392613/sr-delivery-consultant-security-global-proserve-security) |
+| Location | Switzerland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491286/sr-delivery-consultant-security-global-proserve-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-15.
+This cybersecurity engineer position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

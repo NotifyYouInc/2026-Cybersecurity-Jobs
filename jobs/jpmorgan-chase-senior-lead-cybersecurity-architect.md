@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728337) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775734) |
 
 ## About This Role
 
-This security engineer position at JPMorgan Chase was posted on 2026-04-01.
+This cybersecurity engineer position at JPMorgan Chase was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

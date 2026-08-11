@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warner Robins, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Information-Systems-Security-Engineer_R0244237) |
+| Location | Ohio, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Information-Systems-Security-Engineer_R0245946) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-13.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyndhurst, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000132124459-cyber-security-analyst) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000141201789-cyber-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Sika was posted on 2026-06-15.
+This soc & incident response position at Sika was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

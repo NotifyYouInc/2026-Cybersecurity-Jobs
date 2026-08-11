@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Supply-Chain-Risk-Management-Threat-Intelligence-Lead-Analyst_R-00188510) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-07-31.
+This compliance & risk management position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

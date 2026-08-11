@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Engineer--Information-Security-Fullstack-Java-ReactJs_JR-02598201) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lowe's was posted on 2026-07-31.
+This software engineer position at Lowe's was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

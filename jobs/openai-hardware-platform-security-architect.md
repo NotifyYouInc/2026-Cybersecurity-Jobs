@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openai/36e30720-0a32-4b7b-8172-e31ad0a20cdc) |
 
 ## About This Role
 
-This cybersecurity engineer position at OpenAI was posted on 2026-07-30.
+This electrical / hardware engineer position at OpenAI was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

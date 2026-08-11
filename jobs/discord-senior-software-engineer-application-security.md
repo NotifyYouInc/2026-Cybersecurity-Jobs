@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Discord](https://scoutify.ai/companies/discord?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/discord/jobs/8656854002) |
 
 ## About This Role
 
-This cybersecurity engineer position at Discord was posted on 2026-07-31.
+This software engineer position at Discord was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

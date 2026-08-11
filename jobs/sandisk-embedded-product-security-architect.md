@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Irvine, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000126298483-embedded-product-security-architect) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141409139-embedded-product-security-architect) |
 
 ## About This Role
 
-This security engineer position at SanDisk was posted on 2026-05-13.
+This cybersecurity engineer position at SanDisk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

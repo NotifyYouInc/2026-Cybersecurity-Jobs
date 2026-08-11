@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Poland |
-| Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9208) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#9209) |
 
 ## About This Role
 
-This security engineer position at Euroclear was posted on 2026-07-10.
+This cybersecurity engineer position at Euroclear was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

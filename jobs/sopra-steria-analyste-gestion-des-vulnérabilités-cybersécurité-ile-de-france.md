@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132155998-analyste-gestion-des-vulnerabilites-cybersecurite-ile-de-france) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141289123-analyste-gestion-des-vulnerabilites-cybersecurite-ile-de-france) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-15.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

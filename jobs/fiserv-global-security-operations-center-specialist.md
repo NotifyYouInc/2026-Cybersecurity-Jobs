@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Global-Security-Operations-Center-Specialist_R-10393235) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Global-Security-Operations-Center-Specialist_R-10399976) |
 
 ## About This Role
 
-This soc & incident response position at Fiserv was posted on 2026-04-21.
+This soc & incident response position at Fiserv was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

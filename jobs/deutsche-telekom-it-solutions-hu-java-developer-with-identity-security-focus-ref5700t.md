@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000140931094-java-developer-with-identity-security-focus-ref5700t) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-07-31.
+This software engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

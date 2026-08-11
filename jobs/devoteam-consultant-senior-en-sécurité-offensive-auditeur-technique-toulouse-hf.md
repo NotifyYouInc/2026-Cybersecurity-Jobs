@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138339929-consultant-senior-en-securite-offensive-auditeur-technique-toulouse-hf) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141280223-consultant-senior-en-securite-offensive-auditeur-technique-toulouse-hf) |
 
 ## About This Role
 
-This offensive security & pentesting position at Devoteam was posted on 2026-07-17.
+This cybersecurity engineer position at Devoteam was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

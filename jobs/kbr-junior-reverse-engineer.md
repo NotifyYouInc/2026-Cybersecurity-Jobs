@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Reverse-Engineer_R2127496) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Reverse-Engineer_R2127684) |
 
 ## About This Role
 
-This soc & incident response position at KBR was posted on 2026-07-29.
+This soc & incident response position at KBR was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Staff-Engineer---Network-Security_REQ2026744) |
 
 ## About This Role
 
-This cybersecurity engineer position at Earlywarning was posted on 2026-07-31.
+This software engineer position at Earlywarning was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

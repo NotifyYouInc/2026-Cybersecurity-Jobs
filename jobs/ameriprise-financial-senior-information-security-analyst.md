@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Senior-Information-Security-Analyst_R26_2297) |
+| Location | Gurugram, Haryana, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Senior-Information-Security-Analyst_R26_2941-1) |
 
 ## About This Role
 
-This security engineer position at Ameriprise Financial was posted on 2026-06-15.
+This cybersecurity engineer position at Ameriprise Financial was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
