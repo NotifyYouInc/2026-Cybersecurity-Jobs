@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Sr-Staff-Engineer_R569929) |
 
 ## About This Role
 
-This software engineer position at Stryker was posted on 2026-08-03.
+This cybersecurity engineer position at Stryker was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

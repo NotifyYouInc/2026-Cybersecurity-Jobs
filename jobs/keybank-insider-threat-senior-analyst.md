@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Insider-Threat-Senior-Analyst_R-39146) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Insider-Threat-Senior-Analyst_R-41345) |
 
 ## About This Role
 
-This security engineer position at KeyBank was posted on 2026-04-23.
+This cybersecurity engineer position at KeyBank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

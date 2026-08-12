@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mendota Heights, Minnesota, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000139137644-information-security-administrator) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000141541229-information-security-administrator) |
 
 ## About This Role
 
-This security engineer position at Dungarvin was posted on 2026-07-22.
+This cybersecurity engineer position at Dungarvin was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

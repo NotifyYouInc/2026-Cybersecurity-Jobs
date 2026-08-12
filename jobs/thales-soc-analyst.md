@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huizen, North Holland, The Netherlands |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Huizen/SOC-Analyst_R0314994) |
+| Location | Contern, Luxembourg, Luxembourg |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Contern_EXC/SOC-Analyst_R0318033) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-01-30.
+This soc & incident response position at Thales was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

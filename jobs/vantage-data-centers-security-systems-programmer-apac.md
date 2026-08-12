@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Melbourne-Australia/Security-Systems-Programmer--APAC_R24114) |
 
 ## About This Role
 
-This software engineer position at Vantage Data Centers was posted on 2026-08-04.
+This cybersecurity engineer position at Vantage Data Centers was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

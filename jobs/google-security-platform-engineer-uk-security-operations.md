@@ -1,0 +1,22 @@
+# Security Platform Engineer, UK Security Operations at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXQ3vASuwecKhZXV9DM5e_EWeBWU4QheBLMzt-oyglLLEjsA1Ny_i6_AoaSSkOcne5pLySTkCcxKwsMcImFyJZAdLVylMYnYZKw7VyDfVNqlvPyMrCw6qDbu0MbxLQ%3D%3D_V2&loc=GB&title=Security+Platform+Engineer) |
+
+## About This Role
+
+This soc & incident response position at Google was posted on 2026-08-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

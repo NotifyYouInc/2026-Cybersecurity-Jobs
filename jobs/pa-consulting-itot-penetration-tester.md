@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000107744992-itot-penetration-tester) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000141492939-itot-penetration-tester) |
 
 ## About This Role
 
-This cybersecurity engineer position at PA Consulting was posted on 2026-02-06.
+This cybersecurity engineer position at PA Consulting was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

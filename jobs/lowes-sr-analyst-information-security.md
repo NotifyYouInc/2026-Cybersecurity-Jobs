@@ -1,16 +1,16 @@
-# Sr Analyst, Information Security at Lowe's
+# Sr Analyst information security at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Sr-Analyst--Information-Security_JR-02531804) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Sr-Analyst-information-security_JR-02499662-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Lowe's was posted on 2026-06-22.
+This cybersecurity engineer position at Lowe's was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

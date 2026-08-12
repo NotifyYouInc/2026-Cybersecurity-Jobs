@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140456431-senior-manager-product-red-team) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141461369-senior-manager-product-red-team) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-07-29.
+This cybersecurity engineer position at ServiceNow was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

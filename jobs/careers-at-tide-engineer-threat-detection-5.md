@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lithuania |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7786953003) |
+| Location | United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7827432003) |
 
 ## About This Role
 
-This security engineer position at Careers at Tide was posted on 2026-06-26.
+This cybersecurity engineer position at Careers at Tide was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1988404591781708) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1543033930899022) |
 
 ## About This Role
 
-This security engineer position at Meta was posted on 2026-03-25.
+This cybersecurity engineer position at Meta was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

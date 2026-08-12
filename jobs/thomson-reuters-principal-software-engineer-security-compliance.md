@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Zug, Zug, Switzerland |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Principal-Software-Engineer--Security---Compliance_JREQ202381) |
 
 ## About This Role
 
-This software engineer position at Thomson Reuters was posted on 2026-08-03.
+This cybersecurity engineer position at Thomson Reuters was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

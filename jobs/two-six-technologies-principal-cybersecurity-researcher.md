@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Linthicum, Maryland, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6113716004) |
+| Location | Herndon, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6113754004) |
 
 ## About This Role
 
-This offensive security & pentesting position at Two Six Technologies was posted on 2026-07-13.
+This cybersecurity engineer position at Two Six Technologies was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chubb Edwards](https://scoutify.ai/companies/chubb-edwards?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Luton, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Chubb-Luton-Unit-14-Dencora-Way-Sundon-Business-Park-Luton-Beds-LU3-3HP-UK/Security-Service-Engineer_JR40004916) |
+| Location | Dudley, England, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Chubb-Birmingham-Unit-2-Castle-Court-Castlegate-Business-Park-Dudley-DY1-4RD/Security-Service-Engineer_JR40005885) |
 
 ## About This Role
 
-This security engineer position at Chubb Edwards was posted on 2026-05-07.
+This cybersecurity engineer position at Chubb Edwards was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

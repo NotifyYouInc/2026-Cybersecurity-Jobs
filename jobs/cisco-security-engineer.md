@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fulton, Missouri, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Fulton-Maryland-US/Security-Engineer_2018362) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Security-Engineer_2018619-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-07-31.
+This cybersecurity engineer position at Cisco was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

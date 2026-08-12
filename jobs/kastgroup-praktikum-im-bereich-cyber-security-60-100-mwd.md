@@ -5,12 +5,12 @@
 | Company | [KastGroup](https://scoutify.ai/companies/kastgroupgmbh?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wallisellen, Zurich, Switzerland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000140620600-praktikum-im-bereich-cyber-security-60-100-mwd) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000141553729-praktikum-im-bereich-cyber-security-60-100-mwd) |
 
 ## About This Role
 
-This cybersecurity engineer position at KastGroup was posted on 2026-07-30.
+This cybersecurity engineer position at KastGroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

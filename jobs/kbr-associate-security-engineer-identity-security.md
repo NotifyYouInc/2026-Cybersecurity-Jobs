@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Associate-Security-Engineer--Identity-Security_R2126761) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sydney-New-South-Wales-Australia/Associate-Security-Engineer--Identity-Security_R2127557) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-18.
+This cybersecurity engineer position at KBR was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

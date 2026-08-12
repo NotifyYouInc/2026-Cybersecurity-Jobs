@@ -1,16 +1,16 @@
-# AI Cyber/Security Architect at Bank of Montreal
+# AI CyberSecurity Architect at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/AI-Cyber-Security-Architect_R260019638) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-CyberSecurity-Architect_R260022913-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Bank of Montreal was posted on 2026-07-27.
+This cybersecurity engineer position at Bank of Montreal was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Saint-Priest, Rhône-Alpes, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000140849489-technicien-surete-grands-projets-hf) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000141237114-technicien-surete-grands-projets-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sogetrel was posted on 2026-07-31.
+This cybersecurity engineer position at Sogetrel was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IAM Security Engineer/full-stack developer , Officer at State Street
+# IAM Security Engineer/full-stack developer, Officer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kilkenny, Leinster, Ireland |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/IAM-Security-Engineer-full-stack-developer---Officer_R-783548) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/IAM-Security-Engineer-full-stack-developer--Officer_R-794988-1) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-04.
+This cybersecurity engineer position at State Street was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

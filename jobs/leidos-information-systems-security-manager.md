@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Information-Systems-Security-Manager_R-00186725) |
+| Location | Concord, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Concord-MA/Information-Systems-Security-Manager_R-00188233) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-06.
+This cybersecurity engineer position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

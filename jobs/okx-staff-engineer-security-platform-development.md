@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7825508003) |
 
 ## About This Role
 
-This software engineer position at OKX was posted on 2026-08-04.
+This cybersecurity engineer position at OKX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

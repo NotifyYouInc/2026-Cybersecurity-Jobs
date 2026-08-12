@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Frisco, Texas, United States |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141340279-senior-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-08-03.
+This cybersecurity engineer position at Renesas Electronics was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

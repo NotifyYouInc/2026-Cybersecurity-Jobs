@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Australian Financial Complaints Authority](https://scoutify.ai/companies/afca?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFCA/744000133733179-senior-iam-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFCA/744000141600710-senior-iam-engineer) |
 
 ## About This Role
 
-This security engineer position at Australian Financial Complaints Authority was posted on 2026-06-24.
+This cybersecurity engineer position at Australian Financial Complaints Authority was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

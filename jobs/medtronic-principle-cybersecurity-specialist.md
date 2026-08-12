@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principle-Cybersecurity-Specialist_R73298-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principle-Cybersecurity-Specialist_R73300-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Medtronic was posted on 2026-07-31.
+This cybersecurity engineer position at Medtronic was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
