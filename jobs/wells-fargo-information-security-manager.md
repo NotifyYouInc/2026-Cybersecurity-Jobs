@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141278-NC-CIC-Customer-Information-Ctr/Information-Security-Manager_R-536567-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Information-Security-Manager_R-565797-1) |
 
 ## About This Role
 
-This security engineer position at Wells Fargo was posted on 2026-04-20.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

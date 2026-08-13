@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Romania |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/66e80a0f-8508-4862-ad11-e9a3fc8641a6) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/fa73b14a-72ef-4087-95b9-a046e0461f18) |
 
 ## About This Role
 
-This soc & incident response position at Sophos was posted on 2026-06-25.
+This devops engineer position at Sophos was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

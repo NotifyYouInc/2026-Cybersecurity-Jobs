@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Data-Protection-Engineer--L10-_2601876-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Data-Protection-Engineer--L10-_2602035-1) |
 
 ## About This Role
 
-This security engineer position at Synchrony Financial was posted on 2026-07-10.
+This cybersecurity engineer position at Synchrony Financial was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

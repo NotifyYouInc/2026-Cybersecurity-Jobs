@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | California, US |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Classified-Cybersecurity-Analyst-2-3---Top-Secret_R10233435) |
+| Location | San Diego, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Classified-Cybersecurity-Analyst-2-3---Top-Secret_R10243734) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-19.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128400519-systemspezialist-it-infrastruktur-it-sicherheit-wmdiv) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141661839-systemspezialist-it-infrastruktur-it-sicherheit-wmdiv) |
 
 ## About This Role
 
-This it & systems administration position at Robert Bosch was posted on 2026-05-26.
+This it & systems administration position at Robert Bosch was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unlimit](https://scoutify.ai/companies/unlimit?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Limassol, Limassol, Cyprus |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.lever.co/unlimit/8306bdfd-a6a1-4970-b236-df87edd8a80b) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.lever.co/unlimit/c7edfe25-14ea-408a-9689-b2d3ae8f18e4) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unlimit was posted on 2026-07-28.
+This cybersecurity engineer position at Unlimit was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

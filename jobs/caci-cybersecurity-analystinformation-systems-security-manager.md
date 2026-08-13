@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/Cybersecurity-Analyst-Information-Systems-Security-Manager_327168) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/Cybersecurity-Analyst-Information-Systems-Security-Manager_330055) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-01.
+This cybersecurity engineer position at CACI was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

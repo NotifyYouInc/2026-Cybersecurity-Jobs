@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterford, Munster, Ireland |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00124911) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Senior-Red-Team-Operator_JR00126713) |
 
 ## About This Role
 
-This offensive security & pentesting position at Sun Life was posted on 2026-06-25.
+This cybersecurity engineer position at Sun Life was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

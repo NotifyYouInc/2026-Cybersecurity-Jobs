@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Information-Security-Engineer_R-281579-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Engineer_R-278352) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-06-30.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

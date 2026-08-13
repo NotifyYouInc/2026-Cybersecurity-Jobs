@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Engineer--Information-Security_JR-02591206) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Engineer--Information-Security_JR-02597849) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lowe's was posted on 2026-07-29.
+This cybersecurity engineer position at Lowe's was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

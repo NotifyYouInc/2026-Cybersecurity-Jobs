@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000141127209-head-of-security-base44) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000141653465-head-of-security-base44) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wix.com was posted on 2026-08-02.
+This cybersecurity engineer position at Wix.com was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

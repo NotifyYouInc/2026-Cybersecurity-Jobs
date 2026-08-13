@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logos Space](https://scoutify.ai/companies/logos-space?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/logos-space/1c096f68-f360-4ee4-bfc8-bbd11856a742) |
 
 ## About This Role
 
-This cybersecurity engineer position at Logos Space was posted on 2026-08-05.
+This electrical / hardware engineer position at Logos Space was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

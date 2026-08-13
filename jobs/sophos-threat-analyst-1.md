@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
+| Location | India |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/7b50cb6e-95dd-441d-9cd9-a4028cb572c4) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/487bd2b1-c44e-4949-af09-3be68f757788) |
 
 ## About This Role
 
-This soc & incident response position at Sophos was posted on 2026-02-28.
+This soc & incident response position at Sophos was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

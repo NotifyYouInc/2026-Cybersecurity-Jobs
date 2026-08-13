@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000139105579-ingenieur-detudes-en-surete-et-protection-de-site-hf) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141768700-ingenieur-detudes-en-surete-et-protection-de-site-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-07-22.
+This cybersecurity engineer position at Assystem was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

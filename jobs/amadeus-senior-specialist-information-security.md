@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Senior-Specialist---Information-Security_R36139) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Specialist---Information-Security_R35755) |
 
 ## About This Role
 
-This security engineer position at Amadeus was posted on 2026-07-03.
+This cybersecurity engineer position at Amadeus was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

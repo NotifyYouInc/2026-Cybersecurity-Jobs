@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Operations-Specialist-III---Tier-3_327310) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/St-Louis-MO-US/Cyber-Security-Operations-Specialist-III---Tier-3_330143) |
 
 ## About This Role
 
-This soc & incident response position at CACI was posted on 2026-06-03.
+This soc & incident response position at CACI was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

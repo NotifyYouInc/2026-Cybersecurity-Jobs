@@ -5,12 +5,12 @@
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Groveport, Ohio, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Groveport-OH/Event-Monitoring-Ctr-Rep-Assc_R16644) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Groveport-OH/Event-Monitoring-Ctr-Rep-Assc_R18021-1) |
 
 ## About This Role
 
-This soc & incident response position at American Electric Power was posted on 2026-07-02.
+This soc & incident response position at American Electric Power was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Sr-Systems-Engineer---IAM_REQ2026710) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Sr-Systems-Engineer---IAM_REQ2026772) |
 
 ## About This Role
 
-This security engineer position at Earlywarning was posted on 2026-07-20.
+This cybersecurity engineer position at Earlywarning was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

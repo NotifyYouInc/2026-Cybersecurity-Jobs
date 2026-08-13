@@ -5,12 +5,12 @@
 | Company | [Aberdeen](https://scoutify.ai/companies/abrdn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Security-Control-Room-Operator_R0073536) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Security-Control-Room-Operator_R0074031) |
 
 ## About This Role
 
-This soc & incident response position at Aberdeen was posted on 2026-02-17.
+This soc & incident response position at Aberdeen was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

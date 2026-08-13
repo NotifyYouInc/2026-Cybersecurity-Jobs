@@ -1,16 +1,16 @@
-# Senior security Engineer at Emburse
+# Senior Security Engineer at Emburse
 
 | Field | Details |
 |-------|---------|
 | Company | [Emburse](https://scoutify.ai/companies/emburse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/emburse/0f5ea09c-d68f-4b9c-8d30-097806bf1522) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.lever.co/emburse/4c792aea-8557-438e-bc8b-4ca6b159f54b) |
 
 ## About This Role
 
-This security engineer position at Emburse was posted on 2026-04-17.
+This cybersecurity engineer position at Emburse was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

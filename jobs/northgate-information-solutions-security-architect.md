@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000141286176-security-architect) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000141704449-security-architect) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northgate Information Solutions was posted on 2026-08-03.
+This cybersecurity engineer position at Northgate Information Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

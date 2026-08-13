@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mexico |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/IAM-Engineer_R-0152756) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/India-Bangalore---Office/Data-Security-Analyst_R-0138539) |
 
 ## About This Role
 
-This security engineer position at Levi Strauss & Co. was posted on 2026-06-09.
+This cybersecurity engineer position at Levi Strauss & Co. was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

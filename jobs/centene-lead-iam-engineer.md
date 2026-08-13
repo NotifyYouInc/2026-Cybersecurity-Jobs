@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Missouri, US |
-| Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Lead-IAM-Engineer_1643216) |
+| Location | Florida, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Lead-IAM-Engineer_1648317) |
 
 ## About This Role
 
-This security engineer position at Centene was posted on 2026-07-07.
+This cybersecurity engineer position at Centene was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
