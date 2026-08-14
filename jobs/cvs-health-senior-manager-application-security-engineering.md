@@ -1,16 +1,16 @@
-# Senior Manager - Application Security Engineering at CVS Health
+# Senior Manager Application Security Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Texas, US |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Manager---Application-Security-Engineering_R0962923) |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Manager-Application-Security-Engineering_R0962993) |
 
 ## About This Role
 
-This security engineer position at CVS Health was posted on 2026-07-09.
+This cybersecurity engineer position at CVS Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bay, Arkansas, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/8439d28a-914f-4dc1-8579-05af0ad72d32) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/8eb32064-6884-441f-a573-ea482d4c0e81) |
 
 ## About This Role
 
-This security engineer position at Snowflake was posted on 2026-07-15.
+This cybersecurity engineer position at Snowflake was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

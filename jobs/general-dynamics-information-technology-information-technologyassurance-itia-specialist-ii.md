@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Technology-Assurance--IT-IA--Specialist-II_RQ221568-2) |
+| Location | Marysville, Washington, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Marysville/Information-Technology-Assurance--IT-IA--Specialist-II_RQ225916-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-06-05.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hawaii, US |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/COMSEC-Specialist_R-00184545) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/COMSEC-Specialist_R-00188662-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-02.
+This cybersecurity engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

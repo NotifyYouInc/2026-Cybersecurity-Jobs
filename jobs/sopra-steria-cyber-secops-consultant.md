@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Leudelange, Esch-sur-Alzette, Luxembourg |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123218840-cyber-secops-consultant) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141879685-cyber-secops-consultant) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-04-27.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

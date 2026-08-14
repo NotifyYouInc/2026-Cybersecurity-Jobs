@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | London, England, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5167325007) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5205752007) |
 
 ## About This Role
 
-This soc & incident response position at CHAOS Industries was posted on 2026-06-17.
+This soc & incident response position at CHAOS Industries was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

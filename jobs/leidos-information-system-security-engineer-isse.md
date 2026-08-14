@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bay Saint Louis, Mississippi, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bay-Saint-Louis-MS/Information-System-Security-Engineer--ISSE--_R-00184494) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bay-Saint-Louis-MS/Information-System-Security-Engineer--ISSE--_R-00188831) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-04.
+This cybersecurity engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

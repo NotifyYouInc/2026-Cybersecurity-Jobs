@@ -1,16 +1,16 @@
-# SITE SECURITY MANAGER at Thales
+# Site Security Manager at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Italy |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Torino/SITE-SECURITY-MANAGER_R0318672) |
+| Location | Tczew, Pomerania, Poland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/TCZEW/Site-Security-Manager_R0336758-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-05-19.
+This cybersecurity engineer position at Thales was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

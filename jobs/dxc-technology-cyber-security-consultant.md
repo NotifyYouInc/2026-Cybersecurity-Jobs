@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/Cyber-Security-Consultant_51585256) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/Cyber-Security-Consultant_51586432) |
 
 ## About This Role
 
-This technology / it consulting position at DXC Technology was posted on 2026-07-16.
+This cybersecurity engineer position at DXC Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

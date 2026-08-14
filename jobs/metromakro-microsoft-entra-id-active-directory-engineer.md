@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000129736894-microsoft-entra-id-active-directory-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000141915431-microsoft-entra-id-active-directory-engineer) |
 
 ## About This Role
 
-This it & systems administration position at METRO/MAKRO was posted on 2026-06-02.
+This it & systems administration position at METRO/MAKRO was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

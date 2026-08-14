@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114033854-offensive-security-specialist) |
+| Location | Leeds, England, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000141951476-offensive-security-specialist) |
 
 ## About This Role
 
-This offensive security & pentesting position at Entain was posted on 2026-03-11.
+This cybersecurity engineer position at Entain was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

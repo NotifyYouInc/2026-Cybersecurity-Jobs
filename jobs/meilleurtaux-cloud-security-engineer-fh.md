@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000136027090-cloud-security-engineer-fh) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000141913120-cloud-security-engineer-fh) |
 
 ## About This Role
 
-This security engineer position at Meilleurtaux was posted on 2026-07-06.
+This cybersecurity engineer position at Meilleurtaux was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

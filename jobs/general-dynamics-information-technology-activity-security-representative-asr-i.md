@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Albuquerque, New Mexico, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Activity-Security-Representative--ASR--I_RQ225324-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Activity-Security-Representative--ASR--I_RQ225965-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-07-30.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

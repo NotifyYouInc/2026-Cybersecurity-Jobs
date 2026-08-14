@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Regional-Security-Services-Specialist_JR6571) |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Regional-Security-Services-Specialist_JR7025-1) |
 
 ## About This Role
 
-This security engineer position at Capital Group was posted on 2026-05-05.
+This cybersecurity engineer position at Capital Group was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

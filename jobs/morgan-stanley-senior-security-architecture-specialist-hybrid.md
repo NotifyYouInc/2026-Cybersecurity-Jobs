@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Senior-Security-Architecture-Specialist--Hybrid-_PT-JR035241) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Senior-Security-Architecture-Specialist--Hybrid-_PT-JR041888) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-05-05.
+This cybersecurity engineer position at Morgan Stanley was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

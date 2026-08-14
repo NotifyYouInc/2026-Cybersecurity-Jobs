@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cyber-Security-Engineer_R104857) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cyber-Security-Engineer_R104109) |
 
 ## About This Role
 
-This cybersecurity engineer position at Regions Bank was posted on 2026-08-04.
+This cybersecurity engineer position at Regions Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

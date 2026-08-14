@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Security-Consulting-Engineer_2018099) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Security-Consulting-Engineer_2018942) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-30.
+This cybersecurity engineer position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

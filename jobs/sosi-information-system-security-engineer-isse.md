@@ -1,0 +1,22 @@
+# Information System Security Engineer (ISSE) at SOSi
+
+| Field | Details |
+|-------|---------|
+| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hawaii, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014472676-information-system-security-engineer-isse) |
+
+## About This Role
+
+This cybersecurity engineer position at SOSi was posted on 2026-08-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Senior-DevSecOps-Engineer_R-00180846) |
+| Location | Huntsville, Alabama, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-DevSecOps-Engineer_R-00188939-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-14.
+This devops engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
