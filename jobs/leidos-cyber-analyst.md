@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Lawton, Oklahoma, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Analyst_R-00186573) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Cyber-Analyst_R-00189031) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-07-01.
+This soc & incident response position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

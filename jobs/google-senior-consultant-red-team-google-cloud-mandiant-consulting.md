@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQT_O9wxJe6zEG0r2V38DUR7pgo5GFSnQDvAuE9PpeZ8EjsACxwdTNyvDukQo82wTVbrSEEPHVVytQ8Ty08vrojaM7mx5cWwezIgfC3R8JD4Jah4Imfzqk6XPTvJYw%3D%3D_V2&loc=AE&title=Senior+Consultant) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaIb_bQLimt9sL-o1kDOZY8wdVhyyzMDbVr7aqTKhxaREjsA1Ny_iwpCSmjwafLF4Cs7jNU2PrsnTLvX9WG5yqqSxmPVHu0JzupgovA36stPNMvQJG7K1Lw4Isg2VA%3D%3D_V2&loc=AE&title=Senior+Consultant) |
 
 ## About This Role
 
-This offensive security & pentesting position at Google was posted on 2026-04-23.
+This cybersecurity engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

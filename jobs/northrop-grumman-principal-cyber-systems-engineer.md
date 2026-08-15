@@ -1,16 +1,16 @@
-# Principal Cyber Systems Engineer at Northrop Grumman
+# Principal / Cyber Systems Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Cyber-Systems-Engineer_R10238220) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Principal---Cyber-Systems-Engineer_R10244204) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-07-28.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

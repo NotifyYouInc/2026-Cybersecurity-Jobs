@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000125802190-specialist-security-advisor) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000142134829-specialist-security-advisor) |
 
 ## About This Role
 
-This security engineer position at Turner & Townsend was posted on 2026-05-11.
+This cybersecurity engineer position at Turner & Townsend was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

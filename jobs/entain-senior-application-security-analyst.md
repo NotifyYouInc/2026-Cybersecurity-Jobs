@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000138906750-senior-application-security-analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000142076269-senior-application-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Entain was posted on 2026-07-21.
+This cybersecurity engineer position at Entain was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

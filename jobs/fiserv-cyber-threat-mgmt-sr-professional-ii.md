@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Cyber-Threat-Mgmt---Sr-Professional-II_R-10398820) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Cyber-Threat-Mgmt---Sr-Professional-II_R-10398818) |
 
 ## About This Role
 
-This soc & incident response position at Fiserv was posted on 2026-07-20.
+This soc & incident response position at Fiserv was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

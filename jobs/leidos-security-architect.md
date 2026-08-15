@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bethesda, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Security-Architect_R-00186023) |
+| Location | Reston, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Security-Architect_R-00189037) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-24.
+This cybersecurity engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

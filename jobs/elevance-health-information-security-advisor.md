@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor_JR197282) |
+| Location | 6 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor_JR200821) |
 
 ## About This Role
 
-This security engineer position at Elevance Health was posted on 2026-06-26.
+This cybersecurity engineer position at Elevance Health was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Odenton, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst_R-00187000) |
+| Location | Keyport, New Jersey, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Keyport-WA/Cybersecurity-Analyst_R-00189026) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-09.
+This cybersecurity engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

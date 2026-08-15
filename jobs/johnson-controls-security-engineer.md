@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jakarta-Jakarta-Raya-Indonesia/Security-Engineer_WD30266305) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Jakarta-Jakarta-Raya-Indonesia/Security-Engineer_WD30274834) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-09.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

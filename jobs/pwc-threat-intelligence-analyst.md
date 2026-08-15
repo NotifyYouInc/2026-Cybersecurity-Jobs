@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/Threat-Intelligence-Analyst_705652WD) |
+| Location | Prague, Prague, Czechia |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Prague/Threat-Intelligence-Analyst_751000WD) |
 
 ## About This Role
 
-This cybersecurity engineer position at PwC was posted on 2026-02-12.
+This soc & incident response position at PwC was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

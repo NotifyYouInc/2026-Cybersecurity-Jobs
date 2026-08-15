@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/5554-Springfield-VA/UAM-Everfox-Tool-Engineer_R-00188723) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/5554-Springfield-VA/UAM-Everfox-Tool-Engineer_R-00189121) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-04.
+This cybersecurity engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

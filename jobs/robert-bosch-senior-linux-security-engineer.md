@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130155938-senior-linux-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142106439-senior-linux-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-06-04.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

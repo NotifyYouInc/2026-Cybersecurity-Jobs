@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Security-Specialist_HR102301) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Security-Specialist_HR102338) |
 
 ## About This Role
 
-This security engineer position at Radiance Technologies was posted on 2026-07-16.
+This cybersecurity engineer position at Radiance Technologies was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Nong Yai, Chon Buri, Thailand |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS7a7QL88uRJWaIJ5Ve8kMwhOQexi231nLqmAAC2Y5m4EjsA1Ny_i-oNuCzwLNuU4X3qFh7lbQzimxLQlRY1753Y03L8pBk1ZKwcVzb_x9Z7mUNe-GbwdnPaF2OOcw%3D%3D_V2&loc=TH&title=Data+Center+Security+Manager) |
+| Location | Chon Buri, Chon Buri, Thailand |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRO02EnDfZp7xP7LH9n9vudTy-UEdChkwiEh-QWn3RyNEjsA1Ny_i2VnzQ-PE1tV7MWU0x0UCTQMVyepiPpkk-bn4XYOOwyc-ZI-tM6otCA6ECia1bhJTZRnhMD1OQ%3D%3D_V2&loc=TH&title=Data+Center+Security+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-24.
+This cybersecurity engineer position at Google was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

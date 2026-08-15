@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NexHealth](https://scoutify.ai/companies/nexhealth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.nexhealth.com/careers/open-positions?gh_jid=5997108004) |
+| Location | San Francisco, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.nexhealth.com/careers/open-positions?gh_jid=6139361004) |
 
 ## About This Role
 
-This security engineer position at NexHealth was posted on 2026-05-15.
+This cybersecurity engineer position at NexHealth was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
