@@ -1,16 +1,16 @@
-# Senior Staff Security Engineer, Ripple Treasury at Ripple
+# TS Security Engineer(資安合規顧問/工程師） at UL Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Company | [UL Solutions](https://scoutify.ai/companies/ocs-cx-oj109581?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Taiwan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7997246?gh_jid=7997246) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10395) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ripple was posted on 2026-08-08.
+This cybersecurity engineer position at UL Solutions was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 
