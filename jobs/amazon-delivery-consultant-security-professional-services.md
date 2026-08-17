@@ -1,16 +1,16 @@
-# security Engineer at Ensigninfosecurity
+# Delivery Consultant, Security, Professional Services at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Malaysia |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Kuala-Lumpur/security-Engineer_JOBREQ-0003573) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496540/delivery-consultant-security-professional-services) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-08-10.
+This cybersecurity engineer position at Amazon was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

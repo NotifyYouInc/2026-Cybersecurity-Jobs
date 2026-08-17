@@ -1,16 +1,16 @@
-# Security Manager at Leidos
+# Solution Owner MS Defender at Nokia
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Security-Manager_R-00189096) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#38871) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-07.
+This cybersecurity engineer position at Nokia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

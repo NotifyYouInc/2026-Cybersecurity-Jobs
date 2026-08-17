@@ -1,16 +1,16 @@
-# Cyber Network Defense Analyst at Leidos
+# Incident Manager at Nextiva
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Camp Springs, Maryland, United States |
+| Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Cyber-Network-Defense-Analyst_R-00188843-1) |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8675294002) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-08-10.
+This soc & incident response position at Nextiva was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

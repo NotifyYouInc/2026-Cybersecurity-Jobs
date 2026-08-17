@@ -1,16 +1,16 @@
-# Cyber Network Defense Analyst at Leidos
+# Tier1 Security Analyst (계약직 - 선임/후임분석가) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Camp Springs, Maryland, United States |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | SOC & Incident Response |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Cyber-Network-Defense-Analyst_R-00188843-1) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8108131) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-08-10.
+This soc & incident response position at Coupang was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

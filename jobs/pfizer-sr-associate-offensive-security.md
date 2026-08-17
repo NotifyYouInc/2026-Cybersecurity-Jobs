@@ -1,16 +1,16 @@
-# Manager, Threat Remediation at Pfizer
+# Sr. Associate, Offensive Security at Pfizer
 
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Manager--Threat-Remediation_4961476-2) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Associate--Offensive-Security_4961475-2) |
 
 ## About This Role
 
-This soc & incident response position at Pfizer was posted on 2026-08-10.
+This cybersecurity engineer position at Pfizer was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000134947390-identity-and-access-management-engineer-12-months-fixed-term) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000142558809-identity-and-access-management-engineer-12-months-fixed-term) |
 
 ## About This Role
 
-This security engineer position at Avaloq was posted on 2026-06-30.
+This cybersecurity engineer position at Avaloq was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

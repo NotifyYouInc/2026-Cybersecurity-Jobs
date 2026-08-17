@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Happyrobot Inc.](https://scoutify.ai/companies/happyrobot-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | SOC & Incident Response |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/happyrobot.ai/76592a14-99a0-43ca-8049-f67be5086aa3) |
 
 ## About This Role
 
-This soc & incident response position at Happyrobot Inc. was posted on 2026-08-06.
+This semiconductor / chip design position at Happyrobot Inc. was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

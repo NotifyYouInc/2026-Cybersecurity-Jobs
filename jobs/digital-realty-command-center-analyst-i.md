@@ -1,16 +1,16 @@
-# Cyber Network Defense Analyst at Leidos
+# Command Center Analyst I at Digital Realty
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Camp Springs, Maryland, United States |
+| Company | [Digital Realty](https://scoutify.ai/companies/us2-cx-oj30015?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Singapore, Singapore |
 | Category | SOC & Incident Response |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Cyber-Network-Defense-Analyst_R-00188843-1) |
+| Apply | [View on company site](https://hdep.fa.us2.oraclecloud.com/jobs/#8483) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-08-10.
+This soc & incident response position at Digital Realty was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

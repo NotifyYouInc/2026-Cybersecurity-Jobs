@@ -1,16 +1,16 @@
-# Security Manager at Leidos
+# Sr IT Security Analyst- ITDR&IAM at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Security-Manager_R-00189096) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142563019-sr-it-security-analyst-itdriam) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-07.
+This cybersecurity engineer position at Mattel was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

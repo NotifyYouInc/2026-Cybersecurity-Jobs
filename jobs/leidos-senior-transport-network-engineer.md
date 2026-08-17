@@ -1,16 +1,16 @@
-# Cyber Network Defense Analyst at Leidos
+# Senior Transport Network Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Camp Springs, Maryland, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Cyber-Network-Defense-Analyst_R-00188843-1) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Senior-Transport-Network-Engineer_R-00188601-1) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-08-10.
+This cybersecurity engineer position at Leidos was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 
