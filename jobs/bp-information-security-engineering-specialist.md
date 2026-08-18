@@ -1,16 +1,16 @@
-# Information security engineering specialist at BP
+# Information Security Engineering Specialist at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Information-security-engineering-specialist_RQ102703-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Information-Security-Engineering-Specialist_RQ114251-1) |
 
 ## About This Role
 
-This security engineer position at BP was posted on 2026-05-22.
+This cybersecurity engineer position at BP was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

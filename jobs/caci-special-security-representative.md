@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Germany |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/International---Germany/Special-Security-Representative_327017) |
+| Location | Tampa, Florida, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Special-Security-Representative_330343) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-05-29.
+This cybersecurity engineer position at CACI was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

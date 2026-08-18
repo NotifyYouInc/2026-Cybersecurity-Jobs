@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Consulting-Practitioner_ATCI-5351809-S1953174-1) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Security-Consulting-Practitioner_14608659-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-15.
+This cybersecurity engineer position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

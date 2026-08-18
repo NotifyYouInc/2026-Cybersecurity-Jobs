@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Magna, Utah, United States |
+| Location | California, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Classified-Cybersecurity-Analyst---Top-Secret_R10243819) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Classified-Cybersecurity-Analyst---Top-Secret_R10244248) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-04.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

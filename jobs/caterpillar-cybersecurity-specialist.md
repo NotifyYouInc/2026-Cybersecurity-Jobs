@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Peterborough, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Cybersecurity-Specialist_R0000364709) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Cybersecurity-Specialist_R0000379034) |
 
 ## About This Role
 
-This security engineer position at Caterpillar was posted on 2026-04-23.
+This cybersecurity engineer position at Caterpillar was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

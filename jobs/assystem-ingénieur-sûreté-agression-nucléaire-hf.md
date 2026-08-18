@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
-| Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000135735949-ingenieur-surete-agression-nucleaire-hf) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000142600314-ingenieur-surete-agression-nucleaire-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-07-03.
+This cybersecurity engineer position at Assystem was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

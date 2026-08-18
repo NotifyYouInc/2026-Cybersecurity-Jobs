@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Security-Engineer_R0244242) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cloud-Security-Engineer_R0246518) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-13.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

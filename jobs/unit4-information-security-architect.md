@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000141434014-information-security-architect) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000142619709-information-security-architect) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unit4 was posted on 2026-08-04.
+This cybersecurity engineer position at Unit4 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

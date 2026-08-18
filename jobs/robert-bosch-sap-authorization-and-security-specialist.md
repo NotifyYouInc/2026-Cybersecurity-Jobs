@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141887935-sap-authorization-and-security-specialist) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142677599-sap-authorization-and-security-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-08-06.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

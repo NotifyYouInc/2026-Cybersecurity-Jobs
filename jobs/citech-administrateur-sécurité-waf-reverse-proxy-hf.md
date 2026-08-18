@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000141722239-administrateur-securite-waf-reverse-proxy-hf) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000142616409-administrateur-securite-waf-reverse-proxy-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at CITECH was posted on 2026-08-05.
+This cybersecurity engineer position at CITECH was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

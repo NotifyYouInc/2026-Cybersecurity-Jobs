@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cape Canaveral, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8641915002?gh_jid=8641915002) |
+| Location | Memphis, Tennessee, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8694471002?gh_jid=8694471002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-07-20.
+This cybersecurity engineer position at SpaceX was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

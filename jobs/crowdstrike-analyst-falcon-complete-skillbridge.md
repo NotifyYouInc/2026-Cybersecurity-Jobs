@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---St-Louis-MO/Analyst--Falcon-Complete---SkillBridge_R29463) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---St-Louis-MO/Analyst--Falcon-Complete---SkillBridge_R29534) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-07-23.
+This soc & incident response position at CrowdStrike was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

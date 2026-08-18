@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Mclean-Virginia/Network-Provisioning-Engineer---Expert--Government-_R-109587) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Mclean-Virginia/Network-Provisioning-Engineer---Expert--Government-_R-119129) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-05-11.
+This cybersecurity engineer position at AT&T was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

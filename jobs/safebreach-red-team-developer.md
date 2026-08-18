@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SafeBreach](https://scoutify.ai/companies/safebreach?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/safebreach/jobs/4295416009) |
+| Location | Israel |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/safebreach/jobs/4361353009) |
 
 ## About This Role
 
-This offensive security & pentesting position at SafeBreach was posted on 2026-06-24.
+This cybersecurity engineer position at SafeBreach was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/India-Remote/Cybersecurity-Engineer_R17699-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/India-Remote/Cybersecurity-Engineer_R17995-1) |
 
 ## About This Role
 
-This security engineer position at Clarioclinical was posted on 2026-06-23.
+This cybersecurity engineer position at Clarioclinical was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

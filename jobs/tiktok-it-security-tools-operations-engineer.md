@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Jose, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7670846725481777461/detail) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7670835209797650693/detail) |
 
 ## About This Role
 
-This cybersecurity engineer position at TikTok was posted on 2026-08-06.
+This cybersecurity engineer position at TikTok was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
