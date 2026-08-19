@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Link Solutions](https://scoutify.ai/companies/linksolutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000138108324-information-security-specialists-intermediatesenior) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000142876779-information-security-specialists-intermediatesenior) |
 
 ## About This Role
 
-This security engineer position at Link Solutions was posted on 2026-07-16.
+This cybersecurity engineer position at Link Solutions was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Security-Support-Analyst_R0037867) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Security-Support-Analyst_R0038041) |
 
 ## About This Role
 
-This cybersecurity engineer position at HUB International was posted on 2026-07-31.
+This cybersecurity engineer position at HUB International was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

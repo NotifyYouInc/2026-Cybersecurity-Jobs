@@ -1,16 +1,16 @@
-# Sr. Principal Industrial Security Analyst at Northrop Grumman
+# Sr Principal Industrial Security Analyst at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Industrial-Security-Analyst_R10236235-1) |
+| Location | Baltimore, Maryland, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Industrial-Security-Analyst_R10244775) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-06-12.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

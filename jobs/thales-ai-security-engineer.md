@@ -1,16 +1,16 @@
-# AI Security Engineer at Thales
+# AI security Engineer at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Contern, Luxembourg, Luxembourg |
-| Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Contern_EXC/AI-Security-Engineer_R0327633) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/AI-security-Engineer_R0336035-2) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-05-12.
+This ai / llm engineer position at Thales was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

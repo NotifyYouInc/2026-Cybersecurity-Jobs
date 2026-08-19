@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colombia |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5066878008&gh_jid=5066878008) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://plata.careers/vacancy/details?id=5108123008&gh_jid=5108123008) |
 
 ## About This Role
 
-This security engineer position at Plata Card was posted on 2026-04-15.
+This cybersecurity engineer position at Plata Card was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

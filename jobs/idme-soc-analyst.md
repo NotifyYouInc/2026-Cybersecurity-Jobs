@@ -1,16 +1,16 @@
-# SOC Analyst  at ID.me
+# SOC Analyst at ID.me
 
 | Field | Details |
 |-------|---------|
 | Company | [ID.me](https://scoutify.ai/companies/idme?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7808011003) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7810239003) |
 
 ## About This Role
 
-This soc & incident response position at ID.me was posted on 2026-07-20.
+This soc & incident response position at ID.me was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

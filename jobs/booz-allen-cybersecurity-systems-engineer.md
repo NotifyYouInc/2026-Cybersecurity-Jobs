@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Diego, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cybersecurity-Systems-Engineer_R0237801) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cybersecurity-Systems-Engineer_R0246523) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-14.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

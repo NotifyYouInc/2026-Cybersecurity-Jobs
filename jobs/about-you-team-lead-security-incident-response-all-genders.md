@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | SOC & Incident Response |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000141935384-team-lead-security-incident-response-all-genders) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000142817999-team-lead-security-incident-response-all-genders) |
 
 ## About This Role
 
-This soc & incident response position at About You was posted on 2026-08-06.
+This soc & incident response position at About You was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

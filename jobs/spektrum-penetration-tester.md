@@ -1,16 +1,16 @@
-# Penetration Tester at Spektrum
+# Penetration Tester  at Spektrum
 
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Braine-l'Alleud, Wallonia, Belgium |
+| Location | The Hague, South Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4938553101) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4950862101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Spektrum was posted on 2026-07-27.
+This cybersecurity engineer position at Spektrum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

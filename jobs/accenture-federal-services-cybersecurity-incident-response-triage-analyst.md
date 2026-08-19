@@ -5,12 +5,12 @@
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4671028006?gh_jid=4671028006) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4704329006?gh_jid=4704329006) |
 
 ## About This Role
 
-This soc & incident response position at Accenture Federal Services was posted on 2026-04-28.
+This soc & incident response position at Accenture Federal Services was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Offensive Security Consultant, Google Cloud , Mandiant Consulting at Google
+# Offensive Security Consultant, Google Cloud, Mandiant Consulting at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckecDg_bFLf-YIBXBVfwx3xwM7Cq9EZZOvwbh9dDMaK3rEjsA1Ny_i1fDIlMWAWqDGO1MoSmJW5HfKBlblrtuRquxhQiervVCGbRIMCuNVZ3Jwp9OD-uUZGDleZazpg%3D%3D_V2&loc=SG&title=Offensive+Security+Consultant) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaL4TG4_ufbSE518LzPe6Jh3uLaObcGBg1WejpI1CCIhEjsA1Ny_i7DdcDu8SWVQajwqR0XL2YlWqa3xlYZ8fCzU0febaZijjOVkyiGZFMqP9rJ8rgGgTWwksEL1Pw%3D%3D_V2&loc=JP&title=Offensive+Security+Consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-07-30.
+This cybersecurity engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

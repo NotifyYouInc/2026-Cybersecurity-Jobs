@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Sr-AI-Security-Engineer_R-050384) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Sr-AI-Security-Engineer_R-052507-1) |
 
 ## About This Role
 
-This security engineer position at LPL Financial Holdings was posted on 2026-05-07.
+This cybersecurity engineer position at LPL Financial Holdings was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

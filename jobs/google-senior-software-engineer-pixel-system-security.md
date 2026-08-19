@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd6A8R1qS-YvR4Z8YR8SPJ24IBL0kBXEc3LYQELUmW5CEjsA1Ny_i9lNvRFSnlP3a0zO2rlbru1VOmT6sjMNDFvUxlQWhq1NSoJOXEeOF_ifXJB09UxC3VgtY1Pxzw%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke4EiKjQqLOwnXE-DkdfVY8g8k-9Z7nxED_DXkOXYhIDEjsA1Ny_i2fYjAOQ-coSlhySCzN0FrmNB3GGLOCR1H2tnW-h5mbgcuWtkM50FGfCh1U8MjA0KoKYgcGRag%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-10.
+This cybersecurity engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

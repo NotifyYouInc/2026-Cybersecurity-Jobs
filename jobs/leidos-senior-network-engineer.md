@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Orlando, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Senior-Network-Engineer_R-00188317) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Senior-Network-Engineer_R-00189350-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-07-29.
+This cybersecurity engineer position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Security Engineer at Medtronic
+# Principal Product Security  Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Galway, Connacht, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Principal-Product-Security-Engineer_R70875-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Product-Security--Engineer_R74238-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-07-13.
+This cybersecurity engineer position at Medtronic was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

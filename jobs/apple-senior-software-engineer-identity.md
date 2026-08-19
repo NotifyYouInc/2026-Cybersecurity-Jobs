@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200654515/senior-software-engineer-identity) |
+| Location | Cupertino, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676530/senior-software-engineer-identity) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-06-02.
+This cybersecurity engineer position at Apple was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

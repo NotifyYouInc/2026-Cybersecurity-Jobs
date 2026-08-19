@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Prague, Prague, Czechia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Sr-Specialist-Network-Security-Engineering_REQ-10085150) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Prague/Sr-Specialist-Network-Security-Engineering_REQ-10085355) |
 
 ## About This Role
 
-This cybersecurity engineer position at Novartis was posted on 2026-08-06.
+This cybersecurity engineer position at Novartis was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

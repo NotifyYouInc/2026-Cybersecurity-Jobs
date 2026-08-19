@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Lead--Identity---Access-Management_R-123505-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Lead--Identity---Access-Management_R-124735-1) |
 
 ## About This Role
 
-This security engineer position at Prudential Financial was posted on 2026-02-18.
+This cybersecurity engineer position at Prudential Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

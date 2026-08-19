@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Bossier City, Louisiana, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Cybersecurity-Engineer_RQ225549) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Cybersecurity-Engineer_RQ225768-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-07.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

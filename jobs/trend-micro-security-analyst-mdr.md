@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Irving, Texas, United States |
-| Category | SOC & Incident Response |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Security-Analyst---MDR_R0010067) |
 
 ## About This Role
 
-This soc & incident response position at Trend Micro was posted on 2026-08-08.
+This sales development (sdr / bdr) position at Trend Micro was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

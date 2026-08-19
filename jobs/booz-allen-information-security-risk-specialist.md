@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Illinois, US |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Scott-AFB-IL/Information-Security-Risk-Specialist_R0245659) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Information-Security-Risk-Specialist_R0246595) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-07-30.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

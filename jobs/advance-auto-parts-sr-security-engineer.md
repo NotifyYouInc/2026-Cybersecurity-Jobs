@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Advance Auto Parts](https://scoutify.ai/companies/advanceauto?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Hyderabad-India/Sr-Security-Engineer_R-0581045) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Hyderabad-India/Sr-Security-Engineer_R-0602486) |
 
 ## About This Role
 
-This security engineer position at Advance Auto Parts was posted on 2026-04-09.
+This cybersecurity engineer position at Advance Auto Parts was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

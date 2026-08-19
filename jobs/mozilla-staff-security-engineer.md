@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/7269358) |
+| Location | Germany |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8122100) |
 
 ## About This Role
 
-This security engineer position at Mozilla was posted on 2026-04-07.
+This cybersecurity engineer position at Mozilla was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

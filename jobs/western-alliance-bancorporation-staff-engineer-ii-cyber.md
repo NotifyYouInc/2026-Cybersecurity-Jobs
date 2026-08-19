@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Staff-Engineer-II---Cyber_R12412-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Staff-Engineer-II---Cyber_R13577) |
 
 ## About This Role
 
-This software engineer position at Western Alliance Bancorporation was posted on 2026-02-03.
+This cybersecurity engineer position at Western Alliance Bancorporation was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Saudi Arabia |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152778) |
+| Location | Bengaluru, Karnataka, India |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155179) |
 
 ## About This Role
 
-This cybersecurity engineer position at Honeywell was posted on 2026-07-29.
+This soc & incident response position at Honeywell was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

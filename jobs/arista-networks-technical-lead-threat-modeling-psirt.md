@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000142153544-technical-lead-threat-modeling-psirt) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000142917264-technical-lead-threat-modeling-psirt) |
 
 ## About This Role
 
-This cybersecurity engineer position at Arista Networks was posted on 2026-08-07.
+This cybersecurity engineer position at Arista Networks was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

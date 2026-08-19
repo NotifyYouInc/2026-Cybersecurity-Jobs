@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Cyber-Security-Engineer_R0112151) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/IT-OT-Engineer_R0113825-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Hitachi was posted on 2026-02-05.
+This cybersecurity engineer position at Hitachi was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

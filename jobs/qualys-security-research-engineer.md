@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Security-Research-Engineer_R0004442-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Security-Research-Engineer_R0004967) |
 
 ## About This Role
 
-This security engineer position at Qualys was posted on 2026-02-17.
+This cybersecurity engineer position at Qualys was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
