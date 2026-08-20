@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Threat-Detection---Response-Senior-Specialist_REQ-10076479-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Threat-Detection---Response-Senior-Specialist_REQ-10085544-1) |
 
 ## About This Role
 
-This soc & incident response position at Novartis was posted on 2026-05-13.
+This cybersecurity engineer position at Novartis was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

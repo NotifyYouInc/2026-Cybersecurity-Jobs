@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Captivation Software](https://scoutify.ai/companies/captivation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/captivation/jobs/5385198008) |
 
 ## About This Role
 
-This it & systems administration position at Captivation Software was posted on 2026-08-10.
+This cybersecurity engineer position at Captivation Software was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

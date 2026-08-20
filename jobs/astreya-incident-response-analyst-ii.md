@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Austin-TX/Incident-Response-Analyst-II_R0016196) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Dublin-Ireland/Incident-Response-Analyst-II_R0016271) |
 
 ## About This Role
 
-This soc & incident response position at Astreya was posted on 2026-07-18.
+This cybersecurity engineer position at Astreya was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

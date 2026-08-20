@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | O'Fallon, Missouri, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Engineer_R-278352) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Information-Security-Engineer_R-280911-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mastercard was posted on 2026-08-05.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

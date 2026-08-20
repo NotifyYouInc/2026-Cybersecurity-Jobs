@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Information-Systems-Security-Engineer--ISSE-I---Government-_R-118785-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Information-Systems-Security-Engineer--ISSE-I---Government-_R-119256) |
 
 ## About This Role
 
-This cybersecurity engineer position at AT&T was posted on 2026-08-07.
+This cybersecurity engineer position at AT&T was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

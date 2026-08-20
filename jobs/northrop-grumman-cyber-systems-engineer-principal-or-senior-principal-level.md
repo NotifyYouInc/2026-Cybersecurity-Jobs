@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cyber-Systems-Engineer--Principal-or-Senior-Principal-Level-_R10232015) |
+| Location | Melbourne, Florida, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Cyber-Systems-Engineer--Principal-or-Senior-Principal-Level-_R10245370) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-20.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

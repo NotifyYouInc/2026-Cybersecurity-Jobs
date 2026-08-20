@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Maryland-Baltimore/Cleared-Cyber-Security-Engineer_JR0037622) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Maryland-Baltimore/Cleared-Cyber-Security-Engineer_JR0037623) |
 
 ## About This Role
 
-This security engineer position at Trellix was posted on 2026-06-05.
+This cybersecurity engineer position at Trellix was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

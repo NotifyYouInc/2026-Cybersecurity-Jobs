@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000136915309-offensive-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000143139198-offensive-security-engineer) |
 
 ## About This Role
 
-This offensive security & pentesting position at Applaudo Studios was posted on 2026-07-10.
+This cybersecurity engineer position at Applaudo Studios was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

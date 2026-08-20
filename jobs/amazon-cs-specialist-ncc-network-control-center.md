@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | China |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10498100/cs-specialist-ncc-network-control-center) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-08-11.
+This cybersecurity engineer position at Amazon was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

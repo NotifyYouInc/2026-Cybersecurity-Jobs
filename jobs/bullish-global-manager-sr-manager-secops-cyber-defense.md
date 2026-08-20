@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/New-York/Manager---Sr-Manager--SecOps---Cyber-Defense_JR2001269) |
 
 ## About This Role
 
-This soc & incident response position at Bullish Global was posted on 2026-08-11.
+This cybersecurity engineer position at Bullish Global was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

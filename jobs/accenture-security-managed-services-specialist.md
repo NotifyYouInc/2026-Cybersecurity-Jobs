@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Specialist_14573991) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Delivery-Associate-Manager_13825607-1) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-07-15.
+This cybersecurity engineer position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

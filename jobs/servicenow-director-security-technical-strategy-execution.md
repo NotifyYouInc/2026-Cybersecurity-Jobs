@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pleasanton, California, United States |
-| Category | Strategy & Operations |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142946487-director-security-technical-strategy-execution) |
 
 ## About This Role
 
-This strategy & operations position at ServiceNow was posted on 2026-08-11.
+This cybersecurity engineer position at ServiceNow was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

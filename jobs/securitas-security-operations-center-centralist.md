@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Winschoten, Groningen, The Netherlands |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000140169059-security-operations-center-centralist) |
+| Location | Not specified |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000143111859-security-operations-center-centralist) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-07-28.
+This cybersecurity engineer position at Securitas was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

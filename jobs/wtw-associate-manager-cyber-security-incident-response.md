@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WTW](https://scoutify.ai/companies/em3-cx-oj120216?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202605069) |
 
 ## About This Role
 
-This soc & incident response position at WTW was posted on 2026-08-11.
+This cybersecurity engineer position at WTW was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

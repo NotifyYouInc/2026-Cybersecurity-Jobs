@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Semperis](https://scoutify.ai/companies/semperis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/semperis/8569cc43-d45e-4351-b305-f94c58dc1cad) |
 
 ## About This Role
 
-This soc & incident response position at Semperis was posted on 2026-08-11.
+This cybersecurity engineer position at Semperis was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Lead-Security-Engineer_JR_17662) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Lead-Security-Engineer_JR_18219) |
 
 ## About This Role
 
-This security engineer position at Kainos was posted on 2026-04-28.
+This cybersecurity engineer position at Kainos was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

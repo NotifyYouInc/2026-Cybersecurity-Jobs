@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8689302002) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wayve was posted on 2026-08-11.
+This cybersecurity engineer position at Wayve was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

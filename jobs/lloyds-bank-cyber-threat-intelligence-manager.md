@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Cyber-Threat-Intelligence-Manager_156836-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Cyber-Threat-Intelligence-Manager_160328) |
 
 ## About This Role
 
-This security engineer position at Lloyds Bank was posted on 2026-05-21.
+This cybersecurity engineer position at Lloyds Bank was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

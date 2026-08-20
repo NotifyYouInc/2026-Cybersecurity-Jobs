@@ -1,16 +1,16 @@
-# Lead - Security at Adani Group
+# Lead -Security at Adani Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Nagpur, Maharashtra, India |
+| Location | Udupi, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#50710) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#56499) |
 
 ## About This Role
 
-This cybersecurity engineer position at Adani Group was posted on 2026-08-01.
+This cybersecurity engineer position at Adani Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

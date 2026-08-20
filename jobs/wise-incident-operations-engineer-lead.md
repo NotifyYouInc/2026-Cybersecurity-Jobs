@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142789119-incident-operations-engineer-lead) |
 
 ## About This Role
 
-This soc & incident response position at WISE was posted on 2026-08-11.
+This cybersecurity engineer position at WISE was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

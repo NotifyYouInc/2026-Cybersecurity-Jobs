@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Montreal---425-boul-de-Maisonneuve-O---35h/Analyste-scurit-informatique--GIA-_R17186) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-en-scurit-informatique-SIEM-SOAR_R17581) |
 
 ## About This Role
 
-This security engineer position at Beneva was posted on 2026-07-21.
+This cybersecurity engineer position at Beneva was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

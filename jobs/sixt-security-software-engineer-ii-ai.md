@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142780519-security-software-engineer-ii-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-08-11.
+This cybersecurity engineer position at Sixt was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

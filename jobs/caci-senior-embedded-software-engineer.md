@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florham Park, New Jersey, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Senior-Embedded-Software-Engineer_330461) |
 
 ## About This Role
 
-This embedded / firmware engineer position at CACI was posted on 2026-08-12.
+This cybersecurity engineer position at CACI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

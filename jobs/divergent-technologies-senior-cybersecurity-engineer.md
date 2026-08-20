@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Divergent Technologies](https://scoutify.ai/companies/divergent?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Torrance, California, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/divergent/jobs/5385615008) |
 
 ## About This Role
 
-This soc & incident response position at Divergent Technologies was posted on 2026-08-11.
+This cybersecurity engineer position at Divergent Technologies was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

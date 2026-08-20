@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Springfield, Missouri, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Senior-Firewall-Engineer_328165) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Senior-Firewall-Engineer_330513) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-24.
+This cybersecurity engineer position at CACI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

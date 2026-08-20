@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/1-Enterprise-Drive-Quincy-Corp/Lead-Security-Officer--2nd-Shift--Quincy--MA---Mon-Fri-2-10-pm_Req1600244) |
 
 ## About This Role
 
-This soc & incident response position at Santander was posted on 2026-08-11.
+This cybersecurity engineer position at Santander was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

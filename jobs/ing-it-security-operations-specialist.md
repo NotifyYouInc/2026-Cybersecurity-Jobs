@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/IT-Security-Operations-Specialist_REQ-10119703) |
 
 ## About This Role
 
-This soc & incident response position at ING was posted on 2026-08-11.
+This cybersecurity engineer position at ING was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

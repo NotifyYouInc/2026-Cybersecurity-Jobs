@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Augusta, Georgia, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Augusta-GA/Red-and-Blue-Team-Engineer_R0246552) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-08-12.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

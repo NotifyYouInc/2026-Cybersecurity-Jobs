@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Michigan, US |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/DevSecOps-Engineer-Experienced_R49026) |
 
 ## About This Role
 
-This devops engineer position at Oshkosh was posted on 2026-08-10.
+This cybersecurity engineer position at Oshkosh was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

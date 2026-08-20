@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Remote-Portugal/Senior-Application-Security-Engineer_R2025162-1) |
+| Location | Portugal |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Remote-Portugal/Senior-Application-Security-Engineer_R2025239-1) |
 
 ## About This Role
 
-This security engineer position at Intapp was posted on 2026-07-16.
+This cybersecurity engineer position at Intapp was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

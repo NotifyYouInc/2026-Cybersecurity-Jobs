@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000142906428-pilote-global-incident-hf-cdi) |
 
 ## About This Role
 
-This soc & incident response position at Scalian was posted on 2026-08-11.
+This cybersecurity engineer position at Scalian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aledade](https://scoutify.ai/companies/aledade?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.lever.co/aledade/90d6fed8-2493-4fbd-bb72-867febbb6bb0) |
 
 ## About This Role
 
-This soc & incident response position at Aledade was posted on 2026-08-11.
+This cybersecurity engineer position at Aledade was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

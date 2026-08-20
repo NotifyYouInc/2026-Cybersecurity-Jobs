@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Nancy, Grand Est, France |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000142810839-alternance-analyste-soc-hf) |
 
 ## About This Role
 
-This soc & incident response position at Sogetrel was posted on 2026-08-11.
+This cybersecurity engineer position at Sogetrel was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

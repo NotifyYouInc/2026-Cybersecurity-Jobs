@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Senior-Hardware-Security-Engineer_R015930) |
 
 ## About This Role
 
-This electrical / hardware engineer position at The Aerospace Corporation was posted on 2026-08-10.
+This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

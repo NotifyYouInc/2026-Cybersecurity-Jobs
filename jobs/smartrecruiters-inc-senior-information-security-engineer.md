@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SmartRecruiters Inc](https://scoutify.ai/companies/smartrecruiters-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Poland |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000137613800-senior-information-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000143115219-senior-information-security-engineer) |
 
 ## About This Role
 
-This security engineer position at SmartRecruiters Inc was posted on 2026-07-14.
+This cybersecurity engineer position at SmartRecruiters Inc was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

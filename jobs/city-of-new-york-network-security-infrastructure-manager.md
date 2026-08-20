@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014532206-network-security-infrastructure-manager) |
 
 ## About This Role
 
-This it & systems administration position at City of New York was posted on 2026-08-11.
+This cybersecurity engineer position at City of New York was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

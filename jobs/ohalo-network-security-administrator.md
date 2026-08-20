@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ohalo](https://scoutify.ai/companies/ohalo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ohalogenetics/jobs/4717560005) |
 
 ## About This Role
 
-This it & systems administration position at Ohalo was posted on 2026-08-10.
+This cybersecurity engineer position at Ohalo was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

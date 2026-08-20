@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disc Medicine](https://scoutify.ai/companies/discmedicine?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Massachusetts, US |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/discmedicine/jobs/5384851008) |
 
 ## About This Role
 
-This it & systems administration position at Disc Medicine was posted on 2026-08-10.
+This cybersecurity engineer position at Disc Medicine was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

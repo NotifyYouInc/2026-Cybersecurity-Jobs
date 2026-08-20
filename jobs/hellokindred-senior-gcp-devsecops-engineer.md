@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sheffield, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014534276-senior-gcp-devsecops-engineer) |
 
 ## About This Role
 
-This devops engineer position at HelloKindred was posted on 2026-08-11.
+This cybersecurity engineer position at HelloKindred was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Systems-Engineer--Principal_R183959) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Systems-Engineer--Senior_R184655) |
 
 ## About This Role
 
-This cybersecurity engineer position at Parsons was posted on 2026-08-03.
+This cybersecurity engineer position at Parsons was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

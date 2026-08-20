@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10499317/security-engineer-aws-security) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-08-12.
+This cybersecurity engineer position at Amazon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

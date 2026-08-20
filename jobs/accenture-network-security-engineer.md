@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Porto, Porto, Portugal |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Matosinhos-Broadway/Network-Security-Engineer_14478806) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Network-Security-Engineer_14578241) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-18.
+This cybersecurity engineer position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

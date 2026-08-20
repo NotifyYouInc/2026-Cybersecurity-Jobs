@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Incident-Manager_2021560) |
+| Location | North Carolina, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Incident-Manager_2021369) |
 
 ## About This Role
 
-This soc & incident response position at Cisco was posted on 2026-08-10.
+This cybersecurity engineer position at Cisco was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

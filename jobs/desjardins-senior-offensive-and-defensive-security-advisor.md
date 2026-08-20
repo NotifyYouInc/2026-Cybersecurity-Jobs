@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-en-scurit-offensive--revue-de-code-assiste-par-l-IA_R2608833) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Scurit-offensive--Red-Team_R2609940-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Desjardins was posted on 2026-07-14.
+This cybersecurity engineer position at Desjardins was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

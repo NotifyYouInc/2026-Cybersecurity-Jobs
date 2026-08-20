@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ID.me](https://scoutify.ai/companies/idme?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7810239003) |
 
 ## About This Role
 
-This soc & incident response position at ID.me was posted on 2026-08-11.
+This cybersecurity engineer position at ID.me was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

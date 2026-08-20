@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wuxi, Jiangsu, China |
-| Category | Embedded / Firmware Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/XMLNAME--Embedded-Cybersecurity-Engineer-Platform-Security-_R0000387402) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-08-11.
+This cybersecurity engineer position at Caterpillar was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

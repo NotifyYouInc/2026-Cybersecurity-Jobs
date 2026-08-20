@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kyivstar](https://scoutify.ai/companies/kyivstar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/kyivstar/c2c960fe-64fb-4441-8ecb-b9a1ea6fa9fe) |
+| Location | Not specified |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/kyivstar/d0a2a7c5-5413-4cb2-bffa-706f745ad9ab) |
 
 ## About This Role
 
-This security engineer position at Kyivstar was posted on 2026-04-23.
+This cybersecurity engineer position at Kyivstar was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
