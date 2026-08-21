@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pluak Daeng, Rayong, Thailand |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143219219-plant-it-security-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-08-13.
+This it & systems administration position at Robert Bosch was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

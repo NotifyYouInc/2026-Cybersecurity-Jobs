@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Service-Engineer---IT-Infra-and-Cyber-Security_R5050061-3) |
 
 ## About This Role
 
-This cybersecurity engineer position at GE Vernova was posted on 2026-08-13.
+This it & systems administration position at GE Vernova was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

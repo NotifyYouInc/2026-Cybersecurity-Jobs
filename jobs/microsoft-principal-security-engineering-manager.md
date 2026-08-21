@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556939342) |
+| Location | Redmond, Washington, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556961999) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-07-22.
+This cybersecurity engineer position at Microsoft was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

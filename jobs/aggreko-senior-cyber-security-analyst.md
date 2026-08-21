@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Glasgow/Senior-Cyber-Security-Analyst_JR20401) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Glasgow/Senior-Cyber-Security-Analyst_JR20835-1) |
 
 ## About This Role
 
-This security engineer position at Aggreko was posted on 2026-05-29.
+This cybersecurity engineer position at Aggreko was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

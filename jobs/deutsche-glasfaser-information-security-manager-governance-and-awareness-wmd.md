@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Glasfaser](https://scoutify.ai/companies/deutscheglasfaser?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Location | Borken, North Rhine-Westphalia, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000142838409-information-security-manager-governance-and-awareness-wmd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000143031085-information-security-manager-governance-and-awareness-wmd) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Glasfaser was posted on 2026-08-11.
+This cybersecurity engineer position at Deutsche Glasfaser was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Huntsville-AL/Sr-Cybersecurity-Engineer--ISSE-_JR2026001202) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Huntsville-AL/Sr-Cybersecurity-Engineer--ISSE-_JR2026001320-1) |
 
 ## About This Role
 
-This security engineer position at Appliedis was posted on 2026-05-13.
+This cybersecurity engineer position at Appliedis was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

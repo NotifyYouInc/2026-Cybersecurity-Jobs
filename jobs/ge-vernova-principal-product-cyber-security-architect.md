@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Principal-Product-Cyber-Security-Architect_R5043796-3) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Principal-Product-Cyber-Security-Architect_R5049442-2) |
 
 ## About This Role
 
-This security engineer position at GE Vernova was posted on 2026-07-02.
+This cybersecurity engineer position at GE Vernova was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

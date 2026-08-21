@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hamlet, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459143/data-center-security-specialist-dc-security) |
+| Location | Milan, Lombardy, Italy |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10500635/data-center-security-specialist-dc-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-25.
+This cybersecurity engineer position at Amazon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

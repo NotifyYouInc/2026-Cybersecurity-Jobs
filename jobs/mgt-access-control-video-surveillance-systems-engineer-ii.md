@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGT](https://scoutify.ai/companies/recruiting-ultipro-com-oj71870?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://recruiting.ultipro.com/mgt1000mgta/JobBoard/4b946195-ec2c-4b23-8e32-2a80f1c11e99/OpportunityDetail?opportunityId=40055c76-3135-4fbb-930d-720d4c3570e1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://recruiting.ultipro.com/mgt1000mgta/JobBoard/4b946195-ec2c-4b23-8e32-2a80f1c11e99/OpportunityDetail?opportunityId=a0a4cf0f-5c1b-4eb8-ac51-f4b1f2dcbc4f) |
 
 ## About This Role
 
-This security engineer position at MGT was posted on 2026-07-07.
+This cybersecurity engineer position at MGT was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

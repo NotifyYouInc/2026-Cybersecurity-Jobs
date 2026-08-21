@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Cybersecurity Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Principal-Engineer-Robotics_R569522) |
 
 ## About This Role
 
-This cybersecurity engineer position at Stryker was posted on 2026-08-12.
+This embedded / firmware engineer position at Stryker was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

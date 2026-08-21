@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Senior-Engineer--MDR_2026-766) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Senior-Engineer--MDR_2026-800-1) |
 
 ## About This Role
 
-This soc & incident response position at Tmhcc was posted on 2026-07-31.
+This cybersecurity engineer position at Tmhcc was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
-| Posted | 2026-02-18 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
 | Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Melbourne/Senior-Security-Consultant-AI_240209) |
 
 ## About This Role
 
-This security engineer position at NBN Australia was posted on 2026-02-18.
+This cybersecurity engineer position at NBN Australia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

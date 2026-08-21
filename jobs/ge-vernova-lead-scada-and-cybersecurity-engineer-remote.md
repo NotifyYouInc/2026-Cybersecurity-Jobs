@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Canada |
-| Category | Cybersecurity Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Lead-SCADA-and-Cybersecurity-Engineer--remote-_R5049584) |
 
 ## About This Role
 
-This cybersecurity engineer position at GE Vernova was posted on 2026-08-12.
+This industrial automation position at GE Vernova was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pleasant Prairie, Wisconsin, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-IT-Security-Administrator_R265394-1) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-IT-Security-Administrator_R266541-1) |
 
 ## About This Role
 
-This security engineer position at Uline was posted on 2026-07-09.
+This cybersecurity engineer position at Uline was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

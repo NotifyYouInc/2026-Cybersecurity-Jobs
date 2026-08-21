@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/AVP--Security-Architect_R-049120-1) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/AVP--Security-Architect_R-052314-1) |
 
 ## About This Role
 
-This security engineer position at LPL Financial Holdings was posted on 2026-03-04.
+This cybersecurity engineer position at LPL Financial Holdings was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

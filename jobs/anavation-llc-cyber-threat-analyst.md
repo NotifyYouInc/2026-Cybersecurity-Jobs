@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AnaVation LLC](https://scoutify.ai/companies/anavationllc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.lever.co/anavationllc/2b184c0f-b6fb-41b1-9aa2-689f298badd8) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.lever.co/anavationllc/c1e92f2c-9f1e-4d5e-9541-31d2ce2a3778) |
 
 ## About This Role
 
-This soc & incident response position at AnaVation LLC was posted on 2026-03-18.
+This cybersecurity engineer position at AnaVation LLC was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

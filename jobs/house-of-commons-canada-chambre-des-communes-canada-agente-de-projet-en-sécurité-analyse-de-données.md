@@ -5,12 +5,12 @@
 | Company | [House of Commons (Canada) / Chambre des communes (Canada)](https://scoutify.ai/companies/houseofcommonscanadachambredescommunescanada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000142892155-agente-de-projet-en-securite-analyse-de-donnees) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000143162824-agente-de-projet-en-securite-analyse-de-donnees) |
 
 ## About This Role
 
-This cybersecurity engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-08-11.
+This cybersecurity engineer position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

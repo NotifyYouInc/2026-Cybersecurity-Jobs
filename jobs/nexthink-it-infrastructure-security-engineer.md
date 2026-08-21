@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000142160409-it-infrastructure-security-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143302344-it-infrastructure-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nexthink was posted on 2026-08-07.
+This cybersecurity engineer position at Nexthink was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

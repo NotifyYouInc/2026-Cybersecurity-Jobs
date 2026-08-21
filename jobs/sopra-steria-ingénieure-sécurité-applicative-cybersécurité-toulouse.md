@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colomiers, Occitanie, France |
-| Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137087138-ingenieure-securite-applicative-cybersecurite-toulouse) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143321828-ingenieure-securite-applicative-cybersecurite-toulouse) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-07-10.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

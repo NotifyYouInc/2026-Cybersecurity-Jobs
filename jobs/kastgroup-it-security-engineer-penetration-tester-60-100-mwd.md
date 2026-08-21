@@ -5,12 +5,12 @@
 | Company | [KastGroup](https://scoutify.ai/companies/kastgroupgmbh?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wallisellen, Zurich, Switzerland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000141553406-it-security-engineer-penetration-tester-60-100-mwd) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000143357539-it-security-engineer-penetration-tester-60-100-mwd) |
 
 ## About This Role
 
-This cybersecurity engineer position at KastGroup was posted on 2026-08-04.
+This cybersecurity engineer position at KastGroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

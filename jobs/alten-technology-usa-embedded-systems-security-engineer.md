@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Technology USA](https://scoutify.ai/companies/alten-technology-usa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Foster City, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5210052007) |
 
 ## About This Role
 
-This cybersecurity engineer position at ALTEN Technology USA was posted on 2026-08-12.
+This embedded / firmware engineer position at ALTEN Technology USA was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

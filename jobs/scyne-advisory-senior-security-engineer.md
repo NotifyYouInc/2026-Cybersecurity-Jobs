@@ -5,12 +5,12 @@
 | Company | [Scyne Advisory](https://scoutify.ai/companies/scyne-advisory?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/scyneadvisory/6000000001302561-senior-security-engineer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/scyneadvisory/6000000001308399-senior-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Scyne Advisory was posted on 2026-08-11.
+This cybersecurity engineer position at Scyne Advisory was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

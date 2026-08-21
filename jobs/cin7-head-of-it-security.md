@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cin7](https://scoutify.ai/companies/cin7?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.lever.co/cin7/e3c7409a-34b9-4dbe-af6a-1b74c06066ad) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cin7 was posted on 2026-08-12.
+This it & systems administration position at Cin7 was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

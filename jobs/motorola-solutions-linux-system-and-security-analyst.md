@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Culver City, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/Linux-System-and-Security-Analyst_R67594) |
 
 ## About This Role
 
-This cybersecurity engineer position at Motorola Solutions was posted on 2026-08-12.
+This it & systems administration position at Motorola Solutions was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

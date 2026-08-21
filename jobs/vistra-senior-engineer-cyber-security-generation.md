@@ -1,16 +1,16 @@
-# Senior Engineer, Cyber Security Generation at Vistra
+# Senior Engineer, Cyber Security-Generation at Vistra
 
 | Field | Details |
 |-------|---------|
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Perry, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Perry/Senior-Engineer--Cyber-Security-Generation_40015551-2) |
+| Location | Irving, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Senior-Engineer--Cyber-Security-Generation_40016354-1) |
 
 ## About This Role
 
-This security engineer position at Vistra was posted on 2026-04-03.
+This cybersecurity engineer position at Vistra was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
