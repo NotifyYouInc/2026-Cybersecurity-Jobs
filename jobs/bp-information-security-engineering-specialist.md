@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Information-Security-Engineering-Specialist_RQ114251-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/GB-Sunbury---ICBT/Information-Security-Engineering-Specialist_RQ114498) |
 
 ## About This Role
 
-This cybersecurity engineer position at BP was posted on 2026-08-10.
+This cybersecurity engineer position at BP was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

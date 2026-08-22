@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#151296) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155087) |
 
 ## About This Role
 
-This offensive security & pentesting position at Honeywell was posted on 2026-06-23.
+This cybersecurity engineer position at Honeywell was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

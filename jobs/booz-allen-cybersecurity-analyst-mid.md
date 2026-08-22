@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rome, Georgia, United States |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Mid_R0245966) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Analyst--Mid_R0246495) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-04.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Cybersecurity-Engineer_JR-0108746) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Cybersecurity-Engineer_JR-0109196) |
 
 ## About This Role
 
-This security engineer position at Workday was posted on 2026-07-20.
+This cybersecurity engineer position at Workday was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

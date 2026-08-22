@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143030249-sr-information-security-analyst) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143295469-sr-information-security-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-08-12.
+This cybersecurity engineer position at ServiceNow was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

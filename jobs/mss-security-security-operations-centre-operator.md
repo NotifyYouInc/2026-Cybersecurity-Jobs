@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSS Security](https://scoutify.ai/companies/mss-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Victoria, AU |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://msssecurity.wd105.myworkdayjobs.com/mss/job/Victoria/Security-Operations-Centre-Operator_JR7570) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://msssecurity.wd105.myworkdayjobs.com/mss/job/Victoria/Security-Operations-Centre-Operator_JR7949) |
 
 ## About This Role
 
-This soc & incident response position at MSS Security was posted on 2026-07-15.
+This cybersecurity engineer position at MSS Security was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

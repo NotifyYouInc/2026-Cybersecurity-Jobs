@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Security-Infrastructure-Engineer_R-00189420) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-12.
+This devops engineer position at Leidos was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

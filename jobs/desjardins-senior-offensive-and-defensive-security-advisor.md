@@ -1,16 +1,16 @@
-# Senior offensive and defensive security advisor at Desjardins
+# Senior offensive and defensive security Advisor at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Scurit-offensive--Red-Team_R2609940-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Leader-de-pratique-Pentest_R2609916) |
 
 ## About This Role
 
-This cybersecurity engineer position at Desjardins was posted on 2026-08-12.
+This cybersecurity engineer position at Desjardins was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Security-Managed-Services-Associate-Manager_14578705) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Delivery-Associate-Manager_AIOC-S01585930-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-12.
+This cybersecurity engineer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

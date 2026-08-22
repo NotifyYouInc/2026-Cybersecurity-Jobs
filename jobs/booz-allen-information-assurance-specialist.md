@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Information-Assurance-Specialist_R0242120) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Information-Assurance-Specialist_R0247185) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-12.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

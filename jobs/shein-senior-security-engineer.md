@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHEIN](https://scoutify.ai/companies/shein?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/shein/jobs/5234881008) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/shein/jobs/5392157008) |
 
 ## About This Role
 
-This security engineer position at SHEIN was posted on 2026-05-28.
+This cybersecurity engineer position at SHEIN was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

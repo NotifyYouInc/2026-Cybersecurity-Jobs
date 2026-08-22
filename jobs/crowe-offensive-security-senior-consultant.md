@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Offensive-Security-Senior-Consultant_R-51316) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Offensive-Security-Senior-Consultant_R-51912) |
 
 ## About This Role
 
-This offensive security & pentesting position at Crowe was posted on 2026-05-22.
+This cybersecurity engineer position at Crowe was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

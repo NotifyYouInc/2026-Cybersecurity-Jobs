@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auctane](https://scoutify.ai/companies/auctane?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/auctane/jobs/7770754003) |
+| Location | Madrid, Madrid, Spain |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/auctane/jobs/7835190003) |
 
 ## About This Role
 
-This security engineer position at Auctane was posted on 2026-06-25.
+This cybersecurity engineer position at Auctane was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

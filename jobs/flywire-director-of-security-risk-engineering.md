@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000131805769-director-of-security-risk-engineering) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000143502769-director-of-security-risk-engineering) |
 
 ## About This Role
 
-This engineering manager position at Flywire was posted on 2026-06-12.
+This cybersecurity engineer position at Flywire was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Texas, US |
-| Category | Cybersecurity Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/TX---Plano-7900-Windrose-Avenue-8th-Floor/Engineer-4--SOC--Comcast-Business_R442558) |
 
 ## About This Role
 
-This cybersecurity engineer position at Comcast was posted on 2026-08-13.
+This semiconductor / chip design position at Comcast was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

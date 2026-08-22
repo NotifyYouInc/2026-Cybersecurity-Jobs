@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austria |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000138840230-it-security-identity-engineer-mwd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000143472109-it-security-identity-engineer-mwd) |
 
 ## About This Role
 
-This security engineer position at VusionGroup SA was posted on 2026-07-21.
+This cybersecurity engineer position at VusionGroup SA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

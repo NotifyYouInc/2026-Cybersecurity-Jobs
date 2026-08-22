@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/6115602004?gh_jid=6115602004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/6144417004?gh_jid=6144417004) |
 
 ## About This Role
 
-This security engineer position at GuidePoint Security was posted on 2026-07-17.
+This cybersecurity engineer position at GuidePoint Security was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

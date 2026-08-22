@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Industrial Automation |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Lead-Engineer-2---Controls-Engineering_R5049744-2) |
 
 ## About This Role
 
-This industrial automation position at GE Vernova was posted on 2026-08-13.
+This cybersecurity engineer position at GE Vernova was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

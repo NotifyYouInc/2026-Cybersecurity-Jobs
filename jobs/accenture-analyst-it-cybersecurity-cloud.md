@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Málaga, Andalusia, Spain |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/Analyst--IT-Cybersecurity---Cloud_14378493) |
+| Location | Bilbao, Basque Country, Spain |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bilbao-Torre-Iberdrola/Analyst--IT-Cybersecurity---Cloud_14550333) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-06-18.
+This cybersecurity engineer position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-stratgique_R2608485) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-sectoriel--Scurit-de-l-information_R2610149) |
 
 ## About This Role
 
-This security engineer position at Desjardins was posted on 2026-06-26.
+This cybersecurity engineer position at Desjardins was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/1e785ae8-5cb2-48c9-b0f2-89cec42bc649) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/61926505-e0e9-4903-aed3-cea40fae6ca4) |
 
 ## About This Role
 
-This software engineer position at Illumio was posted on 2026-07-22.
+This cybersecurity engineer position at Illumio was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pleo](https://scoutify.ai/companies/pleo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pleo/c9142b94-d7c2-4e09-bc3e-3e8e7b8e05bd) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pleo/ec0ccfe9-8f21-404a-afba-079573f9ae89) |
 
 ## About This Role
 
-This cybersecurity engineer position at Pleo was posted on 2026-08-12.
+This cybersecurity engineer position at Pleo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
