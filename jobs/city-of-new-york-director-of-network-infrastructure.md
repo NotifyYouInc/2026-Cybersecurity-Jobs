@@ -1,16 +1,16 @@
-# Senior Threat Analyst at City of New York
+# Director of Network Infrastructure at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014599556-senior-threat-analyst) |
+| Location | Queens, New York, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014614106-director-of-network-infrastructure) |
 
 ## About This Role
 
-This soc & incident response position at City of New York was posted on 2026-08-14.
+This it & systems administration position at City of New York was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

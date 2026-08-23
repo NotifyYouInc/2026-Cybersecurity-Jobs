@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [First Quality](https://scoutify.ai/companies/firstquality?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arkansas, US |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Home-Office/Cyber-Security-Analyst_R11881-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at First Quality was posted on 2026-08-13.
+This soc & incident response position at First Quality was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

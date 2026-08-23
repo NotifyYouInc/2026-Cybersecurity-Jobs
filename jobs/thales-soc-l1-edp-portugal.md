@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lisbon/SOC-L1-EDP-PORTUGAL_R0336842) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-13.
+This soc & incident response position at Thales was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arizona, US |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Major-Incident-Coordinator_R4450625) |
 
 ## About This Role
 
-This cybersecurity engineer position at Banner Health was posted on 2026-08-13.
+This soc & incident response position at Banner Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

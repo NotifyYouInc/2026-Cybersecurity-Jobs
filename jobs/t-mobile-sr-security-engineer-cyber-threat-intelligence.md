@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Security-Engineer--Cyber-Threat-Intelligence_REQ362499-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at T-Mobile was posted on 2026-08-14.
+This soc & incident response position at T-Mobile was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Katowice, Silesia, Poland |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Umowa-Zlecenie-w-Zespole-SOC_REQ-10119876) |
 
 ## About This Role
 
-This cybersecurity engineer position at ING was posted on 2026-08-14.
+This soc & incident response position at ING was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

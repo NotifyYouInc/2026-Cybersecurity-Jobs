@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/DFIR-Consultant_2026-812) |
 
 ## About This Role
 
-This cybersecurity engineer position at Tmhcc was posted on 2026-08-13.
+This soc & incident response position at Tmhcc was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

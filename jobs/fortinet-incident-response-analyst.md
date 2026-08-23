@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23631) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fortinet was posted on 2026-08-13.
+This soc & incident response position at Fortinet was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hotmart](https://scoutify.ai/companies/hotmartcareersbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/hotmartcareersbr/jobs/4951780101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Hotmart was posted on 2026-08-13.
+This soc & incident response position at Hotmart was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

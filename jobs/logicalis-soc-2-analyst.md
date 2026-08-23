@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Beachwood, Ohio, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Beachwood/SOC-2-Analyst_JR05372) |
 
 ## About This Role
 
-This cybersecurity engineer position at Logicalis was posted on 2026-08-14.
+This soc & incident response position at Logicalis was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

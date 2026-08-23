@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hampton, Virginia, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Hampton-VA-US/XMLNAME-329338-Cyber-Monitoring-Manager_330614) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-08-14.
+This soc & incident response position at CACI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#24724) |
 
 ## About This Role
 
-This cybersecurity engineer position at Pearson was posted on 2026-08-13.
+This soc & incident response position at Pearson was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

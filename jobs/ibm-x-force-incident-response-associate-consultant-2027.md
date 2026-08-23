@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=128783) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-08-14.
+This soc & incident response position at IBM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

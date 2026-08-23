@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Exec-Director--Enterprise-Security-Operations_RQ4076173) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mass General Brigham was posted on 2026-08-13.
+This soc & incident response position at Mass General Brigham was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

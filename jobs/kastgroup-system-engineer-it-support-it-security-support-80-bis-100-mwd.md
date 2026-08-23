@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KastGroup](https://scoutify.ai/companies/kastgroupgmbh?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wallisellen, Zurich, Switzerland |
-| Category | IT & Systems Administration |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/KastGroupGmbH/744000143343179-system-engineer-it-support-it-security-support-80-bis-100-mwd) |
 
 ## About This Role
 
-This it & systems administration position at KastGroup was posted on 2026-08-13.
+This soc & incident response position at KastGroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

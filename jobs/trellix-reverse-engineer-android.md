@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Reverse-Engineer--Android-_JR0037835) |
 
 ## About This Role
 
-This cybersecurity engineer position at Trellix was posted on 2026-08-14.
+This soc & incident response position at Trellix was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

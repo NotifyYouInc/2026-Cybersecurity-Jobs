@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Analyst |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Analyst-Security-Operations_REQ261585) |
 
 ## About This Role
 
-This data analyst position at Commonwealth Bank of Australia was posted on 2026-08-13.
+This soc & incident response position at Commonwealth Bank of Australia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

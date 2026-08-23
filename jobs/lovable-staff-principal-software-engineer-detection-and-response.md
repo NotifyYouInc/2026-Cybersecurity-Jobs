@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lovable](https://scoutify.ai/companies/lovable?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lovable was posted on 2026-08-14.
+This soc & incident response position at Lovable was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Cybersecurity-SOC-Analyst_R-10398822) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fiserv was posted on 2026-08-14.
+This soc & incident response position at Fiserv was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

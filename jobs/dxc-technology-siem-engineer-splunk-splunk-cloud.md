@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/SIEM-Engineer---Splunk---Splunk-Cloud_51587087) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-08-14.
+This soc & incident response position at DXC Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

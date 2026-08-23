@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/1170-Peachtree-St-Ste-1200----ATLANTA-GA/Security-Incident-Response-Engineer_JR114072) |
 
 ## About This Role
 
-This devops engineer position at Acrisure was posted on 2026-08-12.
+This soc & incident response position at Acrisure was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

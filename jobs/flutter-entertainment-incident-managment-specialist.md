@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flutter Entertainment](https://scoutify.ai/companies/flutter-entertainment?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tirana, Tirana, Albania |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://flutterbe.wd3.myworkdayjobs.com/group_external/job/Tirana---Rruga-Dritan---40h/Incident-Managment-Specialist_JR140839) |
 
 ## About This Role
 
-This cybersecurity engineer position at Flutter Entertainment was posted on 2026-08-13.
+This soc & incident response position at Flutter Entertainment was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

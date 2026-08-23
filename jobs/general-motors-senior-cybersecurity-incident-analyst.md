@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Cybersecurity-Incident-Analyst_JR-202616771-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Motors was posted on 2026-08-14.
+This soc & incident response position at General Motors was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

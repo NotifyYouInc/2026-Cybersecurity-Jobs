@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Falls Church, Virginia, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Battle-Staff-Watch-Officer---Shift-Mon-Fri-2pm-10-30pm_RQ226232-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-14.
+This soc & incident response position at General Dynamics Information Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

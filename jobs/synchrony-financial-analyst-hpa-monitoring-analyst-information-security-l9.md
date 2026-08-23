@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Analyst--HPA-Monitoring-Analyst--Information-Security--L9-_2602348) |
 
 ## About This Role
 
-This cybersecurity engineer position at Synchrony Financial was posted on 2026-08-13.
+This soc & incident response position at Synchrony Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

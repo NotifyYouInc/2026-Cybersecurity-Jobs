@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000143196218-cyber-threat-detection-response-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cuscal was posted on 2026-08-13.
+This soc & incident response position at Cuscal was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

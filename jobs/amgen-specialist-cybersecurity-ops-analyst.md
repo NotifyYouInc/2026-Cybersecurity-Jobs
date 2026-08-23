@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Portugal---Lisbon/Specialist-Cybersecurity-Ops-Analyst_R-251390) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amgen was posted on 2026-08-14.
+This soc & incident response position at Amgen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

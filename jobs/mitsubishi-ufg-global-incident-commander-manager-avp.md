@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Pune/Global-Incident-Commander--Manager-AVP_10077639-WD-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-08-13.
+This soc & incident response position at Mitsubishi UFG was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

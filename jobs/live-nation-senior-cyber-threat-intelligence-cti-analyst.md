@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Farringdon-London-United-Kingdom/Senior-Cyber-Threat-Intelligence--CTI--Analyst_JR-92410) |
 
 ## About This Role
 
-This cybersecurity engineer position at Live Nation was posted on 2026-08-13.
+This soc & incident response position at Live Nation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

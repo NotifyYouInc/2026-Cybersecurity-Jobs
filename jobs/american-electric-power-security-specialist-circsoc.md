@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Specialist--CIRC-SOC-_R17887) |
 
 ## About This Role
 
-This cybersecurity engineer position at American Electric Power was posted on 2026-08-14.
+This soc & incident response position at American Electric Power was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sydney-New-South-Wales-Australia/SOC-Incident-Responder_R2127559) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-08-13.
+This soc & incident response position at KBR was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

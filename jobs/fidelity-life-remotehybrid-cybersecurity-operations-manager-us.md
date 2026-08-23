@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity Life](https://scoutify.ai/companies/recruiting2-ultipro-com-oj36908?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/ver1023veri/JobBoard/7564b954-75b4-4c6f-8ca4-c0aca3154b9b/OpportunityDetail?opportunityId=dd51ab50-1c18-47d9-97d5-6ac221b51bab) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fidelity Life was posted on 2026-08-14.
+This soc & incident response position at Fidelity Life was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

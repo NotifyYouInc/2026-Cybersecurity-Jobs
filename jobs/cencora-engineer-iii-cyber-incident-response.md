@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Engineer-III---Cyber-Incident-Response_R2613646) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cencora was posted on 2026-08-14.
+This soc & incident response position at Cencora was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

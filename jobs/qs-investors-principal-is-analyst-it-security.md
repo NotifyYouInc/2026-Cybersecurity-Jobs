@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Principal-IS-Analyst-IT-Security_869092) |
 
 ## About This Role
 
-This cybersecurity engineer position at QS Investors was posted on 2026-08-13.
+This soc & incident response position at QS Investors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

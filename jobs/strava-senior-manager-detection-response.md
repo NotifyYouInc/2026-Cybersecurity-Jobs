@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Strava](https://scoutify.ai/companies/strava?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/strava/288b9cda-2539-4107-be58-115a99a0bdb2) |
 
 ## About This Role
 
-This cybersecurity engineer position at Strava was posted on 2026-08-14.
+This soc & incident response position at Strava was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

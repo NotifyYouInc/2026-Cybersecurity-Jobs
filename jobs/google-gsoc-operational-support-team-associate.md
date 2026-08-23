@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boulder, Colorado, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWvE_o3hgxPIafpH1kvTzglhIUM2NSYB9xIRGlHntqElEjsA1Ny_i0DiQRnjD66gDGNdDRnlbhr50wxttmAX93QxwCR2IeuxfSdp8wwWIZKOD7nxcO8dWUHDMaRrYQ%3D%3D_V2&loc=US&title=GSOC+Operational+Support+Team+Associate) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-14.
+This soc & incident response position at Google was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

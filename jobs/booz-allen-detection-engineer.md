@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado, US |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-14.
+This soc & incident response position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

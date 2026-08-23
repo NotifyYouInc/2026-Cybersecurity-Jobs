@@ -1,16 +1,16 @@
-# Gerente Sênior – Investigação Cibernética e Resposta Forense at Accenture
+# Americas AMBG Security Lead at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Gerente-Snior---Investigao-Ciberntica-e-Resposta-Forense--CIFR-_14187937-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/Americas-AMBG-Security-Lead_R00351242) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-08-14.
+This cybersecurity engineer position at Accenture was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

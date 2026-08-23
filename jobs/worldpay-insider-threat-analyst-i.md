@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/CINCINNATI-OHIO/Insider-Threat-Analyst-I_JR0610831) |
 
 ## About This Role
 
-This cybersecurity engineer position at Worldpay was posted on 2026-08-14.
+This soc & incident response position at Worldpay was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

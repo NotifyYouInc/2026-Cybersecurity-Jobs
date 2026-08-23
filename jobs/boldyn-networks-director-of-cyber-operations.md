@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boldyn Networks](https://scoutify.ai/companies/baicommunications?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/Las-Vegas/Director-of-Cyber-Operations_JR1494) |
 
 ## About This Role
 
-This cybersecurity engineer position at Boldyn Networks was posted on 2026-08-14.
+This soc & incident response position at Boldyn Networks was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

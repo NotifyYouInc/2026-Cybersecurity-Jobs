@@ -1,16 +1,16 @@
-# Data Security Engineer at Leidos
+# Cyber Security Engineer at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Adelphi, Maryland, United States |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 9 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Adelphi-MD/Data-Security-Engineer_R-00189506-1) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Cyber-Security-Engineer_R-426256) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-14.
+This cybersecurity engineer position at Humana was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

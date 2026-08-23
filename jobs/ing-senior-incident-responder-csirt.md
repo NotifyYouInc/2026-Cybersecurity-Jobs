@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Senior-Incident-Responder---CSIRT_REQ-10118942-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at ING was posted on 2026-08-13.
+This soc & incident response position at ING was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

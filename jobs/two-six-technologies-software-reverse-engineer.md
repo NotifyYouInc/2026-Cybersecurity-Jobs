@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6139231004) |
 
 ## About This Role
 
-This cybersecurity engineer position at Two Six Technologies was posted on 2026-08-13.
+This soc & incident response position at Two Six Technologies was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
