@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000140924264-application-security-engineer-all-genders) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000143750676-application-security-engineer-all-genders) |
 
 ## About This Role
 
-This cybersecurity engineer position at About You was posted on 2026-07-31.
+This cybersecurity engineer position at About You was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

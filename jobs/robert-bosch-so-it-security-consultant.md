@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# [SO] IT Security Consultant at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Vietnam |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143734389-so-it-security-consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

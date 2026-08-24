@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Thessaloníki, Central Macedonia, Greece |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/XMLNAME---Senior-Cloud-Security-Engineering-Lead-_4961956) |
 
 ## About This Role
 
-This cybersecurity engineer position at Pfizer was posted on 2026-08-13.
+This software engineer position at Pfizer was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

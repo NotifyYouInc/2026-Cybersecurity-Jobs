@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Security Analyst, InfoSec (Threat Hunting) at Kroll
 
 | Field | Details |
 |-------|---------|
 | Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014850) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This soc & incident response position at Kroll was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

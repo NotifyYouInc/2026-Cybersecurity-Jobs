@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Haifa, Haifa, Israel |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Security-Researcher-Technical-Lead_JR0286006) |
 
 ## About This Role
 
-This cybersecurity engineer position at Intel was posted on 2026-08-13.
+This software engineer position at Intel was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

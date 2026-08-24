@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Vadodara, Gujarat, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Information-Security-Engineer_R-280911-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Information-Security-Engineer_R-284564) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mastercard was posted on 2026-08-12.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

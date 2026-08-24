@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Sr Associate- Secure Data Exchange Services at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate--Secure-Data-Exchange-Services_R-250934) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at Amgen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

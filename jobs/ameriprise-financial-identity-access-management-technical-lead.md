@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Identity---Access-Management-Technical-Lead_R26_3276) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ameriprise Financial was posted on 2026-08-14.
+This software engineer position at Ameriprise Financial was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# ISSO at CAE
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Binghamton, New York, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/ISSO_123232) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at CAE was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

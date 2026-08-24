@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Associate Authentication Analyst (Chinese Speaker) at DigiCert
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8713733002) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at DigiCert was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

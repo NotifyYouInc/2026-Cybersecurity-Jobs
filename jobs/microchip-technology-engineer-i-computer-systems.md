@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Philippines |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-1/Engineer-I---Computer-Systems_R1139-26) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-1/Engineer-I---Computer-Systems_R3204-26) |
 
 ## About This Role
 
-This security engineer position at Microchip Technology was posted on 2026-04-15.
+This cybersecurity engineer position at Microchip Technology was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

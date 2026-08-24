@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Temple Terrace, Florida, United States |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Cybersecurity-Platform-and-Identity-Security-Engineer_R-1099535) |
 
 ## About This Role
 
-This cybersecurity engineer position at Verizon was posted on 2026-08-14.
+This software engineer position at Verizon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

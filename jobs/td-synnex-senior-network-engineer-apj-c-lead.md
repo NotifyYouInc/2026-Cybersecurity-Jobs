@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Senior Network Engineer - APJ-C Lead at TD Synnex
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Senior-Network-Engineer---APJ-C-Lead_R55008) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at TD Synnex was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

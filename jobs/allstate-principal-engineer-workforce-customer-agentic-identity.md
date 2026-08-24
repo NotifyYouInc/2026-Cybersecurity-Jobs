@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Illinois, US |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Principal-Engineer--Workforce--Customer---Agentic-Identity_R33910) |
 
 ## About This Role
 
-This cybersecurity engineer position at Allstate was posted on 2026-08-14.
+This software engineer position at Allstate was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

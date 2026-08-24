@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/AT-Senior-IP-Security-Engineer_JR107690) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/AT-Senior-IP-Security-Engineer_JR109101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Micron was posted on 2026-08-06.
+This cybersecurity engineer position at Micron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

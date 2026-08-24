@@ -1,16 +1,16 @@
-# [Job - 31026] Senior Developer (Security Remediation) at Ciandt
+# Senior Software Engineer, CSADE at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brazil |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/1bb547b2-6e86-4fce-9ccd-534e7c154cee) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143753539-senior-software-engineer-csade) |
 
 ## About This Role
 
-This software engineer position at Ciandt was posted on 2026-08-14.
+This software engineer position at Grab was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

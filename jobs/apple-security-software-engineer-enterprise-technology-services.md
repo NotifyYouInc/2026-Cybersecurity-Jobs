@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200677750/security-software-engineer-enterprise-technology-services) |
 
 ## About This Role
 
-This cybersecurity engineer position at Apple was posted on 2026-08-13.
+This software engineer position at Apple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Staff Security Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Boise, Idaho, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Security-Engineer_JR108829) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at Micron was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

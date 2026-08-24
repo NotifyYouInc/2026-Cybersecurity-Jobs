@@ -1,16 +1,16 @@
-# Security Analyst, InfoSec at Kroll
+# Data & AI Security Lead at Downer Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014780) |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#735210) |
 
 ## About This Role
 
-This cybersecurity engineer position at Kroll was posted on 2026-08-17.
+This cybersecurity engineer position at Downer Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
