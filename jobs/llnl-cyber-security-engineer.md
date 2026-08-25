@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Livermore, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014562316-cyber-security-engineer) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014626747-cyber-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at LLNL was posted on 2026-08-12.
+This soc & incident response position at LLNL was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

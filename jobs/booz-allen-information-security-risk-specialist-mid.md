@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Honolulu, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Information-Security-Risk-Specialist--Mid_R0244003) |
+| Location | Camp H.M. Smith, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/Information-Security-Risk-Specialist--Mid_R0235713) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-09.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

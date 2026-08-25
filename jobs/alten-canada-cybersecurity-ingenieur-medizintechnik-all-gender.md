@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000140004746-cybersecurity-ingenieur-medizintechnik-all-gender) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000143777099-cybersecurity-ingenieur-medizintechnik-all-gender) |
 
 ## About This Role
 
-This cybersecurity engineer position at ALTEN Canada was posted on 2026-07-27.
+This embedded / firmware engineer position at ALTEN Canada was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

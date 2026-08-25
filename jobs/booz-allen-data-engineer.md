@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0240530) |
+| Location | Fayetteville, North Carolina, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0247124) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-19.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

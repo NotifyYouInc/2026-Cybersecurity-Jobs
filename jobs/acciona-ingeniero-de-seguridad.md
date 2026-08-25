@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/INGENIERO-DE-SEGURIDAD_20100603-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/INGENIERO-DE-SEGURIDAD_20100834) |
 
 ## About This Role
 
-This cybersecurity engineer position at Acciona was posted on 2026-08-13.
+This cybersecurity engineer position at Acciona was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124859759-leder-for-cybersecurity-styring-og-kvalitet) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143808830-leder-for-cybersecurity-styring-og-kvalitet) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-06.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

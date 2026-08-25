@@ -5,12 +5,12 @@
 | Company | [Nemera](https://scoutify.ai/companies/nemera?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nemera/744000140017640-cybersecurity-analyst-fmx) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nemera/744000143835801-cybersecurity-analyst-fmx) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nemera was posted on 2026-07-27.
+This cybersecurity engineer position at Nemera was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

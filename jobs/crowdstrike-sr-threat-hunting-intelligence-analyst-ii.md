@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Tokyo/Sr-Threat-Hunting-Intelligence-Analyst-II_R27888) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Saudi-Arabia---Remote/Sr-Threat-Hunting-Intelligence-Analyst-II_R29820) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-03-16.
+This soc & incident response position at CrowdStrike was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

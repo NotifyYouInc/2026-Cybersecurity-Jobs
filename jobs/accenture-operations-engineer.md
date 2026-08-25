@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5679419-S2060739) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5698411-S2064536-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-07-27.
+This cybersecurity engineer position at Accenture was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

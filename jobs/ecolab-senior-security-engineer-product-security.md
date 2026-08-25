@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-Security-Engineer---Product-Security_R00300472) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-Security-Engineer---Product-Security_R00300503) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ecolab was posted on 2026-08-13.
+This cybersecurity engineer position at Ecolab was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

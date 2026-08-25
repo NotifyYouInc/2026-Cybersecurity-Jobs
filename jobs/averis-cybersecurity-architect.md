@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Averis](https://scoutify.ai/companies/averis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Kuala-Lumpur/Cybersecurity-Architect_R200739) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Kuala-Lumpur/Cybersecurity-Architect_R201749) |
 
 ## About This Role
 
-This security engineer position at Averis was posted on 2026-06-30.
+This cybersecurity engineer position at Averis was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

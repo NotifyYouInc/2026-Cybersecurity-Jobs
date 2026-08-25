@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Illinois, US |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV-AnMhOtKQCjO5J5mNBZft5WCjRtRdUzbO6mFLAjn_LEjsA1Ny_i_taAXqwJFZ-zIbvnXidL7MYl12HQ9TIGBow3-kV0uH9r4yRlQguf9sXPTMi0R2iTNrdh8QZ2g%3D%3D_V2&loc=US&title=Principal+Strategic+Application+Security+Consultant) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQqqjjiosf8zZ4xBqKKiKeQmNtIvMFj1LxGbX36RlxI7EjsA1Ny_i8nVEe7CaEiGZe-U_T04wbg51a5bGvVFxvpvixzcP94zHX_A-SEJS5RO8zhEZfj9AFTWh_-uWg%3D%3D_V2&loc=US&title=Principal+Strategic+Application+Security+Consultant) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-19.
+This cybersecurity engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | O'Fallon, Missouri, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Security-Monitoring-and-Response-Analyst_R-278772) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Security-Monitoring-and-Response-Analyst_R-281041-1) |
 
 ## About This Role
 
-This soc & incident response position at Mastercard was posted on 2026-06-03.
+This soc & incident response position at Mastercard was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

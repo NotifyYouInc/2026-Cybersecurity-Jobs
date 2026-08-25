@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Network-Engineer_R-00188299) |
+| Location | Shiloh, Illinois, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineer_R-00189830) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-07-28.
+This soc & incident response position at Leidos was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

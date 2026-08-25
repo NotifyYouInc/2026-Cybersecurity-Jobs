@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/SSD-Brasil---Cyber-Analyst-lll_Req1578307-1) |
+| Location | Campinas, São Paulo, Brazil |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CAMPINAS/SSD-Brasil---Cyber-Analyst-lll_Req1599004) |
 
 ## About This Role
 
-This security engineer position at Santander was posted on 2026-05-27.
+This soc & incident response position at Santander was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

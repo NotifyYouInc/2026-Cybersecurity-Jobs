@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUqBTxeugs9TcPtio3T4GcznvQiMTHfXreqzLIai5TYnEjsA1Ny_i2hvOLI5GvJFnP57BcsORSiVPd1RyptwGhjft8hyQDJT19VDdYJXNFVgqJy4AVQBkoXQjoGjYA%3D%3D_V2&loc=US&title=Security+Engineer) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYL8EWjewd8wQXwz4gFNCDR_HtyDXex-7TBOzaczpRStEjsA1Ny_i2XAF7NCGkAZuPcczmwkXgT206j0ESRHjZkmXWZ6KSQ3WW-c2KO1GkLmrAvijaC1ws4kMQ9Fng%3D%3D_V2&loc=AU&title=Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-07-15.
+This cybersecurity engineer position at Google was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

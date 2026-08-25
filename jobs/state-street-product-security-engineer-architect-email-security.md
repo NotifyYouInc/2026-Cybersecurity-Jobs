@@ -1,16 +1,16 @@
-# Product Security Engineer / Architect – Email Security at State Street
+#  Product Security Engineer / Architect – Email Security at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Product-Security-Engineer---Architect---Email-Security_R-794118) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/XMLNAME--Product-Security-Engineer---Architect---Email-Security_R-796170) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-07-14.
+This cybersecurity engineer position at State Street was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

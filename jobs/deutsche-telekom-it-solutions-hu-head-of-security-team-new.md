@@ -1,16 +1,16 @@
-# Head of Security Team - NEW at Deutsche Telekom IT Solutions HU
+# Head of Security Team -NEW at Deutsche Telekom IT Solutions HU
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000143305289-head-of-security-team-new) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000143698489-head-of-security-team-new) |
 
 ## About This Role
 
-This cybersecurity engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-08-13.
+This cybersecurity engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

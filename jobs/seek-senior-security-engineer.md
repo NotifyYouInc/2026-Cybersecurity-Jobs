@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cremorne, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000137376038-senior-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000143968915-senior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at SEEK was posted on 2026-07-13.
+This cybersecurity engineer position at SEEK was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

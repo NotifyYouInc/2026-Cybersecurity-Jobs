@@ -1,16 +1,16 @@
-# Senior Network/Security Analyst (Onsite) at RTX
+# Senior Network/Security Analyst- Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Great Falls, Montana, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MT-GREAT-FALLS-6932-CUST--6932-Goddard-Dr--GODDARD-External-Site/Senior-Network-Security-Analyst--Onsite-_01849880) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MT-GREAT-FALLS-6932-CUST--6932-Goddard-Dr--GODDARD-External-Site/Senior-Network-Security-Analyst--Onsite_01866812) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-06-05.
+This it & systems administration position at RTX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

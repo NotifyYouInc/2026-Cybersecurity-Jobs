@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 6 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Cyber-Systems-Engineer--S-_R10238626) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Cyber-Systems-Engineer--S-_R10246054) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-07-01.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

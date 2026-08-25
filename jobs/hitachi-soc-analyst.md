@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Texas, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/SOC-Analyst_R0128608) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/SOC-Analyst_R0140919) |
 
 ## About This Role
 
-This soc & incident response position at Hitachi was posted on 2026-05-18.
+This soc & incident response position at Hitachi was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Staff-Threat-Intelligence-Researcher_R26_554) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Staff-Threat-Intelligence-Researcher_R26_913) |
 
 ## About This Role
 
-This security engineer position at Arctic Wolf was posted on 2026-05-25.
+This cybersecurity engineer position at Arctic Wolf was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

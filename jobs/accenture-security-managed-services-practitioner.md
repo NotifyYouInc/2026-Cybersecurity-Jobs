@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Security-Managed-Services-Practitioner_ATCI-5401391-S2062036-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Managed-Services-Practitioner_ATCI-5711423-S2064721-1) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-07-31.
+This cybersecurity engineer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

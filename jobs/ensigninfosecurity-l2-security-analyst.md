@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Selangor/L2-Security-Analyst_JOBREQ-0003510) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Kuala-Lumpur/L2-Security-Analyst_JOBREQ-0003588) |
 
 ## About This Role
 
-This soc & incident response position at Ensigninfosecurity was posted on 2026-06-24.
+This soc & incident response position at Ensigninfosecurity was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
