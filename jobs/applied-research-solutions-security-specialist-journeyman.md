@@ -1,0 +1,22 @@
+# Security Specialist Journeyman at Applied Research Solutions
+
+| Field | Details |
+|-------|---------|
+| Company | [Applied Research Solutions](https://scoutify.ai/companies/recruiting-ultipro-com-oj7520?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Not specified |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=b4a80eb9-61b4-4d81-95ff-4aa7961305c5) |
+
+## About This Role
+
+This cybersecurity engineer position at Applied Research Solutions was posted on 2026-08-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

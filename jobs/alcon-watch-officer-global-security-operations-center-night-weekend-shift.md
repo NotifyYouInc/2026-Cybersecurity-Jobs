@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Watch-Officer--Global-Security-Operations-Center--Night-Weekend-Shift-_R-2026-45523-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Watch-Officer--Global-Security-Operations-Center--Night-Weekend-Shift-_R-2026-48829-1) |
 
 ## About This Role
 
-This soc & incident response position at Alcon was posted on 2026-03-26.
+This soc & incident response position at Alcon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

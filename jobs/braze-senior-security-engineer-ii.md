@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8080170?gh_jid=8080170) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8140267?gh_jid=8140267) |
 
 ## About This Role
 
-This cybersecurity engineer position at Braze was posted on 2026-07-24.
+This cybersecurity engineer position at Braze was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

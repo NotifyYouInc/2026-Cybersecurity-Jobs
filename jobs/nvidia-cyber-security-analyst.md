@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Cyber-Security-Analyst_JR2015853) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Cyber-Security-Analyst_JR2018645) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-04-16.
+This soc & incident response position at Nvidia was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

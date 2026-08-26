@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000143738189-application-security-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000144171614-application-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Endeavour Group Careers was posted on 2026-08-17.
+This cybersecurity engineer position at Endeavour Group Careers was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

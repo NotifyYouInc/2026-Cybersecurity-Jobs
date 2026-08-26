@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TriNet](https://scoutify.ai/companies/ocs-cx-oj111016?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3003402) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3003929) |
 
 ## About This Role
 
-This security engineer position at TriNet was posted on 2026-03-25.
+This cybersecurity engineer position at TriNet was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

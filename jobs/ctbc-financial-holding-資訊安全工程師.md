@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR8756) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR8924) |
 
 ## About This Role
 
-This cybersecurity engineer position at CTBC Financial Holding was posted on 2026-08-03.
+This cybersecurity engineer position at CTBC Financial Holding was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-District-of-Columbia/Information-Systems-Security-Manager--ISSM-_R2126517) |
+| Location | Orange Park, Florida, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Orange-Park-Florida/Information-Systems-Security-Manager--ISSM-_R2128271) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-13.
+This cybersecurity engineer position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

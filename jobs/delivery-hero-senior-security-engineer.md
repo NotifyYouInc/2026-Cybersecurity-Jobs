@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Greece |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137661261-senior-security-engineer) |
+| Location | Athens, Attica, Greece |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000144042409-senior-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Delivery Hero was posted on 2026-07-14.
+This cybersecurity engineer position at Delivery Hero was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

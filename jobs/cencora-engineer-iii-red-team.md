@@ -1,16 +1,16 @@
-# Engineer III - Red Team at Cencora
+# Engineer III, Red Team at Cencora
 
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/Engineer-III---Red-Team_R265959) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Engineer-III--Red-Team_R2613616) |
 
 ## About This Role
 
-This offensive security & pentesting position at Cencora was posted on 2026-04-21.
+This cybersecurity engineer position at Cencora was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ford Island, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ford-Island-HI/SOAR-Engineer_R0241129) |
+| Location | Honolulu, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/SOAR-Engineer_R0247192) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-05-29.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013314401-it-security-project-specialist) |
+| Category | Project Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014641192-it-security-project-specialist) |
 
 ## About This Role
 
-This security engineer position at City of New York was posted on 2026-05-27.
+This project manager position at City of New York was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

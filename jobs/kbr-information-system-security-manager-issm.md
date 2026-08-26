@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Charleston, South Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Charleston-South-Carolina/Information-System-Security-Manager--ISSM-_R2126901) |
+| Location | Ohio, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Information-System-Security-Manager--ISSM-_R2128549) |
 
 ## About This Role
 
-This security engineer position at KBR was posted on 2026-07-21.
+This cybersecurity engineer position at KBR was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

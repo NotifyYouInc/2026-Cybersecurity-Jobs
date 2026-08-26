@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118401857-senior-cybersecurity-expert-threat-intelligence-mf) |
+| Location | Poland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144002066-senior-cybersecurity-expert-threat-intelligence-mf) |
 
 ## About This Role
 
-This soc & incident response position at Robert Bosch was posted on 2026-04-02.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

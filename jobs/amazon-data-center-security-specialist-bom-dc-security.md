@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462008/data-center-security-specialist-bom-dc-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504653/data-center-security-specialist-bom-dc-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-30.
+This cybersecurity engineer position at Amazon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

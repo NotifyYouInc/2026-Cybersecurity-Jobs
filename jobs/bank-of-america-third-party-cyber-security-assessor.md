@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Denver/Third-Party-Cyber-Security-Assessor_26021645) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Denver/Third-Party-Cyber-Security-Assessor_26030020-2) |
 
 ## About This Role
 
-This security engineer position at Bank of America was posted on 2026-06-26.
+This cybersecurity engineer position at Bank of America was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

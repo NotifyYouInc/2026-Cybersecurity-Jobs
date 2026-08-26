@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mbda](https://scoutify.ai/companies/mbda?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stevenage, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-08 |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Network-Security-Engineer--SOC-_R29549) |
 
 ## About This Role
 
-This security engineer position at Mbda was posted on 2026-04-08.
+This soc & incident response position at Mbda was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

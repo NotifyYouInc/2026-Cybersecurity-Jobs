@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rome, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cyber-Test-Engineer_R0241786) |
+| Location | San Antonio, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Test-Engineer_R0247311-1) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-09.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

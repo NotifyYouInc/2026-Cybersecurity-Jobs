@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Cybersecurity-Engineer_R0245818-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/Cybersecurity-Engineer_R0247249) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-03.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

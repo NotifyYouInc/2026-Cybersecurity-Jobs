@@ -1,16 +1,16 @@
-# Sr Principal Cyber Systems Engineer (2018-2) at Northrop Grumman
+# Sr Principal Cyber Systems Engineer #2018-2 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/Sr-Principal-Cyber-Systems-Engineer--2018-2-_R10232086) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Cyber-Systems-Engineer--2018-2_R10246208) |
 
 ## About This Role
 
-This security engineer position at Northrop Grumman was posted on 2026-05-06.
+This devops engineer position at Northrop Grumman was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

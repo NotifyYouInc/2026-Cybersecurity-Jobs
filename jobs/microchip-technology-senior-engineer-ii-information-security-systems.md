@@ -1,16 +1,16 @@
-# Senior Engineer II- Information  Security Systems at Microchip Technology
+# Senior Engineer II - Information Security Systems at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Boulder, Colorado, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Boulder/Senior-Engineer-II--Information--Security-Systems_R3332-26) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Boulder/Senior-Engineer-II---Information-Security-Systems_R3531-26) |
 
 ## About This Role
 
-This cybersecurity engineer position at Microchip Technology was posted on 2026-07-30.
+This cybersecurity engineer position at Microchip Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
