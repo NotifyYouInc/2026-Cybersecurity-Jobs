@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tysons, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8451470002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8564941002) |
 
 ## About This Role
 
-This security engineer position at Alarm.com was posted on 2026-03-24.
+This cybersecurity engineer position at Alarm.com was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

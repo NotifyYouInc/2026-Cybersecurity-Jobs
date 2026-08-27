@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Associate-AI-Security-Specialist_157477-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Associate-AI-Security-Specialist_161138-1) |
 
 ## About This Role
 
-This security engineer position at Lloyds Bank was posted on 2026-05-28.
+This cybersecurity engineer position at Lloyds Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

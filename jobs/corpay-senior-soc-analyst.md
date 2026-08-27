@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/London-The-Point---Cross-Border/Senior-SOC-Analyst_R09296) |
 
 ## About This Role
 
-This soc & incident response position at Corpay was posted on 2026-08-18.
+This cybersecurity engineer position at Corpay was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

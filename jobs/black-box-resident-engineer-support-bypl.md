@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Black Box](https://scoutify.ai/companies/us2-cx-oj14559?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://eoje.fa.us2.oraclecloud.com/jobs/#6511) |
 
 ## About This Role
 
-This soc & incident response position at Black Box was posted on 2026-08-19.
+This cybersecurity engineer position at Black Box was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

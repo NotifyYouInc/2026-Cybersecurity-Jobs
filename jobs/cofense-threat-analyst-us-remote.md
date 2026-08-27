@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cofense](https://scoutify.ai/companies/recruiting-ultipro-com-oj23742?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://recruiting.ultipro.com/phi1008pminc/JobBoard/2bfae9ff-dc34-4867-b871-a579eae69b54/OpportunityDetail?opportunityId=a7fa4c95-14a0-459d-8dba-f7402c29c20c) |
 
 ## About This Role
 
-This soc & incident response position at Cofense was posted on 2026-08-18.
+This cybersecurity engineer position at Cofense was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

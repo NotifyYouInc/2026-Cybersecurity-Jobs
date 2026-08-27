@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Associate-Security-Response---Emergency-Representative_R-569237) |
 
 ## About This Role
 
-This soc & incident response position at Wells Fargo was posted on 2026-08-18.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

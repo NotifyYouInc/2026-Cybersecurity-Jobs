@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5214976007) |
 
 ## About This Role
 
-This devops engineer position at M9 Solutions was posted on 2026-08-18.
+This cybersecurity engineer position at M9 Solutions was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

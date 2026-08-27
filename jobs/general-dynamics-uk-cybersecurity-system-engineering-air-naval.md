@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Dartmouth, Nova Scotia, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000142910619-cybersecurity-system-engineering-air-naval) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000144352484-cybersecurity-system-engineering-air-naval) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics UK was posted on 2026-08-11.
+This cybersecurity engineer position at General Dynamics UK was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

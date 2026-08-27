@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Data-Security-Engineer_R-1097662-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Data-Security-Engineer_R-1097669-1) |
 
 ## About This Role
 
-This data engineer position at Verizon was posted on 2026-08-07.
+This cybersecurity engineer position at Verizon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

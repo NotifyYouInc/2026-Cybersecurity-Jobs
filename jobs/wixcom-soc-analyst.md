@@ -1,16 +1,16 @@
-# SOC Analyst  at Wix.com
+# SOC Analyst at Wix.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000132245199-soc-analyst) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000144548220-soc-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Wix.com was posted on 2026-06-15.
+This cybersecurity engineer position at Wix.com was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado, US |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Buckley-SFB-CO/Cyber-Mission-Engineer_R015355) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Buckley-SFB-CO/Cyber-Mission-Engineer_R016069) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-05-08.
+This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/c5726e3b-72c1-4240-b99d-526d0a9adbad) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/f4b3077c-69dd-4656-851d-d9da65529634) |
 
 ## About This Role
 
-This cybersecurity engineer position at Harvey was posted on 2026-08-01.
+This cybersecurity engineer position at Harvey was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

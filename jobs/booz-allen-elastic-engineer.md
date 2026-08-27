@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Elastic-Engineer_R0244908) |
+| Location | Camp H.M. Smith, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/Elastic-Engineer_R0247392) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-20.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

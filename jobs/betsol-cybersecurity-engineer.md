@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000143983839-cybersecurity-engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000144380719-cybersecurity-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at BETSOL was posted on 2026-08-18.
+This cybersecurity engineer position at BETSOL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

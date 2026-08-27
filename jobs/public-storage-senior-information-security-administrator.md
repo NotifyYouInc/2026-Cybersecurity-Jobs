@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000144089804-senior-information-security-administrator) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000144598729-senior-information-security-administrator) |
 
 ## About This Role
 
-This cybersecurity engineer position at Public Storage was posted on 2026-08-18.
+This cybersecurity engineer position at Public Storage was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

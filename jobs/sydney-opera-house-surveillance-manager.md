@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sydney Opera House](https://scoutify.ai/companies/ocs-cx-oj103092?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://fa-evmb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3705) |
 
 ## About This Role
 
-This soc & incident response position at Sydney Opera House was posted on 2026-08-19.
+This cybersecurity engineer position at Sydney Opera House was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

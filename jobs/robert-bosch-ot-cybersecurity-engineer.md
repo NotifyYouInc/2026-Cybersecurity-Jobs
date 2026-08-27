@@ -1,16 +1,16 @@
-# OT Cybersecurity Engineer at Robert Bosch
+# OT CyberSecurity Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141256478-ot-cybersecurity-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144473648-ot-cybersecurity-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-08-03.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

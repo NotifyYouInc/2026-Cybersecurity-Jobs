@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000143126878-apprenti-ingenieur-systeme-reseau-cybersecurite-fh) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144315028-apprenti-ingenieur-systeme-reseau-cybersecurite-fh) |
 
 ## About This Role
 
-This it & systems administration position at Talan was posted on 2026-08-12.
+This it & systems administration position at Talan was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

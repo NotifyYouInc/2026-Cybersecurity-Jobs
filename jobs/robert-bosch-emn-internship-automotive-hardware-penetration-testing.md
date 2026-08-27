@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Vietnam |
-| Category | Embedded / Firmware Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144233170-emn-internship-automotive-hardware-penetration-testing) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-08-19.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

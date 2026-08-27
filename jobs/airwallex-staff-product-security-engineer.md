@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/f77a698d-b8f1-481a-8827-eb2262acc177) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/1b63af30-7155-4ecb-af13-12f934dd8ad3) |
 
 ## About This Role
 
-This security engineer position at Airwallex was posted on 2026-06-02.
+This cybersecurity engineer position at Airwallex was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

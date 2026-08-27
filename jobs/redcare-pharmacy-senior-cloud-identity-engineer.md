@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000138110650-senior-cloud-identity-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144291369-senior-cloud-identity-engineer) |
 
 ## About This Role
 
-This security engineer position at Redcare Pharmacy was posted on 2026-07-16.
+This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

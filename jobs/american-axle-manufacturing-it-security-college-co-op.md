@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Axle & Manufacturing](https://scoutify.ai/companies/aampower?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Detroit, Michigan, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/IT-Security-College-Co-Op_JREQ-223947) |
 
 ## About This Role
 
-This soc & incident response position at American Axle & Manufacturing was posted on 2026-08-18.
+This cybersecurity engineer position at American Axle & Manufacturing was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Poland/Engineer---Security-Engineering_R218111-1) |
+| Location | Sri Lanka |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Engineer---Cybersecurity_R263187) |
 
 ## About This Role
 
-This security engineer position at Sysco was posted on 2026-04-29.
+This cybersecurity engineer position at Sysco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

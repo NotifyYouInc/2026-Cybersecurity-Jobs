@@ -5,12 +5,12 @@
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Cybersecurity-Analyst_R-2025-60593) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Cybersecurity-Analyst_R-2026-70452) |
 
 ## About This Role
 
-This cybersecurity engineer position at Southwest Airlines was posted on 2026-02-04.
+This cybersecurity engineer position at Southwest Airlines was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

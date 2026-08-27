@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-CIRT---Threat-Intel-Analyst_328527-1) |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Senior-CIRT---Threat-Intel-Analyst_328526-1) |
 
 ## About This Role
 
-This soc & incident response position at S&P Global was posted on 2026-06-03.
+This cybersecurity engineer position at S&P Global was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

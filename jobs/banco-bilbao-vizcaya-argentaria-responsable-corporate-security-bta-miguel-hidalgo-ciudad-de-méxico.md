@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Responsable-Corporate-Security-BTA---Miguel-Hidalgo--Ciudad-de-Mxico-_JR00108354-1) |
 
 ## About This Role
 
-This soc & incident response position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-18.
+This cybersecurity engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransCore](https://scoutify.ai/companies/transcore?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Houston, Texas, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/tra1034tnsc/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=8fd52e0d-56a5-4678-b7a7-d25828833139) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/tra1034tnsc/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=1cf6d5f6-63f9-42f5-b113-297f902eaf44) |
 
 ## About This Role
 
-This soc & incident response position at TransCore was posted on 2026-08-13.
+This cybersecurity engineer position at TransCore was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Danvers, Massachusetts, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Principal-Product-Security-Engineer_R-072595-1) |
+| Location | Santa Clara, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Principal-Product-Security-Engineer_R-094600-1) |
 
 ## About This Role
 
-This security engineer position at Johnson & Johnson was posted on 2026-05-05.
+This cybersecurity engineer position at Johnson & Johnson was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

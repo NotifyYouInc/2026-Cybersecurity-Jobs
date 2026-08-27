@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/Offensive-Security-Engineer--Penetration-Testing_R000153380-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/Offensive-Security-Engineer--Penetration-Testing_R000157572) |
 
 ## About This Role
 
-This offensive security & pentesting position at Procter & Gamble was posted on 2026-07-01.
+This cybersecurity engineer position at Procter & Gamble was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

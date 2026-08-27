@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Laurel, Maryland, United States |
+| Location | Lorton, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Senior-Network-Engineer_R-00189768) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Senior-Network-Engineer_R-00189962-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-17.
+This cybersecurity engineer position at Leidos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

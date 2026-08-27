@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=cd1aac4b-bdd2-4af0-904c-2f6ad72257c2) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=321fa4fb-aa62-4dd5-8cf6-ea405be009f6) |
 
 ## About This Role
 
-This security engineer position at GCI was posted on 2026-06-22.
+This data analyst position at GCI was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

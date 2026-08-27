@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cyber-Intelligence-Analyst_R0246680) |
+| Location | Lakewood, Colorado, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lakewood-CO/Cyber-Intelligence-Analyst_R0247444) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-08-12.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

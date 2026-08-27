@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014467106-ccewin-engineer) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014667946-ccewin-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at City of New York was posted on 2026-08-06.
+This it & systems administration position at City of New York was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

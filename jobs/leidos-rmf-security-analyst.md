@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Odenton, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/RMF-Security-Analyst_R-00186528) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/RMF-Security-Analyst_R-00190057-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-01.
+This cybersecurity engineer position at Leidos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000138558434-srcloud-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000144290220-srcloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Syngenta was posted on 2026-07-20.
+This cybersecurity engineer position at Syngenta was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

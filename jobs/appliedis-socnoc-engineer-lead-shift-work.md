@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
-| Category | SOC & Incident Response |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Remote---VA/SOC-NOC-Engineer---Lead---Shift-Work_JR2026001331) |
 
 ## About This Role
 
-This soc & incident response position at Appliedis was posted on 2026-08-19.
+This semiconductor / chip design position at Appliedis was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

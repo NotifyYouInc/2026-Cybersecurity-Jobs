@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Markham, Ontario, Canada |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000144030131-head-of-cyber-defence-incident-response) |
+| Location | London, England, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000144292809-head-of-cyber-defence-incident-response) |
 
 ## About This Role
 
-This soc & incident response position at Quadient was posted on 2026-08-18.
+This cybersecurity engineer position at Quadient was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

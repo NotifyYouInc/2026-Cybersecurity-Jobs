@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Senior-Information-System-Security-Engineer--ISSE--II---Tucson--AZ_01838111) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Senior-Information-System-Security-Engineer--ISSE--II---Tucson--AZ_01867669) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-14.
+This cybersecurity engineer position at RTX was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

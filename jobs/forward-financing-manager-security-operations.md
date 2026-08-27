@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Forward Financing](https://scoutify.ai/companies/forward-financing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/forward%20financing/c346ad0f-d8d4-406f-b1a1-11e3f0f9b91c) |
 
 ## About This Role
 
-This soc & incident response position at Forward Financing was posted on 2026-08-18.
+This cybersecurity engineer position at Forward Financing was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Security Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000134749779-sicherheitsingenieur-mwd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000144346734-sicherheitsingenieur-mwd) |
 
 ## About This Role
 
-This security engineer position at Sika was posted on 2026-06-29.
+This cybersecurity engineer position at Sika was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

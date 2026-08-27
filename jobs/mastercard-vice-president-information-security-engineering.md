@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Information-Security-Engineering_R-273218) |
+| Location | Arlington, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Vice-President--Information-Security-Engineering_R-287467-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-03-19.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

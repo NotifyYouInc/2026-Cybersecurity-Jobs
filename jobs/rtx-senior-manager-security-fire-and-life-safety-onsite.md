@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Midland, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-AB1--88018987-Macon-Rd--BLDG-AB1/Senior-Manager--Security--Fire--and-Life-Safety--Onsite-_01848098) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-AB1--88018987-Macon-Rd--BLDG-AB1/Senior-Manager--Security--Fire--and-Life-Safety--Onsite-_01868068) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-05-28.
+This cybersecurity engineer position at RTX was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

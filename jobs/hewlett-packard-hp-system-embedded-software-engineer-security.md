@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/System-Embedded-Software-Engineer---Security_3167254-1) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard (HP) was posted on 2026-08-18.
+This cybersecurity engineer position at Hewlett Packard (HP) was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

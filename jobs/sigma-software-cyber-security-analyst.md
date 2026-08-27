@@ -1,16 +1,16 @@
-# Cyber Security Analyst at Sigma Software
+# Cyber Security Analyst  at Sigma Software
 
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113991358-cyber-security-analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000144282504-cyber-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Sigma Software was posted on 2026-03-11.
+This cybersecurity engineer position at Sigma Software was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

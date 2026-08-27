@@ -1,16 +1,16 @@
-# Senior Cybersecurity Engineer (US Federal) at Workday
+# Senior Cybersecurity Engineer - US Federal at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Engineer--US-Federal-_JR-0105513) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cybersecurity-Engineer---US-Federal_JR-0109166) |
 
 ## About This Role
 
-This security engineer position at Workday was posted on 2026-07-06.
+This cybersecurity engineer position at Workday was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

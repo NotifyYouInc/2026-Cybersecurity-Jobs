@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/AI-GRC-Architect_R-10398815) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/AI-GRC-Architect_R-10398816) |
 
 ## About This Role
 
-This compliance & risk management position at Fiserv was posted on 2026-07-23.
+This compliance & risk management position at Fiserv was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
