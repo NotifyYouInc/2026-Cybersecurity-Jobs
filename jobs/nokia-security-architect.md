@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
+| Location | Portugal |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#38910) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#39716) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nokia was posted on 2026-08-05.
+This cybersecurity engineer position at Nokia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

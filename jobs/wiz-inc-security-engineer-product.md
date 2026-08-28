@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4654705006/:title?gh_jid=4654705006) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4707176006/:title?gh_jid=4707176006) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wiz, Inc. was posted on 2026-08-04.
+This cybersecurity engineer position at Wiz, Inc. was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

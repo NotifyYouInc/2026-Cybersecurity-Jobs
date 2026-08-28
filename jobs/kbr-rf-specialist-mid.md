@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/RF-Specialist---Mid_R2128589) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-08-19.
+This soc & incident response position at KBR was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

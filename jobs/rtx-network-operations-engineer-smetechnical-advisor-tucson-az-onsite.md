@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807A--1151-E-Hermans-Rd--BLDG-807A/Network-Operations-Engineer--SME-Technical-Advisor---Tucson--AZ---Onsite_01868022) |
 
 ## About This Role
 
-This it & systems administration position at RTX was posted on 2026-08-20.
+This cybersecurity engineer position at RTX was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

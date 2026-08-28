@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Glasgow/Network-Analyst_JR21299-1) |
 
 ## About This Role
 
-This it & systems administration position at Aggreko was posted on 2026-08-20.
+This cybersecurity engineer position at Aggreko was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

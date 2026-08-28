@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Camp Springs, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Information-Systems-Security-Engineer_R-00187165) |
+| Location | Reston, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Information-Systems-Security-Engineer_R-00190261) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-13.
+This cybersecurity engineer position at Leidos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

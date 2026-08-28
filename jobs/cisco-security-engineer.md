@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maynard, Massachusetts, United States |
+| Location | Miami, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Security-Engineer_2019270-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Miami-Florida-US/Security-Engineer_2020991-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-08-11.
+This cybersecurity engineer position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

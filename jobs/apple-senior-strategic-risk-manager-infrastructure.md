@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669797/senior-strategic-risk-manager-infrastructure) |
+| Location | Seattle, Washington, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673280/senior-strategic-risk-manager-infrastructure) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-06-24.
+This strategy & operations position at Apple was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

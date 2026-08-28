@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Maryland, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oklahoma-City-OK/Information-Security-Risk-Specialist_R0247325) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0247513) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-18.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000144548220-soc-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wix.com was posted on 2026-08-20.
+This soc & incident response position at Wix.com was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

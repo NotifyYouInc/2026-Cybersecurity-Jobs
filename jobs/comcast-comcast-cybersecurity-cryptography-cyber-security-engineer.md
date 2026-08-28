@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Cybersecurity--Cryptography-Cyber-Security-Engineer_R438849) |
+| Location | Pennsylvania, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Cybersecurity--Cryptography-Cyber-Security-Engineer_R442967-1) |
 
 ## About This Role
 
-This security engineer position at Comcast was posted on 2026-07-01.
+This cybersecurity engineer position at Comcast was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

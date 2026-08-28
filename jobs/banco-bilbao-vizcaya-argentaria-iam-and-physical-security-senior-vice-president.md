@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York, US |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/New-York/IAM-and-Physical-Security-Senior-Vice-President_JR00100442) |
 
 ## About This Role
 
-This security engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-09.
+This cybersecurity engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Joint Base Pearl Harbor Hickam, Hawaii, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014472654-information-systems-security-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014718576-information-systems-security-manager) |
 
 ## About This Role
 
-This cybersecurity engineer position at SOSi was posted on 2026-08-06.
+This cybersecurity engineer position at SOSi was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

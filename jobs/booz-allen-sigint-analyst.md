@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/SIGINT-Analyst_R0243971-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/SIGINT-Analyst_R0247583) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-08.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-RSE--SENIOR--EXECUTIVE-ENGINEER--RAIL-CYBERSECURITY_JR-10000048924) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-RSE--SENIOR--EXECUTIVE-ENGINEER--RAIL-CYBERSECURITY_JR-10000054704) |
 
 ## About This Role
 
-This security engineer position at Economic Development Board was posted on 2026-04-28.
+This cybersecurity engineer position at Economic Development Board was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

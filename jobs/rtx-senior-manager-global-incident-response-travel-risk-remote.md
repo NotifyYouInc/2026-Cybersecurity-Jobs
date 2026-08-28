@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Connecticut, US |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Senior-Manager--Global-Incident-Response---Travel-Risk--Remote-_01867820-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at RTX was posted on 2026-08-20.
+This soc & incident response position at RTX was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

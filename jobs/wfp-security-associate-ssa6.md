@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Beirut-Lebanon-The-Republic-Of/Security-Associate-SSA6_JR126075) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wfp was posted on 2026-08-19.
+This soc & incident response position at Wfp was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

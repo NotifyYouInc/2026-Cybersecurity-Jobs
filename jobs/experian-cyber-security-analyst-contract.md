@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143478210-cyber-security-analyst-contract) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144679339-cyber-security-analyst-contract) |
 
 ## About This Role
 
-This cybersecurity engineer position at Experian was posted on 2026-08-14.
+This cybersecurity engineer position at Experian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8729113002) |
 
 ## About This Role
 
-This it & systems administration position at Anaplan was posted on 2026-08-20.
+This cybersecurity engineer position at Anaplan was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Industrial-Security-Analyst_R10244212) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Industrial-Security-Analyst_R10245561) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-11.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

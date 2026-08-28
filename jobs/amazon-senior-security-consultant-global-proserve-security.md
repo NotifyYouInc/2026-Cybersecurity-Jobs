@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Jersey City, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449999/senior-security-consultant-global-proserve-security) |
+| Location | Atlanta, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10509906/senior-security-consultant-global-proserve-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-16.
+This cybersecurity engineer position at Amazon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

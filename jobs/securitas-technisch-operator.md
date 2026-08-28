@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Enghien, Wallonia, Belgium |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000144331109-technisch-operator) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000144570035-technisch-operator) |
 
 ## About This Role
 
-This cybersecurity engineer position at Securitas was posted on 2026-08-19.
+This soc & incident response position at Securitas was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

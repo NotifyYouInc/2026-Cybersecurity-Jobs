@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Associate--Information-Security-Analyst_JR0151807) |
 
 ## About This Role
 
-This cybersecurity engineer position at McKesson was posted on 2026-08-20.
+This soc & incident response position at McKesson was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

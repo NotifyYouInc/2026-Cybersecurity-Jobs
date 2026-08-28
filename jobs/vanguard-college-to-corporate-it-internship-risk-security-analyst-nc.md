@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_177689-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) |
 
 ## About This Role
 
-This cybersecurity engineer position at Vanguard was posted on 2026-08-17.
+This cybersecurity engineer position at Vanguard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

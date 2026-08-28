@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Knutsford, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014554206-cryptography-operations-and-infrastructure-specialist) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014732506-cryptography-operations-and-infrastructure-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at HelloKindred was posted on 2026-08-12.
+This cybersecurity engineer position at HelloKindred was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

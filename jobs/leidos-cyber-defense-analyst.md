@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Suitland, Maryland, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cyber-Defense-Analyst_R-00184469-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Cyber-Defense-Analyst_R-00190180) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-06-01.
+This soc & incident response position at Leidos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

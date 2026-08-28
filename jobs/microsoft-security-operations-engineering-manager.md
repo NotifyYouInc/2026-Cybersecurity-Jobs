@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556971416) |
 
 ## About This Role
 
-This cybersecurity engineer position at Microsoft was posted on 2026-08-19.
+This soc & incident response position at Microsoft was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

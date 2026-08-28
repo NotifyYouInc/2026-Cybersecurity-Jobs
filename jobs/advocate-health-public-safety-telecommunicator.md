@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Park Ridge, Illinois, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Advocate-Lutheran-General-Hospital---1775-Dempster-St/Public-Safety-Telecommunicator_R226909) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Milwaukee-WI---3031-W-Montana-St/Public-Safety-Telecommunicator_R266921) |
 
 ## About This Role
 
-This soc & incident response position at Advocate Health was posted on 2026-03-26.
+This soc & incident response position at Advocate Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

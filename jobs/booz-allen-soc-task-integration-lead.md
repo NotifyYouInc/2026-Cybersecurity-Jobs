@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/SOC-Task---Integration-Lead_R0247114) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
+This soc & incident response position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

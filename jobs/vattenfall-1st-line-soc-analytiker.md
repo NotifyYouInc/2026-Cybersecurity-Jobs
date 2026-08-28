@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000144243019-1st-line-soc-analytiker) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000144700040-1st-line-soc-analytiker) |
 
 ## About This Role
 
-This cybersecurity engineer position at Vattenfall was posted on 2026-08-19.
+This soc & incident response position at Vattenfall was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

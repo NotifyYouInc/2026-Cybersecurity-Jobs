@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/PAM-and-Secrets-Management-Engineer_R2616941) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/PAM-and-Secrets-Management-Engineer_R2626833) |
 
 ## About This Role
 
-This security engineer position at Applied Materials was posted on 2026-04-09.
+This cybersecurity engineer position at Applied Materials was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

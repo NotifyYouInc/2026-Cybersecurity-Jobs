@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Administrateur-ou-administratrice--Plateforme-PAM--Privileged-access-management-_R2609988) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-08-20.
+This cybersecurity engineer position at Desjardins was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

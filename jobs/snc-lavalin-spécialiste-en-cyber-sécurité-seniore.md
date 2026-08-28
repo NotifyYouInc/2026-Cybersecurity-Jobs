@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAQCQubec5500-boul-des-Galeries/Spcialiste-en-Cyber-scurit-Senior-e-_R-160253) |
+| Location | Montréal, Quebec, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Spcialiste-en-Cyber-scurit-Senior-e-_R-162203-1) |
 
 ## About This Role
 
-This security engineer position at SNC-Lavalin was posted on 2026-07-22.
+This cybersecurity engineer position at SNC-Lavalin was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

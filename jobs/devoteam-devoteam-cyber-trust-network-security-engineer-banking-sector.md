@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144268239-devoteam-cyber-trust-network-security-engineer-banking-sector) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144530337-devoteam-cyber-trust-network-security-engineer-banking-sector) |
 
 ## About This Role
 
-This cybersecurity engineer position at Devoteam was posted on 2026-08-19.
+This cybersecurity engineer position at Devoteam was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

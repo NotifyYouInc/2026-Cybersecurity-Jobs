@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Sr-Principal-Embedded-System-Security-Engineer--Onsite---Marlborough--MA-or-Largo--FL--Secret-Clearance-required_01868063) |
 
 ## About This Role
 
-This cybersecurity engineer position at RTX was posted on 2026-08-19.
+This embedded / firmware engineer position at RTX was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

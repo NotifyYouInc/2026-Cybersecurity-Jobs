@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zup Innovation](https://scoutify.ai/companies/zupinnovation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zupinnovation/jobs/7819117003) |
 
 ## About This Role
 
-This cybersecurity engineer position at Zup Innovation was posted on 2026-08-19.
+This soc & incident response position at Zup Innovation was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

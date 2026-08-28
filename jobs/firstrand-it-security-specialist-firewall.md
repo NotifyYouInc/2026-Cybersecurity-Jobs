@@ -5,12 +5,12 @@
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Randburg, Gauteng, South Africa |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/IT-Security-Specialist--Firewall-_R52584-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/IT-Security-Specialist--Firewall-_R52697-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at FirstRand was posted on 2026-08-14.
+This cybersecurity engineer position at FirstRand was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Waterford, Munster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Cyber-Use-Case-Developer_JR00126352) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Senior-Cyber-Use-Case-Developer_JR00127221) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sun Life Financial was posted on 2026-07-27.
+This cybersecurity engineer position at Sun Life Financial was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

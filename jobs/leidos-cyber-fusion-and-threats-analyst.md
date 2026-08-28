@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Odenton, Maryland, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cyber-Fusion-and-Threats-Analyst_R-00190016) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-19.
+This soc & incident response position at Leidos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

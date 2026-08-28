@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/T26-9624--Application--Infrastructure---Service-Management--AVP_R-796290-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at State Street was posted on 2026-08-20.
+This soc & incident response position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

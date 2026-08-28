@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Core One](https://scoutify.ai/companies/core-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/coreone/jobs/8733613002) |
 
 ## About This Role
 
-This it & systems administration position at Core One was posted on 2026-08-20.
+This cybersecurity engineer position at Core One was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

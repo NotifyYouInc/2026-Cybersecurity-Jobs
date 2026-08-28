@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SecurityScorecard](https://scoutify.ai/companies/securityscorecard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/8040012) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/8146113) |
 
 ## About This Role
 
-This security engineer position at SecurityScorecard was posted on 2026-07-01.
+This cybersecurity engineer position at SecurityScorecard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UL Solutions](https://scoutify.ai/companies/ocs-cx-oj109581?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Basingstoke, England, United Kingdom |
-| Category | Compliance & Risk Management |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10500) |
 
 ## About This Role
 
-This compliance & risk management position at UL Solutions was posted on 2026-08-20.
+This cybersecurity engineer position at UL Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

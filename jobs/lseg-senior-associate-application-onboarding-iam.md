@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-Associate--Application-Onboarding---IAM_R0117788-1) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Associate--Application-Onboarding---IAM_R0122455-1) |
 
 ## About This Role
 
-This security engineer position at LSEG was posted on 2026-05-26.
+This cybersecurity engineer position at LSEG was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

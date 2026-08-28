@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alsglobal](https://scoutify.ai/companies/alsglobal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | IT & Systems Administration |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://alsglobal.wd103.myworkdayjobs.com/external/job/Madrid-Spain/Information-Protection-Specialist_R8303) |
 
 ## About This Role
 
-This it & systems administration position at Alsglobal was posted on 2026-08-20.
+This cybersecurity engineer position at Alsglobal was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
