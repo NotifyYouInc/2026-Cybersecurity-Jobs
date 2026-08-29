@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vivenu](https://scoutify.ai/companies/vivenu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Program Manager |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/vivenu/17ab4ccd-7b1f-486e-b82f-da87626aa462) |
 
 ## About This Role
 
-This program manager position at Vivenu was posted on 2026-08-21.
+This cybersecurity engineer position at Vivenu was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

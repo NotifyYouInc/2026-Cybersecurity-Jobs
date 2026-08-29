@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Waterloo, Wallonia, Belgium |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Senior-Threat-Intelligence-Analyst_R-280307) |
 
 ## About This Role
 
-This soc & incident response position at Mastercard was posted on 2026-08-20.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Incident-Response-Specialist--Analyst_10078841-WD-1) |
 
 ## About This Role
 
-This soc & incident response position at Mitsubishi UFG was posted on 2026-08-20.
+This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

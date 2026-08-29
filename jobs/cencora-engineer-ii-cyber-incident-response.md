@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Engineer-II---Cyber-Incident-Response_R2613730) |
 
 ## About This Role
 
-This soc & incident response position at Cencora was posted on 2026-08-21.
+This cybersecurity engineer position at Cencora was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

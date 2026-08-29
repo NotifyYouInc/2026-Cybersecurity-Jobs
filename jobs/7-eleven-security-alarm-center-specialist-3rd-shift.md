@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Enon, Virginia, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Enon-OH/Security-Alarm-Center-Specialist---3rd-Shift_R26_5183) |
 
 ## About This Role
 
-This soc & incident response position at 7-Eleven was posted on 2026-08-21.
+This cybersecurity engineer position at 7-Eleven was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

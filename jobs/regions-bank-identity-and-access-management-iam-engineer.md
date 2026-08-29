@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Identity-and-Access-Management--IAM--Engineer_R102526) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Identity-and-Access-Management--IAM--Engineer_R105469) |
 
 ## About This Role
 
-This security engineer position at Regions Bank was posted on 2026-05-08.
+This cybersecurity engineer position at Regions Bank was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Racine, Wisconsin, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Associate-Manager--Cyber-Security-Operations_33806) |
 
 ## About This Role
 
-This soc & incident response position at SC Johnson was posted on 2026-08-20.
+This cybersecurity engineer position at SC Johnson was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

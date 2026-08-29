@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Associate-Technician---IT-Networks_R2128647) |
 
 ## About This Role
 
-This soc & incident response position at KBR was posted on 2026-08-21.
+This cybersecurity engineer position at KBR was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

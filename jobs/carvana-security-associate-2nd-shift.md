@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7944075) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8148612) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-05-19.
+This cybersecurity engineer position at Carvana was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

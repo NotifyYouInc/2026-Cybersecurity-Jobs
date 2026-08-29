@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliant Credit Union](https://scoutify.ai/companies/recruiting2-ultipro-com-oj5686?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Not specified |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/all1033allia/JobBoard/dc90e825-a948-4516-8a12-125bf49ecf03/OpportunityDetail?opportunityId=4eefe7a8-dae0-4fed-a79f-b53d79702e87) |
 
 ## About This Role
 
-This soc & incident response position at Alliant Credit Union was posted on 2026-08-20.
+This cybersecurity engineer position at Alliant Credit Union was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

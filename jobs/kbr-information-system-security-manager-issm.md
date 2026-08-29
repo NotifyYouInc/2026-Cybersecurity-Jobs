@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ohio, US |
+| Location | El Segundo, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Information-System-Security-Manager--ISSM-_R2128549) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Information-System-Security-Manager--ISSM-_R2128728) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-08-19.
+This cybersecurity engineer position at KBR was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

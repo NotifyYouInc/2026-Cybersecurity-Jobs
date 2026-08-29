@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5385088008) |
 
 ## About This Role
 
-This soc & incident response position at Dragos was posted on 2026-08-20.
+This cybersecurity engineer position at Dragos was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

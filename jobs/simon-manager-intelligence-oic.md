@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Manager--Intelligence---OIC_R13890) |
 
 ## About This Role
 
-This soc & incident response position at Simon was posted on 2026-08-20.
+This cybersecurity engineer position at Simon was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

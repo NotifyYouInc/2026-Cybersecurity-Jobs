@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Puebla, Puebla, Mexico |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---PUE---PUEBLA/Gestor-de-Incidentes_51586151) |
 
 ## About This Role
 
-This soc & incident response position at DXC Technology was posted on 2026-08-20.
+This cybersecurity engineer position at DXC Technology was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556869703) |
+| Location | Wisconsin, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556971418) |
 
 ## About This Role
 
-This security engineer position at Microsoft was posted on 2026-05-28.
+This cybersecurity engineer position at Microsoft was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

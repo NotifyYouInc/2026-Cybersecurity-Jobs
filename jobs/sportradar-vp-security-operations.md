@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000144789466-vp-security-operations) |
 
 ## About This Role
 
-This soc & incident response position at Sportradar was posted on 2026-08-21.
+This cybersecurity engineer position at Sportradar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

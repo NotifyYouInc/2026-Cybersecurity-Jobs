@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Waltham Cross, England, United Kingdom |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000144715219-soc-supervisor) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-08-21.
+This cybersecurity engineer position at Securitas was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

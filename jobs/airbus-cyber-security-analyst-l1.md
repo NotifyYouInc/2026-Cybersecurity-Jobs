@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Newport, Wales, United Kingdom |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Cyber-Security-Analyst-L1_JR10436296) |
 
 ## About This Role
 
-This soc & incident response position at Airbus was posted on 2026-08-21.
+This cybersecurity engineer position at Airbus was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

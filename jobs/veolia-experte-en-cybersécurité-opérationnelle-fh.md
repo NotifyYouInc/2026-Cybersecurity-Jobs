@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144719139-experte-en-cybersecurite-operationnelle-fh) |
 
 ## About This Role
 
-This soc & incident response position at Veolia was posted on 2026-08-21.
+This cybersecurity engineer position at Veolia was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

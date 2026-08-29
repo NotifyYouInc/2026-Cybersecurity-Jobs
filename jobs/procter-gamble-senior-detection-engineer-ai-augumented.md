@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/Senior-Detection-Engineer--AI-Augumented-_R000155626-1) |
 
 ## About This Role
 
-This soc & incident response position at Procter & Gamble was posted on 2026-08-21.
+This cybersecurity engineer position at Procter & Gamble was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

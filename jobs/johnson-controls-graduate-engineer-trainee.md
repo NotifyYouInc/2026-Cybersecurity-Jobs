@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Graduate-Engineer-Trainee_WD30270947-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Graduate-Engineer-Trainee_WD30277730) |
 
 ## About This Role
 
-This offensive security & pentesting position at Johnson Controls was posted on 2026-06-02.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

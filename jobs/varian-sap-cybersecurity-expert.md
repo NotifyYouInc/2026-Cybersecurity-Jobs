@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/SAP-Cybersecurity-Expert_R-27007-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-AB/SAP-Cybersecurity-Expert_R-30229) |
 
 ## About This Role
 
-This security engineer position at Varian was posted on 2026-03-13.
+This cybersecurity engineer position at Varian was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

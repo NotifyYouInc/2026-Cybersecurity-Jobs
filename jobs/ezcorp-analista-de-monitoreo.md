@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EZCORP](https://scoutify.ai/companies/ezcorp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guatemala |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-Guatemala/Analista-de-Monitoreo_JR129758) |
 
 ## About This Role
 
-This soc & incident response position at EZCORP was posted on 2026-08-20.
+This cybersecurity engineer position at EZCORP was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

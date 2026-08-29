@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | India |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/sophos/f2ff9a0f-e943-4e85-aedb-5710e4efc0ba) |
 
 ## About This Role
 
-This soc & incident response position at Sophos was posted on 2026-08-21.
+This cybersecurity engineer position at Sophos was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014725) |
 
 ## About This Role
 
-This soc & incident response position at Kroll was posted on 2026-08-20.
+This cybersecurity engineer position at Kroll was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

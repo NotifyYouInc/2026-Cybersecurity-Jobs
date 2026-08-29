@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Principal-Security-Engineer---Incident-Response_RP1038430) |
 
 ## About This Role
 
-This soc & incident response position at F5 was posted on 2026-08-20.
+This cybersecurity engineer position at F5 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

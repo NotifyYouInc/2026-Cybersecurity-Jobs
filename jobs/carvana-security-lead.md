@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Delanco, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8042278) |
+| Location | Chesterfield, Missouri, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8148294) |
 
 ## About This Role
 
-This security engineer position at Carvana was posted on 2026-07-01.
+This cybersecurity engineer position at Carvana was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

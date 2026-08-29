@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LAPORTE L.E.C.](https://scoutify.ai/companies/laporte-lec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brossard, Quebec, Canada |
-| Category | Industrial Automation |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/laportefr/jobs/5396422008) |
 
 ## About This Role
 
-This industrial automation position at LAPORTE L.E.C. was posted on 2026-08-19.
+This cybersecurity engineer position at LAPORTE L.E.C. was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | British Indian Ocean Territory |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Diego-Garcia/Sounding-and-Security-Watch_R0158353) |
 
 ## About This Role
 
-This soc & incident response position at Amentum was posted on 2026-08-20.
+This cybersecurity engineer position at Amentum was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

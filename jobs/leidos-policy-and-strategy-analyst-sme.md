@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Strategy & Operations |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Policy-and-Strategy-Analyst-SME_R-00190063) |
 
 ## About This Role
 
-This strategy & operations position at Leidos was posted on 2026-08-19.
+This cybersecurity engineer position at Leidos was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

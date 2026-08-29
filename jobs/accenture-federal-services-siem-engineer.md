@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4707271006?gh_jid=4707271006) |
 
 ## About This Role
 
-This soc & incident response position at Accenture Federal Services was posted on 2026-08-21.
+This cybersecurity engineer position at Accenture Federal Services was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Spec-Prin_R18195) |
 
 ## About This Role
 
-This soc & incident response position at American Electric Power was posted on 2026-08-19.
+This cybersecurity engineer position at American Electric Power was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
