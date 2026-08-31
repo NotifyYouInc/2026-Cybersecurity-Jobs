@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/Cybersecurity-Operations-Analyst---Cyber-Threat-Intelligence-Lead_R016131) |
 
 ## About This Role
 
-This data analyst position at The Aerospace Corporation was posted on 2026-08-20.
+This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

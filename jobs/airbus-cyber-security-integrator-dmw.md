@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Immenstaad am Bodensee, Baden-Wurttemberg, Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Integrator--d-m-w-_JR10429450) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10350138) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-07-21.
+This cybersecurity engineer position at Airbus was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Malvern, Arkansas, United States |
-| Category | Leadership Development Program |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Risk---Security-Analyst--PA-_181758) |
 
 ## About This Role
 
-This leadership development program position at Vanguard was posted on 2026-08-20.
+This cybersecurity engineer position at Vanguard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

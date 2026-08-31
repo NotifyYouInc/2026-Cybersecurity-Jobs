@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Matosinhos, Porto, Portugal |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Matosinhos-Broadway/Cloud-Security-Operations-Analyst_14638309) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-20.
+This cybersecurity engineer position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

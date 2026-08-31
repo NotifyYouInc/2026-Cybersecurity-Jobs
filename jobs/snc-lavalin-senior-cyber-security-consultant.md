@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBristolThe-Hub/Senior-Cyber-Security-Consultant_R-149425) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBristolThe-Hub/Senior-Cyber-Security-Consultant_R-162639-3) |
 
 ## About This Role
 
-This security engineer position at SNC-Lavalin was posted on 2026-04-27.
+This cybersecurity engineer position at SNC-Lavalin was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

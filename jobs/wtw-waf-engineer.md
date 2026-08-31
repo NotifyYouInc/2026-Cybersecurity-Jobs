@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WTW](https://scoutify.ai/companies/em3-cx-oj120216?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Philippines |
+| Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202605201) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202605200) |
 
 ## About This Role
 
-This cybersecurity engineer position at WTW was posted on 2026-08-20.
+This cybersecurity engineer position at WTW was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

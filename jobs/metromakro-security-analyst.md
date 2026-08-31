@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139553547-security-analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000145196334-security-analyst) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-07-24.
+This cybersecurity engineer position at METRO/MAKRO was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
