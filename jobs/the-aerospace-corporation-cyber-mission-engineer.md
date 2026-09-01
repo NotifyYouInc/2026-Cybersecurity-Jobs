@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado, US |
+| Location | El Segundo, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Buckley-SFB-CO/Cyber-Mission-Engineer_R016069) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Cyber-Mission-Engineer_R016149) |
 
 ## About This Role
 
-This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-08-20.
+This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

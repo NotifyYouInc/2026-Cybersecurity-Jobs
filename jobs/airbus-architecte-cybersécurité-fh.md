@@ -1,16 +1,16 @@
-# Architecte Cybersécurité (f/h) at Airbus
+# Architecte cybersécurité (f/h) at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Élancourt, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Elancourt/Architecte-Cyberscurit--f-h-_JR10310649-1) |
+| Location | Paris, Île-de-France, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/Architecte-cyberscurit--f-h-_JR10416356-1) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-05-05.
+This cybersecurity engineer position at Airbus was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

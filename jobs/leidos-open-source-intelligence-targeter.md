@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Open-Source-Intelligence-Targeter_R-00187271) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Open-Source-Intelligence-Targeter_R-00190375) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-14.
+This cybersecurity engineer position at Leidos was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

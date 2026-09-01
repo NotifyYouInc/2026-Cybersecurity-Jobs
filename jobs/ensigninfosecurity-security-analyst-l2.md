@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Malaysia-Kuala-Lumpur/Security-Analyst-L2_JOBREQ-0003287) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Security-Analyst-L2_JOBREQ-0003595) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-04-27.
+This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

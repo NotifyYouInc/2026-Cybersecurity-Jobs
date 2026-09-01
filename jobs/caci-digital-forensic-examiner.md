@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/Digital-Forensic-Examiner_328594) |
+| Location | Forest Park, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Forest-Park-GA-US/Digital-Forensic-Examiner_330995) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-07-06.
+This cybersecurity engineer position at CACI was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

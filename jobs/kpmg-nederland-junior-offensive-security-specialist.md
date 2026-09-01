@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000144503896-junior-offensive-security-specialist) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000145293399-junior-offensive-security-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at KPMG Nederland was posted on 2026-08-20.
+This cybersecurity engineer position at KPMG Nederland was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

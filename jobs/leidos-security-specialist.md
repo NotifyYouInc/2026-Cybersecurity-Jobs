@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Honolulu, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Security-Specialist_R-00182999) |
+| Location | Kadena, Okinawa, Japan |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Kadena-Okinawa-Japan/Security-Specialist_R-00190347) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-11.
+This cybersecurity engineer position at Leidos was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

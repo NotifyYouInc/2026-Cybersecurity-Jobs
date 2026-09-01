@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Cyber-Threat-Intelligence-Engineer---Director---Cybersecurity-Engineering_PT-JR033756) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Cyber-Threat-Intelligence-Engineer---Director---Cybersecurity-Engineering_PT-JR042573) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-04-17.
+This cybersecurity engineer position at Morgan Stanley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

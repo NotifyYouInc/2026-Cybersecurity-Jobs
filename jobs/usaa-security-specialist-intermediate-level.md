@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/Security-Specialist---Intermediate-Level_R0118287) |
+| Location | San Antonio, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Security-Specialist---Intermediate-Level_R0119874) |
 
 ## About This Role
 
-This security engineer position at USAA was posted on 2026-06-11.
+This cybersecurity engineer position at USAA was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

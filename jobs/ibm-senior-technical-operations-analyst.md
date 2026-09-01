@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | Cybersecurity Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129446) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-08-21.
+This data analyst position at IBM was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

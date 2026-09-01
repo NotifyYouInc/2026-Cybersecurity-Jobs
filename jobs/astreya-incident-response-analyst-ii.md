@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Incident-Response-Analyst-II_R0016543) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Incident-Response-Analyst-II_R0016803) |
 
 ## About This Role
 
-This cybersecurity engineer position at Astreya was posted on 2026-08-17.
+This cybersecurity engineer position at Astreya was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

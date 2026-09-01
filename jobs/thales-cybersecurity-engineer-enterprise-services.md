@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/BELFAST-ARNOTT-HOUSE/Cybersecurity-Engineer--Enterprise-Services_R0331611-1) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/TEL-AVIV/Cybersecurity-Engineer--Enterprise-Services_R0336614) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-06-18.
+This cybersecurity engineer position at Thales was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

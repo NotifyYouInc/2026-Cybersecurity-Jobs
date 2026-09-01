@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bastrop, Louisiana, United States |
+| Location | Hawthorne, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) |
 
 ## About This Role
 
-This cybersecurity engineer position at SpaceX was posted on 2026-08-14.
+This cybersecurity engineer position at SpaceX was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

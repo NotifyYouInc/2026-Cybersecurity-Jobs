@@ -1,16 +1,16 @@
-# IT Security Analyst II- (AppSec) at WGU
+# IT Security Analyst II (AppSec) at WGU
 
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-Office/IT-Security-Analyst-II---AppSec-_JR-024224) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/IT-Security-Analyst-II--AppSec-_JR-026004) |
 
 ## About This Role
 
-This cybersecurity engineer position at WGU was posted on 2026-01-30.
+This cybersecurity engineer position at WGU was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

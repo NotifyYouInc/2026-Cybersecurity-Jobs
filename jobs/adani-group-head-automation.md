@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ahmedabad, Gujarat, India |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#49084) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#57242) |
 
 ## About This Role
 
-This security engineer position at Adani Group was posted on 2026-05-05.
+This cybersecurity engineer position at Adani Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

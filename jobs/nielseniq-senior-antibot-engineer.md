@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131925869-senior-antibot-engineer) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145459349-senior-antibot-engineer) |
 
 ## About This Role
 
-This offensive security & pentesting position at NielsenIQ was posted on 2026-06-12.
+This cybersecurity engineer position at NielsenIQ was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

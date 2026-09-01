@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8140267?gh_jid=8140267) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8153924) |
 
 ## About This Role
 
-This cybersecurity engineer position at Braze was posted on 2026-08-18.
+This cybersecurity engineer position at Braze was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000114075347-cyber-security-manager) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000145463779-cyber-security-manager) |
 
 ## About This Role
 
-This soc & incident response position at Northgate Information Solutions was posted on 2026-03-11.
+This cybersecurity engineer position at Northgate Information Solutions was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

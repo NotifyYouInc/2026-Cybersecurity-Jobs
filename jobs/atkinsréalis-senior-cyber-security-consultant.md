@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBristolThe-Hub/Senior-Cyber-Security-Consultant_R-149425) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBristolThe-Hub/Senior-Cyber-Security-Consultant_R-162639-3) |
 
 ## About This Role
 
-This security engineer position at AtkinsRéalis was posted on 2026-02-24.
+This cybersecurity engineer position at AtkinsRéalis was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

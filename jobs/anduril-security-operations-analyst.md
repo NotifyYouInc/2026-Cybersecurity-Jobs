@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Cybersecurity Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007) |
 
 ## About This Role
 
-This cybersecurity engineer position at Anduril was posted on 2026-08-21.
+This data analyst position at Anduril was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

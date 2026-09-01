@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ohio, US |
+| Location | Naples, Campania, Italy |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Security-Manager_R0247138) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Naples-Napoli/Security-Manager_R0247606) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-17.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Information-Security-Analyst-I_R260394-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Information-Security-Analyst-I_R261560) |
 
 ## About This Role
 
-This security engineer position at Frostbank was posted on 2026-03-18.
+This cybersecurity engineer position at Frostbank was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

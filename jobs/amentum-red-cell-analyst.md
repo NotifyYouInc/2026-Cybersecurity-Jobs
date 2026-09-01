@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fort-Belvoir/Red-Cell-Analyst_R0168347) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fort-Belvoir/Red-Cell-Analyst_R0168761) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amentum was posted on 2026-08-17.
+This cybersecurity engineer position at Amentum was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

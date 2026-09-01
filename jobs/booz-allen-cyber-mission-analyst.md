@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cyber-Mission-Analyst_R0241814-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cyber-Mission-Analyst_R0247675) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-11.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

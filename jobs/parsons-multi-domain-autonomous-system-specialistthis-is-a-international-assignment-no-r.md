@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Multi-Domain-Autonomous-System-Specialist--This-is-a--International-Assignment----NO-REMOTE-WORK--_R182809) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Multi-Domain-Autonomous-System-Specialist--This-is-a--International-Assignment----NO-REMOTE-WORK--_R182808) |
 
 ## About This Role
 
-This cybersecurity engineer position at Parsons was posted on 2026-08-17.
+This cybersecurity engineer position at Parsons was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
