@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madrid/Analista-de-Ciberseguridad-para-Desarrollo-Seguro--SSDLC----SDS_Req1565793-1) |
 
 ## About This Role
 
-This security engineer position at Santander was posted on 2026-05-13.
+This cybersecurity engineer position at Santander was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agropur](https://scoutify.ai/companies/agropur?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Quebec, CA |
+| Location | Saint-Hubert, Quebec, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Quebec-St-Hubert/Analyste-principal-en-scurit-des-rseaux_JR33304) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Quebec-St-Hubert/Senior-Network-Security-Analyst_JR33305) |
 
 ## About This Role
 
-This cybersecurity engineer position at Agropur was posted on 2026-08-01.
+This cybersecurity engineer position at Agropur was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Research Associates](https://scoutify.ai/companies/recruiting-ultipro-com-oj5562?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://recruiting.ultipro.com/app1010arai/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=02e3243c-b383-41d9-be29-b64cdf324cf3) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://recruiting.ultipro.com/app1010arai/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=9a1ba993-a22e-42d7-b13e-982a6ef59fcd) |
 
 ## About This Role
 
-This security engineer position at Applied Research Associates was posted on 2026-07-23.
+This cybersecurity engineer position at Applied Research Associates was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Associate-SailPoint-Engineer_R247582-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Associate-SailPoint-Engineer_R249832-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Capital One was posted on 2026-07-27.
+This cybersecurity engineer position at Capital One was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

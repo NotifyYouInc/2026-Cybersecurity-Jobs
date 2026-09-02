@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Hadera, Haifa, Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/OSINT-Analyst_JR108512) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MIL---Israel-Hadera---Home/OSINT-Analyst_JR109690) |
 
 ## About This Role
 
-This cybersecurity engineer position at Micron was posted on 2026-08-07.
+This cybersecurity engineer position at Micron was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

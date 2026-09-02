@@ -1,16 +1,16 @@
-# Cybersecurity Engineer - Product Cybersecurity at Wabtec
+# Cybersecurity Engineer, Product Cybersecurity at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Erie, Pennsylvania, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014797266-cybersecurity-engineer-product-cybersecurity) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014856746-cybersecurity-engineer-product-cybersecurity) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wabtec was posted on 2026-08-24.
+This cybersecurity engineer position at Wabtec was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Charlottesville, Virginia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer_R0244709) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer_R0247876) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-07-17.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

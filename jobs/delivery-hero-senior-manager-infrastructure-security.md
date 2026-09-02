@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Engineering Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132856636-senior-manager-infrastructure-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145562959-senior-manager-infrastructure-security) |
 
 ## About This Role
 
-This engineering manager position at Delivery Hero was posted on 2026-06-18.
+This cybersecurity engineer position at Delivery Hero was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

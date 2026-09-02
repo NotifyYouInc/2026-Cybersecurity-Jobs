@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135285000-information-security-assurance-expert-all-genders) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000145657679-information-security-assurance-expert-all-genders) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-07-01.
+This cybersecurity engineer position at METRO/MAKRO was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

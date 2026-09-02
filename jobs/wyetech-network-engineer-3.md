@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bluffdale, Utah, United States |
+| Location | Maryland, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/6c4cff7e-7354-4a93-b5c7-1d3af366fc63) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/bd964263-2bdf-49cf-b329-c77bb6d02f13) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wyetech was posted on 2026-07-29.
+This cybersecurity engineer position at Wyetech was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/C-UAS-Operations-Analyst_331007) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-08-24.
+This cybersecurity engineer position at CACI was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Immersivelabs](https://scoutify.ai/companies/immersivelabs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/immersivelabs/167601ad-18b7-4f36-b4ba-538e37c2ba61) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/immersivelabs/1c279ea7-d98b-402d-9853-c195739a7e64) |
 
 ## About This Role
 
-This offensive security & pentesting position at Immersivelabs was posted on 2026-06-01.
+This cybersecurity engineer position at Immersivelabs was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

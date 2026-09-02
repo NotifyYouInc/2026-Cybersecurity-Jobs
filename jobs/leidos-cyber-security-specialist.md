@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Yokosuka, Kanagawa, Japan |
-| Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Yokosuka-Japan/Cyber-Security-Specialist_R-00183571-1) |
+| Location | Hampton, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Cyber-Security-Specialist_R-00190275) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-21.
+This cybersecurity engineer position at Leidos was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

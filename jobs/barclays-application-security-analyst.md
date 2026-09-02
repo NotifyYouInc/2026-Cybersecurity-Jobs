@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Application-Security-Analyst_JR-0000096426) |
+| Location | Whippany, New Jersey, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Application-Security-Specialist_JR-0000096029) |
 
 ## About This Role
 
-This security engineer position at Barclays was posted on 2026-04-01.
+This cybersecurity engineer position at Barclays was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

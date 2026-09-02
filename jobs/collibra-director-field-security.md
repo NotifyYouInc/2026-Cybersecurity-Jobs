@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7943522) |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8156414) |
 
 ## About This Role
 
-This security engineer position at Collibra was posted on 2026-05-19.
+This cybersecurity engineer position at Collibra was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

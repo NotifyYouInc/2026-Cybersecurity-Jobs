@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/McLean-Virginia/Cryptography-Analyst_R2127542) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/McLean-Virginia/Cryptography-Analyst_R2128886) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-07-31.
+This cybersecurity engineer position at KBR was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

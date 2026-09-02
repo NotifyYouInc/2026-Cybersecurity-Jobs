@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Cyber-Security-Analyst---Cigna-Healthcare---Remote_26003523) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Cyber-Security-Analyst---Cigna-Healthcare---Remote_26009848-1) |
 
 ## About This Role
 
-This security engineer position at Cigna was posted on 2026-03-30.
+This cybersecurity engineer position at Cigna was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

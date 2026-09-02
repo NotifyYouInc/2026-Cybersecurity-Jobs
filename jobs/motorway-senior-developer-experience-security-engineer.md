@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorway](https://scoutify.ai/companies/motorway?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Developer Relations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/motorway/31ed0baa-66e4-4ce1-8686-cdc7a33493f7) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/motorway/0244cefb-8d53-4de5-bf66-f9aff518128b) |
 
 ## About This Role
 
-This developer relations position at Motorway was posted on 2026-02-11.
+This cybersecurity engineer position at Motorway was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

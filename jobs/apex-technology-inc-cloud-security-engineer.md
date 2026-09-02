@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Technology, Inc.](https://scoutify.ai/companies/apex-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/apex-technology-inc/ec0b3f8d-11ef-4ef2-b814-1dc32815fcc3) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/apex-technology-inc/f7dc2775-d1ce-46e0-af19-b3d260bce353) |
 
 ## About This Role
 
-This security engineer position at Apex Technology, Inc. was posted on 2026-04-10.
+This cybersecurity engineer position at Apex Technology, Inc. was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

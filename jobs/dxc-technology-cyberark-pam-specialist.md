@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Madrid, ES |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/CyberArk-PAM-Specialist_51574241) |
+| Location | Madrid, Madrid, Spain |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESM02---DXC-Madrid-Las-Rozas-ESM02/CyberArk-PAM-Specialist_51547689) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-07-21.
+This cybersecurity engineer position at DXC Technology was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

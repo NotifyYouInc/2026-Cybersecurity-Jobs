@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Czechia |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
+| Location | Casablanca, Casablanca-Settat, Morocco |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CZ-Czechia---Remote/Cloud-Security-Engineer--Remote-_R240003) |
 
 ## About This Role
 
-This security engineer position at Arrow Electronics was posted on 2026-05-15.
+This cybersecurity engineer position at Arrow Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

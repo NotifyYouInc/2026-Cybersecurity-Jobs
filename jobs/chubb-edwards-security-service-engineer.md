@@ -5,12 +5,12 @@
 | Company | [Chubb Edwards](https://scoutify.ai/companies/chubb-edwards?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dudley, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Chubb-Birmingham-Unit-2-Castle-Court-Castlegate-Business-Park-Dudley-DY1-4RD/Security-Service-Engineer_JR40005885) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs/job/Chubb-Birmingham-Unit-2-Castle-Court-Castlegate-Business-Park-Dudley-DY1-4RD/Security-Service-Engineer_JR40006206-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Chubb Edwards was posted on 2026-08-05.
+This cybersecurity engineer position at Chubb Edwards was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

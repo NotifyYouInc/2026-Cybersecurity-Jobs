@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Veldhoven, North Brabant, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Competence-Engineer_J-00339092-1) |
 
 ## About This Role
 
-This security engineer position at ASML was posted on 2026-06-01.
+This cybersecurity engineer position at ASML was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Information Security Analyst at Global Payments
+# Senior Information security Analyst at Global Payments
 
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-Information-Security-Analyst_R0071036) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-Information-security-Analyst_R0074100-1) |
 
 ## About This Role
 
-This security engineer position at Global Payments was posted on 2026-05-18.
+This cybersecurity engineer position at Global Payments was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000126698299-senior-security-engineer-i-application-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000145498159-senior-security-engineer-i-application-security) |
 
 ## About This Role
 
-This security engineer position at Flywire was posted on 2026-05-15.
+This cybersecurity engineer position at Flywire was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

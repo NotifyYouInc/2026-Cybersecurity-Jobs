@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MO-St-Louis/Cyber-Security-Operations-Specialist-I---Tier-1_322054) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/St-Louis-MO-US/Cyber-Security-Operations-Specialist-I---Tier-1_330972) |
 
 ## About This Role
 
-This operations position at CACI was posted on 2026-02-11.
+This cybersecurity engineer position at CACI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

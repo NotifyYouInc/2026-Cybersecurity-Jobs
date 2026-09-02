@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Analyst-II--Security-Operations-Center_R-051585-1) |
 
 ## About This Role
 
-This data analyst position at LPL Financial Holdings was posted on 2026-08-24.
+This cybersecurity engineer position at LPL Financial Holdings was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

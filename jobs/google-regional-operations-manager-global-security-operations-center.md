@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckepaqfRaclNGcOyeaKmYBLHs91d0mZYJdBrL69FwYodgEjsACxwdTIkVdYO8ELVXi9cc0_filHW4E9J_14Xsla_DpLR37lIiQ3AWc6A8MLR9xVF1MjGLO1jvhuarrw%3D%3D_V2&loc=SG&title=Regional+Operations+Manager) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUB2t7NTFjTDjsm3Qd_6apnidjB8xht8McJO_-B5nuSfEjsA1Ny_i7rmX6UnyOKDKtZiZgYvliIKZiB1-_fKtsMlgCkhocHQypeW9DjpQD4KkQaSqAkasw5JouIOfA%3D%3D_V2&loc=SG&title=Regional+Operations+Manager) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-04-22.
+This cybersecurity engineer position at Google was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monterrey/Security-Technician_J2449704) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monterrey/Security-Technician_J2462569) |
 
 ## About This Role
 
-This security engineer position at Jabil was posted on 2026-05-11.
+This cybersecurity engineer position at Jabil was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

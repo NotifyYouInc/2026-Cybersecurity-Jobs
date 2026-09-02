@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | White Sands, New Mexico, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Special-Security-Representative_R-00183555) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-19.
+This cybersecurity engineer position at Leidos was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

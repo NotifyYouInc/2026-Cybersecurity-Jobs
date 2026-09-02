@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ID.me](https://scoutify.ai/companies/idme?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Cybersecurity Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7920473003) |
 
 ## About This Role
 
-This cybersecurity engineer position at ID.me was posted on 2026-08-24.
+This product manager position at ID.me was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
