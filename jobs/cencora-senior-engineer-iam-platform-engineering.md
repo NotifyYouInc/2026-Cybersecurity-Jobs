@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Senior-Engineer--IAM-Platform-Engineering_R2614244) |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Senior-Engineer--IAM-Platform-Engineering_R2613986) |
 
 ## About This Role
 

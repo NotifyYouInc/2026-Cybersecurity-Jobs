@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/API-Security-Engineer_R-10395871) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Cyber-Compliance-Analyst_R-10398799-1) |
 
 ## About This Role
 
-This security engineer position at Fiserv was posted on 2026-06-22.
+This cybersecurity engineer position at Fiserv was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

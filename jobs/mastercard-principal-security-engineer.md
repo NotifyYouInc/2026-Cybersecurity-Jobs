@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-Security-Engineer_R-276789-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Principal-Security-Engineer_R-289452) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mastercard was posted on 2026-07-28.
+This cybersecurity engineer position at Mastercard was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

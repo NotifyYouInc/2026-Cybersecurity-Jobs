@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeta Global](https://scoutify.ai/companies/zeta-global?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/5541205004) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/6165086004) |
 
 ## About This Role
 
-This security engineer position at Zeta Global was posted on 2026-03-27.
+This cybersecurity engineer position at Zeta Global was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

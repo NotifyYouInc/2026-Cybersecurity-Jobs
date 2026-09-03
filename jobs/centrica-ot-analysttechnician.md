@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Windsor, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Windsor/OT-Analyst-Technician_R0083532-1) |
 
 ## About This Role
 
-This security engineer position at Centrica was posted on 2026-05-08.
+This cybersecurity engineer position at Centrica was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

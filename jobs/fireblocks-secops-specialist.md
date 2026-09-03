@@ -1,16 +1,16 @@
-# SecOps Specialist  at Fireblocks
+# SecOps Specialist at Fireblocks
 
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/4694977006?gh_jid=4694977006) |
+| Location | New York City, New York, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4695803006) |
 
 ## About This Role
 
-This soc & incident response position at Fireblocks was posted on 2026-07-16.
+This cybersecurity engineer position at Fireblocks was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

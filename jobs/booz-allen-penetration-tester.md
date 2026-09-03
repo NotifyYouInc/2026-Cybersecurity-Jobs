@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Penetration-Tester_R0243365) |
+| Location | Herndon, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Penetration-Tester_R0247922) |
 
 ## About This Role
 
-This offensive security & pentesting position at Booz Allen was posted on 2026-06-30.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

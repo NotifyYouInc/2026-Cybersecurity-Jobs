@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000142800269-senior-pam-engineer-10-yrs-experience) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000145716302-senior-pam-engineer-10-yrs-experience) |
 
 ## About This Role
 
-This cybersecurity engineer position at METRO/MAKRO was posted on 2026-08-11.
+This cybersecurity engineer position at METRO/MAKRO was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

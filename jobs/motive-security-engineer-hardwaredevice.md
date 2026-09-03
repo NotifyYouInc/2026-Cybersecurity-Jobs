@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8402722002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8752600002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Motive was posted on 2026-08-14.
+This electrical / hardware engineer position at Motive was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

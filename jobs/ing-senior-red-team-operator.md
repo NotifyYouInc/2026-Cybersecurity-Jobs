@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Senior-Red-Team-Operator_REQ-10117229-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Senior-Red-Team-Operator_REQ-10120582-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at ING was posted on 2026-06-26.
+This cybersecurity engineer position at ING was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sprymethods](https://scoutify.ai/companies/sprymethods?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.lever.co/sprymethods/fe9298b9-c538-42c6-b4a0-bf63fdd68f42) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/sprymethods/b29a3bda-aac6-4e45-83c5-089b5164a8fe) |
 
 ## About This Role
 
-This soc & incident response position at Sprymethods was posted on 2026-06-25.
+This cybersecurity engineer position at Sprymethods was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

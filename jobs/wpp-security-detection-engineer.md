@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8484947002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8725217002) |
 
 ## About This Role
 
-This soc & incident response position at WPP was posted on 2026-04-01.
+This cybersecurity engineer position at WPP was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

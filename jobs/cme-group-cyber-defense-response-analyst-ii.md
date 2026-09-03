@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Cyber-Defense-Response-Analyst-II_33894) |
+| Location | Chicago, Illinois, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cyber-Defense-Response-Analyst-II_34737) |
 
 ## About This Role
 
-This soc & incident response position at CME Group was posted on 2026-03-03.
+This cybersecurity engineer position at CME Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

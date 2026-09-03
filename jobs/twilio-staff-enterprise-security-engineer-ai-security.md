@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7962686) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8160279) |
 
 ## About This Role
 
-This security engineer position at Twilio was posted on 2026-05-28.
+This cybersecurity engineer position at Twilio was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

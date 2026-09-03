@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New Jersey, US |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Data-Leak-Protection-Analyst_JR-0000073227-1) |
+| Location | Whippany, New Jersey, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Data-Leak-Protection-Analyst_JR-0000108626-1) |
 
 ## About This Role
 
-This soc & incident response position at Barclays was posted on 2026-03-30.
+This cybersecurity engineer position at Barclays was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

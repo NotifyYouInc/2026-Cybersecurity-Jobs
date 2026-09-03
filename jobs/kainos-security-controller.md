@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
+| Category | Accounting |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Security-Controller_JR_17845) |
 
 ## About This Role
 
-This security engineer position at Kainos was posted on 2026-05-27.
+This accounting position at Kainos was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Carrollton, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Engineer-III---Information-Security_R265957) |
+| Location | Vilnius, Vilnius, Lithuania |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Engineer-III---Information-Security_R2610725) |
 
 ## About This Role
 
-This security engineer position at Cencora was posted on 2026-04-17.
+This cybersecurity engineer position at Cencora was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ON.energy](https://scoutify.ai/companies/onenergy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Cybersecurity Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/onenergy/jobs/4381897009) |
 
 ## About This Role
 
-This cybersecurity engineer position at ON.energy was posted on 2026-08-25.
+This industrial automation position at ON.energy was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

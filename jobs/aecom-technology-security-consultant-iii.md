@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114086159-technology-security-consultant-iii) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145884754-technology-security-consultant-iii) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-03-11.
+This cybersecurity engineer position at AECOM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

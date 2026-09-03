@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000139278122-senior-information-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000145954469-senior-information-security-engineer) |
 
 ## About This Role
 
-This security engineer position at AJ Bell was posted on 2026-07-23.
+This cybersecurity engineer position at AJ Bell was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

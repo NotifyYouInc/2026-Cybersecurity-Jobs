@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Prisma-Access-Engineer_R0242335) |
+| Location | 6 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Prisma-Access-Engineer_R0247911) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-16.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

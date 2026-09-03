@@ -5,12 +5,12 @@
 | Company | [Applied Research Solutions](https://scoutify.ai/companies/recruiting-ultipro-com-oj7520?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Massachusetts, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=ef8972c8-bb95-49ce-ab06-04644fcac740) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=cd9154f3-3d66-431e-bdce-38c1709ec6a3) |
 
 ## About This Role
 
-This cybersecurity engineer position at Applied Research Solutions was posted on 2026-08-10.
+This cybersecurity engineer position at Applied Research Solutions was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000132612620-senior-implementation-engineer-soc) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145912369-senior-implementation-engineer-soc) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-06-17.
+This cybersecurity engineer position at KPN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

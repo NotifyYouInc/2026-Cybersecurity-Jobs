@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-San-Antonio/Physical-Security-and-Information-Assurance-Specialist_RQ216412-1) |
+| Location | Suitland, Maryland, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Suitland/Physical-Security-and-Information-Assurance-Specialist_RQ227135-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-11.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

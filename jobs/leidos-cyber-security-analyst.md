@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Meade, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Cyber-Security-Analyst_R-00186948) |
+| Location | Adelphi, Maryland, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Adelphi-MD/Cyber-Security-Analyst_R-00190098) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-09.
+This cybersecurity engineer position at Leidos was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

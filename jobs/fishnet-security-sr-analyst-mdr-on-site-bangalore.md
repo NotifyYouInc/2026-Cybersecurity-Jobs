@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | Business Development |
-| Posted | 2026-02-09 |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Sr-Analyst---MDR---On-site--Bangalore_2026-13553) |
 
 ## About This Role
 
-This business development position at FishNet Security was posted on 2026-02-09.
+This cybersecurity engineer position at FishNet Security was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
