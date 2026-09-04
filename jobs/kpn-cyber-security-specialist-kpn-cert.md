@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000140917215-cyber-security-specialist-kpn-cert) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145953957-cyber-security-specialist-kpn-cert) |
 
 ## About This Role
 
-This soc & incident response position at KPN was posted on 2026-07-31.
+This cybersecurity engineer position at KPN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | National Harbor, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/National-Harbor-MD-US/Cyber-Security-Control-Assessor_327509) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Cyber-Security-Control-Assessor_331205) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-09.
+This cybersecurity engineer position at CACI was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

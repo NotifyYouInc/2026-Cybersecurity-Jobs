@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Australia/RF-Analyst-and-Operator_R0247393) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Australia/RF-Analyst-and-Operator_R0236509) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

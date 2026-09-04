@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Program-Information-Systems-Security-Manager--ISSM----McKinney--TX_01859342) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Program-Information-Systems-Security-Manager--ISSM----McKinney--TX_01855102) |
 
 ## About This Role
 
-This cybersecurity engineer position at RTX was posted on 2026-08-25.
+This cybersecurity engineer position at RTX was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

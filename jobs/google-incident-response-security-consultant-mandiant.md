@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Denmark |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQvRyV3NsJuvSlhWP2zUQTIgSHnEpAFa5QsbNm2BBl5cEjsA1Ny_i-ZQwUHSO62-_F_14yDs906DnmdgecTNbYLSEsuO_vA9lbM9_hvugvL14rkHZfRXFD9H7MLdBA%3D%3D_V2&loc=US&title=Incident+Response+Security+Consultant) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYhI8Ga3tAgrdcagVBXsFGNw0AfH8C_NF8L-nBl52qETEjsA1Ny_i_dj0_EDI07OHf9bl_GJUqOTI8YEVIg5OdrkPwckiGq2_nOXWHNbpW9JbIXYNcqyi4v0uZYshg%3D%3D_V2&loc=AE&title=Incident+Response+Security+Consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Google was posted on 2026-07-13.
+This cybersecurity engineer position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

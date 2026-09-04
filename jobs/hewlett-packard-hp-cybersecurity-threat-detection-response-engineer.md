@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sant Cugat del Vallès, Catalonia, Spain |
-| Category | Security Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Cybersecurity-Threat-Detection---Response-Engineer_3162501-1) |
+| Location | Austin, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Cybersecurity-Threat-Detection---Response-Engineer_3145640-2) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard (HP) was posted on 2026-05-16.
+This cybersecurity engineer position at Hewlett Packard (HP) was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/AI-Threat-Emulation-Capabilities-Developer_R0072599) |
+| Location | New Mexico, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-Mexico/AI-Threat-Emulation-Capabilities-Developer_R0072599) |
 
 ## About This Role
 
-This offensive security & pentesting position at Huntington Bancshares was posted on 2026-05-28.
+This cybersecurity engineer position at Huntington Bancshares was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

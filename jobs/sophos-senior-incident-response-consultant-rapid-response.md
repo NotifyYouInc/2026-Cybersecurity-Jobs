@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sophos](https://scoutify.ai/companies/sophos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.lever.co/sophos/a2f4c184-b51b-4dae-9457-96ba6659d1d1) |
+| Location | Romania |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.lever.co/sophos/816e3724-7d67-4b01-bff2-9f8f8efef600) |
 
 ## About This Role
 
-This soc & incident response position at Sophos was posted on 2026-07-31.
+This cybersecurity engineer position at Sophos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

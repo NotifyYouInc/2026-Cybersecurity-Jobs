@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVFqDnUUMs74xJzzvFRCcL2A89hCgTIHg1Lh8DGnwSmlEjoA1Ny_i6O2GvVFkncduMM0UhRxvp56xOzKYYAlVTOZRPOCFFCCbKCq-q_ugzbeUmjfdA5n0AQXR_6__V2&loc=US&title=Senior+Manager) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb2yxKgGW7z6WCiWGNmZ5m3W5KH3uyIrZFCrEd01WyjoEjoA1Ny_i-dyhTTl7ieMVpt_XUMYklEg0dqgXY5YsOFnKAFNuHsrxJMNvSWr8B58lbFTW6XLNDBmICKq_V2&loc=US&title=Senior+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-07-13.
+This cybersecurity engineer position at Google was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

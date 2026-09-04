@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/WW-IN-Security-ID566-CyberArk-Assoc-Engineer-JL12_51542522) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Sr-Analyst-I-Information-Security_51588079) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-02-19.
+This cybersecurity engineer position at DXC Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

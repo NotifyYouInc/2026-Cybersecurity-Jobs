@@ -1,16 +1,16 @@
-# Associate Principal Cyber Threat Intelligence Analyst  at Dragos
+# Associate Principal Cyber Threat Intelligence Analyst at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
+| Location | Norfolk, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5385088008) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5389909008) |
 
 ## About This Role
 
-This cybersecurity engineer position at Dragos was posted on 2026-08-20.
+This cybersecurity engineer position at Dragos was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

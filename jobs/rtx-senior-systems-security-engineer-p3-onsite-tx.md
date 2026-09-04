@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | McKinney, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Systems-Security-Engineer---P3--Onsite-TX-_01845004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Systems-Security-Engineer---P3--Onsite-TX-_01870364) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-05-13.
+This cybersecurity engineer position at RTX was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

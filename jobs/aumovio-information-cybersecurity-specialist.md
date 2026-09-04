@@ -6,7 +6,7 @@
 | Location | China |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000145661559-information-cybersecurity-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000145692129-information-cybersecurity-specialist) |
 
 ## About This Role
 

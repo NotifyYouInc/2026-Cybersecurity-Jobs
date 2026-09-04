@@ -1,16 +1,16 @@
-# Penetration Tester  at Spektrum
+# Penetration Tester at Spektrum
 
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | The Hague, South Holland, The Netherlands |
+| Location | Mons, Wallonia, Belgium |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4950862101) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4962314101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Spektrum was posted on 2026-08-11.
+This cybersecurity engineer position at Spektrum was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

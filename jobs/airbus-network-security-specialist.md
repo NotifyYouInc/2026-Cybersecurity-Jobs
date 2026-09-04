@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Subang/Network-Security-Specialist_JR10427400) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hanoi-Area/Network-Security-Specialist_JR10437496) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-07-20.
+This cybersecurity engineer position at Airbus was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

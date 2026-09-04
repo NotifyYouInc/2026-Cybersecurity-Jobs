@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littlepay](https://scoutify.ai/companies/littlepay?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/littlepay/jobs/4796145101) |
+| Location | Luxembourg |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/littlepay/jobs/4962997101) |
 
 ## About This Role
 
-This security engineer position at Littlepay was posted on 2026-03-24.
+This cybersecurity engineer position at Littlepay was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

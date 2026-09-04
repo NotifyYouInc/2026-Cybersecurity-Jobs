@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4821599101?gh_jid=4821599101) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4956833101?gh_jid=4956833101) |
 
 ## About This Role
 
-This soc & incident response position at Cato Networks was posted on 2026-04-14.
+This cybersecurity engineer position at Cato Networks was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

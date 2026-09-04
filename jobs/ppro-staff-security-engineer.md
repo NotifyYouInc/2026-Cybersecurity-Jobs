@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ppro](https://scoutify.ai/companies/ppro?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.lever.co/ppro/394b3453-08c0-45d5-a0c3-9f40d5308877) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.lever.co/ppro/82d0b6ae-759f-4472-aeb0-1395a6d08cad) |
 
 ## About This Role
 
-This security engineer position at Ppro was posted on 2026-07-15.
+This cybersecurity engineer position at Ppro was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Knox, Kentucky, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Knox-KY/Security-Specialist_R0245088) |
+| Location | Honolulu, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Security-Specialist_R0248112) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-21.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

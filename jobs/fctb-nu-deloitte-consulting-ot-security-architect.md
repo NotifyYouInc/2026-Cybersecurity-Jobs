@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133030429-ot-security-architect) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000145961652-ot-security-architect) |
 
 ## About This Role
 
-This security engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
+This cybersecurity engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

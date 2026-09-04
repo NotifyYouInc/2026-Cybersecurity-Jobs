@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woodward Governor](https://scoutify.ai/companies/woodward?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Niles, Illinois, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-11 |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-Basis-and-Security-Administrator_JR110796) |
 
 ## About This Role
 
-This it & systems administration position at Woodward Governor was posted on 2026-06-11.
+This cybersecurity engineer position at Woodward Governor was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

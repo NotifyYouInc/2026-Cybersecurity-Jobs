@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Systems-Engineer---Microsoft-365-Security---Compliance---Endpoint-Security-Engineer--GCC-_R-00184406-1) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Engineer---Microsoft-365-Security---Compliance---Endpoint-Security-Engineer--GCC-_R-00190545) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-30.
+This cybersecurity engineer position at Leidos was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

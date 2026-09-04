@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Cyber-Security-Engineer_JR4816) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Cyber-Security-Engineer_JR5162-1) |
 
 ## About This Role
 
-This security engineer position at Axos Bank was posted on 2026-06-25.
+This cybersecurity engineer position at Axos Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000144273821-ingenieur-cybersecurite-applicative-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146127079-ingenieur-cybersecurite-applicative-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Meritis was posted on 2026-08-19.
+This cybersecurity engineer position at Meritis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
