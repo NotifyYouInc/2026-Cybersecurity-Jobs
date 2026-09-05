@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284426) |
+| Location | Phoenix, Arizona, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Identity-Security---PKI-Engineer_JR0286687) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-05-29.
+This cybersecurity engineer position at Intel was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

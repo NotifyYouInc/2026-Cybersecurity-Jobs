@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Open-Source-Intelligence--OSINT--Analyst_R0165953) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Open-Source-Intelligence--OSINT--Analyst_R0169285) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-07-15.
+This cybersecurity engineer position at Amentum was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

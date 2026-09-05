@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Cybersecurity-Operations-Center-Analyst--Senior_R0242464) |
+| Location | Wiesbaden, Hesse, Germany |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Cybersecurity-Operations-Center-Analyst--Senior_R0247555) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-06-18.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

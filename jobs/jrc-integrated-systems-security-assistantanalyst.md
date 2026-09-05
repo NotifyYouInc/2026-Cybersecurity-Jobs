@@ -1,16 +1,16 @@
-# Security Assistant/Analyst  at JRC Integrated Systems
+# Security Assistant/Analyst at JRC Integrated Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [JRC Integrated Systems](https://scoutify.ai/companies/jrc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jrc/jobs/4308425009) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jrc/jobs/4387460009) |
 
 ## About This Role
 
-This security engineer position at JRC Integrated Systems was posted on 2026-07-07.
+This cybersecurity engineer position at JRC Integrated Systems was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

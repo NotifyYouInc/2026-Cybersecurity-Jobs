@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7609528003?gh_jid=7609528003) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7980319003?gh_jid=7980319003) |
 
 ## About This Role
 
-This security engineer position at Klaviyo was posted on 2026-06-17.
+This cybersecurity engineer position at Klaviyo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

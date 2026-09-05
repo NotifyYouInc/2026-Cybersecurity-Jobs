@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mountain View, California, United States |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000145382579-staff-information-security-engineer-detection-engineering) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146235269-staff-information-security-engineer-detection-engineering) |
 
 ## About This Role
 
-This cybersecurity engineer position at LinkedIn was posted on 2026-08-25.
+This cybersecurity engineer position at LinkedIn was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7737956003) |
+| Location | Huntsville, Alabama, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7980341003) |
 
 ## About This Role
 
-This security engineer position at Dark Wolf Solutions was posted on 2026-05-18.
+This cybersecurity engineer position at Dark Wolf Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

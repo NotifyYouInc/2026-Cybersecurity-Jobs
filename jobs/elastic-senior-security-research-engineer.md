@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Spain |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8119442&gh_jid=8119442) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837) |
 
 ## About This Role
 
-This cybersecurity engineer position at Elastic was posted on 2026-08-26.
+This cybersecurity engineer position at Elastic was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

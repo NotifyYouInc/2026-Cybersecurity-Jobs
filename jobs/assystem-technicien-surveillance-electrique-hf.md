@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000133079489-technicien-surveillance-electrique-hf) |
+| Location | Flamanville, Normandy, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000146219547-technicien-surveillance-electrique-hf) |
 
 ## About This Role
 
-This security engineer position at Assystem was posted on 2026-06-19.
+This cybersecurity engineer position at Assystem was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

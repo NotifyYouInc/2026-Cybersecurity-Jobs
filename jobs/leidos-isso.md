@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Hampton, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/ISSO_R-00190206) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/ISSO_R-00190820) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-21.
+This cybersecurity engineer position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

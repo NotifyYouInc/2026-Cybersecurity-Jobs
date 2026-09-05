@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000136093729-senior-manager-it-security) |
+| Location | Austin, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000146234555-senior-manager-it-security) |
 
 ## About This Role
 
-This security engineer position at Arista Networks was posted on 2026-07-06.
+This cybersecurity engineer position at Arista Networks was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | McLean, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Bethesda/Information-Systems-Security-Manager---TS-SCI-with-Polygraph_RQ225800-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Information-Systems-Security-Manager---TS-SCI-with-Polygraph_RQ227421-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-18.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

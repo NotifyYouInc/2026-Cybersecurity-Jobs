@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000136254990-cloud-cybersecurity-engineer-hybrid-houston-or-dallas-tx) |
+| Location | Houston, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000146188530-cloud-cybersecurity-engineer-hybrid-houston-or-dallas-tx) |
 
 ## About This Role
 
-This security engineer position at AECOM was posted on 2026-07-07.
+This cybersecurity engineer position at AECOM was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
