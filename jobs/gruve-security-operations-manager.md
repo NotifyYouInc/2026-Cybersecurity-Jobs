@@ -1,16 +1,16 @@
-# ASI Manager at Leidos
+# Security Operations Manager  at Gruve
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/ASI-Manager_R-00190952) |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5409113008) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-29.
+This cybersecurity engineer position at Gruve was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

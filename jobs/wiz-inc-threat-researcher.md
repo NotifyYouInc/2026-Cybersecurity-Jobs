@@ -1,16 +1,16 @@
-# ASI Manager at Leidos
+# Threat Researcher at Wiz, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/ASI-Manager_R-00190952) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4707600006/:title?gh_jid=4707600006) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-29.
+This cybersecurity engineer position at Wiz, Inc. was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

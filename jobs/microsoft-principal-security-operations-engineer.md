@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556837750) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556983224) |
 
 ## About This Role
 
-This soc & incident response position at Microsoft was posted on 2026-03-23.
+This cybersecurity engineer position at Microsoft was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

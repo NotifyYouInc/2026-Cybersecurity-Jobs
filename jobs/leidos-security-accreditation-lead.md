@@ -1,16 +1,16 @@
-# ASI Manager at Leidos
+# Security Accreditation Lead at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | The Hague, South Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Stuttgart-Germany/ASI-Manager_R-00190952) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Security-Accreditation-Lead_R-00190944) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-29.
+This cybersecurity engineer position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
