@@ -1,12 +1,12 @@
-# Information Security Engineer II at Mastercard
+# Vice President, Field CISO Financial Services, North America at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Purchase, New York, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Information-Security-Engineer-II_R-275571) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Vice-President--Field-CISO-Financial-Services--North-America_R-289377) |
 
 ## About This Role
 

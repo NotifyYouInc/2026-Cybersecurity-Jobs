@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Senior Network Security Analyst at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Network-Security-Analyst_JR_1052603) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at Zeiss was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

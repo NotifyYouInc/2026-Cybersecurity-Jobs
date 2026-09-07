@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Application Security Engineering Lead at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Application-Security-Engineering-Lead_26987596) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at Citigroup was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bournemouth, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732129) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782051) |
 
 ## About This Role
 
-This security engineer position at JPMorgan Chase was posted on 2026-04-08.
+This cybersecurity engineer position at JPMorgan Chase was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

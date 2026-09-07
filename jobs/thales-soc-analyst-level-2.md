@@ -1,12 +1,12 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# SOC Analyst Level 2 at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rabat/SOC-Analyst-Level-2_R0336587-1) |
 
 ## About This Role
 

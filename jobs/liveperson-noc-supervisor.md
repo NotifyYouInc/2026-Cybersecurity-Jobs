@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# NOC Supervisor at LivePerson
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [LivePerson](https://scoutify.ai/companies/liveperson?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/liveperson/jobs/8139213) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at LivePerson was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

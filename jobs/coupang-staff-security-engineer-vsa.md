@@ -1,16 +1,16 @@
-# SOC Analyst L1 at Accenture
+# Staff Security Engineer (VSA) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Analyst-L1_14673446) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8163760) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-30.
+This cybersecurity engineer position at Coupang was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

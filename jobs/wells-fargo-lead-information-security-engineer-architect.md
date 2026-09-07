@@ -1,16 +1,16 @@
-# Global Incident Commander, AVP at Mitsubishi UFG
+# Lead Information Security Engineer-  Architect at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Global-Incident-Commander--AVP_10076839-WD) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Information-Security-Engineer---Architect_R-571297) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-08-31.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

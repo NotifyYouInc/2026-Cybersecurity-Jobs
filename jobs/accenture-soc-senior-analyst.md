@@ -1,4 +1,4 @@
-# SOC Analyst L1 at Accenture
+# SOC Senior Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Analyst-L1_14673446) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Senior-Analyst_14673458) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Cyber Security Specialist at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Getafe, Madrid, Spain |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Cyber-Security-Specialist_JR10426391) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at Airbus was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

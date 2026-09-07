@@ -1,16 +1,16 @@
-# SOC Analyst L1 at Accenture
+# Staff+ Software Engineer, Agentic Software Security at Verkada
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Analyst-L1_14673446) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5226046007) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-30.
+This cybersecurity engineer position at Verkada was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

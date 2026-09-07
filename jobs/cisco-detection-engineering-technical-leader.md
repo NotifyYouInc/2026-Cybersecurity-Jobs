@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Detection Engineering Technical Leader at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 16 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Detection-Engineering-Technical-Leader_2022041-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at Cisco was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

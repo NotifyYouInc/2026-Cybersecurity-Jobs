@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142627667-sr-engineer-cloud-security) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000146456609-sr-engineer-cloud-security) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mattel was posted on 2026-08-10.
+This cybersecurity engineer position at Mattel was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

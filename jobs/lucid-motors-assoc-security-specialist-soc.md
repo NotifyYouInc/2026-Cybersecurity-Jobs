@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Assoc. Security Specialist, SOC at Lucid Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Saudi Arabia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5207701007) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at Lucid Motors was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

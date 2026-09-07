@@ -1,12 +1,12 @@
-# SOC Analyst L1 at Accenture
+# Managed Security Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Analyst-L1_14673446) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Petaling-Jaya-Plaza-33/Managed-Security-Engineer_R00353377) |
 
 ## About This Role
 

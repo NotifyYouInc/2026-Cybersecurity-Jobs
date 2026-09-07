@@ -1,16 +1,16 @@
-# Administrateur SysOps et sécurité (F/H) at Thales
+# Stage - Cloud Security - F/H/N at OCTO Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Lyon/Administrateur-SysOps-et-scurit--F-H-_R0336443-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146426969-stage-cloud-security-fhn) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thales was posted on 2026-08-31.
+This cybersecurity engineer position at OCTO Technology was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

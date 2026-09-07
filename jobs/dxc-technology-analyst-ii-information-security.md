@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Analyst-II-Information-Security_51582261) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Analyst-II-Information-Security_51584516) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-05.
+This cybersecurity engineer position at DXC Technology was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
