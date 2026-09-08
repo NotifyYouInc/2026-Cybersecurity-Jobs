@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29462-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29997) |
 
 ## About This Role
 
-This implementation / professional services position at CrowdStrike was posted on 2026-07-23.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2021941-1) |
 
 ## About This Role
 
-This security engineer position at Nvidia was posted on 2026-06-01.
+This cybersecurity engineer position at Nvidia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

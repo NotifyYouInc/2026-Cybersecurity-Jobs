@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Maryland, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/24177c43-5d15-4c35-8677-961463635c1a) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/05d18664-92a1-49b0-b4b2-a86df1f6522e) |
 
 ## About This Role
 
-This it & systems administration position at Wyetech was posted on 2026-04-30.
+This cybersecurity engineer position at Wyetech was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Cybersecurity-Engineer_R-00187720) |
+| Location | Orlando, Florida, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Cybersecurity-Engineer_R-00190991) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-07-21.
+This cybersecurity engineer position at Leidos was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

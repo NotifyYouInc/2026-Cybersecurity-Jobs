@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Singapore, Singapore |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaL4TG4_ufbSE518LzPe6Jh3uLaObcGBg1WejpI1CCIhEjsA1Ny_i7DdcDu8SWVQajwqR0XL2YlWqa3xlYZ8fCzU0febaZijjOVkyiGZFMqP9rJ8rgGgTWwksEL1Pw%3D%3D_V2&loc=JP&title=Offensive+Security+Consultant) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckac2g7W3jr-GxWxKCn_T5l-7wBltYhn74nYxNQRCgNHzEjsA1Ny_i9724fHZXdVOGMYMg38uIJU2csKOz4K3ZzDDIlQrT2SoR6C1sITlqiu_mv45Zy0xCa7IgP7APw%3D%3D_V2&loc=SG&title=Offensive+Security+Consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-11.
+This cybersecurity engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

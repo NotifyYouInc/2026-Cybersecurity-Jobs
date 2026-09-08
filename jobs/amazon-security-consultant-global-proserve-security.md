@@ -1,16 +1,16 @@
-# Security Consultant, Global ProServe Security at Amazon
+# Security Consultant, Global Proserve Security at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444280/security-consultant-global-proserve-security) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10523558/security-consultant-global-proserve-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-06-10.
+This cybersecurity engineer position at Amazon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

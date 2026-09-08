@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Costa Rica |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5128589007) |
+| Location | Pune, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5200408007) |
 
 ## About This Role
 
-This security engineer position at Zscaler was posted on 2026-05-05.
+This cybersecurity engineer position at Zscaler was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

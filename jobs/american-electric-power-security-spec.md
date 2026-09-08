@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Spec_R14132-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Security-Spec_R18497) |
 
 ## About This Role
 
-This security engineer position at American Electric Power was posted on 2026-03-26.
+This cybersecurity engineer position at American Electric Power was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

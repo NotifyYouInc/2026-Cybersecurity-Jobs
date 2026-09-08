@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Manchester/Senior-Operational-Technology--OT--Security-Consultant_R0161123) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Manchester/Senior-Operational-Technology--OT--Security-Consultant_R0169497) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-05-11.
+This cybersecurity engineer position at Amentum was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6113754004) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6166511004) |
 
 ## About This Role
 
-This cybersecurity engineer position at Two Six Technologies was posted on 2026-08-04.
+This cybersecurity engineer position at Two Six Technologies was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

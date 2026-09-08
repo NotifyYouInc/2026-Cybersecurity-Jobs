@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.lever.co/megaport/db80a766-74ba-4bf1-95ba-542eeee4f64e) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.lever.co/megaport/5851f7b1-607d-4950-847f-695b402321a5) |
 
 ## About This Role
 
-This security engineer position at Megaport was posted on 2026-03-03.
+This cybersecurity engineer position at Megaport was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

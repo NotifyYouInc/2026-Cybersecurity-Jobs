@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143499599-splunk-konsulent) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146640457-splunk-konsulent) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-08-14.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

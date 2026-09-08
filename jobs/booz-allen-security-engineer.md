@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Security-Engineer_R0245101) |
+| Location | Ashburn, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Security-Engineer_R0248294) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-07-22.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flexport/jobs/8160833) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flexport/jobs/8164847) |
 
 ## About This Role
 
-This cybersecurity engineer position at Flexport was posted on 2026-08-27.
+This cybersecurity engineer position at Flexport was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Antora Energy](https://scoutify.ai/companies/antora?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Jose, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/antora/jobs/5830976004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/antora/jobs/6151684004) |
 
 ## About This Role
 
-This engineering manager position at Antora Energy was posted on 2026-03-18.
+This cybersecurity engineer position at Antora Energy was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

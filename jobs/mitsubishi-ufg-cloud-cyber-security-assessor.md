@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Cloud-Cyber-Security-Assessor_10077029-WD) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Cloud-Cyber-Security-Assessor_10079086-WD) |
 
 ## About This Role
 
-This security engineer position at Mitsubishi UFG was posted on 2026-06-16.
+This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

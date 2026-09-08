@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Indonesia |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#32398) |
+| Location | Malaysia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#34242) |
 
 ## About This Role
 
-This soc & incident response position at Wesco was posted on 2026-06-16.
+This cybersecurity engineer position at Wesco was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

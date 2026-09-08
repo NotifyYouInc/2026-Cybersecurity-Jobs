@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canada |
+| Location | Texas, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2024800) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nvidia was posted on 2026-08-22.
+This cybersecurity engineer position at Nvidia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

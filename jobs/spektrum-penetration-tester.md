@@ -5,12 +5,12 @@
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mons, Wallonia, Belgium |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4962314101) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4963577101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Spektrum was posted on 2026-08-27.
+This cybersecurity engineer position at Spektrum was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

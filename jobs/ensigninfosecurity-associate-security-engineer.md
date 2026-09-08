@@ -1,16 +1,16 @@
-# Associate, Security Engineer at Ensigninfosecurity
+# Associate Security Engineer at Ensigninfosecurity
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Indonesia |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Indonesia/Associate--Security-Engineer_JOBREQ-0003503) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Associate-Security-Engineer_JOBREQ-0003606) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-06-04.
+This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/SOC-Analyst--Shift-Lead---f-m-d-_R1315697) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/SOC-Analyst--Shift-Lead---f-m-d-_R1316792) |
 
 ## About This Role
 
-This soc & incident response position at Danaher was posted on 2026-07-27.
+This cybersecurity engineer position at Danaher was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
