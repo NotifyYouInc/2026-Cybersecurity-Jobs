@@ -1,16 +1,16 @@
-# (Technical Targeter - General) Cyber Technical Analyst Principal (TS/SCI with Poly Required) at GCI
+# (Technical Targeter- General) Cyber Technical Analyst Principal (TS/SCI with Poly Required) at GCI
 
 | Field | Details |
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=9244ce91-2827-486c-9c7e-a7bdf0b37ea3) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=d0cc6241-a849-4b49-91e9-1ac515c3046b) |
 
 ## About This Role
 
-This security engineer position at GCI was posted on 2026-06-15.
+This cybersecurity engineer position at GCI was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

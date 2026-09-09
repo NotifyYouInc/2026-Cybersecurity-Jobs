@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Minato, Wakayama, Japan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Security-Consulting-Engineer_2018944-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Security-Consulting-Engineer_2024361) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-08-14.
+This cybersecurity engineer position at Cisco was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

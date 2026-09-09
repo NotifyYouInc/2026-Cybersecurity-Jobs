@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Penetration-Tester_R-00180069) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Penetration-Tester_R-00191122) |
 
 ## About This Role
 
-This offensive security & pentesting position at Leidos was posted on 2026-05-01.
+This cybersecurity engineer position at Leidos was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Billund, South Denmark, Denmark |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Senior-Security-Specialist_0000033947) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Senior-Security-Specialist_0000037433) |
 
 ## About This Role
 
-This soc & incident response position at LEGO was posted on 2026-04-28.
+This cybersecurity engineer position at LEGO was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

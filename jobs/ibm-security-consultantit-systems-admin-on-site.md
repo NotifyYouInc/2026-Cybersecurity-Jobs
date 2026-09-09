@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Essex Junction, Vermont, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=125136) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131304) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-08-12.
+This cybersecurity engineer position at IBM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

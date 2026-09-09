@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Juárez, Chiapas, Mexico |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Security-Specialist_WD221207) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Security-Specialist_WD228348) |
 
 ## About This Role
 
-This security engineer position at FLEX LTD. Flextronics was posted on 2026-05-15.
+This cybersecurity engineer position at FLEX LTD. Flextronics was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

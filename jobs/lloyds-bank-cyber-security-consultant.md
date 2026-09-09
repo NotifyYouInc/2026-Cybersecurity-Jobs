@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Cyber-Security-Consultant_153821-3) |
 
 ## About This Role
 
-This security engineer position at Lloyds Bank was posted on 2026-05-14.
+This cybersecurity engineer position at Lloyds Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

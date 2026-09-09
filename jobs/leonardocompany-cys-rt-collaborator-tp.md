@@ -1,16 +1,16 @@
-# CYS_R&T Collaborator_TP at Leonardocompany
+# CYS_ R&T Collaborator_TP at Leonardocompany
 
 | Field | Details |
 |-------|---------|
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Italy |
-| Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Genova---Fiumara/CYS-R-T-Collaborator-TP_R0027660-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Laurentina/CYS--R-T-Collaborator-TP_R0024379) |
 
 ## About This Role
 
-This security engineer position at Leonardocompany was posted on 2026-04-20.
+This cybersecurity engineer position at Leonardocompany was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

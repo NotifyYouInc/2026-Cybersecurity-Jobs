@@ -1,16 +1,16 @@
-# Cyber Security Analyst (junior) at Biogen
+# Cyber Security Analyst (Junior) at Biogen
 
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Cyber-Security-Analyst--junior-_REQ22113) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Cyber-Security-Analyst--Junior-_REQ24038) |
 
 ## About This Role
 
-This security engineer position at Biogen was posted on 2026-02-19.
+This cybersecurity engineer position at Biogen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

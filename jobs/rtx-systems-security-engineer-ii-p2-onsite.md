@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Security-Engineer-II--P2---Onsite-_01866292) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Security-Engineer-II--P2---Onsite-_01871309) |
 
 ## About This Role
 
-This cybersecurity engineer position at RTX was posted on 2026-08-14.
+This cybersecurity engineer position at RTX was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mawson Lakes, South Australia, Australia |
-| Category | Security Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Principal-Systems---Cyber-Security-Specialists_01857637) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Principal-Systems---Cyber-Security-Specialists_01871569) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-07-15.
+This cybersecurity engineer position at RTX was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

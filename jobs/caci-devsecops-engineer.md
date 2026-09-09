@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Devops Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/DevSecOps-Engineer_321707) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/DevSecOps-Engineer_331392) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-02-02.
+This cybersecurity engineer position at CACI was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

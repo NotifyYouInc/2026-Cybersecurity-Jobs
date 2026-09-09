@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Counterintelligence--CI--Analyst_R0169369) |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Counterintelligence--CI--Analyst_R0169392) |
 
 ## About This Role
 

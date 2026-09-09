@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154114) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156062) |
 
 ## About This Role
 
-This cybersecurity engineer position at Honeywell was posted on 2026-08-11.
+This cybersecurity engineer position at Honeywell was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

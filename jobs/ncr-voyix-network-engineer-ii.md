@@ -1,16 +1,16 @@
-# Network Engineer (II) at NCR Voyix
+# Network Engineer II at NCR Voyix
 
 | Field | Details |
 |-------|---------|
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Network-Engineer--II-_R0157184) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Network-Engineer-II_R0157179) |
 
 ## About This Role
 
-This cybersecurity engineer position at NCR Voyix was posted on 2026-08-10.
+This cybersecurity engineer position at NCR Voyix was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

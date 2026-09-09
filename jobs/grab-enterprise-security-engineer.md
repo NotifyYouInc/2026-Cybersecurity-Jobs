@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000136666324-enterprise-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000146880489-enterprise-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Grab was posted on 2026-07-09.
+This cybersecurity engineer position at Grab was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Penetration-Tester_ATCP-1444343-S425072-1) |
+| Location | Kfar Saba, Central District, Israel |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kfar-Saba/Cyber-Security-Expert_R00282171-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Accenture was posted on 2026-07-09.
+This cybersecurity engineer position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Sr-Security-Engineer_R26_0000000449) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Sr-Security-Engineer_R26_0000003727) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lennar Corporation was posted on 2026-02-12.
+This cybersecurity engineer position at Lennar Corporation was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

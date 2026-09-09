@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Redlands, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.esri.com/careers/5136168007?gh_jid=5136168007) |
+| Location | Vienna, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.esri.com/careers/5227754007?gh_jid=5227754007) |
 
 ## About This Role
 
-This security engineer position at Esri was posted on 2026-05-14.
+This cybersecurity engineer position at Esri was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

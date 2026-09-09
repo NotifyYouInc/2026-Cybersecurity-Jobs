@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swile](https://scoutify.ai/companies/swile?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Montpellier, Occitanie, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.lever.co/swile/681e64ef-03ec-4a6e-90ad-ecce9d48bd09) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.lever.co/swile/b0b5ab4c-670b-445f-a29b-938be7e48581) |
 
 ## About This Role
 
-This cybersecurity engineer position at Swile was posted on 2026-08-26.
+This cybersecurity engineer position at Swile was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

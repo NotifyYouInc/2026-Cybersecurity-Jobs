@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Diego, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Network-Engineer_R10216203) |
+| Location | Chantilly, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Staff-Network-Engineer_R10248676) |
 
 ## About This Role
 
-This technical & solutions architect position at Northrop Grumman was posted on 2026-02-06.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavenet](https://scoutify.ai/companies/wavenet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Birstall, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavenet/744000138597511-cyber-security-soc-analyst-l1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavenet/744000146685509-cyber-security-soc-analyst-l1) |
 
 ## About This Role
 
-This soc & incident response position at Wavenet was posted on 2026-07-20.
+This cybersecurity engineer position at Wavenet was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

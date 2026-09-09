@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Sr-Cyber-Info-Assur-Analyst_R67654-1) |
 
 ## About This Role
 
-This security engineer position at Medtronic was posted on 2026-05-27.
+This cybersecurity engineer position at Medtronic was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000146453268-cloud-security-consultant-information-compliance-security-cnapp-cspm-multi-cloud-exp-8-12-yrs-job-location-gurgaon-mumbai) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000146899888-cloud-security-consultant-information-compliance-security-cnapp-cspm-multi-cloud-exp-8-12-yrs-job-location-gurgaon-mumbai) |
 
 ## About This Role
 
-This cybersecurity engineer position at WNS was posted on 2026-08-31.
+This cybersecurity engineer position at WNS was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

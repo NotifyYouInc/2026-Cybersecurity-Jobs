@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voyager Technologies](https://scoutify.ai/companies/voyager-technologies?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4310009009) |
+| Location | Folsom, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4379662009) |
 
 ## About This Role
 
-This security engineer position at Voyager Technologies was posted on 2026-07-13.
+This cybersecurity engineer position at Voyager Technologies was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Architecte Infrastructure et sécurité (H/F) at Thales
+# Architecte Infrastructure et Sécurité (H/F) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Carquefou, Pays de la Loire, France |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Carquefou/Architecte-Infrastructure-et-scurit--H-F-_R0334574-1) |
+| Location | Brest, Brittany, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brest/Architecte-Infrastructure-et-Scurit--H-F-_R0338752-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-07-20.
+This cybersecurity engineer position at Thales was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

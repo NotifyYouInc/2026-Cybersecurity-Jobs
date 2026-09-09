@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accesa](https://scoutify.ai/companies/accesa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Romania |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ACCESA/744000138830115-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ACCESA/744000146909781-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Accesa was posted on 2026-07-21.
+This cybersecurity engineer position at Accesa was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

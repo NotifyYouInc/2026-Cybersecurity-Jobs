@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Leavenworth, Kansas, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Leavenworth-KS/Information-Assurance-Systems-Administrator_R0242261) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Leavenworth-KS/Information-Assurance-Systems-Administrator_R0248364) |
 
 ## About This Role
 
-This it & systems administration position at Booz Allen was posted on 2026-06-15.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/DLP-Policy-Specialist_PT-JR034233) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/DLP-Policy-Specialist_PT-JR036331) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-05-21.
+This cybersecurity engineer position at Morgan Stanley was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
