@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Florida, US |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4692382006?gh_jid=4692382006) |
+| Location | Colorado Springs, Colorado, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006) |
 
 ## About This Role
 
-This security engineer position at Accenture Federal Services was posted on 2026-07-01.
+This cybersecurity engineer position at Accenture Federal Services was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

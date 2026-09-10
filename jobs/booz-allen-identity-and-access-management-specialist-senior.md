@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Identity-and-Access-Management-Specialist--Senior_R0247493) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Identity-and-Access-Management-Specialist--Senior_R0248491) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-20.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

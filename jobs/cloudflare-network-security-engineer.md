@@ -1,16 +1,16 @@
-# Network Security Engineer at Cloudflare
+# Network Security Engineer  at Cloudflare
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8081027?gh_jid=8081027) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8159206?gh_jid=8159206) |
 
 ## About This Role
 
-This security engineer position at Cloudflare was posted on 2026-07-24.
+This cybersecurity engineer position at Cloudflare was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

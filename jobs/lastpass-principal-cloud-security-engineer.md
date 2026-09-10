@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LastPass](https://scoutify.ai/companies/lastpass?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Portugal |
+| Location | Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lastpass/jobs/4718742005) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lastpass/jobs/4730579005) |
 
 ## About This Role
 
-This cybersecurity engineer position at LastPass was posted on 2026-07-27.
+This cybersecurity engineer position at LastPass was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

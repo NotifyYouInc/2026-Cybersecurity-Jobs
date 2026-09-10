@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R29057) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R29809) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-06-17.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

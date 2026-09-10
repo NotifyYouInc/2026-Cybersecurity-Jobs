@@ -1,16 +1,16 @@
-# Senior Security Engineer (Penetration Tester) at Coupang
+# Senior Security Engineer, Penetration Tester at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8163504) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8175728) |
 
 ## About This Role
 
-This cybersecurity engineer position at Coupang was posted on 2026-08-31.
+This cybersecurity engineer position at Coupang was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

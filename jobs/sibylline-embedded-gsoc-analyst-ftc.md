@@ -5,12 +5,12 @@
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000146199259-embedded-gsoc-analyst-ftc) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000146976029-embedded-gsoc-analyst-ftc) |
 
 ## About This Role
 
-This cybersecurity engineer position at SIBYLLINE was posted on 2026-08-28.
+This cybersecurity engineer position at SIBYLLINE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Denver, Colorado, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Dublin-Ireland/Network-Operations-Engineer-II_R0016954-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0017257-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Astreya was posted on 2026-08-24.
+This cybersecurity engineer position at Astreya was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

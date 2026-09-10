@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Queens, New York, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014641936-director-of-network-infrastructure) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015009951-director-of-network-infrastructure) |
 
 ## About This Role
 
-This it & systems administration position at City of New York was posted on 2026-08-18.
+This cybersecurity engineer position at City of New York was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

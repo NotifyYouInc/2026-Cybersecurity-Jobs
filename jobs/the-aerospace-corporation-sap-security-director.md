@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/SAP-Security-Director_R015644) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/SAP-Security-Director_R016405) |
 
 ## About This Role
 
-This security engineer position at The Aerospace Corporation was posted on 2026-06-16.
+This cybersecurity engineer position at The Aerospace Corporation was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

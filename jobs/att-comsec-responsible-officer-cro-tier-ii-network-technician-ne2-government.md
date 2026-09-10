@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Cocoa, Florida, United States |
+| Location | Englewood, Colorado, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cocoa-Florida/COMSEC-Responsible-Officer--CRO---Tier-II-Network-Technician--NE2---Government-_R-121156) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Englewood-Colorado/COMSEC-Responsible-Officer--CRO---Tier-II-Network-Technician--NE2---Government-_R-121454) |
 
 ## About This Role
 
-This cybersecurity engineer position at AT&T was posted on 2026-08-31.
+This cybersecurity engineer position at AT&T was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

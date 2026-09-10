@@ -1,16 +1,16 @@
-# Staff Security Engineer (Penetration Tester) at Coupang
+# Staff Security Engineer, Penetration Tester at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7984351) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8172730) |
 
 ## About This Role
 
-This security engineer position at Coupang was posted on 2026-06-08.
+This cybersecurity engineer position at Coupang was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

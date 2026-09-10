@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7659972003?gh_jid=7659972003) |
+| Location | San Francisco, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7661765003?gh_jid=7661765003) |
 
 ## About This Role
 
-This security engineer position at Klaviyo was posted on 2026-06-17.
+This cybersecurity engineer position at Klaviyo was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

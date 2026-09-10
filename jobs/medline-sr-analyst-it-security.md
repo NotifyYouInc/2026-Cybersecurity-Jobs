@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Sr-Analyst-IT-Security_R2610941) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Sr-Assoc-IT-Security_R2610239-1) |
 
 ## About This Role
 
-This security engineer position at Medline was posted on 2026-06-02.
+This cybersecurity engineer position at Medline was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

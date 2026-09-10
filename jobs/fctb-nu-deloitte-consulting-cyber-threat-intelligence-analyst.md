@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000146698742-cyber-threat-intelligence-analyst) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000146922166-cyber-threat-intelligence-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-09-01.
+This cybersecurity engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

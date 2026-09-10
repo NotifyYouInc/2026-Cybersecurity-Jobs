@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10493781/security-engineer-aws-security-incident-response) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10527923/security-engineer-aws-security-incident-response) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-08-06.
+This cybersecurity engineer position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000144813849-embedded-gsoc-intelligence-analyst) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000146974095-embedded-gsoc-intelligence-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at SIBYLLINE was posted on 2026-08-21.
+This cybersecurity engineer position at SIBYLLINE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

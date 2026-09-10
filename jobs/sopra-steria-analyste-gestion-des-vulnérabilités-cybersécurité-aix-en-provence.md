@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131092435-analyste-gestion-des-vulnerabilites-cybersecurite-aix-en-provence) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146972347-analyste-gestion-des-vulnerabilites-cybersecurite-aix-en-provence) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-06-09.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013805666-cert-lead) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015040931-cert-lead) |
 
 ## About This Role
 
-This soc & incident response position at City of New York was posted on 2026-06-26.
+This cybersecurity engineer position at City of New York was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

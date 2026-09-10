@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Counterintelligence--CI--Analyst_R0169392) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Counterintelligence--CI--Analyst_R0169677) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amentum was posted on 2026-08-31.
+This cybersecurity engineer position at Amentum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

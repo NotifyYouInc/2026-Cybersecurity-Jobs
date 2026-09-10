@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663651/software-engineer-calls-security) |
+| Location | San Diego, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681266/software-engineer-calls-security) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-06-09.
+This cybersecurity engineer position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

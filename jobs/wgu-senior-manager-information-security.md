@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Senior-Manager--Information-Security_JR-025693) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Senior-Manager--Information-Security_JR-026074) |
 
 ## About This Role
 
-This security engineer position at WGU was posted on 2026-07-16.
+This cybersecurity engineer position at WGU was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

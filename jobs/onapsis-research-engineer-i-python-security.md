@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Onapsis](https://scoutify.ai/companies/onapsis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/onapsis/jobs/8600680002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onapsis/jobs/8781304002) |
 
 ## About This Role
 
-This security engineer position at Onapsis was posted on 2026-06-19.
+This cybersecurity engineer position at Onapsis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

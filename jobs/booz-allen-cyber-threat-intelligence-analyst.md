@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cyber-Threat-Intelligence-Analyst_R0246203) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cyber-Threat-Intelligence-Analyst_R0248519) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-08-07.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

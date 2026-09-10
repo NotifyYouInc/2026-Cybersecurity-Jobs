@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/fd38074a-b8bc-43ce-862e-793e2a99f407) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/53162fb2-a693-4226-8e17-48ad2cf7c13e) |
 
 ## About This Role
 
-This security engineer position at Delinea was posted on 2026-04-17.
+This cybersecurity engineer position at Delinea was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

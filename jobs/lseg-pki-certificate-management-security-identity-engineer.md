@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/PKI-Certificate-Management---Security-Identity-Engineer_R0116586-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/PKI-Certificate-Management---Security-Identity-Engineer_R0120045-1) |
 
 ## About This Role
 
-This security engineer position at LSEG was posted on 2026-02-24.
+This cybersecurity engineer position at LSEG was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

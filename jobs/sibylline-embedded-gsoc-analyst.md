@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000125192309-embedded-gsoc-analyst) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000146976859-embedded-gsoc-analyst) |
 
 ## About This Role
 
-This soc & incident response position at SIBYLLINE was posted on 2026-05-07.
+This cybersecurity engineer position at SIBYLLINE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

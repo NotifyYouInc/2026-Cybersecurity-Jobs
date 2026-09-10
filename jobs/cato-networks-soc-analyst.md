@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4956833101?gh_jid=4956833101) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4966895101?gh_jid=4966895101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cato Networks was posted on 2026-08-27.
+This cybersecurity engineer position at Cato Networks was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

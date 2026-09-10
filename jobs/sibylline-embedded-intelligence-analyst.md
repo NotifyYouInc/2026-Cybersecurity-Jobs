@@ -1,16 +1,16 @@
-#  Embedded Intelligence Analyst at SIBYLLINE
+# Embedded Intelligence Analyst at SIBYLLINE
 
 | Field | Details |
 |-------|---------|
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Jose, California, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000138192309-embedded-intelligence-analyst) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000146976739-embedded-intelligence-analyst) |
 
 ## About This Role
 
-This soc & incident response position at SIBYLLINE was posted on 2026-07-16.
+This cybersecurity engineer position at SIBYLLINE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Latitude AI](https://scoutify.ai/companies/latitude-ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/8081952) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/8173295) |
 
 ## About This Role
 
-This security engineer position at Latitude AI was posted on 2026-07-23.
+This cybersecurity engineer position at Latitude AI was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

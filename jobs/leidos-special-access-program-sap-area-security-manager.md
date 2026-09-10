@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hampton, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Special-Access-Program--SAP--Area-Security-Manager_R-00185680) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Special-Access-Program--SAP--Area-Security-Manager_R-00191212) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-18.
+This cybersecurity engineer position at Leidos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
