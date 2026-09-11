@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bossier City, Louisiana, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Principal-Systems-Engineer_RQ216914-2) |
+| Location | McLean, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Principal-Systems-Engineer_RQ227592) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-19.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

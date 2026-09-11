@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145911989-incident-handler-threat-hunter) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000147416519-incident-handler-threat-hunter) |
 
 ## About This Role
 
-This cybersecurity engineer position at KPN was posted on 2026-08-27.
+This cybersecurity engineer position at KPN was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

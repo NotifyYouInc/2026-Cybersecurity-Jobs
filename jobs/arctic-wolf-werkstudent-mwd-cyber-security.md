@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Werkstudent--m-w-d--Cyber-Security_R25_1208) |
+| Location | Germany |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Office---DEU---Hessen-Frankfurt/Werkstudent--m-w-d--Cyber-Security_R25_1208) |
 
 ## About This Role
 
-This soc & incident response position at Arctic Wolf was posted on 2026-03-04.
+This cybersecurity engineer position at Arctic Wolf was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

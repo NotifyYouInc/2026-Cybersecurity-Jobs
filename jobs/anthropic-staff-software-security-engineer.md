@@ -1,16 +1,16 @@
-# Staff+ Software Security Engineer at Anthropic
+# Staff Software Security Engineer at Anthropic
 
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5120512008) |
+| Location | London, England, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5022845008) |
 
 ## About This Role
 
-This software engineer position at Anthropic was posted on 2026-02-13.
+This cybersecurity engineer position at Anthropic was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116121578-coordinador-a-servicio-soc) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147442091-coordinador-a-servicio-soc) |
 
 ## About This Role
 
-This soc & incident response position at Inetum was posted on 2026-03-23.
+This cybersecurity engineer position at Inetum was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014356356-sr-identity-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015041256-sr-identity-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wabtec was posted on 2026-07-30.
+This cybersecurity engineer position at Wabtec was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

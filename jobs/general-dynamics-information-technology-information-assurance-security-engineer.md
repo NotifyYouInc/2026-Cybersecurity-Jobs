@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Springfield, Missouri, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/Information-Assurance-Security-Engineer_RQ223122-1) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MO-Arnold/Information-Assurance-Security-Engineer_RQ227759) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-06-25.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

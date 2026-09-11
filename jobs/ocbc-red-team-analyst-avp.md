@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Red-Team-Analyst--AVP-_JR00008750) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Red-Team-Analyst--AVP-_JR00010770) |
 
 ## About This Role
 
-This offensive security & pentesting position at OCBC was posted on 2026-06-19.
+This cybersecurity engineer position at OCBC was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

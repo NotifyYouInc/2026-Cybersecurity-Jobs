@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126510691-ams-senior-associate-ban) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147416769-ams-senior-associate-ban) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-05-14.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

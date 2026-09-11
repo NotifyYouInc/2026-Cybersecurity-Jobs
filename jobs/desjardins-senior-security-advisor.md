@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-expert-ou-conseillre-experte--Scurit-de-l-intelligence-artificielle_R2610620-2) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Expert-ou-experte-scurit-DNS-et-des-courriels_R2610933-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Desjardins was posted on 2026-08-31.
+This cybersecurity engineer position at Desjardins was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

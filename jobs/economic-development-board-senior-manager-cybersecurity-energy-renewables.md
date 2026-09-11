@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-26 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/EDB---SG-SINGAPORE/Senior-Manager--Cybersecurity---Energy---Renewables_JR-10000048856) |
 
 ## About This Role
 
-This soc & incident response position at Economic Development Board was posted on 2026-03-26.
+This cybersecurity engineer position at Economic Development Board was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

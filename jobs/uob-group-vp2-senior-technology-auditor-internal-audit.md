@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/VP2--Senior-Technology-Auditor--Internal-Audit_JR85374-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/VP2--Senior-Technology-Auditor--Internal-Audit_JR95559) |
 
 ## About This Role
 
-This security engineer position at UOB Group was posted on 2026-04-30.
+This cybersecurity engineer position at UOB Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

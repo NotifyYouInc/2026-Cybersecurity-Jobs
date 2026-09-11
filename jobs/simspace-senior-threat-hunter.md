@@ -1,16 +1,16 @@
-# Senior Threat Hunter at SimSpace
+# Senior Threat Hunter  at SimSpace
 
 | Field | Details |
 |-------|---------|
 | Company | [SimSpace](https://scoutify.ai/companies/simspace-corporation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/simspace-corporation/e53e7ee4-1a57-4a20-a48e-487279c98463) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/simspace-corporation/cec11442-3046-4ea7-b5d1-d8a8ecf126e3) |
 
 ## About This Role
 
-This soc & incident response position at SimSpace was posted on 2026-07-18.
+This cybersecurity engineer position at SimSpace was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

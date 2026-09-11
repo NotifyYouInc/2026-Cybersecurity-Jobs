@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 10 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Digital-Forensics-and-Incident-Response-Engineer_R-419142) |
+| Location | 11 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Digital-Forensics-and-Incident-Response-Engineer_R-427539) |
 
 ## About This Role
 
-This soc & incident response position at Humana was posted on 2026-06-18.
+This cybersecurity engineer position at Humana was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

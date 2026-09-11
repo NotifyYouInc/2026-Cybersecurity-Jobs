@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Information-Security-Analyst_R_1501999) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Information-Security-Analyst_R_1503390) |
 
 ## About This Role
 
-This soc & incident response position at TD Bank was posted on 2026-08-06.
+This cybersecurity engineer position at TD Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7489019?gh_jid=7489019) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8170775?gh_jid=8170775) |
 
 ## About This Role
 
-This security engineer position at Cloudflare was posted on 2026-07-13.
+This cybersecurity engineer position at Cloudflare was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

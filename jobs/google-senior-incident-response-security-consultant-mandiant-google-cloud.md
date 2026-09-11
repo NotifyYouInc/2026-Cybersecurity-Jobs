@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTd6VHYhabBes43W_xQ4wqQgqi8A5E3EHhwD8DixiVk7EjoA1Ny_i1Glwgb3y1Q4hKikzLzoz66l7jnPPPUMfBRmVnVpiIc7Ul6v2Xxq7c3-8CSVLE3_vpN6j0Yo_V2&loc=US&title=Senior+Incident+Response+Security+Consultant) |
+| Location | Alberta, CA |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke2HCdsC88tSirh35VU8G43NTJxNdi2wVTfQN7tQ2j-rEjsA1Ny_iyQ6dH5LDw5Rx2dmgoLk8d7YVOlMETnvgSN4HfJLqa8igT7cRaox2bxGS8cku2dxsPBKXVxymw%3D%3D_V2&loc=US&title=Senior+Incident+Response+Security+Consultant) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-08-04.
+This cybersecurity engineer position at Google was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

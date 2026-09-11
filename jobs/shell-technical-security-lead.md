@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lagos, Lagos, Nigeria |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Lagos/Technical-Security-Lead_R199461-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Lagos/Technical-Security-Lead_R210396) |
 
 ## About This Role
 
-This security engineer position at Shell was posted on 2026-06-15.
+This cybersecurity engineer position at Shell was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

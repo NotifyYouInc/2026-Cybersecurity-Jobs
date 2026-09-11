@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kontoor Brands](https://scoutify.ai/companies/kbi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-11 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://kbi.wd5.myworkdayjobs.com/Kontoor/job/United-States/Cyber-Incident-Handler_R-20260611-0003) |
 
 ## About This Role
 
-This soc & incident response position at Kontoor Brands was posted on 2026-06-11.
+This cybersecurity engineer position at Kontoor Brands was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

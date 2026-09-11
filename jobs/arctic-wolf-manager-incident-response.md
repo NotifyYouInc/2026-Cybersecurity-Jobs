@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
+| Location | Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-United-Kingdom/Manager--Incident-Response_R26_972) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-Ireland/Manager--Incident-Response_R26_979) |
 
 ## About This Role
 
-This cybersecurity engineer position at Arctic Wolf was posted on 2026-09-01.
+This cybersecurity engineer position at Arctic Wolf was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

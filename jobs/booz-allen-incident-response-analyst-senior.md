@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Incident-Response-Analyst--Senior_R0248385) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Incident-Response-Analyst--Senior_R0248504) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-09-01.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

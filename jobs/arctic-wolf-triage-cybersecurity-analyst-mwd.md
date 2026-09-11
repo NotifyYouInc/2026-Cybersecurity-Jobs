@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
-| Category | Security Engineer |
-| Posted | 2026-04-29 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Frankfurt-DEU/Triage-Cybersecurity-Analyst--m-w-d-_R26_449) |
 
 ## About This Role
 
-This security engineer position at Arctic Wolf was posted on 2026-04-29.
+This cybersecurity engineer position at Arctic Wolf was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

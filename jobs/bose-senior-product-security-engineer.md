@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bose](https://scoutify.ai/companies/boseallaboutme?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Framingham, Massachusetts, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Senior-Product-Security-Engineer_R28947) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Product-Security-Engineer_R28826) |
 
 ## About This Role
 
-This security engineer position at Bose was posted on 2026-05-07.
+This cybersecurity engineer position at Bose was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

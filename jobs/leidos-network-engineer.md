@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Network-Engineer_R-00191165) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Network-Engineer_R-00191336) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-09-01.
+This cybersecurity engineer position at Leidos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

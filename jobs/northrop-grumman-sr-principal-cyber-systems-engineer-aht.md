@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Cyber-Systems-Engineer-AHT_R10248718) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Cyber-Systems-Engineer-AHT_R10248949) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-01.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

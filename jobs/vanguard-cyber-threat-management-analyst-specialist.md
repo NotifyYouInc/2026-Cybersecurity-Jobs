@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cyber-Threat-Management-Analyst--Specialist_178190-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Cyber-Threat-Management-Analyst--Specialist_181817-3) |
 
 ## About This Role
 
-This security engineer position at Vanguard was posted on 2026-05-18.
+This cybersecurity engineer position at Vanguard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Security Consultant- Managed Services at CDW
+# Senior Security Consultant – Managed Services at CDW
 
 | Field | Details |
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Canada |
-| Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--Canada/Sr-Security-Consultant--C-Mgd-Svcs_R25_00003275-1) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Mississauga--Forsythe---ON-44/Senior-Security-Consultant---Managed-Services_R26_00002370) |
 
 ## About This Role
 
-This security engineer position at CDW was posted on 2026-04-22.
+This cybersecurity engineer position at CDW was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

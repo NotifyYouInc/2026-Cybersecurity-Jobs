@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | India |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Principal-Engineer---Identity-Governance---Administration--IGA-_R-10061396) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Principal-Engineer---Identity-Governance---Administration--IGA-_R-10066613) |
 
 ## About This Role
 
-This security engineer position at NXP Semiconductors was posted on 2026-04-15.
+This cybersecurity engineer position at NXP Semiconductors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

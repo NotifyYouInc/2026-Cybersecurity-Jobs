@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6115903004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6181902004) |
 
 ## About This Role
 
-This security engineer position at HeartFlow, Inc was posted on 2026-07-14.
+This cybersecurity engineer position at HeartFlow, Inc was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
