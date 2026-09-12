@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | Quincy, Massachusetts, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Supply-Chain-Security-Engineer_R-794915) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Supply-Chain-Security-Engineer_R-794912) |
 
 ## About This Role
 
-This cybersecurity engineer position at State Street was posted on 2026-09-02.
+This cybersecurity engineer position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

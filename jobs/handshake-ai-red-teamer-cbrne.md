@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/26302821-a53a-44e4-b325-4d415c95f039) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/87c44874-6f3d-4814-8721-f214ea5eceed) |
 
 ## About This Role
 
-This offensive security & pentesting position at Handshake was posted on 2026-05-28.
+This cybersecurity engineer position at Handshake was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Southlake-Texas/Senior-Infrastructure-Security-Engineer_R-1097561) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Southlake-Texas/Senior-Infrastructure-Security-Engineer_R-1100433-1) |
 
 ## About This Role
 
-This security engineer position at Verizon was posted on 2026-07-20.
+This cybersecurity engineer position at Verizon was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

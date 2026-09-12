@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Offensive-Security-Technical-Lead_330922) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Offensive-Security-Technical-Lead_331687) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-08-20.
+This cybersecurity engineer position at CACI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

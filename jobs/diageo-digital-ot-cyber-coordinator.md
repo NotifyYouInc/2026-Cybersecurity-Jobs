@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Dublin-Republic-of-Ireland/Digital---OT-Cyber-Coordinator_JR1126224) |
 
 ## About This Role
 
-This security engineer position at Diageo was posted on 2026-05-19.
+This cybersecurity engineer position at Diageo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

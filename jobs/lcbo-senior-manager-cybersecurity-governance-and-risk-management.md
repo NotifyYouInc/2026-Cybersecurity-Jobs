@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lcbo](https://scoutify.ai/companies/lcbo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Cybersecurity Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://lcbo.wd3.myworkdayjobs.com/lcbocareersite/job/Toronto-Ontario/Senior-Manager--Cybersecurity-Governance-and-Risk-Management_JR26-30011) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lcbo was posted on 2026-09-03.
+This compliance & risk management position at Lcbo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

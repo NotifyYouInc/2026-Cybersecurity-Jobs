@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Switzerland |
-| Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Zurich---Switzerland/Security-Engineer_R0044775) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Security-Engineer_R0046072-1) |
 
 ## About This Role
 
-This security engineer position at Snapchat was posted on 2026-03-02.
+This cybersecurity engineer position at Snapchat was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

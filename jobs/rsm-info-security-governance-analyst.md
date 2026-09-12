@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
-| Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Info-Security-Governance-Analyst_JR115170) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Info-Security-Governance-Analyst_JR121136) |
 
 ## About This Role
 
-This security engineer position at RSM was posted on 2026-05-21.
+This cybersecurity engineer position at RSM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

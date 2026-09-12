@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/9a4b7f0a-4b1c-4bba-b649-1341c69875e5) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/b07febfa-8c2e-479d-84a3-58cd7ccc1bc6) |
 
 ## About This Role
 
-This security engineer position at Writer was posted on 2026-05-11.
+This cybersecurity engineer position at Writer was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/SOC-Tier-3-Analyst_51583708) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/SOC-Tier-3-Analyst_51586404) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-23.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

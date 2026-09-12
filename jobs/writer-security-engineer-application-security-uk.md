@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/58aea7b9-69ac-42df-b9ca-bee5c87b354a) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/60cc89b9-b582-49d2-b9e8-b83af6094da5) |
 
 ## About This Role
 
-This security engineer position at Writer was posted on 2026-05-11.
+This cybersecurity engineer position at Writer was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

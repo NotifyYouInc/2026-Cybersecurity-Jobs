@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tandem Health](https://scoutify.ai/companies/tandem-health?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Cybersecurity Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/tandem-health/abda453c-bab5-46c4-ae7d-7b07e47a882e) |
 
 ## About This Role
 
-This cybersecurity engineer position at Tandem Health was posted on 2026-09-03.
+This compliance & risk management position at Tandem Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

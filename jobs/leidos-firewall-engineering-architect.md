@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Firewall-Engineering-Architect_R-00183311) |
+| Location | Huntsville, Alabama, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Firewall-Engineering-Architect_R-00191113) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-14.
+This cybersecurity engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

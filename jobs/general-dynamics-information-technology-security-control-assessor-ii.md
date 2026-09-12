@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Security-Control-Assessor-II_RQ224549-1) |
+| Location | 12 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MA-Bedford/Security-Control-Assessor-II_RQ227770) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-07-16.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

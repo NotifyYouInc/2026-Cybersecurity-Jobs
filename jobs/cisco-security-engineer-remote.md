@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Security-Engineer--Remote-_2017417) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2023046) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-07-08.
+This cybersecurity engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

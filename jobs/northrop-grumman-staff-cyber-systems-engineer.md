@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fairfax, Virginia, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Staff-Cyber-Systems-Engineer_R10245529) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Cyber-Systems-Engineer_R10249445) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-13.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Addi](https://scoutify.ai/companies/addi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colombia |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/addi/0e2f3b0f-cdd1-46ca-9fc0-711be80ba4c7) |
 
 ## About This Role
 
-This security engineer position at Addi was posted on 2026-04-27.
+This cybersecurity engineer position at Addi was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

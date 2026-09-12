@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-03-27 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--IT-Security_R039577) |
 
 ## About This Role
 
-This security engineer position at Ensemble Health Partners was posted on 2026-03-27.
+This cybersecurity engineer position at Ensemble Health Partners was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Security Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Director--Strategic-Security-Integrations--Global-Security-_R-0000160560) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Director--Strategic-Security-Integrations--Global-Security-_R-0000186202-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-02-28.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

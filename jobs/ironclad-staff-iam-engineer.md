@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ironclad](https://scoutify.ai/companies/ironclad-ironcladhq?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ironcladhq/f55e6b4f-6b18-44c4-b8e3-30814365c1c0) |
 
 ## About This Role
 
-This security engineer position at Ironclad was posted on 2026-06-08.
+This cybersecurity engineer position at Ironclad was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

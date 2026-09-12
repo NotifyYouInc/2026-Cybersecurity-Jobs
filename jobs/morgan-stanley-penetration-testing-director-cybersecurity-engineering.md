@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Penetration-Testing---Director---Cybersecurity-Engineering_PT-JR036737) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Penetration-Testing---Director---Cybersecurity-Engineering_PT-JR043286) |
 
 ## About This Role
 
-This offensive security & pentesting position at Morgan Stanley was posted on 2026-05-11.
+This cybersecurity engineer position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

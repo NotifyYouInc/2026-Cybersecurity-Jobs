@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Risk-Management-Framework-Engineer_R-00191321) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-09-02.
+This compliance & risk management position at Leidos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

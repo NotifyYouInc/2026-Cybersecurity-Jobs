@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000129159679-senior-ot-security-specialist) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000147522229-senior-ot-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Vattenfall was posted on 2026-05-29.
+This cybersecurity engineer position at Vattenfall was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

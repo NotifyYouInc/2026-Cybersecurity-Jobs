@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/DevSecOps-Engineer_R-00182517) |
+| Location | Oklahoma City, Oklahoma, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/DevSecOps-Engineer_R-00191547) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-05.
+This cybersecurity engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
