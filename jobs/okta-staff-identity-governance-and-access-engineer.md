@@ -1,16 +1,16 @@
-# AI Security Software Engineer (Starshield) at SpaceX
+# Staff Identity Governance and Access Engineer at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawthorne, California, United States |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8180503?gh_jid=8180503) |
 
 ## About This Role
 
-This cybersecurity engineer position at SpaceX was posted on 2026-09-03.
+This cybersecurity engineer position at Okta was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

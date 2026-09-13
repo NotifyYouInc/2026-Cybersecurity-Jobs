@@ -1,16 +1,16 @@
-# Security Managed Services Specialist at Accenture
+# Security Managed Services specialist at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Delivery-Associate-Manager_13825607-1) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Managed-Services-specialist_14350946) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-12.
+This cybersecurity engineer position at Accenture was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

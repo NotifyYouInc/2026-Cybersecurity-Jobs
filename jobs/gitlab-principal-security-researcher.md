@@ -1,16 +1,16 @@
-# AI Security Software Engineer (Starshield) at SpaceX
+# Principal Security Researcher at GitLab
 
 | Field | Details |
 |-------|---------|
-| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawthorne, California, United States |
+| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8731718002) |
 
 ## About This Role
 
-This cybersecurity engineer position at SpaceX was posted on 2026-09-03.
+This cybersecurity engineer position at GitLab was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
