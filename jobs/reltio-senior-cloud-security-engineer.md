@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6016450004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6016610004) |
 
 ## About This Role
 
-This security engineer position at Reltio was posted on 2026-06-08.
+This cybersecurity engineer position at Reltio was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

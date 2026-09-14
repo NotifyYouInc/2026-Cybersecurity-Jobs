@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Fairfax, Virginia, United States |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026523875-1) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026523881-1) |
 
 ## About This Role
 

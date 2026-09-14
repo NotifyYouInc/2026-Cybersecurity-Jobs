@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/HMAS-Watson/Cyber-Security-Specialist_119650) |
+| Location | Homebush, New South Wales, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Homebush/Cyber-Security-Specialist_118128) |
 
 ## About This Role
 
-This security engineer position at CAE was posted on 2026-06-15.
+This cybersecurity engineer position at CAE was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

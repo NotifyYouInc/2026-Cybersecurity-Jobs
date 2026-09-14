@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4695803006) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4695804006) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fireblocks was posted on 2026-08-26.
+This cybersecurity engineer position at Fireblocks was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ingénieur Réseaux et Sécurité F/H at Thales
+# Ingénieur Réseaux et Sécurité (F/H) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Ingnieur-Rseaux-et-Scurit-F-H_R0318406-2) |
+| Location | Cholet, Pays de la Loire, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cholet/Ingnieur-Rseaux-et-Scurit--F-H-_R0334111-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-03-26.
+This cybersecurity engineer position at Thales was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

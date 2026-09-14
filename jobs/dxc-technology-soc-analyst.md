@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/SOC-Analyst_51587804) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/SOC-Analyst_51587966) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-08-26.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

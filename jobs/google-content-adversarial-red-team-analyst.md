@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXVFgIxHpIj-FG5wkwYNKGpDdexNKtClIGxNNaGlPwP5EjsA1Ny_iyeaLEUMgF7ti8mGzdlAkRpne23pSfUFozrO8KV0YM5krU-KjmJ607hbnMjSzdWL8EGJbBif4A%3D%3D_V2&loc=IN&title=Content+Adversarial+Red+Team+Analyst) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTZ46ow0rc_4qJ0NOkphTnL1uJtS0kxce4r7K33-qHNaEjsA1Ny_i-OQSEaeXEpf8Gpn68pPl_BpARhSFE27WikIyOvL6oJYPmlNDS88z3XN7gmI8_aLmv4-QdEfjw%3D%3D_V2&loc=IN&title=Content+Adversarial+Red+Team+Analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-07-24.
+This cybersecurity engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANILA-NET-PARK-OFFICE/Security-Engineer_R000151093) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Security-Engineer_R000158612) |
 
 ## About This Role
 
-This security engineer position at Procter & Gamble was posted on 2026-05-15.
+This cybersecurity engineer position at Procter & Gamble was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

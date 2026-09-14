@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Portugal |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127845745-devoteam-cyber-trust-soc-analyst-fintech-sector) |
+| Location | Porto, Porto, Portugal |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147892416-devoteam-cyber-trust-soc-analyst-fintech-sector) |
 
 ## About This Role
 
-This soc & incident response position at Devoteam was posted on 2026-05-22.
+This cybersecurity engineer position at Devoteam was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

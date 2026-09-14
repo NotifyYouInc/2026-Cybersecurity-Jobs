@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/PKI-Engineer_13914675-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid-Torre-Chamartin/PKI-Engineer_R00354855) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-27.
+This cybersecurity engineer position at Accenture was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

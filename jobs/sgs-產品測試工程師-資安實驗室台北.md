@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Taiwan |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135906505-) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000147765994-) |
 
 ## About This Role
 
-This security engineer position at SGS was posted on 2026-07-06.
+This cybersecurity engineer position at SGS was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

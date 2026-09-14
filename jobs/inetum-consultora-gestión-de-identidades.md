@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116889825-consultora-gestion-de-identidades) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147838819-consultora-gestion-de-identidades) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-03-26.
+This cybersecurity engineer position at Inetum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

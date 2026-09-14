@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Compliance & Risk Management |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/IT-Lead--Internal-Audit_331586-1) |
 
 ## About This Role
 
-This compliance & risk management position at S&P Global was posted on 2026-09-04.
+This cybersecurity engineer position at S&P Global was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
