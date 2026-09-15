@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000143777099-cybersecurity-ingenieur-medizintechnik-all-gender) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148141220-cybersecurity-ingenieur-medizintechnik-all-gender) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-08-17.
+This cybersecurity engineer position at ALTEN was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

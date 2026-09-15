@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000123242112-t1-security-analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000147935094-t1-security-analyst) |
 
 ## About This Role
 
-This security engineer position at Playtech was posted on 2026-04-27.
+This cybersecurity engineer position at Playtech was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

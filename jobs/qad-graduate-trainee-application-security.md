@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Leadership Development Program |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000139264189-graduate-trainee-application-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000147955859-graduate-trainee-application-security) |
 
 ## About This Role
 
-This leadership development program position at QAD was posted on 2026-07-23.
+This cybersecurity engineer position at QAD was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TechnicAtome](https://scoutify.ai/companies/technicatome?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | France |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TechnicAtome/744000123128339-responsable-securite-operationnelle-des-systemes-dinformation-fh) |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TechnicAtome/744000148187491-responsable-securite-operationnelle-des-systemes-dinformation-fh) |
 
 ## About This Role
 
-This security engineer position at TechnicAtome was posted on 2026-04-27.
+This cybersecurity engineer position at TechnicAtome was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

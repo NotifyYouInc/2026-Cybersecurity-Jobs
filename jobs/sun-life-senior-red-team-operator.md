@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Waterford, Munster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Senior-Red-Team-Operator_JR00126713) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00126715-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sun Life was posted on 2026-08-06.
+This cybersecurity engineer position at Sun Life was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

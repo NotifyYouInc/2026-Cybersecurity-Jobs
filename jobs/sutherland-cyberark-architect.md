@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000146425589-cyberark-architect) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000147946570-cyberark-architect) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sutherland was posted on 2026-08-31.
+This cybersecurity engineer position at Sutherland was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

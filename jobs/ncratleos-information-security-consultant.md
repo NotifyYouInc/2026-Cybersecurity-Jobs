@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Security Engineer |
-| Posted | 2026-07-03 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/GURGAON-IND/Information-Security-Consultant_R1153356-1) |
 
 ## About This Role
 
-This security engineer position at Ncratleos was posted on 2026-07-03.
+This cybersecurity engineer position at Ncratleos was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135495745-senior-consultant-in-cybersecurity) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147961006-senior-consultant-in-cybersecurity) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-07-02.
+This cybersecurity engineer position at SIA was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

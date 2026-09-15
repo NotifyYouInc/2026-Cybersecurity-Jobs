@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | The Hague, South Holland, The Netherlands |
+| Location | Braine-l'Alleud, Wallonia, Belgium |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4968250101) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4969512101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Spektrum was posted on 2026-09-03.
+This cybersecurity engineer position at Spektrum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
