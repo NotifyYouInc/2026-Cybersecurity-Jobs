@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-5693836-S2060948-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5769606-S2068008-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-07-29.
+This cybersecurity engineer position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

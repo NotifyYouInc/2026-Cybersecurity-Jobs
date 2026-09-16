@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-28 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Manager---Cyber-Operations-I-On-site--Bangalore_2025-13347) |
 
 ## About This Role
 
-This soc & incident response position at FishNet Security was posted on 2026-05-28.
+This cybersecurity engineer position at FishNet Security was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

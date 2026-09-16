@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000121729487-customer-security-manager-madrid-o-barcelona-mfd) |
+| Location | Madrid, Madrid, Spain |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000148273429-customer-security-manager-madrid-o-barcelona-mfd) |
 
 ## About This Role
 
-This security engineer position at T-Systems International was posted on 2026-04-20.
+This cybersecurity engineer position at T-Systems International was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

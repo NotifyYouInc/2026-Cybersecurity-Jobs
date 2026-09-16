@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tangerang, Banten, Indonesia |
-| Category | Security Engineer |
-| Posted | 2026-04-18 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Tangerang-RedHouse/Business-Security-Manager---Indonesia_JR0033379) |
 
 ## About This Role
 
-This security engineer position at Airasia was posted on 2026-04-18.
+This cybersecurity engineer position at Airasia was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

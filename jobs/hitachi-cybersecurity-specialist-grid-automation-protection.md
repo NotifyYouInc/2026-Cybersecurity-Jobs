@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Cybersecurity-Specialist--Grid-Automation---Protection_R0134692) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Cybersecurity-Specialist--Grid-Automation---Protection_R0143485) |
 
 ## About This Role
 
-This security engineer position at Hitachi was posted on 2026-06-22.
+This cybersecurity engineer position at Hitachi was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

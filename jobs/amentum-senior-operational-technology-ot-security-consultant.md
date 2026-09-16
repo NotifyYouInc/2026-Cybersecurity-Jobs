@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Manchester/Senior-Operational-Technology--OT--Security-Consultant_R0169497) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-UK-Reading/Senior-Operational-Technology--OT--Security-Consultant_R0170245) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amentum was posted on 2026-09-01.
+This cybersecurity engineer position at Amentum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

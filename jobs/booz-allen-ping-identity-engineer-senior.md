@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Illinois, US |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Scott-AFB-IL/Ping-Identity-Engineer--Senior_R0243097-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Scott-AFB-IL/Ping-Identity-Engineer--Senior_R0248849) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-26.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

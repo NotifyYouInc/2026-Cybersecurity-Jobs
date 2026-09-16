@@ -1,16 +1,16 @@
-# Senior Staff AI Security Engineer  at ServiceNow
+# Senior Staff AI Security Engineer at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Israel |
+| Location | Santa Clara, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140412599-senior-staff-ai-security-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148359929-senior-staff-ai-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-07-29.
+This cybersecurity engineer position at ServiceNow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

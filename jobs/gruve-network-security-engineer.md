@@ -1,16 +1,16 @@
-# Network Security Engineer at Gruve
+# Network & Security Engineer at Gruve
 
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Edison, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5188706008) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5417865008) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-04-14.
+This cybersecurity engineer position at Gruve was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

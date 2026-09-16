@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/ISSO---ISSM_40398) |
 
 ## About This Role
 
-This security engineer position at Guidehouse was posted on 2026-06-16.
+This cybersecurity engineer position at Guidehouse was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

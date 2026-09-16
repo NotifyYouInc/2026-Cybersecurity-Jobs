@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8017223) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8187363) |
 
 ## About This Role
 
-This security engineer position at Rithum LinkedIn Board was posted on 2026-06-18.
+This cybersecurity engineer position at Rithum LinkedIn Board was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

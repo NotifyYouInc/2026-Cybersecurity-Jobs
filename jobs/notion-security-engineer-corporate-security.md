@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/notion/477768e1-37af-49bc-a4de-6564e0a4ec54) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/notion/866dc41d-3a50-4957-9a14-df27eae847e8) |
 
 ## About This Role
 
-This security engineer position at Notion was posted on 2026-06-08.
+This cybersecurity engineer position at Notion was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

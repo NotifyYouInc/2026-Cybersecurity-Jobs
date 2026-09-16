@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4660463006) |
+| Location | San Diego, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4711803006) |
 
 ## About This Role
 
-This security engineer position at STR was posted on 2026-03-06.
+This cybersecurity engineer position at STR was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

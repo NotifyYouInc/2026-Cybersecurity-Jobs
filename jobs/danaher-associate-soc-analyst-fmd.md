@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Associate-SOC-Analyst--f-m-d-_R1317143) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Associate-SOC-Analyst--f-m-d-_R1318099) |
 
 ## About This Role
 
-This cybersecurity engineer position at Danaher was posted on 2026-08-31.
+This cybersecurity engineer position at Danaher was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

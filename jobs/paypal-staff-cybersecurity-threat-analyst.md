@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Staff-Cybersecurity-Threat-Analyst_R0135182-1) |
+| Location | Austin, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Staff-Cybersecurity-Threat-Analyst_R0137346-1) |
 
 ## About This Role
 
-This soc & incident response position at PayPal was posted on 2026-03-11.
+This cybersecurity engineer position at PayPal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

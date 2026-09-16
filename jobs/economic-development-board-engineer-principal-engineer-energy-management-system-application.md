@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/PSOD-PSCC/Engineer---Principal-Engineer--Energy-Management-System-Application-_JR-10000053557) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/PSOD-PSCC/Engineer---Principal-Engineer--Energy-Management-System-Application-_JR-10000055279) |
 
 ## About This Role
 
-This software engineer position at Economic Development Board was posted on 2026-07-22.
+This cybersecurity engineer position at Economic Development Board was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

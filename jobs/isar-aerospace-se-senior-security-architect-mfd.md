@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Isar Aerospace SE](https://scoutify.ai/companies/isar-aerospace-se?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Andenes, Nordland, Norway |
-| Category | Security Engineer |
-| Posted | 2026-06-15 |
+| Location | Bavaria, DE |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4897729101) |
 
 ## About This Role
 
-This security engineer position at Isar Aerospace SE was posted on 2026-06-15.
+This cybersecurity engineer position at Isar Aerospace SE was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

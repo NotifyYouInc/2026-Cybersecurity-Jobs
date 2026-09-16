@@ -5,12 +5,12 @@
 | Company | [TripAdvisor](https://scoutify.ai/companies/tripadvisor?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8132114) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8187973) |
 
 ## About This Role
 
-This cybersecurity engineer position at TripAdvisor was posted on 2026-08-17.
+This cybersecurity engineer position at TripAdvisor was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

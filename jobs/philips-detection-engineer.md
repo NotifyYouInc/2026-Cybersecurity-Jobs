@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Best, North Brabant, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Detection-Engineer_580582) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Detection-Engineer_580583) |
 
 ## About This Role
 
-This security engineer position at Philips was posted on 2026-04-13.
+This cybersecurity engineer position at Philips was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

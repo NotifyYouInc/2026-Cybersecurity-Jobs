@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=5847765003) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7985037003) |
 
 ## About This Role
 
-This offensive security & pentesting position at Toss was posted on 2026-07-14.
+This cybersecurity engineer position at Toss was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

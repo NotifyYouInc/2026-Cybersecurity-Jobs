@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Scottsdale, Arizona, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Staff-Cybersecurity-Engineer_R0136757) |
+| Location | Chicago, Illinois, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Cybersecurity-Engineer_R0137316-1) |
 
 ## About This Role
 
-This security engineer position at PayPal was posted on 2026-05-12.
+This cybersecurity engineer position at PayPal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

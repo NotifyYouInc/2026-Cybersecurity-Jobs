@@ -1,16 +1,16 @@
-# ANALYSTE SOC at Inetum
+# Analyste SOC at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rennes, Brittany, France |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135681150-analyste-soc) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148445294-analyste-soc) |
 
 ## About This Role
 
-This soc & incident response position at Inetum was posted on 2026-07-03.
+This cybersecurity engineer position at Inetum was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

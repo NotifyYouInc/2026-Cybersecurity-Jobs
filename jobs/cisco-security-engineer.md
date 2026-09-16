@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Tampa, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Miami-Florida-US/Security-Engineer_2020991-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Tampa-Florida-US/Security-Engineer_2024902) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-08-20.
+This cybersecurity engineer position at Cisco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Corporate-Cybersecurity-Analyst---Millennium-Space-Systems_JR2026521551-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Corporate-Cybersecurity-Analyst---Millennium-Space-Systems_JR2026524145-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at Boeing was posted on 2026-08-07.
+This cybersecurity engineer position at Boeing was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

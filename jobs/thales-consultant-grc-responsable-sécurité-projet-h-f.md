@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Consultant-GRC---Responsable-Scurit-Projet---H---F_R0332963-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse-Labege/Consultant-GRC---Responsable-Scurit-Projet---H---F_R0339282-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-06-30.
+This cybersecurity engineer position at Thales was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

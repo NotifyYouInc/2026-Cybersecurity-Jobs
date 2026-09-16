@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Security-Engineer-3_R169539) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Security-Engineer-3_R169574) |
 
 ## About This Role
 
-This security engineer position at Adobe was posted on 2026-06-25.
+This cybersecurity engineer position at Adobe was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

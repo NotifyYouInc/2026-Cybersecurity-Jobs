@@ -5,12 +5,12 @@
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5105509008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5418977008) |
 
 ## About This Role
 
-This cybersecurity engineer position at Anthropic was posted on 2026-02-03.
+This cybersecurity engineer position at Anthropic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

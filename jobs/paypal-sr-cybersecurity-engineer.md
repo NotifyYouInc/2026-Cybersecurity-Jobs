@@ -1,16 +1,16 @@
-# Sr Cybersecurity Engineer at PayPal
+# Sr. Cybersecurity Engineer at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0136911) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137313-1) |
 
 ## About This Role
 
-This security engineer position at PayPal was posted on 2026-06-12.
+This cybersecurity engineer position at PayPal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

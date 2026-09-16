@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Warner Robins, Georgia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-Cyber-Security-Engineer_R-00188451) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Warner-Robins-GA/Senior-Cyber-Security-Engineer_R-00191659) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-07-30.
+This cybersecurity engineer position at Leidos was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

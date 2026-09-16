@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Jose, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2021256) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2024738) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-08-11.
+This cybersecurity engineer position at Cisco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
