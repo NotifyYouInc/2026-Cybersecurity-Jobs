@@ -1,16 +1,16 @@
-# Senior Lead Information Security Office Consultant at Capital One
+# Senior Lead, Information Security Office Consultant at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Information-Security-Office-Consultant_R242477-1) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead--Information-Security-Office-Consultant_R1000249-1) |
 
 ## About This Role
 
-This security engineer position at Capital One was posted on 2026-05-15.
+This cybersecurity engineer position at Capital One was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Executive---Cyber-Services_R5033962-1) |
 
 ## About This Role
 
-This security engineer position at GE Aerospace was posted on 2026-05-06.
+This cybersecurity engineer position at GE Aerospace was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

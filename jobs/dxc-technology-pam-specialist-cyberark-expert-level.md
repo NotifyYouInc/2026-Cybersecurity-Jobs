@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Valby, Capital Region, Denmark |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/DNK---VALBY/PAM-Specialist---Cyberark---Expert-Level_51581763) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-02.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

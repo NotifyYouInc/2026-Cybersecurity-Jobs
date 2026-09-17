@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Lead-Network-Security-Engineer_REQ573951-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Lead-Network-Security-Engineer_REQ575743) |
 
 ## About This Role
 
-This security engineer position at Unisys was posted on 2026-07-17.
+This cybersecurity engineer position at Unisys was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

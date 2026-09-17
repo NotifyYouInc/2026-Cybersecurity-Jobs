@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Ogden, Utah, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Albuquerque/Activity-Security-Representative--ASR--I_RQ227736-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Activity-Security-Representative--ASR--I_RQ227772-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-02.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

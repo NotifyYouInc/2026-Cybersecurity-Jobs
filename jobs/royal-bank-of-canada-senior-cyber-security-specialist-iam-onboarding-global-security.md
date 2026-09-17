@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Cyber-Security-Specialist--IAM-Onboarding--Global-Security-_R-0000177285-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Cyber-Security-Specialist--IAM-Onboarding--Global-Security-_R-0000184907-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-06-26.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

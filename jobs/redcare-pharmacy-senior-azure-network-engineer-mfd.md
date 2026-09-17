@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144569425-senior-azure-network-engineer-mfd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148563039-senior-azure-network-engineer-mfd) |
 
 ## About This Role
 
-This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-08-20.
+This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

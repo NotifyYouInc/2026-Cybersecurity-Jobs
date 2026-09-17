@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | District of Columbia, US |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUN8YPAFZMrm6iPAywiZWjj82xlAgO826CY6F6GM30Z5EjsA1Ny_iwjMQVYBGeqIjY6Ha5-iUFX8Lx2c_mLk_0P75L4Ssw6pqVnd_UVe4PLNVFAqDDe9cmiOMJouNQ%3D%3D_V2&loc=US&title=Red+Team+Security+Consultant) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke3ZKFddGPMnKuogeAmPjYmNZAPCzmbm05B6IGOLQFQREjsA1Ny_i76yKrxkpMtnwldRAogteS_16LOuW-UwN2rIf0576iH3AOFxRerUxPdcbYMCLFWWqb6pQoEucQ%3D%3D_V2&loc=US&title=Red+Team+Security+Consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-17.
+This cybersecurity engineer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

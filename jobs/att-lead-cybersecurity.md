@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDAPHyderabad--Argus-Bldg-4f--5f-Sattva-Knowledge-City--Adm-Argus-Building-Sattva-Knowledge-City/Lead-Cybersecurity_R-115695) |
+| Location | Plano, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Cybersecurity_R-120010) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-07-17.
+This cybersecurity engineer position at AT&T was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

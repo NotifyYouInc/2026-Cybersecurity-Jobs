@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lagos, Lagos, Nigeria |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000136776153-analyst-network-security) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148730599-analyst-network-security) |
 
 ## About This Role
 
-This security engineer position at Standard Bank was posted on 2026-07-09.
+This cybersecurity engineer position at Standard Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

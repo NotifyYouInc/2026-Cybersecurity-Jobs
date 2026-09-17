@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115545878-senior-information-security-engineer-incident-response) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148617987-senior-information-security-engineer-incident-response) |
 
 ## About This Role
 
-This security engineer position at LinkedIn was posted on 2026-03-19.
+This cybersecurity engineer position at LinkedIn was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

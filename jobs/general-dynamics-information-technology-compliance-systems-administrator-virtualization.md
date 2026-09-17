@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Florida, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Compliance-Systems-Administrator--Virtualization-_RQ227963-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Compliance-Systems-Administrator--Virtualization-_RQ228051) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-08.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

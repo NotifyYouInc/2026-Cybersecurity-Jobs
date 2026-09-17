@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-02 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375) |
 
 ## About This Role
 
-This soc & incident response position at TD Bank was posted on 2026-07-02.
+This cybersecurity engineer position at TD Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

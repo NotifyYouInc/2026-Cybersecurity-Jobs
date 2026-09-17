@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147963709-senior-cybersecurity-consultant) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148538600-senior-cybersecurity-consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at SIA was posted on 2026-09-07.
+This cybersecurity engineer position at SIA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

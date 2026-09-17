@@ -1,16 +1,16 @@
-# Sr Staff Cyber Security Architect at GE Vernova
+# Sr. Staff Cyber Security Architect at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Sr-Staff-Cyber-Security-Architect_R5049413-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Sr-Staff-Cyber-Security-Architect_R5052505-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at GE Vernova was posted on 2026-08-11.
+This cybersecurity engineer position at GE Vernova was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

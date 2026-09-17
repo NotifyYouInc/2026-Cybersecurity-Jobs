@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-557053-1) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Software-Engineer_R-568453) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-07-02.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

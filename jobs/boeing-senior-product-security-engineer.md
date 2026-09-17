@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Product-Security-Engineer_JR2026516805-1) |
 
 ## About This Role
 
-This security engineer position at Boeing was posted on 2026-07-02.
+This cybersecurity engineer position at Boeing was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

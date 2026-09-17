@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Newport Beach, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Newport-Beach-California/Cybersecurity--AVP_R-784689) |
+| Location | Quincy, Massachusetts, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cybersecurity--AVP_R-793983) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-02-23.
+This cybersecurity engineer position at State Street was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

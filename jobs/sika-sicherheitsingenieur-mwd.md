@@ -1,16 +1,16 @@
-# Sicherheitsingenieur (m/w/d)  at Sika
+# Sicherheitsingenieur (m/w/d) at Sika
 
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Bad Urach, Baden-Wurttemberg, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000144346734-sicherheitsingenieur-mwd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000148516739-sicherheitsingenieur-mwd) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sika was posted on 2026-08-19.
+This cybersecurity engineer position at Sika was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

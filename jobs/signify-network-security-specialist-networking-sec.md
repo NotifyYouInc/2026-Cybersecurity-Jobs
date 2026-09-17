@@ -5,12 +5,12 @@
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Piła, Greater Poland, Poland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Pila/Network---Security-Specialist--Networking---Sec-_366188) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Pila/Network---Security-Specialist--Networking---Sec-_366189) |
 
 ## About This Role
 
-This cybersecurity engineer position at Signify was posted on 2026-09-08.
+This cybersecurity engineer position at Signify was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

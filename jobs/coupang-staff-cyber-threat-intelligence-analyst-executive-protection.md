@@ -1,16 +1,16 @@
-# Staff Cyber Threat Intelligence Analyst (Executive Protection)  at Coupang
+# Staff Cyber Threat Intelligence Analyst, Executive Protection at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Seattle, Washington, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8158148) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8177944) |
 
 ## About This Role
 
-This cybersecurity engineer position at Coupang was posted on 2026-08-26.
+This cybersecurity engineer position at Coupang was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | New York City, New York, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8172487) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8172510) |
 
 ## About This Role
 
-This cybersecurity engineer position at Stripe was posted on 2026-09-03.
+This cybersecurity engineer position at Stripe was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

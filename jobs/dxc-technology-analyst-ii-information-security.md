@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Analyst-II-Information-Security_51584516) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Analyst-II-Information-Security_51586463) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-08-31.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

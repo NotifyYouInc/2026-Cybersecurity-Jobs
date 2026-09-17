@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agile Defense](https://scoutify.ai/companies/agile-defense?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/agile-defense/a70a37ed-a8c9-46eb-8478-4179bb5fc92c) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/agile-defense/12e56b3a-6435-47e3-9c29-548daa7bf482) |
 
 ## About This Role
 
-This security engineer position at Agile Defense was posted on 2026-06-12.
+This cybersecurity engineer position at Agile Defense was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

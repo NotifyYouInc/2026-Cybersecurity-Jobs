@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Laurel, Maryland, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Laurel-MD/PKI-Engineer--Senior_R0246354) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Laurel-MD/PKI-Engineer--Senior_R0249079) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-07.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

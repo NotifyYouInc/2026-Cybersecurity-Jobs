@@ -5,12 +5,12 @@
 | Company | [Newchartertech](https://scoutify.ai/companies/newchartertech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/Kinetix-CA---San-Francisco/Security-Success-Analyst_JR0902-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/Kinetix-CA---San-Francisco/Security-Success-Analyst_JR0904) |
 
 ## About This Role
 
-This cybersecurity engineer position at Newchartertech was posted on 2026-09-03.
+This cybersecurity engineer position at Newchartertech was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

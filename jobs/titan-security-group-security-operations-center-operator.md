@@ -5,12 +5,12 @@
 | Company | [Titan Security Group](https://scoutify.ai/companies/titan-security-group?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tsg/jobs/4388854009) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tsg/jobs/4399977009) |
 
 ## About This Role
 
-This cybersecurity engineer position at Titan Security Group was posted on 2026-08-31.
+This cybersecurity engineer position at Titan Security Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
