@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000148245972-security-engineer-ii-offensive) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000148922249-security-engineer-ii-offensive) |
 
 ## About This Role
 
-This cybersecurity engineer position at Flywire was posted on 2026-09-08.
+This cybersecurity engineer position at Flywire was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130288759-cloud-security-engineer) |
+| Location | Los Angeles, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148840449-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-06-04.
+This cybersecurity engineer position at Renesas Electronics was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

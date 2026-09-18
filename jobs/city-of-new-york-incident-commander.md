@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014599576-incident-commander) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015169701-incident-commander) |
 
 ## About This Role
 
-This soc & incident response position at City of New York was posted on 2026-08-14.
+This cybersecurity engineer position at City of New York was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

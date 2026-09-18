@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tines](https://scoutify.ai/companies/tines?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tines/jobs/5973812004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tines/jobs/6188134004) |
 
 ## About This Role
 
-This security engineer position at Tines was posted on 2026-04-17.
+This cybersecurity engineer position at Tines was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

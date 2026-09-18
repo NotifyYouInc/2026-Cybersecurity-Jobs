@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000145329243-manager-product-security-analysis) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000148832859-manager-product-security-analysis) |
 
 ## About This Role
 
-This cybersecurity engineer position at Intuitive Surgical was posted on 2026-08-24.
+This cybersecurity engineer position at Intuitive Surgical was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

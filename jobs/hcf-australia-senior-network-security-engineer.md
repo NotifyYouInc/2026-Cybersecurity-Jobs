@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HCF Australia](https://scoutify.ai/companies/hcf-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://hcf.wd105.myworkdayjobs.com/hcf_external_career_site/job/Sydney-CBD/Senior-Network-Security-Engineer_JR103930) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hcf.wd105.myworkdayjobs.com/hcf_external_career_site/job/Sydney-CBD/Senior-Network-Security-Engineer_JR104322-1) |
 
 ## About This Role
 
-This security engineer position at HCF Australia was posted on 2026-04-21.
+This cybersecurity engineer position at HCF Australia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

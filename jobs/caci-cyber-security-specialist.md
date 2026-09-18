@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stafford, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stafford-VA-US/Cyber-Security-Specialist_330422) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stafford-VA-US/Cyber-Security-Specialist_331876) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-08-11.
+This cybersecurity engineer position at CACI was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

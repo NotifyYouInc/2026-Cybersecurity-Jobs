@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142865240-network-security-infrastructure-lead) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148938894-network-security-infrastructure-lead) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-08-11.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

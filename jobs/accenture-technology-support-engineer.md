@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Indore, Madhya Pradesh, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5743753-S2066211-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Technology-Support-Engineer_ATCI-5743754-S2069117-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-25.
+This cybersecurity engineer position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

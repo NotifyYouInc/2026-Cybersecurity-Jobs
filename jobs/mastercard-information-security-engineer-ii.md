@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Pune, Maharashtra, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Information-Security-Engineer-II_R-275571) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Information-Security-Engineer-II_R-278238) |
 
 ## About This Role
 
-This cybersecurity engineer position at Mastercard was posted on 2026-08-31.
+This cybersecurity engineer position at Mastercard was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

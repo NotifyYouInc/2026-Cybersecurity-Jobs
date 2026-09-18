@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bern, Bern, Switzerland |
-| Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/Security-Consultant_R-0004150) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Zurich/Security-Consultant_R-0006581) |
 
 ## About This Role
 
-This security engineer position at Swisscom was posted on 2026-02-24.
+This cybersecurity engineer position at Swisscom was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

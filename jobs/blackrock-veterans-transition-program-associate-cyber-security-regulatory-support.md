@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Veterans-Transition-Program--Associate--Cyber-Security-Regulatory-Support_R265097) |
 
 ## About This Role
 
-This security engineer position at Blackrock was posted on 2026-07-06.
+This cybersecurity engineer position at Blackrock was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

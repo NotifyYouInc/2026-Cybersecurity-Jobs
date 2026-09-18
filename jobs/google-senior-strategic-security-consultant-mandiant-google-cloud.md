@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd7u6CAJCtBwsG2xYONx0uCv_dkdGaGYYYieFndXkqnFEjsACxwdTPT2zhDw7cpcovzdnI0jMq71k6larpBkMyfGjjVAuLHQZWiN8Sx25_kurtYyMX_-saxoHWHYrw%3D%3D_V2&loc=US&title=Senior+Strategic+Security+Consultant) |
+| Location | Atlanta, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbvljKCP_2y3ydBioMe2LjDtofCYQ-qiKcdoYq_3iWjbEjsA1Ny_i-KxJ-J0SEL42QkCk8elulAkoH8Ya08kb_YjqJjGeomHTP2aQU2JvGVJZQ1yYOGfBWPr9L8a8w%3D%3D_V2&loc=US&title=Senior+Strategic+Security+Consultant) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-19.
+This cybersecurity engineer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

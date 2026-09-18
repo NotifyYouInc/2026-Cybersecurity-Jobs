@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/California-MD/Systems-Security-Engineer_R0247697) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Systems-Security-Engineer_R0249121) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-24.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

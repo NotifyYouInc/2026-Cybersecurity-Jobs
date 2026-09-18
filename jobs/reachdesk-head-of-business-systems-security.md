@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reachdesk](https://scoutify.ai/companies/reachdesk?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/reachdesk/jobs/4970131101) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/reachdesk/jobs/4973092101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Reachdesk was posted on 2026-09-07.
+This cybersecurity engineer position at Reachdesk was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

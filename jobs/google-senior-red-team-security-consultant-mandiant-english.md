@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Argentina |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbiUanMCWBKIJg9iDVKM7OIfHNNSe1NC6n7YJ8t-rOjlEjsA1Ny_i-4MIBxmjjMf3OTK9pq7Qqj7Y_cXZvum50m5O0757UV_CXQB-J9UN145JONXPTJi4UAxmyU33Q%3D%3D_V2&loc=US&title=Senior+Red+Team+Security+Consultant) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbXPaMReg_tm_07L02Mh9_6wo7low013MdSpCCKo0OlJEjsA9yzvgvFpb-YoxKluFAP4P02fBcN1m5Xgl76RWjUEyNN5AoW9A4EnGY-YGcZia-YqvKzJs3ED0EPbpQ%3D%3D_V2&loc=US&title=Senior+Red+Team+Security+Consultant) |
 
 ## About This Role
 
-This cybersecurity engineer position at Google was posted on 2026-08-07.
+This cybersecurity engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

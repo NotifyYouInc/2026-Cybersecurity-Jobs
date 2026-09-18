@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Cyber-Security-Intern_R108064) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Cyber-Security-Intern_R108126) |
 
 ## About This Role
 
-This cybersecurity engineer position at Tencent was posted on 2026-09-08.
+This cybersecurity engineer position at Tencent was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

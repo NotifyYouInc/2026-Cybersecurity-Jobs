@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Australia |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5169386008) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5416471008) |
 
 ## About This Role
 
-This soc & incident response position at Dragos was posted on 2026-04-02.
+This cybersecurity engineer position at Dragos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

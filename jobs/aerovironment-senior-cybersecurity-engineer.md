@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | District of Columbia, US |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Washington-DC/Senior-Cybersecurity-Engineer_8056) |
+| Location | 9 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Senior-Cybersecurity-Engineer_8730) |
 
 ## About This Role
 
-This security engineer position at AeroVironment was posted on 2026-07-01.
+This cybersecurity engineer position at AeroVironment was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

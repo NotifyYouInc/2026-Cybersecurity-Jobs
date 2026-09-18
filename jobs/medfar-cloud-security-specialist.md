@@ -5,12 +5,12 @@
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000145829204-cloud-security-specialist) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000148867419-cloud-security-specialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at Medfar was posted on 2026-08-26.
+This cybersecurity engineer position at Medfar was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

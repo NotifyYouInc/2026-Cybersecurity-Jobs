@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 5 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Information-Security-Analyst---IAM_R-564476) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Lead-Information-Security-Analyst---IAM_R-571849) |
 
 ## About This Role
 
-This cybersecurity engineer position at Wells Fargo was posted on 2026-08-11.
+This cybersecurity engineer position at Wells Fargo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

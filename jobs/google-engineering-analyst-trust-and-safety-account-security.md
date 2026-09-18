@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf-YS0W3gfUw7-298TctNkfmrWw62lNke8b-hNY8wX3-EjoA1Ny_i4dUVWKEDciDUuRL5VsJn0ZV3hTKD9zSdgsRgBsGo575rnD0oAZxwqQZ-kAY68kGg4b-FT-u_V2&loc=IN&title=Engineering+Analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUqZJX0Cro6icfg6IJOYERK_tIiy67nOSa5Sjx6POdC5EjoA1Ny_i_Usz6WH7n0jt-0JtS07pNb-Q5hcdEuv9h4H9JHWmB57JsvzTsZmnEquqL3hKo7f4fnlDLsw_V2&loc=IN&title=Engineering+Analyst) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-22.
+This cybersecurity engineer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
