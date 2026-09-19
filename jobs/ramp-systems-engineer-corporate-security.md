@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/34b48441-0109-4016-b235-51e968f62a9f) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/b3b0875d-cbf2-41ed-bda3-2714c82c4b57) |
 
 ## About This Role
 
-This security engineer position at Ramp was posted on 2026-04-28.
+This cybersecurity engineer position at Ramp was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

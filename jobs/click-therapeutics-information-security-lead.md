@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Click Therapeutics](https://scoutify.ai/companies/click-therapeutics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York, US |
-| Category | Security Engineer |
-| Posted | 2026-03-25 |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/clicktherapeutics/jobs/8414783002) |
 
 ## About This Role
 
-This security engineer position at Click Therapeutics was posted on 2026-03-25.
+This cybersecurity engineer position at Click Therapeutics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

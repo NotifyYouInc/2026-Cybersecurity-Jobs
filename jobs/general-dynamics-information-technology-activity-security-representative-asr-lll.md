@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Suitland, Maryland, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OH-Dayton/Activity-Security-Representative--ASR--lll_RQ225214-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Suitland/Activity-Security-Representative--ASR--lll_RQ228063-2) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-07-29.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

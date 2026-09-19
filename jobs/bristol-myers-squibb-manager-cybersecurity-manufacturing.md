@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bothell, Washington, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Bothell---WA---US/Manager--Cybersecurity---Manufacturing_R1606192) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Bothell---WA---US/Manager--Cybersecurity---Manufacturing_R1606261) |
 
 ## About This Role
 
-This cybersecurity engineer position at Bristol-Myers Squibb was posted on 2026-09-10.
+This cybersecurity engineer position at Bristol-Myers Squibb was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

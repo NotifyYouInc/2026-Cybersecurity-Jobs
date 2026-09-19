@@ -1,16 +1,16 @@
-# AI Security Architecture VP at State Street
+# AI Security Architecture- VP at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Architecture-VP_R-788680) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Architecture--VP_R-797784) |
 
 ## About This Role
 
-This security engineer position at State Street was posted on 2026-04-22.
+This cybersecurity engineer position at State Street was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Senior-Cybersecurity-Engineer_R2129020) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Senior-Cybersecurity-Engineer_R2129802) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-08-27.
+This cybersecurity engineer position at KBR was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

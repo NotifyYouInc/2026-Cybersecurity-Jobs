@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Colorado, US |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Senior-Cyber-Defense-Engineer_R246928) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Senior-Cyber-Defense-Engineer_R246929-1) |
 
 ## About This Role
 
-This soc & incident response position at Arrow Electronics was posted on 2026-08-12.
+This cybersecurity engineer position at Arrow Electronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

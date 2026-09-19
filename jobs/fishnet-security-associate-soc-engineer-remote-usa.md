@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Leawood-Kansas/Associate-SOC-Engineer---Remote--USA_2026-13891) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Leawood-Kansas/Associate-SOC-Engineer---Remote--USA_2026-14031) |
 
 ## About This Role
 
-This soc & incident response position at FishNet Security was posted on 2026-07-21.
+This cybersecurity engineer position at FishNet Security was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

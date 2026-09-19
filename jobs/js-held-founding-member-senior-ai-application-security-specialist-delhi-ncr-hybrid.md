@@ -5,12 +5,12 @@
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000144564625-founding-member-senior-ai-application-security-specialist-delhi-ncr-hybrid) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000149109292-founding-member-senior-ai-application-security-specialist-delhi-ncr-hybrid) |
 
 ## About This Role
 
-This cybersecurity engineer position at J.S. Held was posted on 2026-08-20.
+This cybersecurity engineer position at J.S. Held was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Lakewood, Colorado, United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lakewood-CO/Cyber-Intelligence-Analyst_R0247444) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Columbia-MD/Cyber-Intelligence-Analyst_R0249324) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

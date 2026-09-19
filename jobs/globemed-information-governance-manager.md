@@ -5,12 +5,12 @@
 | Company | [GlobeMed](https://scoutify.ai/companies/globemedgroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lebanon |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GlobeMedGroup/744000140915482-information-governance-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GlobeMedGroup/744000149043419-information-governance-manager) |
 
 ## About This Role
 
-This cybersecurity engineer position at GlobeMed was posted on 2026-07-31.
+This cybersecurity engineer position at GlobeMed was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

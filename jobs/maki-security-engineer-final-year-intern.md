@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Maki](https://scoutify.ai/companies/maki?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/maki/2e2f6069-47f8-475c-a75c-c82848384a4c) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/maki/7f0e0e64-c153-470b-839d-0b3bf520a45e) |
 
 ## About This Role
 
-This security engineer position at Maki was posted on 2026-06-22.
+This cybersecurity engineer position at Maki was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

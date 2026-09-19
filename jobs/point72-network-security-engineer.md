@@ -1,16 +1,16 @@
-# Network Security Engineer at Point72
+# Network Security  Engineer at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8100112002?gh_jid=8100112002) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8773509002?gh_jid=8773509002) |
 
 ## About This Role
 
-This cybersecurity engineer position at Point72 was posted on 2026-07-31.
+This cybersecurity engineer position at Point72 was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

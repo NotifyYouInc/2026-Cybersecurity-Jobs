@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Aberdeen Proving Ground, Maryland, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/Information-Security-Engineer--Senior_R0242589) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Information-Security-Engineer--Senior_R0249217) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-06-18.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

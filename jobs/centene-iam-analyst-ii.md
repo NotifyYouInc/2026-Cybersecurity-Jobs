@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Florida, US |
-| Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/IAM-Analyst-II_1632134-1) |
+| Location | Missouri, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IAM-Analyst-II_1655655) |
 
 ## About This Role
 
-This security engineer position at Centene was posted on 2026-02-26.
+This cybersecurity engineer position at Centene was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

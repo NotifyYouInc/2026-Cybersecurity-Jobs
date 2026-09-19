@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Security-Engineer_R_106377) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Security-Engineer_R_106896) |
 
 ## About This Role
 
-This security engineer position at Remitly was posted on 2026-06-25.
+This cybersecurity engineer position at Remitly was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

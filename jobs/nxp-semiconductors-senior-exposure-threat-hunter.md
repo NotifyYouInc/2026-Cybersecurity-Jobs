@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Senior-Exposure-Threat-Hunter_R-10066639-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Senior-Exposure-Threat-Hunter_R-10066637) |
 
 ## About This Role
 
-This cybersecurity engineer position at NXP Semiconductors was posted on 2026-09-04.
+This cybersecurity engineer position at NXP Semiconductors was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

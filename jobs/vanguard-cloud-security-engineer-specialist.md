@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Security-Engineer--Specialist_181104-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Security-Engineer--Specialist_181504) |
 
 ## About This Role
 
-This cybersecurity engineer position at Vanguard was posted on 2026-08-03.
+This cybersecurity engineer position at Vanguard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
