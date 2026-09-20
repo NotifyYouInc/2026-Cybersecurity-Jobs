@@ -1,16 +1,16 @@
-# Security Engineer (Remote) at Cisco
+# Incident Response Manager - Security  at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8007205) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-09-12.
+This cybersecurity engineer position at Stripe was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

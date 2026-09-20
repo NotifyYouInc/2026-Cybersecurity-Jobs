@@ -1,16 +1,16 @@
-# Security Engineer (Remote) at Cisco
+# Senior DevSecOps Engineer - London  at Hiya
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 4 locations |
+| Company | [Hiya](https://scoutify.ai/companies/hiya?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hiya/4b31f78a-b6a8-452b-b8ed-f7e6eb43c621) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-09-12.
+This cybersecurity engineer position at Hiya was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

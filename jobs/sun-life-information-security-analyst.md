@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Waterford, Munster, Ireland |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Information-Security-Analyst_JR00126975) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Information-Security-Analyst_JR00127735) |
 
 ## About This Role
 
