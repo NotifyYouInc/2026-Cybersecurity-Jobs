@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Esbjerg, South Denmark, Denmark |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000144273269-sikringsspecialist) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000149316589-sikringsspecialist) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ramboll was posted on 2026-08-19.
+This cybersecurity engineer position at Ramboll was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

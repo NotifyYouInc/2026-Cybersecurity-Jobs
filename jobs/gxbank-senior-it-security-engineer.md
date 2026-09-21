@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-IT-Security-Engineer_R-2026-06-101872) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Senior-IT-Security-Engineer_R-2026-09-101953) |
 
 ## About This Role
 
-This security engineer position at GXBank was posted on 2026-06-12.
+This cybersecurity engineer position at GXBank was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

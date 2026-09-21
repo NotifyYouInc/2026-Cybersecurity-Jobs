@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | New Zealand |
-| Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Hapori-Pneke/Senior-Information-Security-Consultant_JR107075-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Information-Security-Consultant_JR107941) |
 
 ## About This Role
 
-This security engineer position at Westpac New Zealand was posted on 2026-04-30.
+This cybersecurity engineer position at Westpac New Zealand was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

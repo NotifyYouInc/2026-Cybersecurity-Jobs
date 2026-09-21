@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001355274-senior-consultant-exposure-management-asset-visibility) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001400930-senior-consultant-exposure-management-asset-visibility) |
 
 ## About This Role
 
-This cybersecurity engineer position at NCS Australia was posted on 2026-08-27.
+This cybersecurity engineer position at NCS Australia was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Information Security Engineer  at Fireblocks
+# Information Security Engineer    at Fireblocks
 
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Israel |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/4701826006?gh_jid=4701826006) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4701824006) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fireblocks was posted on 2026-08-03.
+This cybersecurity engineer position at Fireblocks was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

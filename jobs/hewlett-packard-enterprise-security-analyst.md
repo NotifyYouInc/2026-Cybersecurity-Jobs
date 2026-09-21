@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Spring, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Security-Analyst_1206587) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Security-Analyst_1210693-1) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard Enterprise was posted on 2026-05-15.
+This cybersecurity engineer position at Hewlett Packard Enterprise was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

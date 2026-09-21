@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Cyber-Security-Network-Analyst_R-0000167594-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Cyber-Security-Network-Analyst_R-0000187405) |
 
 ## About This Role
 
-This it & systems administration position at Royal Bank of Canada was posted on 2026-04-21.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

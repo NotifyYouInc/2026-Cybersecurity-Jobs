@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Switzerland |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000138865845-computer-security-architect-it-di-cso-2026-190-grae) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000149258659-computer-security-architect-it-di-cso-2026-190-grae) |
 
 ## About This Role
 
-This security engineer position at CERN was posted on 2026-07-21.
+This cybersecurity engineer position at CERN was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

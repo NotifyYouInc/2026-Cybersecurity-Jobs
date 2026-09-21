@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000148772805-bitcoin-security-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000148833239-bitcoin-security-engineer) |
 
 ## About This Role
 
