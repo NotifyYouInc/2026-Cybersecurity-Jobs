@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001006616-security-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001406090-security-engineer) |
 
 ## About This Role
 
-This security engineer position at NCS was posted on 2026-04-17.
+This cybersecurity engineer position at NCS was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Information-Assurance-Engineer_R-00190013) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Information-Assurance-Engineer_R-00187410) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-25.
+This cybersecurity engineer position at Leidos was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

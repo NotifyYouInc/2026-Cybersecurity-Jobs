@@ -1,16 +1,16 @@
-# Sr. Network Security Engineer at SpaceX
+# Sr. Network Security Engineer  at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hawthorne, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8626661002?gh_jid=8626661002) |
+| Location | Palo Alto, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8806384002?gh_jid=8806384002) |
 
 ## About This Role
 
-This security engineer position at SpaceX was posted on 2026-07-09.
+This cybersecurity engineer position at SpaceX was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Take Two](https://scoutify.ai/companies/taketwo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/7696557) |
+| Location | Toronto, Ontario, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/8202274) |
 
 ## About This Role
 
-This security engineer position at Take Two was posted on 2026-03-26.
+This cybersecurity engineer position at Take Two was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

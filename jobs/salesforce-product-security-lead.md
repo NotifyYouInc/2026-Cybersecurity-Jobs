@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Product-Security-Lead_JR328223-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Product-Security-Lead_JR358501) |
 
 ## About This Role
 
-This offensive security & pentesting position at Salesforce was posted on 2026-02-24.
+This cybersecurity engineer position at Salesforce was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

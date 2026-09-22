@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Analista-de-Inteligencia-de-Seguridad-Fsica--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00111287) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Analista-de-Inteligencia-de-Seguridad-Fsica--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00114830) |
 
 ## About This Role
 
-This cybersecurity engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-14.
+This cybersecurity engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

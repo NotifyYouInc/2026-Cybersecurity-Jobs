@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Arnhem, Gelderland, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Security-Specialist-Telecom_JR18911-1) |
 
 ## About This Role
 
-This security engineer position at Alliander was posted on 2026-06-30.
+This cybersecurity engineer position at Alliander was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

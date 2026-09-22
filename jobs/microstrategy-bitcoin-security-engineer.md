@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Virginia, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000148833239-bitcoin-security-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000149071659-bitcoin-security-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at MicroStrategy was posted on 2026-09-10.
+This cybersecurity engineer position at MicroStrategy was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

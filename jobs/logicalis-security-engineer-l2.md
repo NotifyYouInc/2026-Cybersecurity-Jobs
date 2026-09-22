@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Lisbon/Security-Engineer--L2-_JR05058) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Lisbon/Security-Engineer--L2-_JR05405) |
 
 ## About This Role
 
-This security engineer position at Logicalis was posted on 2026-04-17.
+This cybersecurity engineer position at Logicalis was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

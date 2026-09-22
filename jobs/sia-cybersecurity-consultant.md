@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137870499-cybersecurity-consultant) |
+| Location | Rotterdam, South Holland, The Netherlands |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149338939-cybersecurity-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-07-15.
+This cybersecurity engineer position at SIA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

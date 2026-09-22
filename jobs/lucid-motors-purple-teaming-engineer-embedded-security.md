@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/4975699007) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](lucidmotors.com/careers/search?gh_jid=4975699007) |
 
 ## About This Role
 
-This security engineer position at Lucid Motors was posted on 2026-04-20.
+This cybersecurity engineer position at Lucid Motors was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

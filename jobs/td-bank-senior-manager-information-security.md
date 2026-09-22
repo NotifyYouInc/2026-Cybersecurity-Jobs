@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Security Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Manager--Information-Security_R_1476522) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Manager--Information-Security_R_1508514) |
 
 ## About This Role
 
-This security engineer position at TD Bank was posted on 2026-03-16.
+This cybersecurity engineer position at TD Bank was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

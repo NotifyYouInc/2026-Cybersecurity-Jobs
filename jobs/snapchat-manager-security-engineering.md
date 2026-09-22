@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Manager--Security-Engineering_H226SEM) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Sydney-Australia/Manager--Security-Engineering_R0046784) |
 
 ## About This Role
 
-This security engineer position at Snapchat was posted on 2026-07-11.
+This cybersecurity engineer position at Snapchat was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

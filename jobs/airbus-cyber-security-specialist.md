@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Getafe, Madrid, Spain |
+| Location | Stevenage, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Cyber-Security-Specialist_JR10426391) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Cyber-Security-Specialist_JR10440429) |
 
 ## About This Role
 
-This cybersecurity engineer position at Airbus was posted on 2026-08-31.
+This cybersecurity engineer position at Airbus was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

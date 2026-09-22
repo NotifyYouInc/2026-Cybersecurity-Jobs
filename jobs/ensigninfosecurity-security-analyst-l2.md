@@ -5,12 +5,12 @@
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Security-Analyst-L2_JOBREQ-0003595) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Security-Analyst-L2_JOBREQ-0003620) |
 
 ## About This Role
 
-This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-08-25.
+This cybersecurity engineer position at Ensigninfosecurity was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Contagem, Minas Gerais, Brazil |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013708299-cyber-response-analyst) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015235466-cyber-response-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Wabtec was posted on 2026-06-19.
+This cybersecurity engineer position at Wabtec was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

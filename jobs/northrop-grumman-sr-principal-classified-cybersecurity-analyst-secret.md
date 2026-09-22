@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Utah, US |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Sr-Principal-Classified-Cybersecurity-Analyst---Secret_R10242939) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Sr-Principal-Classified-Cybersecurity-Analyst---Secret_R10250702) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-05.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

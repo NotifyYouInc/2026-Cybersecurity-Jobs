@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-01 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Manager--Advanced-Threat-Detection-and-Research_1204245) |
 
 ## About This Role
 
-This security engineer position at Hewlett Packard Enterprise was posted on 2026-04-01.
+This cybersecurity engineer position at Hewlett Packard Enterprise was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

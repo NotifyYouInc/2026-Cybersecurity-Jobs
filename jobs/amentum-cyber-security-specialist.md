@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Williamtown, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Williamtown-NSW/Cyber-Security-Specialist_R0164057) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Brisbane/Cyber-Security-Specialist_R0170594) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-06-23.
+This cybersecurity engineer position at Amentum was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

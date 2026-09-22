@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2025-11-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200630806/soc-security-architect-platform-architecture) |
+| Location | Austin, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683640/soc-security-architect-platform-architecture) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2025-11-10.
+This cybersecurity engineer position at Apple was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

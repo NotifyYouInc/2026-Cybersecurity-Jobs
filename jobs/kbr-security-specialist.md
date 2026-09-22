@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Ann Arbor, Michigan, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Security-Specialist_R2129733) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/Security-Specialist_R2129894) |
 
 ## About This Role
 
-This cybersecurity engineer position at KBR was posted on 2026-09-11.
+This cybersecurity engineer position at KBR was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

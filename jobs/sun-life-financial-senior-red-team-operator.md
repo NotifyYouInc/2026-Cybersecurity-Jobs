@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Waterford, Munster, Ireland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00126715-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterford-Waterford-Ireland/Senior-Red-Team-Operator_JR00124911) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sun Life Financial was posted on 2026-09-07.
+This cybersecurity engineer position at Sun Life Financial was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

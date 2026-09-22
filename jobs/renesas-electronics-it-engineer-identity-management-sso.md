@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Toyosu, Tokyo, Japan |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113396072-it-engineer-identity-management-sso) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000149571529-it-engineer-identity-management-sso) |
 
 ## About This Role
 
-This it & systems administration position at Renesas Electronics was posted on 2026-03-09.
+This cybersecurity engineer position at Renesas Electronics was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

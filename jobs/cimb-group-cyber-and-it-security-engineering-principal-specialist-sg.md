@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CIMB Group](https://scoutify.ai/companies/ap1-cx-oj21920?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Singapore |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#36482) |
+| Location | Singapore, Singapore |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37419) |
 
 ## About This Role
 
-This security engineer position at CIMB Group was posted on 2026-07-14.
+This cybersecurity engineer position at CIMB Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

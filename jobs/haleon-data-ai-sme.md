@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Data---AI-SME_543982-1) |
 
 ## About This Role
 
-This security engineer position at Haleon was posted on 2026-05-26.
+This cybersecurity engineer position at Haleon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

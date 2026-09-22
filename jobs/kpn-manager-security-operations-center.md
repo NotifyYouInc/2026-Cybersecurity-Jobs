@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000140066729-manager-security-operations-center) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000149355279-manager-security-operations-center) |
 
 ## About This Role
 
-This soc & incident response position at KPN was posted on 2026-07-27.
+This cybersecurity engineer position at KPN was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

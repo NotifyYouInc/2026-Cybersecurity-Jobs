@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Manager-Information-Security_51583808-1) |
+| Location | Rome, Lazio, Italy |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Manager-Information-Security_51588635) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-07-09.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

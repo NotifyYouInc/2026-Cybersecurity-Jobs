@@ -1,16 +1,16 @@
-# IAM Sr. Engineer - Global Industrial at Genuine Parts Company
+# IAM Sr Engineer - Global Industrial at Genuine Parts Company
 
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/IAM-Sr-Engineer---Global-Industrial_R26_0000028934) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/IAM-Sr-Engineer---Global-Industrial_R26_0000029895) |
 
 ## About This Role
 
-This cybersecurity engineer position at Genuine Parts Company was posted on 2026-08-31.
+This cybersecurity engineer position at Genuine Parts Company was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

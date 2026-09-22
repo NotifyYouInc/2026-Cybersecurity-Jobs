@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fairfax-VA-US/Senior-Cybersecurity-Software-Engineer_328446) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Senior-Cybersecurity-Software-Engineer_332023) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-06-30.
+This cybersecurity engineer position at CACI was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

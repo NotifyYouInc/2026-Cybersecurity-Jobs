@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Public-Key-Infrastructure-Engineer_R0243942-1) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Public-Key-Infrastructure-Engineer_R0249387) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-07-08.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

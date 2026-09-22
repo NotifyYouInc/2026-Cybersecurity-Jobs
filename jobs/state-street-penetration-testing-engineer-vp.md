@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-23 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Penetration-Testing-Engineer--VP_R-792844) |
 
 ## About This Role
 
-This offensive security & pentesting position at State Street was posted on 2026-06-23.
+This cybersecurity engineer position at State Street was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
