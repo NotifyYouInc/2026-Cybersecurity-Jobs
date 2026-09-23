@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5970829004?gh_jid=5970829004) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004) |
 
 ## About This Role
 
-This security engineer position at GuidePoint Security was posted on 2026-04-15.
+This cybersecurity engineer position at GuidePoint Security was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

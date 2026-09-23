@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Later](https://scoutify.ai/companies/later?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 8 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/later/jobs/8626248002) |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/later/jobs/8807856002) |
 
 ## About This Role
 
-This security engineer position at Later was posted on 2026-07-09.
+This cybersecurity engineer position at Later was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

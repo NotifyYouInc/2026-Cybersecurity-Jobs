@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | United States |
+| Location | Farnborough, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cyber-Security-Engineer_R-00191478) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Cyber-Security-Engineer_R-00192149) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-09-04.
+This cybersecurity engineer position at Leidos was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

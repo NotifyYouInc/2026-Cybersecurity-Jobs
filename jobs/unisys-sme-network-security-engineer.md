@@ -1,16 +1,16 @@
-# SME- Network Security Engineer at Unisys
+# SME - Network Security Engineer at Unisys
 
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/SME--Network-Security-Engineer_REQ575426) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/SME---Network-Security-Engineer_REQ575742) |
 
 ## About This Role
 
-This cybersecurity engineer position at Unisys was posted on 2026-09-02.
+This cybersecurity engineer position at Unisys was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

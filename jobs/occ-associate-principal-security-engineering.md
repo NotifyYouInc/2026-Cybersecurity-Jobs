@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate-Principal--Security-Engineering_REQ-4667-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate-Principal--Security-Engineering_REQ-4827) |
 
 ## About This Role
 
-This security engineer position at OCC was posted on 2026-06-04.
+This cybersecurity engineer position at OCC was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Senior-IT-Security-Analyst_R0057432-2) |
+| Location | Pune, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-IT-Security-Analyst_R0059848) |
 
 ## About This Role
 
-This security engineer position at Wolters Kluwer was posted on 2026-06-02.
+This cybersecurity engineer position at Wolters Kluwer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

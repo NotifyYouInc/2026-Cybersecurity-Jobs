@@ -1,0 +1,22 @@
+# Ingénieur cybersécurité GRC confirmé F/H at Boulanger Electroménager & Multimédia
+
+| Field | Details |
+|-------|---------|
+| Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | Lesquin, Hauts-de-France, France |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000149603990-ingenieur-cybersecurite-grc-confirme-fh) |
+
+## About This Role
+
+This cybersecurity engineer position at Boulanger Electroménager & Multimédia was posted on 2026-09-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Advisor-I--Falcon-Complete-GovCloud--Remote-_R29329) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Advisor-I--Falcon-Complete-GovCloud--Remote-_R30072-1) |
 
 ## About This Role
 
-This security engineer position at CrowdStrike was posted on 2026-07-10.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

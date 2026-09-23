@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0134390-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0137864) |
 
 ## About This Role
 
-This security engineer position at PayPal was posted on 2026-04-06.
+This cybersecurity engineer position at PayPal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

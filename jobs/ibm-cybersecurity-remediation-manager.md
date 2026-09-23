@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Markham, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120527) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120534) |
 
 ## About This Role
 
-This engineering manager position at IBM was posted on 2026-06-19.
+This cybersecurity engineer position at IBM was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

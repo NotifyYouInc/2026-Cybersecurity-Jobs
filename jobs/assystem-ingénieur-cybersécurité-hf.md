@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Location | Pierrelatte, Rhône-Alpes, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147468425-ingenieur-cybersecurite-hf) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000149797280-ingenieur-cybersecurite-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Assystem was posted on 2026-09-04.
+This cybersecurity engineer position at Assystem was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Jessup, Maryland, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Target-Digital-Network-Analyst--TDNA--Level-2_8231) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Target-Digital-Network-Analyst--TDNA--Level-2_8762) |
 
 ## About This Role
 
-This it & systems administration position at AeroVironment was posted on 2026-07-23.
+This cybersecurity engineer position at AeroVironment was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

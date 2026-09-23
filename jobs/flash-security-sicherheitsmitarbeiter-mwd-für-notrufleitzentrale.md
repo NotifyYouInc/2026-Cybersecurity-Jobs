@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000147425562-sicherheitsmitarbeiter-mwd-fur-notrufleitzentrale) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000149781629-sicherheitsmitarbeiter-mwd-fur-notrufleitzentrale) |
 
 ## About This Role
 
-This cybersecurity engineer position at flash-security was posted on 2026-09-04.
+This cybersecurity engineer position at flash-security was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

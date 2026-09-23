@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430158/security-engineer-sdo-appsec) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544091/security-engineer-sdo-appsec) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-26.
+This cybersecurity engineer position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

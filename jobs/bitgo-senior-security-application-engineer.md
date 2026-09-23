@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8621427002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8811580002) |
 
 ## About This Role
 
-This security engineer position at BitGo was posted on 2026-07-06.
+This cybersecurity engineer position at BitGo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

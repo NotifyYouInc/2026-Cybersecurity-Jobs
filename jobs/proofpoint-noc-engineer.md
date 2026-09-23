@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Draper, Utah, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/NOC-Engineer_R13925) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Belfast-Northern-Ireland/NOC-Engineer_R14741) |
 
 ## About This Role
 
-This soc & incident response position at Proofpoint was posted on 2026-03-23.
+This cybersecurity engineer position at Proofpoint was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

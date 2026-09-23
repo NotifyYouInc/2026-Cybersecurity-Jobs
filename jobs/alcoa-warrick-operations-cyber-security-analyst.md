@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/US-PSB-Pittsburgh-Pennsylvania/Analyste-en-cyberscurit_Req-37854) |
+| Location | Székesfehérvár, Fejér, Hungary |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/Hungary-Szekesfehervar/Cyber-Security-Analyst_Req-39011) |
 
 ## About This Role
 
-This soc & incident response position at Alcoa Warrick Operations was posted on 2026-06-16.
+This cybersecurity engineer position at Alcoa Warrick Operations was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

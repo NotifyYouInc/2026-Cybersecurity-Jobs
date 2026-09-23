@@ -5,12 +5,12 @@
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Canada |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7819451003) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7994555003) |
 
 ## About This Role
 
-This cybersecurity engineer position at Affirm was posted on 2026-08-12.
+This cybersecurity engineer position at Affirm was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

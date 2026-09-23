@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5147841007?gh_jid=5147841007) |
 
 ## About This Role
 
-This security engineer position at Capital Technology Group was posted on 2026-06-18.
+This cybersecurity engineer position at Capital Technology Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

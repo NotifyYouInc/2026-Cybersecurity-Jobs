@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420505/sr-security-engineer-appsec-amazon-stores-security) |
+| Location | Seattle, Washington, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544098/sr-security-engineer-appsec-amazon-stores-security) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-14.
+This cybersecurity engineer position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

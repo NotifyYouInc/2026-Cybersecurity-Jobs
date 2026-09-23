@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4620612006) |
 
 ## About This Role
 
-This security engineer position at Pico was posted on 2026-06-05.
+This cybersecurity engineer position at Pico was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

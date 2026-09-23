@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---St-Louis-MO/Associate-Analyst--Falcon-Complete_R28679) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete_R30082) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-05-14.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

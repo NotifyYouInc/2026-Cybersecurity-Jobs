@@ -1,0 +1,22 @@
+# Senior Consultant, Human Threats at Coalfire
+
+| Field | Details |
+|-------|---------|
+| Company | [Coalfire](https://scoutify.ai/companies/coalfire?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.lever.co/coalfire/1ae9c15b-456d-4063-8d8d-50a502a4c4b6) |
+
+## About This Role
+
+This cybersecurity engineer position at Coalfire was posted on 2026-09-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -1,16 +1,16 @@
-# Configuration Assurance Specialist – Exposure Management at Philips
+# Configuration Assurance Specialist– Exposure Management at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Configuration-Assurance-Specialist---Exposure-Management_578968-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Configuration-Assurance-Specialist--Exposure-Management_591441-1) |
 
 ## About This Role
 
-This soc & incident response position at Philips was posted on 2026-03-24.
+This cybersecurity engineer position at Philips was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

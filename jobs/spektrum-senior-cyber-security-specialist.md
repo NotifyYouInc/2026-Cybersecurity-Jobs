@@ -1,16 +1,16 @@
-# Senior Cyber Security Specialist at Spektrum
+# Senior Cyber Security Specialist  at Spektrum
 
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Mons, Wallonia, Belgium |
+| Location | The Hague, South Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4975505101) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4976812101) |
 
 ## About This Role
 
-This cybersecurity engineer position at Spektrum was posted on 2026-09-14.
+This cybersecurity engineer position at Spektrum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

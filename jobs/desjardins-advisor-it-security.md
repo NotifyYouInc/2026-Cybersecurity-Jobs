@@ -1,16 +1,16 @@
-# Advisor, IT security at Desjardins
+# Advisor, IT Security at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-sectoriel--Gestion-des-vulnrabilits_R2611115-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Coordination-des-audits-TI_R2611279-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Desjardins was posted on 2026-09-08.
+This cybersecurity engineer position at Desjardins was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

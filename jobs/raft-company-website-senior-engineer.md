@@ -1,16 +1,16 @@
-# Senior Engineer  at Raft Company Website
+# Senior Engineer at Raft Company Website
 
 | Field | Details |
 |-------|---------|
 | Company | [Raft Company Website](https://scoutify.ai/companies/raft-company-website?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/6126724004) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/6191418004) |
 
 ## About This Role
 
-This cybersecurity engineer position at Raft Company Website was posted on 2026-07-28.
+This cybersecurity engineer position at Raft Company Website was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

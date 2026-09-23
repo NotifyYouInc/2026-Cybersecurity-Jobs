@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Security-Engineer_JREQ202763) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Security-Engineer_JREQ202805) |
 
 ## About This Role
 
-This cybersecurity engineer position at Thomson Reuters was posted on 2026-08-24.
+This cybersecurity engineer position at Thomson Reuters was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

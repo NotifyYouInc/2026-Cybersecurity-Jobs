@@ -6,7 +6,7 @@
 | Location | Noida, Uttar Pradesh, India |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/11073-Ameriprise-India---Noida---Embassy-Oxygen-Business-Park/Senior-Information-Security-Analyst_R26_2941-1) |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Senior-Information-Security-Analyst_R26_2297) |
 
 ## About This Role
 

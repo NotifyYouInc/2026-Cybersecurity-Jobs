@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Greece |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
+| Location | Thessaloníki, Central Macedonia, Greece |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Senior-Digital-Forensic-Analyst_4959350) |
 
 ## About This Role
 
-This security engineer position at Pfizer was posted on 2026-06-18.
+This cybersecurity engineer position at Pfizer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

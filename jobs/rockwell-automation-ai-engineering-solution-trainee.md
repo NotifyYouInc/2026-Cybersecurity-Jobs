@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-07-02 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI-Engineering-Solution-Trainee_R26-4227) |
 
 ## About This Role
 
-This offensive security & pentesting position at Rockwell Automation was posted on 2026-07-02.
+This cybersecurity engineer position at Rockwell Automation was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Software-Security-Compiler-Engineer_JR2023101) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Security-Compiler-Engineer_JR2025657) |
 
 ## About This Role
 
-This cybersecurity engineer position at Nvidia was posted on 2026-08-11.
+This cybersecurity engineer position at Nvidia was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
