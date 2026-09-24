@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Senior-Penetration-Tester--Cyber-Security--Vice-President_26984754) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Senior-Penetration-Tester--Cyber-Security--Vice-President_26995059) |
 
 ## About This Role
 
-This cybersecurity engineer position at Citigroup was posted on 2026-08-27.
+This cybersecurity engineer position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

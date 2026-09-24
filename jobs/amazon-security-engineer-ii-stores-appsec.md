@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | New York City, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10541154/security-engineer-ii-stores-appsec) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544096/security-engineer-ii-stores-appsec) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amazon was posted on 2026-09-15.
+This cybersecurity engineer position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

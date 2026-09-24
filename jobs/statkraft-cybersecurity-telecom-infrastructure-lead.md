@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Statkraft](https://scoutify.ai/companies/statkraft?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Security Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000139145399-cybersecurity-telecom-infrastructure-lead) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000149880589-cybersecurity-telecom-infrastructure-lead) |
 
 ## About This Role
 
-This security engineer position at Statkraft was posted on 2026-07-22.
+This cybersecurity engineer position at Statkraft was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

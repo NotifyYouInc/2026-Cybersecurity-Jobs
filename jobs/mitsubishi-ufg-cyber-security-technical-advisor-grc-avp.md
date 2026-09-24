@@ -1,16 +1,16 @@
-# Cyber Security Technical Advisor (GRC), AVP at Mitsubishi UFG
+# Cyber Security Technical Advisor (GRC) – AVP at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Jersey City, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-Jersey-Office---210-Hudson-Street/Cloud-Cyber-Security-Assessor_10073001-WD) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Cyber-Security-Technical-Advisor--GRC----AVP_10079015-WD-1) |
 
 ## About This Role
 
-This security engineer position at Mitsubishi UFG was posted on 2026-06-09.
+This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

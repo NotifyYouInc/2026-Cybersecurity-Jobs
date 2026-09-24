@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-06-29 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/CAA-Changi-Airport-Terminal-2/Assistant-Director--Cybersecurity-Services-_JR-10000052541) |
 
 ## About This Role
 
-This security engineer position at Economic Development Board was posted on 2026-06-29.
+This cybersecurity engineer position at Economic Development Board was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

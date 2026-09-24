@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | North Carolina, US |
+| Location | San Jose, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Incident-Manager_2021369) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Incident-Manager_2025479) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-08-11.
+This cybersecurity engineer position at Cisco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

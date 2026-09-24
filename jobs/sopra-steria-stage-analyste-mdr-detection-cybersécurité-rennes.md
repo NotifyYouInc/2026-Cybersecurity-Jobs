@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Cesson-Sévigné, Brittany, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147248678-stage-analyste-mdr-detection-cybersecurite-rennes) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149868168-stage-analyste-mdr-detection-cybersecurite-rennes) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-09-03.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

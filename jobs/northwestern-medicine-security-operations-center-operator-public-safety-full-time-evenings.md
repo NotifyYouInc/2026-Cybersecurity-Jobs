@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Palos Heights, Illinois, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000149442324-security-operations-center-operator-public-safety-full-time-evenings) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000149641375-security-operations-center-operator-public-safety-full-time-evenings) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northwestern Medicine was posted on 2026-09-14.
+This cybersecurity engineer position at Northwestern Medicine was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

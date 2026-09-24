@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-19 |
+| Location | Toronto, Ontario, Canada |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Penetration-Tester_R-0000176535-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Royal Bank of Canada was posted on 2026-06-19.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

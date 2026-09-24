@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anglicare Sydney](https://scoutify.ai/companies/anglicare-sydney?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Macquarie Park, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/Controls-and-Design-Assurance-Manager_JR7496) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/Controls-and-Design-Assurance-Manager_JR8150) |
 
 ## About This Role
 
-This security engineer position at Anglicare Sydney was posted on 2026-07-01.
+This cybersecurity engineer position at Anglicare Sydney was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

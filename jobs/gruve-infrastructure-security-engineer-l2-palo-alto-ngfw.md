@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5193531008) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5425687008) |
 
 ## About This Role
 
-This security engineer position at Gruve was posted on 2026-07-03.
+This cybersecurity engineer position at Gruve was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

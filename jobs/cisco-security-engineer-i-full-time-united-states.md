@@ -1,16 +1,16 @@
-# Security Engineer I (Full-Time) - United States at Cisco
+# Security Engineer I (Full Time) - United States at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Full-Time----United-States_2016255) |
+| Location | North Carolina, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Full-Time----United-States_2025883) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-18.
+This cybersecurity engineer position at Cisco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

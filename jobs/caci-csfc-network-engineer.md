@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | High Point, North Carolina, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Bragg-NC-US/CSfC-Network-Engineer_331997) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/CSfC-Network-Engineer_332192) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-09-14.
+This cybersecurity engineer position at CACI was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Luxembourg |
+| Location | Belgium |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149343361-senior-consultant-in-cybersecurity) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000150036970-senior-consultant-in-cybersecurity) |
 
 ## About This Role
 
-This cybersecurity engineer position at SIA was posted on 2026-09-14.
+This cybersecurity engineer position at SIA was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lantern](https://scoutify.ai/companies/employerdirecthealthcare?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5221447007) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5222559007) |
 
 ## About This Role
 
-This cybersecurity engineer position at Lantern was posted on 2026-08-26.
+This cybersecurity engineer position at Lantern was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

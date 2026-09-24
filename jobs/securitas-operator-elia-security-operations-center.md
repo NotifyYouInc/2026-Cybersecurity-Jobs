@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000143814455-operator-elia-security-operations-center) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000150056719-operator-elia-security-operations-center) |
 
 ## About This Role
 
-This soc & incident response position at Securitas was posted on 2026-08-17.
+This cybersecurity engineer position at Securitas was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116995) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131951) |
 
 ## About This Role
 
-This soc & incident response position at IBM was posted on 2026-06-10.
+This cybersecurity engineer position at IBM was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

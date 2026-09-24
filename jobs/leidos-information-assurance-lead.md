@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Information-Assurance-Lead_R-00184825) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Information-Assurance-Lead_R-00192399-1) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-04.
+This cybersecurity engineer position at Leidos was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
