@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Ohio, US |
+| Location | Arlington, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/TEMPEST-Engineer--Mid_R0248079) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/TEMPEST-Engineer--Mid_R0249695) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-09-11.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

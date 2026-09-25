@@ -1,16 +1,16 @@
-# Managing Engineer, Data Security Engineering at Allstate
+# Managing Engineer - Data Security Engineering at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Managing-Engineer--Cloud-Security-Engineering_R35165) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Managing-Engineer---Data-Security-Engineering_R35183) |
 
 ## About This Role
 
-This cybersecurity engineer position at Allstate was posted on 2026-09-16.
+This cybersecurity engineer position at Allstate was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

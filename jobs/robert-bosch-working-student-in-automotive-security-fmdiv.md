@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149653849-working-student-in-automotive-security-fmdiv) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149794345-working-student-in-automotive-security-fmdiv) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-09-15.
+This cybersecurity engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

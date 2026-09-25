@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 5 locations |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Principal-Red-Team-Operator_R-1095442) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Ashburn-Virginia/Principal-Red-Team-Operator_R-1100301-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Verizon was posted on 2026-05-21.
+This cybersecurity engineer position at Verizon was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

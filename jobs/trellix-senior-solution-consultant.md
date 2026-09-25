@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Japan-Tokyo/Senior-Solution-Consultant_JR0037442) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Senior-Solution-Consultant_JR0037916) |
 
 ## About This Role
 
-This cybersecurity engineer position at Trellix was posted on 2026-09-15.
+This cybersecurity engineer position at Trellix was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

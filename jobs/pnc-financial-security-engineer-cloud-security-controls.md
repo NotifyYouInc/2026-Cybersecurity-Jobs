@@ -1,16 +1,16 @@
-# Security Engineer  - Cloud Security Controls at PNC Financial
+# Security Engineer - Cloud Security Controls at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 6 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Strongsville-Technology-Center-OH537/Security-Engineer----Cloud-Security-Controls_R221565-2) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Security-Engineer---Cloud-Security-Controls_R236119-1) |
 
 ## About This Role
 
-This security engineer position at PNC Financial was posted on 2026-05-12.
+This cybersecurity engineer position at PNC Financial was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

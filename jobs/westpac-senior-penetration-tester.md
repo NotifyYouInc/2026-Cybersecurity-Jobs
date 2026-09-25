@@ -5,12 +5,12 @@
 | Company | [Westpac](https://scoutify.ai/companies/ap1-cx-oj118843?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#69566) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#71742) |
 
 ## About This Role
 
-This cybersecurity engineer position at Westpac was posted on 2026-07-29.
+This cybersecurity engineer position at Westpac was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

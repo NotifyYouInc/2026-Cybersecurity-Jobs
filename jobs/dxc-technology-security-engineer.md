@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Security-Engineer_51588262) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Security-Engineer_51589422) |
 
 ## About This Role
 
-This cybersecurity engineer position at DXC Technology was posted on 2026-09-01.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

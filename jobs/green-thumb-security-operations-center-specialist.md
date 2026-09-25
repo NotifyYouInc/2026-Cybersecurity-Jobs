@@ -5,12 +5,12 @@
 | Company | [Green Thumb](https://scoutify.ai/companies/green-thumb?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8122766) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8211570) |
 
 ## About This Role
 
-This cybersecurity engineer position at Green Thumb was posted on 2026-08-11.
+This cybersecurity engineer position at Green Thumb was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

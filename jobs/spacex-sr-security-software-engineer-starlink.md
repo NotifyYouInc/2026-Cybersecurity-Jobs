@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8624705002?gh_jid=8624705002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8815812002?gh_jid=8815812002) |
 
 ## About This Role
 
-This software engineer position at SpaceX was posted on 2026-07-09.
+This cybersecurity engineer position at SpaceX was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

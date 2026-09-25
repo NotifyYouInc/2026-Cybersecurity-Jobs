@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000147415751-soc-analist) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000150304081-soc-analist) |
 
 ## About This Role
 
-This cybersecurity engineer position at KPN was posted on 2026-09-04.
+This cybersecurity engineer position at KPN was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

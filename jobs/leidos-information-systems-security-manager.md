@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Concord, California, United States |
+| Location | San Diego, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Concord-MA/Information-Systems-Security-Manager_R-00188233) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Information-Systems-Security-Manager_R-00192437) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-04.
+This cybersecurity engineer position at Leidos was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

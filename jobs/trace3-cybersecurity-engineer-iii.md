@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/8072162) |
+| Location | Maryland, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/8212306) |
 
 ## About This Role
 
-This security engineer position at Trace3 was posted on 2026-07-17.
+This cybersecurity engineer position at Trace3 was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

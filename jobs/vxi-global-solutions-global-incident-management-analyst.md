@@ -1,16 +1,16 @@
-# Global Incident Management Analyst at VXI Global Solutions
+# Global Incident Management  Analyst at VXI Global Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [VXI Global Solutions](https://scoutify.ai/companies/vxi-global-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Quezon-City-Philippines/Global-Incident-Management-Analyst_R26_04190) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Quezon-City-Philippines/Global-Incident-Management--Analyst_R26_04398) |
 
 ## About This Role
 
-This cybersecurity engineer position at VXI Global Solutions was posted on 2026-09-08.
+This cybersecurity engineer position at VXI Global Solutions was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

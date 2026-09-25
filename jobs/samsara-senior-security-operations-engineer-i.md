@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Oregon, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 
 ## About This Role
 
-This cybersecurity engineer position at Samsara was posted on 2026-09-15.
+This cybersecurity engineer position at Samsara was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

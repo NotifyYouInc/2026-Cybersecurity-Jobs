@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ede, Osun State, Nigeria |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000149573004-technisch-network-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000150325059-technisch-network-engineer) |
 
 ## About This Role
 
-This cybersecurity engineer position at KPN was posted on 2026-09-15.
+This cybersecurity engineer position at KPN was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

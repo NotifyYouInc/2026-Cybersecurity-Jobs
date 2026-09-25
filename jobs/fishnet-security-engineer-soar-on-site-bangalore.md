@@ -1,16 +1,16 @@
-# Engineer - SOAR | On-Site, Bangalore at FishNet Security
+# Engineer - SOAR | On-Site, Bangalore. at FishNet Security
 
 | Field | Details |
 |-------|---------|
 | Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Karnataka, IN |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Engineer---SOAR---On-Site--Bangalore_2025-13256) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Bangalore-Karnataka/Engineer---SOAR---On-Site--Bangalore_2026-13917) |
 
 ## About This Role
 
-This soc & incident response position at FishNet Security was posted on 2026-03-13.
+This cybersecurity engineer position at FishNet Security was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

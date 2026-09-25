@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Penetration-Tester_JR-0000112488) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Penetration-Tester_JR-0000096898-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Barclays was posted on 2026-06-18.
+This cybersecurity engineer position at Barclays was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7975375003) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7997468003) |
 
 ## About This Role
 
-This cybersecurity engineer position at Dark Wolf Solutions was posted on 2026-08-28.
+This cybersecurity engineer position at Dark Wolf Solutions was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

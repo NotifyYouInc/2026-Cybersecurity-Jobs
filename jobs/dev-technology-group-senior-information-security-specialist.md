@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dev Technology Group](https://scoutify.ai/companies/devtechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Ashburn, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8485214002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8805719002) |
 
 ## About This Role
 
-This security engineer position at Dev Technology Group was posted on 2026-03-30.
+This cybersecurity engineer position at Dev Technology Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

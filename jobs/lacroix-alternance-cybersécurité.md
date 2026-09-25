@@ -5,12 +5,12 @@
 | Company | [LACROIX](https://scoutify.ai/companies/lacroix1?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LACROIX1/744000145296720-alternance-cybersecurite) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LACROIX1/744000150125459-alternance-cybersecurite) |
 
 ## About This Role
 
-This cybersecurity engineer position at LACROIX was posted on 2026-08-24.
+This cybersecurity engineer position at LACROIX was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4893261101?gh_jid=4893261101) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4975671101?gh_jid=4975671101) |
 
 ## About This Role
 
-This security engineer position at NiCE was posted on 2026-07-01.
+This cybersecurity engineer position at NiCE was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Security Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Sr-Analyst-III-Information-Security_51573057) |
+| Location | Pune, Maharashtra, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MH---PUNE/Sr-Analyst-III-Information-Security_51587489) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-02-18.
+This cybersecurity engineer position at DXC Technology was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

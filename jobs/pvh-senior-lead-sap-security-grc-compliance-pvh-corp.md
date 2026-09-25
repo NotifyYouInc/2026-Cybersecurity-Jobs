@@ -1,16 +1,16 @@
-# Senior Lead, SAP Security, GRC & Compliance- - PVH Corp. at PVH
+# Senior Lead, SAP Security, GRC & Compliance- PVH Corp. at PVH
 
 | Field | Details |
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bridgewater, New Jersey, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Bridgewater-NJ-Office/Senior-Lead--SAP-Security--GRC---Compliance----PVH-Corp_R59906) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Office-India/Senior-Lead--SAP-Security--GRC---Compliance--PVH-Corp_R62035) |
 
 ## About This Role
 
-This security engineer position at PVH was posted on 2026-06-18.
+This cybersecurity engineer position at PVH was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

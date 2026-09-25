@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Prague/Head-DDIT-ISC-Software-Development-Governance--Integrity---Secure-Software-Development-Life-Cycle--SDLC-_REQ-10087885) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Head-DDIT-ISC-Software-Development-Governance--Integrity---Secure-Software-Development-Life-Cycle--SDLC-_REQ-10086686) |
 
 ## About This Role
 
-This cybersecurity engineer position at Novartis was posted on 2026-09-15.
+This cybersecurity engineer position at Novartis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

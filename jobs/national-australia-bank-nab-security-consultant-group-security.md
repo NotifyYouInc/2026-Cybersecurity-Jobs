@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Security-Consultant---Group-Security_JR112968-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Security-Consultant---Group-Security_JR120158) |
 
 ## About This Role
 
-This cybersecurity engineer position at National Australia Bank (NAB) was posted on 2026-08-24.
+This cybersecurity engineer position at National Australia Bank (NAB) was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

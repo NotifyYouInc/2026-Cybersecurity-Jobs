@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015277276-senior-workforce-identity-access-analyst-ii) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015346115-senior-workforce-identity-access-analyst-ii) |
 
 ## About This Role
 
-This cybersecurity engineer position at The Nielsen Company was posted on 2026-09-15.
+This cybersecurity engineer position at The Nielsen Company was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

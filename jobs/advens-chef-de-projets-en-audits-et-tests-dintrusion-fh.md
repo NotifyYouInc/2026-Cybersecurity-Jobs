@@ -5,12 +5,12 @@
 | Company | [Advens](https://scoutify.ai/companies/advens?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000148956998-chef-de-projets-en-audits-et-tests-dintrusion-fh) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ADVENS/744000150315729-chef-de-projets-en-audits-et-tests-dintrusion-fh) |
 
 ## About This Role
 
-This cybersecurity engineer position at Advens was posted on 2026-09-11.
+This cybersecurity engineer position at Advens was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

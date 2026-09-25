@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Tech-Support-Practitioner_ATCI-5691167-S2059577-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Tech-Support-Practitioner_ATCI-5729196-S2069897) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-07-21.
+This cybersecurity engineer position at Accenture was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

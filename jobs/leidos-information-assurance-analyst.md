@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Hampton, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Information-Assurance-Analyst_R-00186264) |
+| Location | Alexandria, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Information-Assurance-Analyst_R-00192321) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-06-28.
+This cybersecurity engineer position at Leidos was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

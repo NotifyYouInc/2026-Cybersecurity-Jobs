@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Access-Management---Vice-President_R-794973) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Access-Management---Vice-President_R-797754) |
 
 ## About This Role
 
-This cybersecurity engineer position at State Street was posted on 2026-07-29.
+This cybersecurity engineer position at State Street was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Cybersecurity-Engineer_331511) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/Cybersecurity-Engineer_332261) |
 
 ## About This Role
 
-This cybersecurity engineer position at CACI was posted on 2026-09-02.
+This cybersecurity engineer position at CACI was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

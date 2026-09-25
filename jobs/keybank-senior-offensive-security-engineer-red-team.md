@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Offensive-Security-Engineer--Red-Team-_R-39650) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Offensive-Security-Engineer--Red-Team-_R-42180) |
 
 ## About This Role
 
-This offensive security & pentesting position at KeyBank was posted on 2026-05-27.
+This cybersecurity engineer position at KeyBank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
