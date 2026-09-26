@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | El Segundo, California, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000144183859-security-systems-coordinator) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150473219-security-systems-coordinator) |
 
 ## About This Role
 
-This it & systems administration position at Mattel was posted on 2026-08-19.
+This cybersecurity engineer position at Mattel was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

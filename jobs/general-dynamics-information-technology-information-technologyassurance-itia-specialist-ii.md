@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Information-Technology-Assurance--IT-IA--Specialist-II_RQ227707-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-San-Antonio/Information-Technology-Assurance--IT-IA--Specialist-II_RQ228789) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-02.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | San Jose, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Security-Engineer_2013302-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Security-Engineer_2024998) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-01.
+This cybersecurity engineer position at Cisco was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

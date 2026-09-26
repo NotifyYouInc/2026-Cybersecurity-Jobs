@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Harrogate, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Harrogate-Cambridgeshire/Signals-Analyst_R0247891) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Harrogate-Cambridgeshire/Signals-Analyst_R0249771) |
 
 ## About This Role
 
-This cybersecurity engineer position at Booz Allen was posted on 2026-08-26.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

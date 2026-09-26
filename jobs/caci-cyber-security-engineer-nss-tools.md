@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/1B7-ST-LOUIS-MO/Cyber-Security-Engineer---NSS-Tools_325567) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/St-Louis-MO-US/Cyber-Security-Engineer---NSS-Tools_332293) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-04-30.
+This cybersecurity engineer position at CACI was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

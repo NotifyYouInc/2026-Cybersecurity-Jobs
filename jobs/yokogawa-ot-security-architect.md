@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 2 locations |
+| Location | Amersfoort, Utrecht, The Netherlands |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bucharest/OT-Security-Architect_R-12454) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Amersfoort/OT-Security-Architect_R-12021-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Yokogawa was posted on 2026-09-03.
+This cybersecurity engineer position at Yokogawa was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

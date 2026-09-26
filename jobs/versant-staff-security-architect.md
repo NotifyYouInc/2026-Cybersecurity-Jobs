@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000147065729-staff-security-architect) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000150448639-staff-security-architect) |
 
 ## About This Role
 
-This cybersecurity engineer position at Versant was posted on 2026-09-02.
+This cybersecurity engineer position at Versant was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

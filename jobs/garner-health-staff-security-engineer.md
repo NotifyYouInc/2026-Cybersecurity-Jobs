@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/5820420004) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6200743004) |
 
 ## About This Role
 
-This security engineer position at Garner Health was posted on 2026-03-06.
+This cybersecurity engineer position at Garner Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

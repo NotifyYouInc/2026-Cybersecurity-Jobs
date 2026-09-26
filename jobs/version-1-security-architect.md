@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | 6 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130809404-security-architect) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000150411807-security-architect) |
 
 ## About This Role
 
-This security engineer position at Version 1 was posted on 2026-06-08.
+This cybersecurity engineer position at Version 1 was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Budapest, HU |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Application-Security-Architect_WD30279695) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Budapest-Hungary-Hungary/Application-Security-Architect_WD30280183) |
 
 ## About This Role
 
-This cybersecurity engineer position at Johnson Controls was posted on 2026-09-16.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146126369-ingenieur-cybersecurite-hf) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000150405269-ingenieur-cybersecurite-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Meritis was posted on 2026-08-28.
+This cybersecurity engineer position at Meritis was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

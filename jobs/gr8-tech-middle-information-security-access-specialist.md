@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GR8 Tech](https://scoutify.ai/companies/gr8-tech?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4902734101) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4976978101) |
 
 ## About This Role
 
-This security engineer position at GR8 Tech was posted on 2026-06-22.
+This cybersecurity engineer position at GR8 Tech was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prolaio](https://scoutify.ai/companies/prolaio?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/prolaio/jobs/5251462008) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/prolaio/jobs/5427895008) |
 
 ## About This Role
 
-This security engineer position at Prolaio was posted on 2026-06-09.
+This cybersecurity engineer position at Prolaio was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

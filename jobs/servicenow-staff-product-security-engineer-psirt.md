@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149660339-staff-product-security-engineer-psirt) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000150415361-staff-product-security-engineer-psirt) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-09-15.
+This cybersecurity engineer position at ServiceNow was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

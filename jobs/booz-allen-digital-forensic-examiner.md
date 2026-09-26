@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=cybersecurity-jobs) |
-| Location | Maryland, US |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Linthicum-Heights-MD/Digital-Forensic-Examiner_R0234738) |
+| Location | 2 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warrenton-OR/Digital-Forensic-Examiner_R0249734-1) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-02-26.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
